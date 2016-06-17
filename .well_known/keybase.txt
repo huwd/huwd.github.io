@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/huwdiprose
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://huwdiprose.co.uk
+  * I am huwdiprose (https://keybase.io/huwdiprose) on keybase.
+  * I have a public key with fingerprint B1E2 802C 2085 49C1 3AF5  BAC8 0EC9 5803 7469 F4A4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120dc27f5d16d7dd1503cf6a45739e618b9e5b97448d4dd2ea553af7e439fb24ba50a",
+            "fingerprint": "b1e2802c208549c13af5bac80ec958037469f4a4",
+            "host": "keybase.io",
+            "key_id": "0ec958037469f4a4",
+            "kid": "01017cb51b5a5e324959b226d1f9be90a3928f59913e22f36bcbb8fc8e7afffa79c60a",
+            "uid": "cda8c6db143d0482497dc3598e569819",
+            "username": "huwdiprose"
+        },
+        "revoke": {
+            "sig_ids": [
+                "8561ac075d737d77a803df836e2b8132def99e5fda7a42f3579aa9a3c4187ff40f"
+            ]
+        },
+        "service": {
+            "hostname": "huwdiprose.co.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466175634,
+    "expire_in": 157680000,
+    "prev": "d1a89194048a6941c8b9ea2f6eab579b787da3f8de0c6cbeef114818f6ae2f02",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMOuAnicZZJtUBVVGMcvotClQW4TSkoqreTkiMye3T27e+5FzPItUElnEM1bdHbP
+Wdmge2/3hXcULcXmOorGiA2iRjp9sEBzYhTfEEmjzEJDpyJwnCnJqcSUBmfgTmcp
+P7lfds7Z//N7/s9/n874aFtc1MSuNdFB88GhqG/OD4dsecSxu4LTvKSMc1ZwhXTs
+RYsIDQTzC03COTkeCDzRBcWABMhEIQRAXtQNGUtQERGVgaohCjWkSJJKJEIEiiEU
+saFQSUSGJkgahjzm0jjD9Kynfp/f9AQZVgNUUHlBF3gVSkgHrAJqWFd5qiOo8qIi
+yciQsMQKC7wBq4KZ03CApptedscO+f/Ze1z/yDcPFF2DQIMYUlGQEESaIMgEGEij
+iMciElQDIgREKgiGKGu6pqmGrlIFG4aBFaTLY75DYzidYFWXiQYkkfCSynAK0UWI
+VAplpAJkCQPU78FvU6YuCJUQ0+f3BihXlcb5abG3kFrJBsz1zHaAc67jVCgDrPMK
+JIqoEEXBbAhiqKJMBU0FokCogViwBsEKlpg/qCCMERZ1CaiKYUi8wb3O2KxnsamP
+wa2cHuufrnvTQ4XMHTsFvbq3yPoaDPqclrFgmc9Sl1At/39OvmZ6CPtRrKCY+gOm
+18M5AVPqQdMCA0mWgQJlUUrjaKnP9NN801JARVZ59lhtaDFDEoBVBJDEosIykoBu
+bQkWDJlijU2iKapCsGiohPK6rGuUGgBIKlDZXlHB4AXOmuwdj5dzqswmXs+QLDsP
+Dob8LNKO8+7xtqg4W8yEcdYC2+Lsjkdr/Sxy2A60j5ZHzu7dmL3s8J2uzu7+00tS
+zNR91B82+qYpo6vT3v/qTMbn1yO7cts3LJYCJ8yu3uQnlvXgQCZYGulfN+ulq8kf
+RYk+28nScT2N2w4fX3tUSv45dfbOzgvLL/aNvrV8QVliguup7VtKrs2U3svNruYq
+vFcSL9ZocyrtDWbMrZQDGaVHJ3XMrx6O+aF2x/ihtvBz9fM2HamxX6r965WkZvu3
+Ta7JG2EO7Z67bcQV+d6WE5PlaM6p7dl1zD7jzhstN1t/P5K6eGDj9khD1amWqUnp
+56Lvf7A2tG8o2xapvVryzA7/kg3/pHYlhBo35d13/QbOVHx3yL8KfeFqGQiX9r5Z
+XXh6Ubj5S9fCpIm0cs+xr89OuW2+WvH3k/ubL5uj9smrL/fV7P6jobUmdQ4KVm1u
+v5e15m6ePWNpdOrTcv0VR529fN2tkd60+Phhx2dJld3NDx3b4d3BgZPl3St+bbN3
+5/7EbXUMZSxZ4H55YHroZuLgL1v2V/k2tw6IvVtHxlfFgobb72YOxT9v648rSxbm
+njInxc12j1yvC89svIYzUUpD9tXatoOzzh2PbZdXddRnvjA5oaPu01h3+ZTg9Pl6
+7soVgc5F4QMfwpFPhqf2+Zt2FsyITHvgKFnYWnQjub8tkD0P9Rzk3bEr3Rcu1a68
+ceLPF/eWFk34cTBrUtvhPbtTmg4+/Pi1e7d2/QtKMNZf
+=vEKq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/huwdiprose
+
+==================================================================
