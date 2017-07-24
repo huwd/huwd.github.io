@@ -6,72 +6,46 @@ I hereby claim:
 
   * I am an admin of http://huwdiprose.co.uk
   * I am huwdiprose (https://keybase.io/huwdiprose) on keybase.
-  * I have a public key with fingerprint B1E2 802C 2085 49C1 3AF5  BAC8 0EC9 5803 7469 F4A4
+  * I have a public key ASBdpeD3AEXrvGeRfe_AF0bUKo2wOVA4RF06sNAXo2fHkwo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0120dc27f5d16d7dd1503cf6a45739e618b9e5b97448d4dd2ea553af7e439fb24ba50a",
-            "fingerprint": "b1e2802c208549c13af5bac80ec958037469f4a4",
-            "host": "keybase.io",
-            "key_id": "0ec958037469f4a4",
-            "kid": "01017cb51b5a5e324959b226d1f9be90a3928f59913e22f36bcbb8fc8e7afffa79c60a",
-            "uid": "cda8c6db143d0482497dc3598e569819",
-            "username": "huwdiprose"
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;01205da5e0f70045ebbc67917defc01746d42a8db0395038445d3ab0d017a367c7930a&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;kid&quot;: &quot;01205da5e0f70045ebbc67917defc01746d42a8db0395038445d3ab0d017a367c7930a&quot;,
+            &quot;uid&quot;: &quot;cda8c6db143d0482497dc3598e569819&quot;,
+            &quot;username&quot;: &quot;huwdiprose&quot;
         },
-        "revoke": {
-            "sig_ids": [
-                "8561ac075d737d77a803df836e2b8132def99e5fda7a42f3579aa9a3c4187ff40f"
-            ]
+        &quot;merkle_root&quot;: {
+            &quot;ctime&quot;: 1500938394,
+            &quot;hash&quot;: &quot;f953467f89103d435ac56e7296c96a55cc815d0de92c98cee90daf4e39ee51ab4d0d4c10cf5fee5744aa7012ad4216213eeae0eaa25a111b323f05a60174b561&quot;,
+            &quot;hash_meta&quot;: &quot;e2a62689ae8ea3cf4dcb72b144e965b71327b34ca14181cbf411bf30fe8dbd26&quot;,
+            &quot;seqno&quot;: 1277585
         },
-        "service": {
-            "hostname": "huwdiprose.co.uk",
-            "protocol": "http:"
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;huwdiprose.co.uk&quot;,
+            &quot;protocol&quot;: &quot;http:&quot;
         },
-        "type": "web_service_binding",
-        "version": 1
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
     },
-    "ctime": 1466175634,
-    "expire_in": 157680000,
-    "prev": "d1a89194048a6941c8b9ea2f6eab579b787da3f8de0c6cbeef114818f6ae2f02",
-    "seqno": 8,
-    "tag": "signature"
+    &quot;client&quot;: {
+        &quot;name&quot;: &quot;keybase.io go client&quot;,
+        &quot;version&quot;: &quot;1.0.26&quot;
+    },
+    &quot;ctime&quot;: 1500938403,
+    &quot;expire_in&quot;: 504576000,
+    &quot;prev&quot;: &quot;8960cb9dce3dd18b8e09af9f84f0ea054bf71835bfbf6c4d66cc6dc6b271eeec&quot;,
+    &quot;seqno&quot;: 22,
+    &quot;tag&quot;: &quot;signature&quot;
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.53
-Comment: https://keybase.io/crypto
-
-yMOuAnicZZJtUBVVGMcvotClQW4TSkoqreTkiMye3T27e+5FzPItUElnEM1bdHbP
-Wdmge2/3hXcULcXmOorGiA2iRjp9sEBzYhTfEEmjzEJDpyJwnCnJqcSUBmfgTmcp
-P7lfds7Z//N7/s9/n874aFtc1MSuNdFB88GhqG/OD4dsecSxu4LTvKSMc1ZwhXTs
-RYsIDQTzC03COTkeCDzRBcWABMhEIQRAXtQNGUtQERGVgaohCjWkSJJKJEIEiiEU
-saFQSUSGJkgahjzm0jjD9Kynfp/f9AQZVgNUUHlBF3gVSkgHrAJqWFd5qiOo8qIi
-yciQsMQKC7wBq4KZ03CApptedscO+f/Ze1z/yDcPFF2DQIMYUlGQEESaIMgEGEij
-iMciElQDIgREKgiGKGu6pqmGrlIFG4aBFaTLY75DYzidYFWXiQYkkfCSynAK0UWI
-VAplpAJkCQPU78FvU6YuCJUQ0+f3BihXlcb5abG3kFrJBsz1zHaAc67jVCgDrPMK
-JIqoEEXBbAhiqKJMBU0FokCogViwBsEKlpg/qCCMERZ1CaiKYUi8wb3O2KxnsamP
-wa2cHuufrnvTQ4XMHTsFvbq3yPoaDPqclrFgmc9Sl1At/39OvmZ6CPtRrKCY+gOm
-18M5AVPqQdMCA0mWgQJlUUrjaKnP9NN801JARVZ59lhtaDFDEoBVBJDEosIykoBu
-bQkWDJlijU2iKapCsGiohPK6rGuUGgBIKlDZXlHB4AXOmuwdj5dzqswmXs+QLDsP
-Dob8LNKO8+7xtqg4W8yEcdYC2+Lsjkdr/Sxy2A60j5ZHzu7dmL3s8J2uzu7+00tS
-zNR91B82+qYpo6vT3v/qTMbn1yO7cts3LJYCJ8yu3uQnlvXgQCZYGulfN+ulq8kf
-RYk+28nScT2N2w4fX3tUSv45dfbOzgvLL/aNvrV8QVliguup7VtKrs2U3svNruYq
-vFcSL9ZocyrtDWbMrZQDGaVHJ3XMrx6O+aF2x/ihtvBz9fM2HamxX6r965WkZvu3
-Ta7JG2EO7Z67bcQV+d6WE5PlaM6p7dl1zD7jzhstN1t/P5K6eGDj9khD1amWqUnp
-56Lvf7A2tG8o2xapvVryzA7/kg3/pHYlhBo35d13/QbOVHx3yL8KfeFqGQiX9r5Z
-XXh6Ubj5S9fCpIm0cs+xr89OuW2+WvH3k/ubL5uj9smrL/fV7P6jobUmdQ4KVm1u
-v5e15m6ePWNpdOrTcv0VR529fN2tkd60+Phhx2dJld3NDx3b4d3BgZPl3St+bbN3
-5/7EbXUMZSxZ4H55YHroZuLgL1v2V/k2tw6IvVtHxlfFgobb72YOxT9v648rSxbm
-njInxc12j1yvC89svIYzUUpD9tXatoOzzh2PbZdXddRnvjA5oaPu01h3+ZTg9Pl6
-7soVgc5F4QMfwpFPhqf2+Zt2FsyITHvgKFnYWnQjub8tkD0P9Rzk3bEr3Rcu1a68
-ceLPF/eWFk34cTBrUtvhPbtTmg4+/Pi1e7d2/QtKMNZf
-=vEKq
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXaXg9wBF67xnkX3vwBdG1CqNsDlQOERdOrDQF6Nnx5MKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWRhNWUwZjcwMDQ1ZWJiYzY3OTE3ZGVmYzAxNzQ2ZDQyYThkYjAzOTUwMzg0NDVkM2FiMGQwMTdhMzY3Yzc5MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWRhNWUwZjcwMDQ1ZWJiYzY3OTE3ZGVmYzAxNzQ2ZDQyYThkYjAzOTUwMzg0NDVkM2FiMGQwMTdhMzY3Yzc5MzBhIiwidWlkIjoiY2RhOGM2ZGIxNDNkMDQ4MjQ5N2RjMzU5OGU1Njk4MTkiLCJ1c2VybmFtZSI6Imh1d2RpcHJvc2UifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDA5MzgzOTQsImhhc2giOiJmOTUzNDY3Zjg5MTAzZDQzNWFjNTZlNzI5NmM5NmE1NWNjODE1ZDBkZTkyYzk4Y2VlOTBkYWY0ZTM5ZWU1MWFiNGQwZDRjMTBjZjVmZWU1NzQ0YWE3MDEyYWQ0MjE2MjEzZWVhZTBlYWEyNWExMTFiMzIzZjA1YTYwMTc0YjU2MSIsImhhc2hfbWV0YSI6ImUyYTYyNjg5YWU4ZWEzY2Y0ZGNiNzJiMTQ0ZTk2NWI3MTMyN2IzNGNhMTQxODFjYmY0MTFiZjMwZmU4ZGJkMjYiLCJzZXFubyI6MTI3NzU4NX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJodXdkaXByb3NlLmNvLnVrIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNiJ9LCJjdGltZSI6MTUwMDkzODQwMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI4OTYwY2I5ZGNlM2RkMThiOGUwOWFmOWY4NGYwZWEwNTRiZjcxODM1YmZiZjZjNGQ2NmNjNmRjNmIyNzFlZWVjIiwic2Vxbm8iOjIyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMboLaljHO7ZLHNdU1kX8ZQR1pLs79SPyBWmpT+Q1tZroCrvpdvzGQ88KQnNGxGr1of+Ki7rDY9TGkrkM7xDTQ+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDzF7PFqFwDdErIuE2SNixDpTm+00AC9rPpY3QZtfjzPKN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
