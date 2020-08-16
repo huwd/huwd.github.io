@@ -10,6 +10,7 @@ twitter_username: huwdiprose
 github_username:  huwd
 
 # Build settings
+theme: frogmore
 markdown: kramdown
 
 #Customisation
