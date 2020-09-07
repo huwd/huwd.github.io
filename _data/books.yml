@@ -1,0 +1,226 @@
+- title: Lovecraft Country
+  author:
+    - Matt Ruff
+  rating:
+    goodreads_average: 4.06
+    amazon_average: ""
+  year_published: "2016"
+  date_published: ""
+  date_started: ""
+  date_added: "2020-09-07"
+  format:
+    type: Audiobook
+    narrator:
+      - "Kevin Kenerly"
+    aisn: "B07GNNDGPM"
+    publisher: Macmillan Digital Audio
+    version: Unabridged
+    language: English
+    listening_length: "12 hours and 13 minutes"
+    year_released: "2019"
+    date_released: "2019-02-07"
+    date_purchased: ""
+
+- title: Vesper Flights
+  full_title: Vesper Flights
+  author:
+    - Helen Macdonald
+  rating:
+    mine: 5
+    goodreads_average: 4.26
+    amazon_average: ""
+  year_published: "2020"
+  date_published: "2020-08-27"
+  date_started: ""
+  date_read: "2020-09-05"
+  date_added: "2020-09-07"
+  format:
+    type: Audiobook
+    narrator:
+      - Helen Macdonald
+    aisn: "B083QKYKGF"
+    version: Unabridged
+    publisher: Penguin Audio
+    language: English
+    listening_length: "10 hours and 23 minutes"
+    year_released: "2019"
+    date_released: "2019-02-07"
+    date_purchased: ""
+
+- title: MaddAddam
+  serise: MaddAddam Trilogy
+  serise_entry: Book 3
+  author:
+    - Margaret Atwood
+  rating:
+    mine: 4
+    goodreads_average: 4.00
+    date_started: ""
+    date_read: "2020-08-31"
+  date_added: "2020-09-07"
+  amazon_average: ""
+  year_published: "2013"
+  date_published: ""
+  format:
+    type: Audiobook
+    narrator:
+      - "Bernadette Dunne"
+      - "Bob Walter"
+      - "Robbie Daymond"
+    aisn: "B00JV4CBY4"
+    publisher: Bolinda Publishing Pty Ltd
+    version: Unabridged Audiobook
+    language: English
+    listening_length: "13 hours and 21 minutes"
+    year_released: "2014"
+    date_released: "2014-06-01"
+    date_purchased: "2020-08-19"
+
+- title: The Year of the Flood
+  serise: MaddAddam Trilogy
+  serise_entry: Book 2
+  author:
+    - Margaret Atwood
+  rating:
+    mine: 4
+    goodreads_average: 4.06
+    amazon_average: ""
+  year_published: "2009"
+  date_published: ""
+  date_started: ""
+  date_read: "2020-08-29"
+  date_added: "2020-09-07"
+  format:
+    type: Audiobook
+    narrator:
+      - Lorelei King
+    aisn: B004FTII2O
+    publisher: Doubleday Nan A. Talese
+    version: Unabridged Audiobook
+    language: English
+    listening_length: "12 hours and 46 minutes"
+    year_released: "2019"
+    date_released: "2019-02-07"
+    date_purchased: "2020-08-20"
+
+- title: Wuhan Diary
+  full_title: "Wuhan Diary: Dispatches from the Original Epicenter"
+  author:
+    - Fang Fang
+    - Michael Berry (translator)
+  rating:
+    mine: 4
+    goodreads_average: 3.56
+    amazon_average: 3.3
+  year_published: "2020"
+  date_published: "2020-05-26"
+  date_started: ""
+  date_read: "2020-08-29"
+  date_added: "2020-09-07"
+  format:
+    type: Audiobook
+    narrator:
+      - Emily Woo Zeller
+    aisn: B087RQ8LYP
+    publisher: HarperCollins
+    version: Unabridged
+    language: English
+    listening_length: 14 hours and 7 minutes
+    year_released: "2020"
+    date_released: "2020-05-26"
+    date_purchased: "2020-08-18"
+
+- title: Zita the Spacegirl
+  serise: Zita the Spacegirl
+  serise_entry: Book 1
+  author:
+    - Ben Hatke
+  rating:
+    mine: 5
+    goodreads_average: 4.08
+    amazon_average: ""
+  year_published: "2011"
+  date_published: "2011-02-04"
+  date_started: ""
+  date_added: ""
+  format:
+    type: Paperback
+    aisn: "1596434465"
+    isbn: "9781596434462"
+    isbn_13: "978-1596434462"
+    publisher: First Second
+    language: English
+    pages: 192
+    date_purchased: "2020-06-16"
+
+- title: Will Save the Galaxy for Food
+  serise: Jacques McKeown
+  serise_entry: Book 1
+  author:
+    - Yahtzee Croshaw
+  rating:
+    mine: 3
+    goodreads_average: 3.91
+    amazon_average: 4.5
+  year_published: "2017"
+  date_published: ""
+  date_started: ""
+  date_read: "2020-07-25"
+  date_added: "2020-09-07"
+  format:
+    type: Audiobook
+    narrator:
+      - Yahtzee Croshaw
+    aisn: B06WLGX93W
+    publisher: Audible Studios
+    version: Unabridged
+    language: English
+    listening_length: 10 hours and 20 minutes
+    year_released: "2017"
+    date_released: "2017-02-14"
+    date_purchased: "2020-06-20"
+
+- title: MaddAddam
+
+- title: Greetings from Bury Park
+
+- title: The Collapsing Empire
+  serise: The Interdependency
+  serise_entry: Book 1
+
+- title: Ancillary Mercy
+  serise: The Imperial Radch series
+  serise_entry: Book 3
+
+- title: The Consuming Fire
+  serise: The Interdependency
+  serise_entry: Book 2
+
+- title: The Remains of the Day
+
+- title: Ancillary Sword
+  serise: The Imperial Radch series
+  serise_entry: Book 2
+
+- title: Ancillary Justice
+  serise: The Imperial Radch series
+  serise_entry: Book 1
+
+- title: The Good Immigrant
+
+- title: Oryx and Crake
+  serise: MaddAddam Trilogy
+  serise_entry: Book 1
+
+- title: "Why I'm No Longer Talking to White People About Race"
+
+- title: The Long Way to a Small, Angry Planet
+  serise: Wayfarers
+  serise_entry: Book 1
+
+- title: Wolf Hall
+
+- title: Educated
+
+- title: Something Deeply Hidden
+  full_title: "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime"
