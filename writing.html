@@ -1,0 +1,18 @@
+---
+layout: listing
+title: Writing
+permalink: /
+---
+
+{% for post in site.posts %}
+  <span>
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </span>
+  <span></span>
+  <span></span>
+  <time datetime=" {{ post.date | date_to_xmlschema }}">
+    {{ post.date | date: "%Y-%m-%d" }}
+  </time>
+{% endfor %}

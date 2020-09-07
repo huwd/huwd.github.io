@@ -1,0 +1,17 @@
+---
+layout: listing
+title: Listening
+---
+
+{% for podcast in site.podcasts %}
+<span>
+  <a href="{{ site.baseurl }}{{ podcast.url }}">
+    {{ podcast.title }}
+  </a>
+</span>
+<span></span>
+<span></span>
+<time datetime=" {{ podcast.date | date_to_xmlschema }}">
+  {{ post.date | date: "%Y-%m-%d" }}
+</time>
+{% endfor %}
