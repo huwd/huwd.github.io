@@ -11,7 +11,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.13.1)
     forwardable-extended (2.6.0)
-    frogmore (0.1.0)
+    frogmore (0.2.0)
       jekyll (~> 4.1)
       jekyll-paginate (~> 1.1.0)
       jekyll-seo-tag (~> 2.6.1)
@@ -71,7 +71,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  frogmore (~> 0.1.0)
+  frogmore (~> 0.2.0)
   jekyll (~> 4.1.1)
 
 BUNDLED WITH

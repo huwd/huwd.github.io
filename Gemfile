@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.1.1"
-gem 'frogmore', '~> 0.1.0'
+gem 'frogmore', '~> 0.2.0'
