@@ -1,18 +1,18 @@
 ---
 layout: listing
-title: Writing
+title: Things I've written
 permalink: /
 ---
 
-{% for post in site.posts %}
-  <span>
-    <a href="{{ site.baseurl }}{{ post.url }}">
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a class="title" href="{{ site.baseurl }}{{ post.url }}">
       {{ post.title }}
     </a>
-  </span>
-  <span></span>
-  <span></span>
-  <time datetime=" {{ post.date | date_to_xmlschema }}">
-    {{ post.date | date: "%Y-%m-%d" }}
-  </time>
-{% endfor %}
+    <time datetime="{{ post.date | date_to_xmlschema }}">
+      {{ post.date | date: "%Y-%m-%d" }}
+    </time>
+  </li>
+  {% endfor %}
+</ul
