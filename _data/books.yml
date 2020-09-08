@@ -2,8 +2,7 @@
   author:
     - Matt Ruff
   rating:
-    goodreads_average: 4.06
-    amazon_average: ""
+    mine: 4
   year_published: "2016"
   date_published: ""
   date_started: ""
@@ -27,8 +26,6 @@
     - Helen Macdonald
   rating:
     mine: 5
-    goodreads_average: 4.26
-    amazon_average: ""
   year_published: "2020"
   date_published: "2020-08-27"
   date_started: ""
@@ -54,9 +51,7 @@
     - Margaret Atwood
   rating:
     mine: 4
-    goodreads_average: 4.00
-    date_started: ""
-    date_read: "2020-08-31"
+  date_finished: "2020-08-31"
   date_added: "2020-09-07"
   amazon_average: ""
   year_published: "2013"
@@ -83,8 +78,6 @@
     - Margaret Atwood
   rating:
     mine: 4
-    goodreads_average: 4.06
-    amazon_average: ""
   year_published: "2009"
   date_published: ""
   date_started: ""
@@ -110,7 +103,6 @@
     - Michael Berry (translator)
   rating:
     mine: 4
-    goodreads_average: 3.56
     amazon_average: 3.3
   year_published: "2020"
   date_published: "2020-05-26"
@@ -137,8 +129,6 @@
     - Ben Hatke
   rating:
     mine: 5
-    goodreads_average: 4.08
-    amazon_average: ""
   year_published: "2011"
   date_published: "2011-02-04"
   date_started: ""
@@ -160,8 +150,6 @@
     - Yahtzee Croshaw
   rating:
     mine: 3
-    goodreads_average: 3.91
-    amazon_average: 4.5
   year_published: "2017"
   date_published: ""
   date_started: ""
