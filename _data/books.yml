@@ -5,21 +5,22 @@
   rating:
     mine: 4
   year_published: "2016"
-  date_published: ""
-  date_started: ""
+  date_published: "2016-02-16"
+  date_started: "2020-09-05"
+  date_finished: "2020-09-08"
   date_added: "2020-09-07"
   format:
     type: Audiobook
     narrator:
-      - "Kevin Kenerly"
-    aisn: "B07GNNDGPM"
+      - Kevin Kenerly
+    aisn: B07GNNDGPM
     publisher: Macmillan Digital Audio
     version: Unabridged
     language: English
-    listening_length: "12 hours and 13 minutes"
+    listening_length: 12 hours and 13 minutes
     year_released: "2019"
     date_released: "2019-02-07"
-    date_purchased: ""
+    date_purchased: "2020-08-17"
 
 - title: Vesper Flights
   full_title: Vesper Flights
@@ -29,21 +30,21 @@
     mine: 5
   year_published: "2020"
   date_published: "2020-08-27"
-  date_started: ""
-  date_read: "2020-09-05"
+  date_started: "2020-08-28"
+  date_finished: "2020-09-05"
   date_added: "2020-09-07"
   format:
     type: Audiobook
     narrator:
       - Helen Macdonald
-    aisn: "B083QKYKGF"
+    aisn: B083QKYKGF
     version: Unabridged
     publisher: Penguin Audio
     language: English
-    listening_length: "10 hours and 23 minutes"
-    year_released: "2019"
-    date_released: "2019-02-07"
-    date_purchased: ""
+    listening_length: 10 hours and 23 minutes
+    year_released: "2020"
+    date_released: "2020-08-27"
+    date_purchased: "2020-08-26"
 
 - title: MaddAddam
   serise: MaddAddam Trilogy
@@ -52,6 +53,7 @@
     - Margaret Atwood
   rating:
     mine: 4
+  date_started: "2020-08-29"
   date_finished: "2020-08-31"
   date_added: "2020-09-07"
   amazon_average: ""
@@ -60,14 +62,14 @@
   format:
     type: Audiobook
     narrator:
-      - "Bernadette Dunne"
-      - "Bob Walter"
-      - "Robbie Daymond"
-    aisn: "B00JV4CBY4"
+      - Bernadette Dunne
+      - Bob Walter
+      - Robbie Daymond
+    aisn: B00JV4CBY4
     publisher: Bolinda Publishing Pty Ltd
     version: Unabridged Audiobook
     language: English
-    listening_length: "13 hours and 21 minutes"
+    listening_length: 13 hours and 21 minutes
     year_released: "2014"
     date_released: "2014-06-01"
     date_purchased: "2020-08-19"
@@ -80,9 +82,9 @@
   rating:
     mine: 4
   year_published: "2009"
-  date_published: ""
-  date_started: ""
-  date_read: "2020-08-29"
+  date_published: "2009-09-07"
+  date_started: "2020-08-25"
+  date_finished: "2020-08-29"
   date_added: "2020-09-07"
   format:
     type: Audiobook
@@ -92,10 +94,10 @@
     publisher: Doubleday Nan A. Talese
     version: Unabridged Audiobook
     language: English
-    listening_length: "12 hours and 46 minutes"
+    listening_length: 12 hours and 46 minutes
     year_released: "2019"
     date_released: "2019-02-07"
-    date_purchased: "2020-08-20"
+    date_purchased: "2020-08-19"
 
 - title: Wuhan Diary
   full_title: "Wuhan Diary: Dispatches from the Original Epicenter"
@@ -107,8 +109,8 @@
     amazon_average: 3.3
   year_published: "2020"
   date_published: "2020-05-26"
-  date_started: ""
-  date_read: "2020-08-29"
+  date_started: "2020-08-20"
+  date_finished: "2020-08-29"
   date_added: "2020-09-07"
   format:
     type: Audiobook
@@ -132,13 +134,14 @@
     mine: 5
   year_published: "2011"
   date_published: "2011-02-04"
-  date_started: ""
-  date_added: ""
+  date_started: "2020-07-25"
+  date_finished: "2020-07-25"
+  date_added: "2020-09-07"
   format:
     type: Paperback
     aisn: "1596434465"
     isbn: "9781596434462"
-    isbn_13: "978-1596434462"
+    isbn13: "978-1596434462"
     publisher: First Second
     language: English
     pages: 192
@@ -152,9 +155,9 @@
   rating:
     mine: 3
   year_published: "2017"
-  date_published: ""
-  date_started: ""
-  date_read: "2020-07-25"
+  date_published: "2017-02-23"
+  date_started:
+  date_finished: "2020-07-25"
   date_added: "2020-09-07"
   format:
     type: Audiobook
@@ -169,47 +172,367 @@
     date_released: "2017-02-14"
     date_purchased: "2020-06-20"
 
-- title: MaddAddam
-
 - title: Greetings from Bury Park
+  author:
+    - Sarfraz Manzoor
+  rating:
+    mine: 4
+  year_origionaly_published: "2008"
+  date_origionaly_published: "2008-06-16"
+  year_published: "2019"
+  date_published: "2019-07-04"
+  date_started: ""
+  date_finished: "2020-08-18"
+  format:
+    type: Audiobook
+    narrator:
+      - Sarfraz Manzoor
+    aisn: B07TS4ZDLL
+    publisher: Whole Story Audio
+    version: Unabridged
+    language: English
+    listening_length: 7 hours and 22 minutes
+    year_released: "2019"
+    date_released: "2019-07-04"
+    date_purchased: "2020-08-11"
 
 - title: The Collapsing Empire
   serise: The Interdependency
   serise_entry: Book 1
+  author:
+    - John Scalzi
+  rating:
+    mine: 2
+  year_published: "2017"
+  date_published: "2017-03-21"
+  date_started: ""
+  date_finished: "2020-08-16"
+  format:
+    type: Audiobook
+    narrator:
+      - Wil Wheaton
+    aisn: B01L2PHDVA
+    publisher: Audible Studios
+    version: Unabridged
+    language: English
+    listening_length: 7 hours and 22 minutes
+    year_released: "2017"
+    date_releaed: "2017-03-21"
+    date_purchased: "2020-06-30"
 
 - title: Ancillary Mercy
   serise: The Imperial Radch series
   serise_entry: Book 3
+  author:
+    - Ann Leckie
+  rating:
+    mine:
+  year_published:
+  date_published:
+  date_started:
+  date_finished:
+  format:
+    type: Audiobook
+    narrator:
+      - Adjoa Andoh
+    aisn: B014TE8M3E
+    publisher: Hachette Audio UK
+    version: Unabridged
+    language: English
+    listening_length: 10 hours and 53 minutes
+    year_released:
+    date_releaed:
+    date_purchased:
 
 - title: The Consuming Fire
   serise: The Interdependency
   serise_entry: Book 2
+  author:
+    - John Scalzi
+  rating:
+    mine: 3
+  year_published: "2018"
+  date_published: "2018-09-16"
+  date_started:
+  date_finished: "2020-08-11"
+  format:
+    type: Audiobook
+    narrator:
+      - Wil Wheaton
+    aisn: B07HNM8X4Y
+    publisher: Audible Studios
+    version: Unabridged
+    language: English
+    listening_length: 8 hours and 19 minutes
+    year_released: "2018"
+    date_releaed: "2018-10-16"
+    date_purchased: "2020-06-30"
 
 - title: The Remains of the Day
+  author:
+    - Kazuo Ishiguro
+  rating:
+    mine: 4
+  year_published: "1989"
+  date_published: "1989-05-01"
+  date_started:
+  date_finished: "2020-07-05"
+  format:
+    type: Audiobook
+    narrator:
+      - Dominic West
+    aisn: B008PTT3N8
+    publisher: Faber & Faber
+    version: Unabridged
+    language: English
+    listening_length: 7 hours and 5 minutes
+    year_released: "2012"
+    date_releaed: "2012-09-06"
+    date_purchased: "2020-06-30"
 
 - title: Ancillary Sword
   serise: The Imperial Radch series
   serise_entry: Book 2
+  author:
+    - Ann Leckie
+  rating:
+    mine: 3
+  year_published: "2014"
+  date_published: "2014-09-07"
+  date_started:
+  date_finished: "2020-06-30"
+  format:
+    type: Audiobook
+    narrator:
+      - Adjoa Andoh
+    aisn: B00MH4EBC0
+    publisher: Hachette Audio UK
+    version: Unabridged
+    language: English
+    listening_length: x hours and xx minutes
+    year_released: "2014"
+    date_releaed: "2014-10-07"
+    date_purchased: "2020-06-20"
 
 - title: Ancillary Justice
   serise: The Imperial Radch series
   serise_entry: Book 1
+  author:
+    - Ann Leckie
+  rating:
+    mine: 4
+  year_published: "2013"
+  date_published: "2013-09-01"
+  date_started:
+  date_finished: "2020-06-30"
+  format:
+    type: Audiobook
+    narrator:
+      - Adjoa Andoh
+    aisn: B00LPNR9QE
+    publisher: Hachette Audio UK
+    version: Unabridged
+    language: English
+    listening_length: 12 hours and 40 minutes
+    year_released: "2014"
+    date_releaed: "2014-08-14"
+    date_purchased: "2020-06-14"
 
 - title: The Good Immigrant
+  author:
+    - Nikesh Shukla
+    - Varaidzo
+    - Chimene Suleyman
+    - Vera Chok
+    - Daniel York Loh
+    - Himesh Patel
+    - Nish Kumar
+    - Reni Eddo-Lodge
+    - Wei Ming Kam
+    - Darren Chetty
+  rating:
+    mine: 5
+  year_published: "2016"
+  date_published: "2016-09-22"
+  date_started:
+  date_finished: "2020-08-17"
+  format:
+    type: Audiobook
+    narrator:
+      - Nikesh Shukla
+      - Varaidzo
+      - Chimene Suleyman
+      - Vera Chok
+      - Daniel York Loh
+      - Himesh Patel
+      - Nish Kumar
+      - Reni Eddo-Lodge
+      - Wei Ming Kam
+      - Darren Chetty
+    aisn: B071CQ77S3
+    publisher: Random House Audiobooks
+    version: Unabridged
+    language: English
+    listening_length: 7 hours
+    year_released: "2017"
+    date_releaed: "2017-05-04"
+    date_purchased: "2020-06-14"
 
 - title: Oryx and Crake
   serise: MaddAddam Trilogy
   serise_entry: Book 1
+  author:
+    - Margaret Atwood
+  rating:
+    mine: 5
+  year_published: "2003"
+  date_started:
+  date_finished: "2020-07-12"
+  format:
+    type: Audiobook
+    narrator:
+      - John Chancer
+    aisn: B004FTGCK4
+    publisher: Bolinda Publishing Pty Ltd.
+    version: Unabridged
+    language: English
+    listening_length: x hours and xx minutes
+    year_released: "2005"
+    date_releaed: "2005-01-21"
+    date_purchased: "2020-06-14"
 
 - title: "Why I'm No Longer Talking to White People About Race"
+  author:
+    - Reni Eddo-Lodge
+  rating:
+    mine: 5
+  year_published: "2017"
+  date_published: "2017-07-01"
+  date_started:
+  date_finished: "2020-06-30"
+  format:
+    type: Audiobook
+    narrator:
+      - Reni Eddo-Lodge
+    aisn: B06XGLP7NP
+    publisher: Audible Studios for Bloomsbury
+    version: Unabridged
+    language: English
+    listening_length: 5 hours and 53 minutes
+    year_released: "2017"
+    date_releaed: "2017-06-01"
+    date_purchased: "2020-06-02"
 
 - title: The Long Way to a Small, Angry Planet
   serise: Wayfarers
   serise_entry: Book 1
+  author:
+    - Becky Chambers
+  rating:
+    mine: 3
+  year_published: "2015"
+  date_published: "2015-12-31"
+  date_started:
+  date_finished: "2020-06-30"
+  format:
+    type: Audiobook
+    narrator:
+      - Patricia Rodriguez
+    aisn: B00W8DPMZU
+    publisher: Hodder & Stoughton
+    version: Unabridged
+    language: English
+    listening_length: x hours and xx minutes
+    year_released: "2015"
+    date_releaed: "2015-08-13"
+    date_purchased: "2020-06-02"
 
 - title: Wolf Hall
+  series: The Wolf Hall Trilogy
+  serise_entry: Book 1
+  author:
+    - Hilary Mantel
+  rating:
+    mine: 5
+  year_published: "2009"
+  date_published: "2009-04-30"
+  date_started:
+  date_finished: "2020/06/30"
+  format:
+    type: Audiobook
+    narrator:
+      - Simon Slater
+    aisn: B004FTXVEY
+    publisher: Whole Story Audiobooks
+    version: Unabridged
+    language: English
+    listening_length: 24 hours and 15 minutes
+    year_released: "2009"
+    date_releaed: "2009-10-16"
+    date_purchased: "2020-04-12"
 
 - title: Educated
+  author:
+    - Tara Westover
+  rating:
+    mine: 5
+  year_published: "2019"
+  date_published: "2019-02-18"
+  date_started:
+  date_finished: "2020-04-10"
+  format:
+    type: Audiobook
+    narrator:
+      - Julia Whelan
+    aisn: B079C1S8ZH
+    publisher: Random House Audiobooks
+    version: Unabridged
+    language: English
+    listening_length: 12 hours and 10 minutes
+    year_released: "2018"
+    date_releaed: "2018-02-20"
+    date_purchased: "2020-03-30"
 
 - title: Something Deeply Hidden
   full_title: "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime"
+  author:
+    - Sean Carroll
+  rating:
+    mine: 4
+  year_published: "2019"
+  date_published: "2019-09-10"
+  date_started:
+  date_finished: "2020-04-06"
+  format:
+    type: Audiobook
+    narrator:
+      - Sean Carroll
+    aisn: B07QTBYGBQ
+    publisher: Penguin Audio
+    version: Unabridged
+    language: English
+    listening_length: 10 hours and 9 minutes
+    year_released: "2019"
+    date_releaed: "2019-09-10"
+    date_purchased: "2020-02-11"
+
+- title: "Middle England"
+  serise: "Rotters' Club"
+  serise_entry: Book 3
+  author:
+    - Jonathan Coe
+  rating:
+    mine: 3
+  year_published: "2019"
+  date_published: "2019-06-04"
+  date_started:
+  date_finished: "2020-01-16"
+  date_added: "2020-09-07"
+  format:
+    type: Paperback
+    aisn: "1596434465"
+    isbn: "0241983681"
+    isbn13: "978-0241983683"
+    publisher: Penguin
+    language: English
+    pages: 432
