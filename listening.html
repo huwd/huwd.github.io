@@ -1,17 +1,16 @@
 ---
 layout: listing
-title: Listening
+title: Podcasts I listen to
 ---
 
-{% for podcast in site.podcasts %}
-<span>
-  <a href="{{ site.baseurl }}{{ podcast.url }}">
-    {{ podcast.title }}
-  </a>
-</span>
-<span></span>
-<span></span>
-<time datetime=" {{ podcast.date | date_to_xmlschema }}">
-  {{ post.date | date: "%Y-%m-%d" }}
-</time>
-{% endfor %}
+<h1>Currently listening to</h1>
+
+<ul>
+  {% for podcast in site.data.podcasts %}
+  <li>
+    <a href="{{ podcast.feed_url }}">
+      {{ podcast.name }}
+    </a>
+  </li>
+  {% endfor %}
+</ul
