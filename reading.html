@@ -3,13 +3,13 @@ layout: listing
 title: Reading
 ---
 
-{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_read != nil' %}
+{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_finished != nil' %}
 
 {% for book in finished_books %}
   <span>{{ book.title }}</span>
   <span>{{ book.author | join:", " }}</span>
-  <time datetime="{{ book.date_read | date_to_xmlschema }}">
-    {{ book.date_read | date: "%Y-%m-%d" }}
+  <time datetime="{{ book.date_finished | date_to_xmlschema }}">
+    {{ book.date_finished | date: "%Y-%m-%d" }}
   </time>
   <span>{{ "★★★★★" | truncate: book.rating.mine, ""  }}</span>
 {% endfor %}
