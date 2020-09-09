@@ -7,7 +7,7 @@ description: >
 baseurl: ""
 url: "https://huwdiprose.co.uk"
 twitter_username: huwdiprose
-github_username:  huwd
+github_username: huwd
 
 # Build settings
 theme: frogmore
@@ -15,3 +15,4 @@ markdown: kramdown
 
 # Customisation
 name: Huw Diprose
+signature: Huw
