@@ -5,7 +5,8 @@ permalink: /
 ---
 
 <ul>
-  {% for post in site.posts %}
+  {% assign posts = site.posts | where_exp: 'post', 'post.categories[0] != "review"' %}
+  {% for post in posts  %}
   <li>
     <a class="title" href="{{ site.baseurl }}{{ post.url }}">
       {{ post.title }}
