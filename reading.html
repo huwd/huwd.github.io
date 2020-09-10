@@ -8,9 +8,15 @@ title: Books I've read
 <ul>
   {% for book in finished_books %}
   <li>
-    <div class="title">
+    {% if book.review_url %}
+    <a class="title" href="{{ site.baseurl }}{{ book.review_url }}">
       {{ book.title }}
+    </a>
+    {% else %}
+    <div class="title">
+      {{ book.title}}
     </div>
+    {% endif %}
     <div class="authors">
       {{ book.author | join:", " }}
     </div>
