@@ -1,0 +1,20 @@
+---
+layout: listing
+title: Podcasts I listen to
+---
+
+<h1>Currently subscribed to</h1>
+
+<p>
+  Links to individual feeds below, if you'd like them all at the same time, you can find <a href="/public/podcasts.opml">my OPML file here</a>
+</p>
+
+<ul>
+  {% for podcast in site.data.podcasts %}
+  <li>
+    <a href="{{ podcast.feed_url }}">
+      {{ podcast.name }}
+    </a>
+  </li>
+  {% endfor %}
+</ul

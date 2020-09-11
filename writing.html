@@ -1,0 +1,19 @@
+---
+layout: listing
+title: Things I've written
+permalink: /
+---
+
+<ul>
+  {% assign posts = site.posts | where_exp: 'post', 'post.categories[0] != "review"' %}
+  {% for post in posts  %}
+  <li>
+    <a class="title" href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title }}
+    </a>
+    <time datetime="{{ post.date | date_to_xmlschema }}">
+      {{ post.date | date: "%Y-%m-%d" }}
+    </time>
+  </li>
+  {% endfor %}
+</ul

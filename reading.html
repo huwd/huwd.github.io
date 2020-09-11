@@ -1,0 +1,31 @@
+---
+layout: listing
+title: Books I've read
+---
+
+{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_finished != nil' %}
+<h2>2020</h2>
+<ul>
+  {% for book in finished_books %}
+  <li>
+    {% if book.review_url %}
+    <a class="title" href="{{ site.baseurl }}{{ book.review_url }}">
+      {{ book.title }}
+    </a>
+    {% else %}
+    <div class="title">
+      {{ book.title}}
+    </div>
+    {% endif %}
+    <div class="authors">
+      {{ book.author | join:", " }}
+    </div>
+    <time datetime="{{ book.date_finished | date_to_xmlschema }}">
+      {{ book.date_finished | date: "%Y-%m-%d" }}
+    </time>
+    <div class="rating">
+      {{ "★★★★★" | truncate: book.rating.mine, ""  }}
+    </div>
+  </li>
+  {% endfor %}
+</ul
