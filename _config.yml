@@ -10,9 +10,15 @@ twitter_username: huwdiprose
 github_username: huwd
 
 # Build settings
-theme: frogmore
 markdown: kramdown
 
 # Customisation
 name: Huw Diprose
 signature: Huw
+
+permalink: pretty
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap

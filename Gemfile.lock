@@ -11,11 +11,6 @@ GEM
     eventmachine (1.2.7)
     ffi (1.13.1)
     forwardable-extended (2.6.0)
-    frogmore (0.4.0)
-      jekyll (~> 4.1)
-      jekyll-paginate (~> 1.1.0)
-      jekyll-seo-tag (~> 2.6.1)
-      jekyll-sitemap (~> 1.4.0)
     http_parser.rb (0.6.0)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
@@ -71,8 +66,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  frogmore (~> 0.4.0)
   jekyll (~> 4.1.1)
+  jekyll-paginate (~> 1.1.0)
+  jekyll-seo-tag (~> 2.6.1)
+  jekyll-sitemap (~> 1.4.0)
 
 BUNDLED WITH
    2.1.4
