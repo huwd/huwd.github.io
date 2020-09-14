@@ -66,8 +66,8 @@
     date_purchased: "2020-08-26"
 
 - title: MaddAddam
-  serise: MaddAddam Trilogy
-  serise_entry: Book 3
+  series: MaddAddam Trilogy
+  series_entry: Book 3
   author:
     - Margaret Atwood
   rating:
@@ -94,8 +94,8 @@
     date_purchased: "2020-08-19"
 
 - title: The Year of the Flood
-  serise: MaddAddam Trilogy
-  serise_entry: Book 2
+  series: MaddAddam Trilogy
+  series_entry: Book 2
   author:
     - Margaret Atwood
   rating:
@@ -145,8 +145,8 @@
     date_purchased: "2020-08-18"
 
 - title: Zita the Spacegirl
-  serise: Zita the Spacegirl
-  serise_entry: Book 1
+  series: Zita the Spacegirl
+  series_entry: Book 1
   author:
     - Ben Hatke
   rating:
@@ -167,8 +167,8 @@
     date_purchased: "2020-06-16"
 
 - title: Will Save the Galaxy for Food
-  serise: Jacques McKeown
-  serise_entry: Book 1
+  series: Jacques McKeown
+  series_entry: Book 1
   author:
     - Yahtzee Croshaw
   rating:
@@ -216,8 +216,8 @@
     date_purchased: "2020-08-11"
 
 - title: The Collapsing Empire
-  serise: The Interdependency
-  serise_entry: Book 1
+  series: The Interdependency
+  series_entry: Book 1
   author:
     - John Scalzi
   rating:
@@ -240,8 +240,8 @@
     date_purchased: "2020-06-30"
 
 - title: Ancillary Mercy
-  serise: The Imperial Radch series
-  serise_entry: Book 3
+  series: The Imperial Radch series
+  series_entry: Book 3
   author:
     - Ann Leckie
   rating:
@@ -264,8 +264,8 @@
     date_purchased:
 
 - title: The Consuming Fire
-  serise: The Interdependency
-  serise_entry: Book 2
+  series: The Interdependency
+  series_entry: Book 2
   author:
     - John Scalzi
   rating:
@@ -310,8 +310,8 @@
     date_purchased: "2020-06-30"
 
 - title: Ancillary Sword
-  serise: The Imperial Radch series
-  serise_entry: Book 2
+  series: The Imperial Radch series
+  series_entry: Book 2
   author:
     - Ann Leckie
   rating:
@@ -334,8 +334,8 @@
     date_purchased: "2020-06-20"
 
 - title: Ancillary Justice
-  serise: The Imperial Radch series
-  serise_entry: Book 1
+  series: The Imperial Radch series
+  series_entry: Book 1
   author:
     - Ann Leckie
   rating:
@@ -398,8 +398,8 @@
     date_purchased: "2020-06-14"
 
 - title: Oryx and Crake
-  serise: MaddAddam Trilogy
-  serise_entry: Book 1
+  series: MaddAddam Trilogy
+  series_entry: Book 1
   author:
     - Margaret Atwood
   rating:
@@ -443,8 +443,8 @@
     date_purchased: "2020-06-02"
 
 - title: The Long Way to a Small, Angry Planet
-  serise: Wayfarers
-  serise_entry: Book 1
+  series: Wayfarers
+  series_entry: Book 1
   author:
     - Becky Chambers
   rating:
@@ -468,7 +468,7 @@
 
 - title: Wolf Hall
   series: The Wolf Hall Trilogy
-  serise_entry: Book 1
+  series_entry: Book 1
   author:
     - Hilary Mantel
   rating:
@@ -536,8 +536,8 @@
     date_purchased: "2020-02-11"
 
 - title: "Middle England"
-  serise: "Rotters' Club"
-  serise_entry: Book 3
+  series: "Rotters' Club"
+  series_entry: Book 3
   author:
     - Jonathan Coe
   rating:
