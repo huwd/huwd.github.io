@@ -1,4 +1,22 @@
 ---
+- title: The Word for World is Forest
+  series: Hanish Cycle
+  series_entry: Book 3
+  author:
+    - Ursula K. Le Guin
+  date_started: "2020-09-12"
+  date_finished:
+  date_added: "2020-09-14"
+  format:
+    type: paperback
+    isbn: 1473205786
+    isbn13: 9781473205789
+    publisher: Gateway
+    language: English
+    pages: 128
+    year_published: 2015
+    year_originally_published: 1972
+
 - title: Lovecraft Country
   author:
     - Matt Ruff
