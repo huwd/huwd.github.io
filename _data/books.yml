@@ -4,9 +4,14 @@
   series_entry: Book 3
   author:
     - Ursula K. Le Guin
+  rating:
+    mine: 4
+  year_published: "2015"
+  year_originally_published: "1972"
   date_started: "2020-09-12"
-  date_finished:
   date_added: "2020-09-14"
+  date_finished: "2020-09-15"
+  review_url: /review/book/2020/09/15/the-word-for-world-is-forest
   format:
     type: paperback
     isbn: 1473205786
@@ -14,8 +19,6 @@
     publisher: Gateway
     language: English
     pages: 128
-    year_published: 2015
-    year_originally_published: 1972
 
 - title: Lovecraft Country
   author:
@@ -27,7 +30,7 @@
   date_started: "2020-09-05"
   date_finished: "2020-09-08"
   date_added: "2020-09-07"
-  review_url: review/book/2020/09/10/lovecraft-country
+  review_url: /review/book/2020/09/10/lovecraft-country
   format:
     type: Audiobook
     narrator:
@@ -52,6 +55,7 @@
   date_started: "2020-08-28"
   date_finished: "2020-09-05"
   date_added: "2020-09-07"
+  review_url: /review/book/2020/09/15/vesper-flights
   format:
     type: Audiobook
     narrator:
