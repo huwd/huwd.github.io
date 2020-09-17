@@ -1,0 +1,17 @@
+/* AUTHOR */
+
+Your title: Huw Diprose.
+Site: mail@huwdiprose.co.uk
+Twitter: @huwdiprose
+Location: UK.
+
+/* THANKS */
+
+The theme is an adapted version of [Sidey](https://github.com/ronv/sidey) by Ronalds Vilciņš.
+More than a small bit of additional inspiration from [Tom MacWright's site](https://macwright.com/).
+
+/* SITE */
+
+Last update: 2020/09/17
+Standards: HTML5, CSS3,..
+Components: Jekyll
