@@ -82,6 +82,7 @@
   amazon_average: ""
   year_published: "2013"
   date_published: ""
+  review_url: /review/book/2020/09/20/maddaddam/
   format:
     type: Audiobook
     narrator:
@@ -109,6 +110,7 @@
   date_started: "2020-08-25"
   date_finished: "2020-08-29"
   date_added: "2020-09-07"
+  review_url: /review/book/2020/09/20/the-year-of-the-flood/
   format:
     type: Audiobook
     narrator:
@@ -411,6 +413,7 @@
   year_published: "2003"
   date_started:
   date_finished: "2020-07-12"
+  review_url: /review/book/2020/09/20/oryx-and-crake/
   format:
     type: Audiobook
     narrator:
