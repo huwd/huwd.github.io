@@ -3,7 +3,7 @@ layout: listing
 title: Books I've read
 ---
 
-{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_finished != nil' %}
+{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_finished != nil' | sort: "date_finished" | reverse %}
 <h2>2020</h2>
 <ul>
   {% for book in finished_books %}
