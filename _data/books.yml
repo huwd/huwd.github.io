@@ -253,11 +253,11 @@
   author:
     - Ann Leckie
   rating:
-    mine:
-  year_published:
-  date_published:
-  date_started:
-  date_finished:
+    mine: 3
+  year_published: "2015"
+  date_published: "2015-10-08"
+  date_started: "2020-06-30"
+  date_finished: "2020-07-04"
   format:
     type: Audiobook
     narrator:
@@ -267,9 +267,9 @@
     version: Unabridged
     language: English
     listening_length: 10 hours and 53 minutes
-    year_released:
-    date_releaed:
-    date_purchased:
+    year_released: 2015
+    date_released: "2015-10-08"
+    date_purchased: "2020-06-30"
 
 - title: The Consuming Fire
   series: The Interdependency
