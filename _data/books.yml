@@ -1,4 +1,37 @@
 ---
+- title: "Peter Scott: Collected Writings, 1933-1989"
+  author:
+    - Peter Scott
+  year_published: 2016
+  date_published: "2016-06-28"
+  date_started: "2020-10-15"
+  date_added: "2020-10-28"
+  format:
+    type: Digital Book
+    aisn: B01HQN7XHG
+    publisher: The Wildfowl & Wetlands Trust
+    language: English
+    pages: 300
+
+- title: The City We Became
+  author:
+    - N. K. Jemisin
+  year_published: "2020"
+  date_published: "2020-03-24"
+  date_started: "2020-10-25"
+  date_added: "2020-10-28"
+  format:
+    type: Audiobook
+    narrator:
+      - Robin Miles
+    publisher: Hachette Audio UK
+    version: Unabridged
+    language: English
+    listening_length: 16 hours and 11 minutes
+    year_released: "2020"
+    date_released: "2020-03-24"
+    date_purchased: "2020-10-25"
+
 - title: The Word for World is Forest
   series: Hanish Cycle
   series_entry: Book 3
