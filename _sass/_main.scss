@@ -1,3 +1,8 @@
+:root {
+	--sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto,
+		noto, "segoe ui", arial, sans-serif;
+}
+
 @media (prefers-color-scheme: dark) {
 	body {
 		background: #1e2227;
@@ -51,7 +56,7 @@
 }
 
 body {
-	font-family: system-ui, sans-serif;
+	font-family: var(--sans-font);
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 	line-height: 1.5;
