@@ -20,6 +20,9 @@
   date_published: "2020-03-24"
   date_started: "2020-10-25"
   date_added: "2020-10-28"
+  date_finished: "2020-11-12"
+  rating:
+    mine: 4
   format:
     type: Audiobook
     narrator:
