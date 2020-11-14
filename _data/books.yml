@@ -341,8 +341,9 @@
     mine: 4
   year_published: "1989"
   date_published: "1989-05-01"
-  date_started:
+  date_started: "2020-07-04"
   date_finished: "2020-07-05"
+  review_url: /review/book/2020/11/14/the-remains-of-the-day/
   format:
     type: Audiobook
     narrator:
