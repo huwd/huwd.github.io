@@ -1,4 +1,67 @@
 ---
+- title: The Fat Years
+  author:
+    - Chan Koonchung
+    - Michael S. Duke
+  year_published: 2011
+  date_published: "2012-08-02"
+  date_started: "2020-11-28"
+  date_added: "2020-12-02"
+  date_finished: "2020-12-01"
+  rating:
+    mine: 3
+  format:
+    type: Audiobook
+    narrator:
+      - David Tse
+    aisn: B005H0KP1M
+    publisher: Random House AudioBooks
+    version: Unabridged
+    language: English
+    listening_length: "9 hrs and 59 mins"
+    year_released: 2011
+    date_released: "2011-08-16"
+    date_purchased: "2020-08-18"
+
+- title: Where the Crawdads Sing
+  author:
+    - Delia Owens
+  year_published: "2018"
+  date_published: "2018-08-14"
+  date_started: "2018-11-08"
+  date_added: "2020-12-02"
+  date_finished: "2020-11-26"
+  rating:
+    mine: 3
+  format:
+    type: Audiobook
+    narrator:
+      - Cassandra Campbell
+    publisher: Hachette Audio UK
+    version: Unabridged
+    language: English
+    listening_length: "12 hrs and 12 mins"
+    year_released: 2018
+    date_released: "2018-11-08"
+    date_purchased: "2020-08-20"
+
+- title: Persepolis I & II
+  author:
+    - Marjane Satrapi
+  rating:
+    mine: 4
+  year_published: "2008"
+  date_added: "2020-12-02"
+  date_started: "2020-11-24"
+  date_finished: "2020-11-25"
+  format:
+    type: paperback
+    isbn: 009952399X
+    isbn13: 978-0099523994
+    publisher: Vintage
+    language: English
+    pages: 352
+
 - title: "Peter Scott: Collected Writings, 1933-1989"
   author:
     - Peter Scott
