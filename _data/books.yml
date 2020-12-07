@@ -1,4 +1,27 @@
 ---
+- title: The Doors of Eden
+  author:
+    - Adrian Tchaikovsky
+  year_published: 2020
+  date_published: "2020-08-20"
+  date_started: "2020-12-02"
+  date_added: "2020-12-07"
+  date_finished: "2020-12-06"
+  rating:
+    mine: 5
+  format:
+    type: Audiobook
+    narrator:
+      - Sophie Aldred
+    aisn: B084VTZZTB
+    publisher: Macmillan
+    version: Unabridged
+    language: English
+    listening_length: "18 hrs and 2 mins"
+    year_released: 2020
+    date_released: 2020-08-20"
+    date_purchased: "2020-11-19"
+
 - title: The Fat Years
   author:
     - Chan Koonchung
