@@ -637,6 +637,7 @@
   date_published: "2019-09-10"
   date_started:
   date_finished: "2020-04-06"
+  review_url: /review/book/2020/12/03/something-deeply-hidden
   format:
     type: Audiobook
     narrator:
