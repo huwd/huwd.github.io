@@ -1,4 +1,26 @@
 ---
+- title: A Closed and Common Orbit
+  series: Wayfarers
+  series_entry: Book 2
+  author:
+    - Becky Chambers
+  year_published: 2016
+  date_published: "2016-10-20"
+  date_started: "2020-12-08"
+  date_finished:
+  format:
+    type: Audiobook
+    narrator:
+      - Patricia Rodriguez
+    aisn: B01HIXNAOY
+    publisher: Hodder & Stoughton
+    version: Unabridged
+    language: English
+    listening_length: 13 hours and 4 minutes
+    year_released: 2016
+    date_released: "2016-10-20"
+    date_purchased: "2020-11-19"
+
 - title: The Doors of Eden
   author:
     - Adrian Tchaikovsky
