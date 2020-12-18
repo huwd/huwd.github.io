@@ -1,4 +1,27 @@
 ---
+- title: The Song of Achilles
+  author:
+    - Madeline Miller
+  year_published: 2012
+  date_published: "2012-04-12"
+  date_started: "2020-12-16"
+  date_finished: "2020-12-18"
+  review_url: /review/book/2020/12/18/the-song-of-achilles
+  rating:
+    mine: 5
+  format:
+    type: Audiobook
+    narrator:
+      - David Thorpe
+    aisn: B008EKTQEO
+    publisher: Isis Publishing Ltd
+    version: Unabridged
+    language: English
+    listening_length: 11 hrs and 31 mins
+    year_released: 2012
+    date_released: "2012-06-12"
+    date_purchased: "2020-11-20"
+
 - title: A Closed and Common Orbit
   series: Wayfarers
   series_entry: Book 2
