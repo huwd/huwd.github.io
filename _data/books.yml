@@ -1,4 +1,25 @@
 ---
+- title: Bring Up the Bodies
+  series: The Wolf Hall Trilogy
+  series_entry: Book 2
+  author:
+    - Hilary Mantel
+  year_published: 2012
+  date_published: "2012-05-12"
+  date_started: "2020-12-18"
+  format:
+    type: Audiobook
+    narrator:
+      - Simon Vance
+    aisn: B0080E6RPU
+    publisher: Whole Story Audiobooks
+    version: Unabridged
+    language: English
+    listening_length: 14 hours and 33 minutes
+    year_released: 2012
+    date_released: "2012-05-12"
+    date_purchased: "2012-11-19"
+
 - title: The Song of Achilles
   author:
     - Madeline Miller
