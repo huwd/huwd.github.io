@@ -1,4 +1,67 @@
 ---
+- title: David Attenborough's New Life Stories
+  author:
+    - David Attenborough
+  year_published: 2018
+  date_published: "2017-08-11"
+  date_started: "2020-12-23"
+  date_added: "2020-12-23"
+  format:
+    type: Audiobook
+    narrator:
+      - David Attenborough
+    aisn: B005HJBHR4
+    publisher: BBC Worldwide Ltd
+    version: Unabridged
+    language: English
+    listening_length: "3 hrs and 14 mins"
+    year_released: 2017
+    date_released: "2017-08-11"
+    date_purchased: "2020-12-21"
+
+- title: Atomic Habits
+  author:
+    - James Clear
+  year_published: 2018
+  date_published: "2018-06-18"
+  date_started: "2020-12-20"
+  date_added: "2020-12-22"
+  date_finished: "2020-12-22"
+  rating:
+    mine: 3
+  format:
+    type: Audiobook
+    narrator:
+      - James Clear
+    aisn: B07J1XQSNK
+    publisher: Penguin Audio
+    version: Unabridged
+    language: English
+    listening_length: "5 hrs and 35 mins"
+    year_released: 2018
+    date_released: "2018-10-18"
+    date_purchased: "2020-12-20"
+
+- title: Who We Are and How We Got Here
+  author:
+    - David Reich
+  year_published: 2018
+  date_published: "2018-06-18"
+  date_started: "2018-10-01"
+  date_added: "2020-12-22"
+  format:
+    type: Audiobook
+    narrator:
+      - John Lescault
+    aisn: B07DNH1BKS
+    publisher: Blackstone Audio, Inc.
+    version: Unabridged
+    language: English
+    listening_length: "10 hrs and 50 mins"
+    year_released: 2018
+    date_released: "2018-06-18"
+    date_purchased: "2018-09-18"
+
 - title: Bring Up the Bodies
   series: The Wolf Hall Trilogy
   series_entry: Book 2
