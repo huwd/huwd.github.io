@@ -1,11 +1,81 @@
 ---
+- title: Quest in Paradise
+  author:
+    - David Attenborough
+  year_published: 1963
+  date_published: "1963-01-01"
+  date_started: "2020-12-24"
+  date_added: "2020-12-24"
+  date_finished: "2020-12-25"
+  rating:
+    mine: 5
+  format:
+    type: Audiobook
+    narrator:
+      - David Attenborough
+    aisn: B004F406HE
+    publisher: BBC Worldwide Ltd
+    version: Unabridged
+    listening_length: 2 hrs and 44 mins
+    year_released: 2008
+    date_released: "2008-04-08"
+    date_purchased: "2020-12-23"
+
+- title: Zoo Quest for a Dragon
+  author:
+    - David Attenborough
+  year_published: 1957
+  date_published: "1957-12-01"
+  date_started: "2020-12-24"
+  date_added: "2020-12-24"
+  date_finished: "2020-12-24"
+  rating:
+    mine: 5
+  format:
+    type: Audiobook
+    narrator:
+      - David Attenborough
+    aisn: B002SQ23UY
+    publisher: BBC Worldwide Ltd
+    version: Abridged
+    listening_length: 3 hours and 13 minutes
+    year_released: 2008
+    date_released: "2008-04-08"
+    date_purchased: "2020-12-23"
+
+- title: Quest under Capricorn
+  author:
+    - David Attenborough
+  year_published: 1963
+  date_published: "1963-01-01"
+  date_started: "2020-12-23"
+  date_added: "2020-12-23"
+  date_finished: "2020-12-23"
+  rating:
+    mine: 5
+  format:
+    type: Audiobook
+    narrator:
+      - David Attenborough
+    aisn: B004F406HE
+    publisher: BBC Worldwide Ltd
+    version: Unabridged
+    language: English
+    listening_length: 2 hrs and 56 mins
+    year_released: 2008
+    date_released: "2008-04-15"
+    date_purchased: "2020-12-23"
+
 - title: David Attenborough's New Life Stories
   author:
     - David Attenborough
   year_published: 2018
   date_published: "2017-08-11"
-  date_started: "2020-12-23"
+  date_started: "2020-12-22"
   date_added: "2020-12-23"
+  date_finished: "2020-12-23"
+  rating:
+    mine: 5
   format:
     type: Audiobook
     narrator:
