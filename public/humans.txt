@@ -1,7 +1,7 @@
 /* AUTHOR */
 
-Your title: Huw Diprose.
-Site: mail@huwdiprose.co.uk
+Huw Diprose.
+mail@huwdiprose.co.uk
 Twitter: @huwdiprose
 Location: UK.
 
