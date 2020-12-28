@@ -4,11 +4,6 @@
     - David Attenborough
   year_published: 1963
   date_published: "1963-01-01"
-  date_started: "2020-12-24"
-  date_added: "2020-12-24"
-  date_finished: "2020-12-25"
-  rating:
-    mine: 5
   format:
     type: Audiobook
     narrator:
@@ -20,17 +15,16 @@
     year_released: 2008
     date_released: "2008-04-08"
     date_purchased: "2020-12-23"
+  date_started: "2020-12-24"
+  date_finished: "2020-12-25"
+  rating:
+    mine: 5
 
 - title: Zoo Quest for a Dragon
   author:
     - David Attenborough
   year_published: 1957
   date_published: "1957-12-01"
-  date_started: "2020-12-24"
-  date_added: "2020-12-24"
-  date_finished: "2020-12-24"
-  rating:
-    mine: 5
   format:
     type: Audiobook
     narrator:
@@ -42,17 +36,16 @@
     year_released: 2008
     date_released: "2008-04-08"
     date_purchased: "2020-12-23"
+  date_started: "2020-12-24"
+  date_finished: "2020-12-24"
+  rating:
+    mine: 5
 
 - title: Quest under Capricorn
   author:
     - David Attenborough
   year_published: 1963
   date_published: "1963-01-01"
-  date_started: "2020-12-23"
-  date_added: "2020-12-23"
-  date_finished: "2020-12-23"
-  rating:
-    mine: 5
   format:
     type: Audiobook
     narrator:
@@ -65,17 +58,16 @@
     year_released: 2008
     date_released: "2008-04-15"
     date_purchased: "2020-12-23"
+  date_started: "2020-12-23"
+  date_finished: "2020-12-23"
+  rating:
+    mine: 5
 
 - title: David Attenborough's New Life Stories
   author:
     - David Attenborough
   year_published: 2018
   date_published: "2017-08-11"
-  date_started: "2020-12-22"
-  date_added: "2020-12-23"
-  date_finished: "2020-12-23"
-  rating:
-    mine: 5
   format:
     type: Audiobook
     narrator:
@@ -88,17 +80,16 @@
     year_released: 2017
     date_released: "2017-08-11"
     date_purchased: "2020-12-21"
+  date_started: "2020-12-22"
+  date_finished: "2020-12-23"
+  rating:
+    mine: 5
 
 - title: Atomic Habits
   author:
     - James Clear
   year_published: 2018
   date_published: "2018-06-18"
-  date_started: "2020-12-20"
-  date_added: "2020-12-22"
-  date_finished: "2020-12-22"
-  rating:
-    mine: 3
   format:
     type: Audiobook
     narrator:
@@ -111,14 +102,16 @@
     year_released: 2018
     date_released: "2018-10-18"
     date_purchased: "2020-12-20"
+  date_started: "2020-12-20"
+  date_finished: "2020-12-22"
+  rating:
+    mine: 3
 
 - title: Who We Are and How We Got Here
   author:
     - David Reich
   year_published: 2018
   date_published: "2018-06-18"
-  date_started: "2018-10-01"
-  date_added: "2020-12-22"
   format:
     type: Audiobook
     narrator:
@@ -131,6 +124,7 @@
     year_released: 2018
     date_released: "2018-06-18"
     date_purchased: "2018-09-18"
+  date_started: "2018-10-01"
 
 - title: Bring Up the Bodies
   series: The Wolf Hall Trilogy
@@ -139,10 +133,6 @@
     - Hilary Mantel
   year_published: 2012
   date_published: "2012-05-12"
-  date_started: "2020-12-18"
-  date_finished: "2020-12-20"
-  rating:
-    mine: 4
   format:
     type: Audiobook
     narrator:
@@ -155,17 +145,16 @@
     year_released: 2012
     date_released: "2012-05-12"
     date_purchased: "2012-11-19"
+  date_started: "2020-12-18"
+  date_finished: "2020-12-20"
+  rating:
+    mine: 4
 
 - title: The Song of Achilles
   author:
     - Madeline Miller
   year_published: 2012
   date_published: "2012-04-12"
-  date_started: "2020-12-16"
-  date_finished: "2020-12-18"
-  review_url: /review/book/2020/12/18/the-song-of-achilles
-  rating:
-    mine: 5
   format:
     type: Audiobook
     narrator:
@@ -178,6 +167,11 @@
     year_released: 2012
     date_released: "2012-06-12"
     date_purchased: "2020-11-20"
+  date_started: "2020-12-16"
+  date_finished: "2020-12-18"
+  rating:
+    mine: 5
+  review_url: /review/book/2020/12/18/the-song-of-achilles
 
 - title: A Closed and Common Orbit
   series: Wayfarers
@@ -186,10 +180,6 @@
     - Becky Chambers
   year_published: 2016
   date_published: "2016-10-20"
-  date_started: "2020-12-08"
-  date_finished: "2020-12-15"
-  rating:
-    mine: 3
   format:
     type: Audiobook
     narrator:
@@ -202,17 +192,16 @@
     year_released: 2016
     date_released: "2016-10-20"
     date_purchased: "2020-11-19"
+  date_started: "2020-12-08"
+  date_finished: "2020-12-15"
+  rating:
+    mine: 3
 
 - title: The Doors of Eden
   author:
     - Adrian Tchaikovsky
   year_published: 2020
   date_published: "2020-08-20"
-  date_started: "2020-12-02"
-  date_added: "2020-12-07"
-  date_finished: "2020-12-06"
-  rating:
-    mine: 5
   format:
     type: Audiobook
     narrator:
@@ -225,6 +214,10 @@
     year_released: 2020
     date_released: 2020-08-20"
     date_purchased: "2020-11-19"
+  date_started: "2020-12-02"
+  date_finished: "2020-12-06"
+  rating:
+    mine: 5
 
 - title: The Fat Years
   author:
@@ -232,11 +225,6 @@
     - Michael S. Duke
   year_published: 2011
   date_published: "2012-08-02"
-  date_started: "2020-11-28"
-  date_added: "2020-12-02"
-  date_finished: "2020-12-01"
-  rating:
-    mine: 3
   format:
     type: Audiobook
     narrator:
@@ -249,17 +237,16 @@
     year_released: 2011
     date_released: "2011-08-16"
     date_purchased: "2020-08-18"
+  date_started: "2020-11-28"
+  date_finished: "2020-12-01"
+  rating:
+    mine: 3
 
 - title: Where the Crawdads Sing
   author:
     - Delia Owens
   year_published: "2018"
   date_published: "2018-08-14"
-  date_started: "2018-11-08"
-  date_added: "2020-12-02"
-  date_finished: "2020-11-26"
-  rating:
-    mine: 3
   format:
     type: Audiobook
     narrator:
@@ -271,16 +258,15 @@
     year_released: 2018
     date_released: "2018-11-08"
     date_purchased: "2020-08-20"
+  date_started: "2018-11-08"
+  date_finished: "2020-11-26"
+  rating:
+    mine: 3
 
 - title: Persepolis I & II
   author:
     - Marjane Satrapi
-  rating:
-    mine: 4
   year_published: "2008"
-  date_added: "2020-12-02"
-  date_started: "2020-11-24"
-  date_finished: "2020-11-25"
   format:
     type: paperback
     isbn: 009952399X
@@ -288,31 +274,29 @@
     publisher: Vintage
     language: English
     pages: 352
+  date_started: "2020-11-24"
+  date_finished: "2020-11-25"
+  rating:
+    mine: 4
 
 - title: "Peter Scott: Collected Writings, 1933-1989"
   author:
     - Peter Scott
   year_published: 2016
   date_published: "2016-06-28"
-  date_started: "2020-10-15"
-  date_added: "2020-10-28"
   format:
     type: Digital Book
     aisn: B01HQN7XHG
     publisher: The Wildfowl & Wetlands Trust
     language: English
     pages: 300
+  date_started: "2020-10-15"
 
 - title: The City We Became
   author:
     - N. K. Jemisin
   year_published: "2020"
   date_published: "2020-03-24"
-  date_started: "2020-10-25"
-  date_added: "2020-10-28"
-  date_finished: "2020-11-12"
-  rating:
-    mine: 4
   format:
     type: Audiobook
     narrator:
@@ -324,20 +308,18 @@
     year_released: "2020"
     date_released: "2020-03-24"
     date_purchased: "2020-10-25"
+  date_started: "2020-10-25"
+  date_finished: "2020-11-12"
+  rating:
+    mine: 4
 
 - title: The Word for World is Forest
   series: Hanish Cycle
   series_entry: Book 3
   author:
     - Ursula K. Le Guin
-  rating:
-    mine: 4
   year_published: "2015"
   year_originally_published: "1972"
-  date_started: "2020-09-12"
-  date_added: "2020-09-14"
-  date_finished: "2020-09-15"
-  review_url: /review/book/2020/09/15/the-word-for-world-is-forest
   format:
     type: paperback
     isbn: 1473205786
@@ -345,18 +327,17 @@
     publisher: Gateway
     language: English
     pages: 128
+  date_started: "2020-09-12"
+  date_finished: "2020-09-15"
+  rating:
+    mine: 4
+  review_url: /review/book/2020/09/15/the-word-for-world-is-forest
 
 - title: Lovecraft Country
   author:
     - Matt Ruff
-  rating:
-    mine: 4
   year_published: "2016"
   date_published: "2016-02-16"
-  date_started: "2020-09-05"
-  date_finished: "2020-09-08"
-  date_added: "2020-09-07"
-  review_url: /review/book/2020/09/10/lovecraft-country
   format:
     type: Audiobook
     narrator:
@@ -369,19 +350,18 @@
     year_released: "2019"
     date_released: "2019-02-07"
     date_purchased: "2020-08-17"
+  date_started: "2020-09-05"
+  date_finished: "2020-09-08"
+  rating:
+    mine: 4
+  review_url: /review/book/2020/09/10/lovecraft-country
 
 - title: Vesper Flights
   full_title: Vesper Flights
   author:
     - Helen Macdonald
-  rating:
-    mine: 5
   year_published: "2020"
   date_published: "2020-08-27"
-  date_started: "2020-08-28"
-  date_finished: "2020-09-05"
-  date_added: "2020-09-07"
-  review_url: /review/book/2020/09/15/vesper-flights
   format:
     type: Audiobook
     narrator:
@@ -394,21 +374,19 @@
     year_released: "2020"
     date_released: "2020-08-27"
     date_purchased: "2020-08-26"
+  date_started: "2020-08-28"
+  date_finished: "2020-09-05"
+  rating:
+    mine: 5
+  review_url: /review/book/2020/09/15/vesper-flights
 
 - title: MaddAddam
   series: MaddAddam Trilogy
   series_entry: Book 3
   author:
     - Margaret Atwood
-  rating:
-    mine: 4
-  date_started: "2020-08-29"
-  date_finished: "2020-08-31"
-  date_added: "2020-09-07"
-  amazon_average: ""
   year_published: "2013"
   date_published: ""
-  review_url: /review/book/2020/09/20/maddaddam/
   format:
     type: Audiobook
     narrator:
@@ -423,20 +401,19 @@
     year_released: "2014"
     date_released: "2014-06-01"
     date_purchased: "2020-08-19"
+  date_started: "2020-08-29"
+  date_finished: "2020-08-31"
+  rating:
+    mine: 4
+  review_url: /review/book/2020/09/20/maddaddam/
 
 - title: The Year of the Flood
   series: MaddAddam Trilogy
   series_entry: Book 2
   author:
     - Margaret Atwood
-  rating:
-    mine: 4
   year_published: "2009"
   date_published: "2009-09-07"
-  date_started: "2020-08-25"
-  date_finished: "2020-08-29"
-  date_added: "2020-09-07"
-  review_url: /review/book/2020/09/20/the-year-of-the-flood/
   format:
     type: Audiobook
     narrator:
@@ -449,21 +426,19 @@
     year_released: "2019"
     date_released: "2019-02-07"
     date_purchased: "2020-08-19"
+  date_started: "2020-08-25"
+  date_finished: "2020-08-29"
+  rating:
+    mine: 4
+  review_url: /review/book/2020/09/20/the-year-of-the-flood/
 
 - title: Wuhan Diary
   full_title: "Wuhan Diary: Dispatches from the Original Epicenter"
   author:
     - Fang Fang
     - Michael Berry (translator)
-  rating:
-    mine: 4
-    amazon_average: 3.3
   year_published: "2020"
   date_published: "2020-05-26"
-  date_started: "2020-08-20"
-  date_finished: "2020-08-29"
-  date_added: "2020-09-07"
-  review_url: /review/book/2020/10/18/wuhan-diary/
   format:
     type: Audiobook
     narrator:
@@ -476,20 +451,19 @@
     year_released: "2020"
     date_released: "2020-05-26"
     date_purchased: "2020-08-18"
+  date_started: "2020-08-20"
+  date_finished: "2020-08-29"
+  rating:
+    mine: 4
+  review_url: /review/book/2020/10/18/wuhan-diary/
 
 - title: Zita the Spacegirl
   series: Zita the Spacegirl
   series_entry: Book 1
   author:
     - Ben Hatke
-  rating:
-    mine: 5
   year_published: "2011"
   date_published: "2011-02-04"
-  date_started: "2020-07-25"
-  date_finished: "2020-07-25"
-  date_added: "2020-09-07"
-  review_url: /review/book/2020/09/29/zita-the-spacegirl
   format:
     type: Paperback
     aisn: "1596434465"
@@ -499,20 +473,19 @@
     language: English
     pages: 192
     date_purchased: "2020-06-16"
+  date_started: "2020-07-25"
+  date_finished: "2020-07-25"
+  rating:
+    mine: 5
+  review_url: /review/book/2020/09/29/zita-the-spacegirl
 
 - title: Will Save the Galaxy for Food
   series: Jacques McKeown
   series_entry: Book 1
   author:
     - Yahtzee Croshaw
-  rating:
-    mine: 3
   year_published: "2017"
   date_published: "2017-02-23"
-  date_started:
-  date_finished: "2020-07-25"
-  date_added: "2020-09-07"
-  review_url: /review/book/2020/12/08/will-save-the-galaxy-for-food
   format:
     type: Audiobook
     narrator:
@@ -525,18 +498,19 @@
     year_released: "2017"
     date_released: "2017-02-14"
     date_purchased: "2020-06-20"
+  date_started:
+  date_finished: "2020-07-25"
+  rating:
+    mine: 3
+  review_url: /review/book/2020/12/08/will-save-the-galaxy-for-food
 
 - title: Greetings from Bury Park
   author:
     - Sarfraz Manzoor
-  rating:
-    mine: 4
   year_originally_published: "2008"
   date_originally_published: "2008-06-16"
   year_published: "2019"
   date_published: "2019-07-04"
-  date_started: ""
-  date_finished: "2020-08-18"
   format:
     type: Audiobook
     narrator:
@@ -549,19 +523,18 @@
     year_released: "2019"
     date_released: "2019-07-04"
     date_purchased: "2020-08-11"
+  date_started: ""
+  date_finished: "2020-08-18"
+  rating:
+    mine: 4
 
 - title: The Collapsing Empire
   series: The Interdependency
   series_entry: Book 1
   author:
     - John Scalzi
-  rating:
-    mine: 1
   year_published: "2017"
   date_published: "2017-03-21"
-  date_started: ""
-  date_finished: "2020-08-11"
-  review_url: /review/book/2020/11/06/the-collapsing-empire/
   format:
     type: Audiobook
     narrator:
@@ -574,19 +547,19 @@
     year_released: "2017"
     date_released: "2017-03-21"
     date_purchased: "2020-06-30"
+  date_started: ""
+  date_finished: "2020-08-11"
+  rating:
+    mine: 1
+  review_url: /review/book/2020/11/06/the-collapsing-empire/
 
 - title: Ancillary Mercy
   series: The Imperial Radch series
   series_entry: Book 3
   author:
     - Ann Leckie
-  rating:
-    mine: 3
   year_published: "2015"
   date_published: "2015-10-08"
-  date_started: "2020-06-30"
-  date_finished: "2020-07-04"
-  review_url: /review/book/2020/11/06/ancillary-mercy/
   format:
     type: Audiobook
     narrator:
@@ -599,19 +572,19 @@
     year_released: 2015
     date_released: "2015-10-08"
     date_purchased: "2020-06-30"
+  date_started: "2020-06-30"
+  date_finished: "2020-07-04"
+  rating:
+    mine: 3
+  review_url: /review/book/2020/11/06/ancillary-mercy/
 
 - title: The Consuming Fire
   series: The Interdependency
   series_entry: Book 2
   author:
     - John Scalzi
-  rating:
-    mine: 2
   year_published: "2018"
   date_published: "2018-09-16"
-  date_started:
-  date_finished: "2020-08-16"
-  review_url: /review/book/2020/11/06/the-consuming-fire/
   format:
     type: Audiobook
     narrator:
@@ -624,17 +597,17 @@
     year_released: "2018"
     date_released: "2018-10-16"
     date_purchased: "2020-06-30"
+  date_started:
+  date_finished: "2020-08-16"
+  rating:
+    mine: 2
+  review_url: /review/book/2020/11/06/the-consuming-fire/
 
 - title: The Remains of the Day
   author:
     - Kazuo Ishiguro
-  rating:
-    mine: 4
   year_published: "1989"
   date_published: "1989-05-01"
-  date_started: "2020-07-04"
-  date_finished: "2020-07-05"
-  review_url: /review/book/2020/11/14/the-remains-of-the-day/
   format:
     type: Audiobook
     narrator:
@@ -647,19 +620,19 @@
     year_released: "2012"
     date_released: "2012-09-06"
     date_purchased: "2020-06-30"
+  date_started: "2020-07-04"
+  date_finished: "2020-07-05"
+  rating:
+    mine: 4
+  review_url: /review/book/2020/11/14/the-remains-of-the-day/
 
 - title: Ancillary Sword
   series: The Imperial Radch series
   series_entry: Book 2
   author:
     - Ann Leckie
-  rating:
-    mine: 3
   year_published: "2014"
   date_published: "2014-09-07"
-  date_started:
-  date_finished: "2020-06-30"
-  review_url: /review/book/2020/11/06/ancillary-sword/
   format:
     type: Audiobook
     narrator:
@@ -672,19 +645,19 @@
     year_released: "2014"
     date_released: "2014-10-07"
     date_purchased: "2020-06-20"
+  date_started:
+  date_finished: "2020-06-30"
+  rating:
+    mine: 3
+  review_url: /review/book/2020/11/06/ancillary-sword/
 
 - title: Ancillary Justice
   series: The Imperial Radch series
   series_entry: Book 1
   author:
     - Ann Leckie
-  rating:
-    mine: 4
   year_published: "2013"
   date_published: "2013-09-01"
-  date_started:
-  date_finished: "2020-06-29"
-  review_url: /review/book/2020/11/06/ancillary-justice/
   format:
     type: Audiobook
     narrator:
@@ -697,6 +670,11 @@
     year_released: "2014"
     date_released: "2014-08-14"
     date_purchased: "2020-06-14"
+  date_started:
+  date_finished: "2020-06-29"
+  rating:
+    mine: 4
+  review_url: /review/book/2020/11/06/ancillary-justice/
 
 - title: The Good Immigrant
   author:
@@ -710,12 +688,8 @@
     - Reni Eddo-Lodge
     - Wei Ming Kam
     - Darren Chetty
-  rating:
-    mine: 5
   year_published: "2016"
   date_published: "2016-09-22"
-  date_started:
-  date_finished: "2020-08-17"
   format:
     type: Audiobook
     narrator:
@@ -737,18 +711,17 @@
     year_released: "2017"
     date_released: "2017-05-04"
     date_purchased: "2020-06-14"
+  date_started:
+  date_finished: "2020-08-17"
+  rating:
+    mine: 5
 
 - title: Oryx and Crake
   series: MaddAddam Trilogy
   series_entry: Book 1
   author:
     - Margaret Atwood
-  rating:
-    mine: 5
   year_published: "2003"
-  date_started:
-  date_finished: "2020-07-12"
-  review_url: /review/book/2020/09/20/oryx-and-crake/
   format:
     type: Audiobook
     narrator:
@@ -761,16 +734,17 @@
     year_released: "2005"
     date_released: "2005-01-21"
     date_purchased: "2020-06-14"
+  date_started:
+  date_finished: "2020-07-12"
+  rating:
+    mine: 5
+  review_url: /review/book/2020/09/20/oryx-and-crake/
 
 - title: "Why I'm No Longer Talking to White People About Race"
   author:
     - Reni Eddo-Lodge
-  rating:
-    mine: 5
   year_published: "2017"
   date_published: "2017-07-01"
-  date_started:
-  date_finished: "2020-06-30"
   format:
     type: Audiobook
     narrator:
@@ -783,18 +757,18 @@
     year_released: "2017"
     date_released: "2017-06-01"
     date_purchased: "2020-06-02"
+  date_started:
+  date_finished: "2020-06-30"
+  rating:
+    mine: 5
 
 - title: The Long Way to a Small, Angry Planet
   series: Wayfarers
   series_entry: Book 1
   author:
     - Becky Chambers
-  rating:
-    mine: 3
   year_published: "2015"
   date_published: "2015-12-31"
-  date_started:
-  date_finished: "2020-06-30"
   review_url: /review/book/2020/11/14/the-long-way-to-a-small-angry-planet
   format:
     type: Audiobook
@@ -808,18 +782,18 @@
     year_released: "2015"
     date_released: "2015-08-13"
     date_purchased: "2020-06-02"
+  date_started:
+  date_finished: "2020-06-30"
+  rating:
+    mine: 3
 
 - title: Wolf Hall
   series: The Wolf Hall Trilogy
   series_entry: Book 1
   author:
     - Hilary Mantel
-  rating:
-    mine: 5
   year_published: "2009"
   date_published: "2009-04-30"
-  date_started:
-  date_finished: "2020-06-30"
   format:
     type: Audiobook
     narrator:
@@ -832,17 +806,16 @@
     year_released: "2009"
     date_released: "2009-10-16"
     date_purchased: "2020-04-12"
+  date_started:
+  date_finished: "2020-06-30"
+  rating:
+    mine: 5
 
 - title: Educated
   author:
     - Tara Westover
-  rating:
-    mine: 5
   year_published: "2019"
   date_published: "2019-02-18"
-  date_started:
-  date_finished: "2020-04-10"
-  review_url: /review/book/2020/12/20/educated
   format:
     type: Audiobook
     narrator:
@@ -855,18 +828,18 @@
     year_released: "2018"
     date_released: "2018-02-20"
     date_purchased: "2020-03-30"
+  date_started:
+  date_finished: "2020-04-10"
+  rating:
+    mine: 5
+  review_url: /review/book/2020/12/20/educated
 
 - title: Something Deeply Hidden
   full_title: "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime"
   author:
     - Sean Carroll
-  rating:
-    mine: 4
   year_published: "2019"
   date_published: "2019-09-10"
-  date_started:
-  date_finished: "2020-04-06"
-  review_url: /review/book/2020/12/03/something-deeply-hidden
   format:
     type: Audiobook
     narrator:
@@ -879,20 +852,19 @@
     year_released: "2019"
     date_released: "2019-09-10"
     date_purchased: "2020-02-11"
+  date_started:
+  date_finished: "2020-04-06"
+  rating:
+    mine: 4
+  review_url: /review/book/2020/12/03/something-deeply-hidden
 
 - title: "Middle England"
   series: "Rotters' Club"
   series_entry: Book 3
   author:
     - Jonathan Coe
-  rating:
-    mine: 3
   year_published: "2019"
   date_published: "2019-06-04"
-  date_started:
-  date_finished: "2020-01-16"
-  date_added: "2020-09-07"
-  review_url: /review/book/2020/12/07/middle-england
   format:
     type: Paperback
     aisn: "1596434465"
@@ -901,3 +873,8 @@
     publisher: Penguin
     language: English
     pages: 432
+  date_started:
+  date_finished: "2020-01-16"
+  rating:
+    mine: 3
+  review_url: /review/book/2020/12/07/middle-england
