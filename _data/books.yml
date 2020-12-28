@@ -1,4 +1,26 @@
 ---
+- title: Life on Earth
+  subtitle: ""
+  author:
+    - David Attenborough
+  format:
+    type: Audiobook
+    narrator:
+      - David Attenborough
+    aisn:
+      product: B07DY76BPC
+      membership: B07BVZK3XQ
+    publisher: HarperCollins Publishers Limited
+    version: Unabridged
+    listening_length: 12 hours and 26 minutes
+    year_released: 2018
+    date_released: "2018-09-20"
+    date_purchased: "2020-12-23"
+  date_started: "2020-12-26"
+  date_finished: "2020-12-28"
+  rating:
+    mine: 4
+
 - title: The Book of Trespass
   subtitle: Crossing the Lines That Divide Us
   author:
