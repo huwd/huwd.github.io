@@ -80,10 +80,13 @@ class GetBookInfo
   def extract_amazon_page_link_from_audible
     @review_page_state_object = JSON.parse(review_page.css('#cr-state-object').attr('data-state').value)
     state_object_signin_url = review_page_state_object['signinUrl']
-    open_id_connect_return_to_url = state_object_signin_url.split('?')[1].split('&').select { |val| val[0..15] == 'openid.return_to' }.first
-    @amazon_path = URI.decode_www_form_component(open_id_connect_return_to_url.split('=')[1])
-                      .gsub('product-reviews/', 'dp/')
-                      .gsub('audible', 'amazon')
+    @amazon_path = if /openid.return_to/ =~ review_page_state_object['signinUrl']
+                     open_id_connect_return_to_url = state_object_signin_url.split('?')[1].split('&').select { |val| val[0..15] == 'openid.return_to' }.first
+                     URI.decode_www_form_component(open_id_connect_return_to_url.split('=')[1])
+                        .gsub('product-reviews/', 'dp/')
+                   elsif review_page_state_object['asin']
+                     'http://' + URI.parse(state_object_signin_url).host + '/dp/' + review_page_state_object['asin']
+                   end.gsub('audible', 'amazon')
   end
 
   def get_amazon_page
