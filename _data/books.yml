@@ -1,4 +1,44 @@
 ---
+- title: The Peregrine
+  author:
+    - J. A. Baker
+  date_started: "2020-12-29"
+  format:
+    type: Audiobook
+    narrator:
+      - J. A. Baker
+    aisn:
+      product: "0008388245"
+      membership: B07BVZK3XQ
+    publisher: William Collins
+    version: Unabridged
+    listening_length: 8 hours and 56 minutes
+    year_released: 2019
+    date_released: "2019-11-21"
+    date_purchased: "2020-12-23"
+  date_finished: "2020-12-31"
+  rating:
+    mine: 5
+
+- title: Crashed
+  subtitle: "How a Decade of Financial Crises Changed the World"
+  author:
+    - Adam Tooze
+  date_started: "2020-12-29"
+  format:
+    type: Audiobook
+    narrator:
+      - Adam Tooze
+    aisn:
+      product: B07FPPX125
+      membership: B07BVZK3XQ
+    publisher: "Penguin Books Ltd "
+    version: Unabridged
+    listening_length: 25 hours and 27 minutes
+    year_released: 2018
+    date_released: "2018-08-02"
+    date_purchased: "2020-12-21"
+
 - title: Life on Earth
   author:
     - David Attenborough
