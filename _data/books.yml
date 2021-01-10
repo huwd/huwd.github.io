@@ -1,4 +1,23 @@
 ---
+- title: October
+  subtitle: The Story of the Russian Revolution
+  author:
+    - China Mieville
+  format:
+    type: Audiobook
+    narrator:
+      - China Mieville
+    aisn:
+      product: B06XWGCN7S
+      membership: B07BVZK3XQ
+    publisher: Audible Studios
+    version: Unabridged
+    listening_length: 11 hours and 37 minutes
+    year_released: 2017
+    date_released: "2017-05-09"
+    date_purchased: "2020-12-21"
+  date_started: "2021-01-10"
+
 - title: The Peregrine
   author:
     - J. A. Baker
