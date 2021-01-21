@@ -148,7 +148,7 @@ class GetBookInfo
   end
 
   def book_narrators
-    audible_page.css('li.authorLabel > a').map(&:text)
+    audible_page.css('li.narratorLabel > a').map(&:text)
   end
 
   def book_aisns; end

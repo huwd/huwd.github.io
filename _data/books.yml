@@ -6,7 +6,7 @@
   format:
     type: Audiobook
     narrator:
-      - China Mieville
+      - John Banks
     aisn:
       product: B06XWGCN7S
       membership: B07BVZK3XQ
@@ -27,7 +27,7 @@
   format:
     type: Audiobook
     narrator:
-      - J. A. Baker
+      - David Attenborough
     aisn:
       product: "0008388245"
       membership: B07BVZK3XQ
@@ -49,6 +49,7 @@
   format:
     type: Audiobook
     narrator:
+      - Simon Vance
       - Adam Tooze
     aisn:
       product: B07FPPX125
