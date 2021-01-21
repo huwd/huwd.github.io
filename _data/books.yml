@@ -17,6 +17,9 @@
     date_released: "2017-05-09"
     date_purchased: "2020-12-21"
   date_started: "2021-01-10"
+  date_finished: "2021-12-20"
+  rating:
+    mine: 3
 
 - title: The Peregrine
   author:
