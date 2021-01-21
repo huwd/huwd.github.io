@@ -81,7 +81,9 @@ class GetBookInfo
     @review_page_state_object = JSON.parse(review_page.css('#cr-state-object').attr('data-state').value)
     state_object_signin_url = review_page_state_object['signinUrl']
     @amazon_path = if /openid.return_to/ =~ review_page_state_object['signinUrl']
-                     open_id_connect_return_to_url = state_object_signin_url.split('?')[1].split('&').select { |val| val[0..15] == 'openid.return_to' }.first
+                     open_id_connect_return_to_url = state_object_signin_url.split('?')[1].split('&').select do |val|
+                       val[0..15] == 'openid.return_to'
+                     end.first
                      URI.decode_www_form_component(open_id_connect_return_to_url.split('=')[1])
                         .gsub('product-reviews/', 'dp/')
                    elsif review_page_state_object['asin']
