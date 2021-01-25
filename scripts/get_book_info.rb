@@ -109,7 +109,6 @@ class GetBookInfo
       title: book_title,
       subtitle: book_subtitle,
       author: book_authors,
-      date_started: '@TODO',
       format: {
         type: 'Audiobook',
         narrator: book_narrators,
@@ -120,7 +119,8 @@ class GetBookInfo
         year_released: audible_release_date.year,
         date_released: audible_release_date.strftime('%Y-%m-%d'),
         date_purchased: '@TODO'
-      }
+      }, 
+      date_started: '@TODO',
     }
   end
 
