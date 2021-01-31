@@ -186,6 +186,7 @@
   date_finished: "2020-12-25"
   rating:
     mine: 5
+  review_url: /review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon
 
 - title: Zoo Quest for a Dragon
   author:
@@ -207,6 +208,7 @@
   date_finished: "2020-12-24"
   rating:
     mine: 5
+  review_url: /review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon
 
 - title: Quest under Capricorn
   author:
@@ -229,6 +231,7 @@
   date_finished: "2020-12-23"
   rating:
     mine: 5
+  review_url: /review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon
 
 - title: David Attenborough's New Life Stories
   author:
@@ -483,6 +486,7 @@
   date_finished: "2020-11-12"
   rating:
     mine: 4
+  review_url: /review/book/2021/01/31/the-city-we-became
 
 - title: The Word for World is Forest
   series: Hanish Cycle
@@ -698,6 +702,7 @@
   date_finished: "2020-08-18"
   rating:
     mine: 4
+  review_url: /review/book/2021/01/31/greetings-from-bury-park
 
 - title: The Collapsing Empire
   series: The Interdependency
@@ -886,6 +891,7 @@
   date_finished: "2020-08-17"
   rating:
     mine: 5
+  review_url: /review/book/2020/12/21/the-good-immigrant
 
 - title: Oryx and Crake
   series: MaddAddam Trilogy
@@ -932,6 +938,7 @@
   date_finished: "2020-06-30"
   rating:
     mine: 5
+  review_url: /review/book/2021/01/31/why-im-no-longer-talking-to-white-people-about-race/
 
 - title: The Long Way to a Small, Angry Planet
   series: Wayfarers
