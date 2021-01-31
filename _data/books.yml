@@ -1,4 +1,22 @@
 ---
+- title: Half of a Yellow Sun
+  author:
+    - Chimamanda Ngozi Adichie
+  format:
+    type: Audiobook
+    narrator:
+      - Zainab Jah
+    aisn:
+      product: B01MSPM1QV
+      membership: B07BVZK3XQ
+    publisher: HarperCollins Publishers Limited
+    version: Unabridged
+    listening_length: 18 hours and 9 minutes
+    year_released: 2017
+    date_released: "2017-09-28"
+    date_purchased: "2020-12-21"
+  date_started: "2021-01-26"
+
 - title: The Age of Surveillance Capitalism
   subtitle: The Fight for a Human Future at the New Frontier of Power
   author:
