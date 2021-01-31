@@ -20,19 +20,19 @@
 - title: The Age of Surveillance Capitalism
   subtitle: The Fight for a Human Future at the New Frontier of Power
   author:
-  - Shoshana Zuboff
+    - Shoshana Zuboff
   format:
     type: Audiobook
     narrator:
-    - Nicol Zanzarella
+      - Nicol Zanzarella
     aisn:
-      product: '1478947276'
+      product: "1478947276"
       membership: B07BVZK3XQ
     publisher: Hachette Audio
     version: Unabridged
     listening_length: 24 hours and 16 minutes
     year_released: 2019
-    date_released: '2019-01-28'
+    date_released: "2019-01-28"
     date_purchased: "2019-10-29"
   date_started: "2021-01-25"
 
@@ -75,7 +75,7 @@
     date_released: "2017-05-09"
     date_purchased: "2020-12-21"
   date_started: "2021-01-10"
-  date_finished: "2021-12-20"
+  date_finished: "2021-01-20"
   rating:
     mine: 3
 
@@ -119,7 +119,7 @@
     date_released: "2018-08-02"
     date_purchased: "2020-12-21"
   date_started: "2020-12-29"
-  date_finished: "2020-01-10"
+  date_finished: "2021-01-10"
   rating:
     mine: 4
 
