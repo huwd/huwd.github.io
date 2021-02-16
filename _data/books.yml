@@ -16,6 +16,9 @@
     date_released: "2017-09-28"
     date_purchased: "2020-12-21"
   date_started: "2021-01-26"
+  date_finished: "2021-02-08"
+  rating:
+    mine: 4
 
 - title: The Age of Surveillance Capitalism
   subtitle: The Fight for a Human Future at the New Frontier of Power
