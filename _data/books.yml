@@ -1,4 +1,52 @@
 ---
+- title: Tweet of the Day
+  subtitle: A Year of British Birds
+  author:
+    - BBC Natural History Radio
+  format:
+    type: Audiobook
+    narrator:
+      - Bill Oddie
+      - Brett Westwood
+      - Chris Packham
+      - David Attenborough
+      - John Aitchison
+      - Kate Humble
+      - Liz Bonnin
+      - Martin Hughes-Games
+    aisn:
+      product: B07BFWVFQK
+      membership: B07BVZK3XQ
+    publisher: BBC Digital Audio
+    version: Original recording
+    listening_length: 6 hours and 50 minutes
+    year_released: 2018
+    date_released: "2018-07-05"
+    date_purchased: "2021-03-10"
+  date_started: "2021-03-10"
+
+- title: Kindred
+  subtitle: Neatherthal Life, Love, Death and Art
+  author:
+    - Rebecca Wragg Sykes
+  format:
+    type: Audiobook
+    narrator:
+      - Rebecca Wragg Sykes
+    aisn:
+      product: "1472962141"
+      membership: B07BVZK3XQ
+    publisher: Audible Studios
+    version: Unabridged
+    listening_length: 16 hours and 26 minutes
+    year_released: 2020
+    date_released: "2020-08-25"
+    date_purchased: "2021-12-20"
+  date_started: "2021-12-22"
+  date_finished: "2021-03-08"
+  rating:
+    mine: 4
+
 - title: Half of a Yellow Sun
   author:
     - Chimamanda Ngozi Adichie
