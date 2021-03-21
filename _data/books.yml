@@ -24,6 +24,9 @@
     date_released: "2018-07-05"
     date_purchased: "2021-03-10"
   date_started: "2021-03-10"
+  date_finished: "2021-03-21"
+  rating:
+    mine: 4
 
 - title: Kindred
   subtitle: Neatherthal Life, Love, Death and Art
