@@ -1,12 +1,16 @@
 ---
 layout: listing
-title: Books I've read
+title: Reading
 ---
+{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_finished != nil' | sort: "date_finished" |
+reverse %}
 
-{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_finished != nil' | sort: "date_finished" | reverse %}
-<h1>The {{ finished_books | size}} books I read in 2020:</h1>
+{% assign finished_books_by_year = finished_books | group_by_exp:"book", "book.date_finished | date: '%Y'" %}
+{% for year in finished_books_by_year %}
+
+<h2>{{ year.name }}</h2>
 <ul>
-  {% for book in finished_books %}
+  {% for book in year.items %}
   <li>
     {% if book.review_url %}
     <a class="title" href="{{ site.baseurl }}{{ book.review_url }}">
@@ -24,8 +28,9 @@ title: Books I've read
       {{ book.date_finished | date: "%Y-%m-%d" }}
     </time>
     <div class="rating">
-      {{ "★★★★★" | truncate: book.rating.mine, ""  }}
+      {{ "★★★★★" | truncate: book.rating.mine, "" }}
     </div>
   </li>
   {% endfor %}
 </ul>
+{% endfor %}
