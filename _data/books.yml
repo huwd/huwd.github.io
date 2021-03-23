@@ -1,4 +1,23 @@
 ---
+- title: This Is Going to Hurt
+  subtitle: Secret Diaries of a Junior Doctor
+  author:
+    - Adam Kay
+  format:
+    type: Audiobook
+    narrator:
+      - Adam Kay
+    aisn:
+      product: B071K6YYDN
+      membership: B07BVZK3XQ
+    publisher: Picador
+    version: Unabridged
+    listening_length: 5 hours and 47 minutes
+    year_released: 2017
+    date_released: "2017-09-07"
+    date_purchased: "2021-03-21"
+  date_started: "2021-03-23"
+
 - title: Consider Phlebas
   series: Culture Series
   series_entry: Book 1
