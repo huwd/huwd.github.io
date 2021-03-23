@@ -37,6 +37,9 @@
     date_released: "2010-11-05"
     date_purchased: "2021-03-21"
   date_started: "2021-03-21"
+  date_finished: "2021-03-23"
+  rating:
+    mine: 4
 
 - title: Tweet of the Day
   subtitle: A Year of British Birds
