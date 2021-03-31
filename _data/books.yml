@@ -1,4 +1,24 @@
 ---
+- title: The State of the Art
+  series: Culture Series
+  series_entry: Book 4
+  author:
+    - Iain M. Banks
+  format:
+    type: Audiobook
+    narrator:
+      - Peter Kenny
+    aisn:
+      product: B00HS4UEQQ
+      membership: B07BVZK3XQ
+    publisher: Hachette Audio UK
+    version: Unabridged
+    listening_length: 6 hours and 20 minutes
+    year_released: 2014
+    date_released: "2014-01-23"
+    date_purchased: "2021-03-21"
+  date_started: "2021-03-28"
+
 - title: Use of Weapons
   series: Culture Series
   series_entry: Book 3
