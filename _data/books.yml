@@ -17,6 +17,9 @@
     date_released: "2017-09-07"
     date_purchased: "2021-03-21"
   date_started: "2021-03-23"
+  date_finished: "2021-03-25"
+  rating:
+    mine: 4
 
 - title: Consider Phlebas
   series: Culture Series
