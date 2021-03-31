@@ -38,6 +38,9 @@
     date_released: "2012-04-05"
     date_purchased: "2021-03-21"
   date_started: "2021-03-28"
+  date_finished: "2021-03-31"
+  rating:
+    mine: 4
 
 - title: The Player of Games
   series: Culture Series
