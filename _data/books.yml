@@ -1,4 +1,18 @@
 ---
+- title: The Red Kite
+  author:
+    - Ian Carter
+    - Dan Powell
+  format:
+    type: Hardcover
+    print_length: 245 pages
+    language: English
+    publisher: Subbuteo Natural History Books, a division of C J WildBird Foods Ltd
+    publication_date: 11 Dec. 2007
+    isbn10: "1905268033"
+    isbn13: 978-1905268030
+    date_purchased: "2021-10-11"
+  date_started: "2021-04-12"
 - title: The Red Kite's Year
   series: Pelagic Monographs
   author:
