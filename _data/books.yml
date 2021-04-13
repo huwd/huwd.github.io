@@ -1,4 +1,24 @@
 ---
+- title: The Red Kite's Year
+  series: Pelagic Monographs
+  author:
+    - Ian Carter
+    - Dan Powell
+  year_published: "2019"
+  date_published: "2019-04-08"
+  format:
+    type: paperback
+    isbn: 1784272000
+    isbn13: 978-1784272005
+    dimensions: 15.72 x 1.4 x 23.55 cm
+    publisher: Pelagic Publishing
+    language: English
+    pages: 176
+  date_started: "2021-04-10"
+  date_finished: "2021-04-11"
+  rating:
+    mine: 5
+
 - title: Dawn
   subtitle: Xenogenesis, Book 1
   author:
