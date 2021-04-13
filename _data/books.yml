@@ -18,7 +18,6 @@
   date_finished: "2021-04-11"
   rating:
     mine: 5
-
 - title: Dawn
   series: Xenogenesis
   series_entry: Book 1
@@ -39,7 +38,6 @@
     date_purchased: "2021-03-21"
   date_started: "2021-04-03"
   date_finished: "2021-04-12"
-
 - title: Excession
   series: Culture Series
   series_entry: Book 5
@@ -62,7 +60,6 @@
   date_finished: "2021-04-08"
   rating:
     mine: 5
-
 - title: The State of the Art
   series: Culture Series
   series_entry: Book 4
@@ -85,7 +82,6 @@
   date_finished: "2021-04-03"
   rating:
     mine: 4
-
 - title: Use of Weapons
   series: Culture Series
   series_entry: Book 3
@@ -108,7 +104,6 @@
   date_finished: "2021-03-31"
   rating:
     mine: 4
-
 - title: The Player of Games
   series: Culture Series
   series_entry: Book 2
@@ -131,7 +126,6 @@
   date_finished: "2021-03-28"
   rating:
     mine: 4
-
 - title: This Is Going to Hurt
   subtitle: Secret Diaries of a Junior Doctor
   author:
@@ -153,7 +147,6 @@
   date_finished: "2021-03-25"
   rating:
     mine: 4
-
 - title: Consider Phlebas
   series: Culture Series
   series_entry: Book 1
@@ -176,7 +169,6 @@
   date_finished: "2021-03-23"
   rating:
     mine: 4
-
 - title: Tweet of the Day
   subtitle: A Year of British Birds
   author:
@@ -205,7 +197,6 @@
   date_finished: "2021-03-21"
   rating:
     mine: 4
-
 - title: Kindred
   subtitle: Neatherthal Life, Love, Death and Art
   author:
@@ -227,7 +218,6 @@
   date_finished: "2021-03-08"
   rating:
     mine: 4
-
 - title: Half of a Yellow Sun
   author:
     - Chimamanda Ngozi Adichie
@@ -248,7 +238,6 @@
   date_finished: "2021-02-08"
   rating:
     mine: 4
-
 - title: The Age of Surveillance Capitalism
   subtitle: The Fight for a Human Future at the New Frontier of Power
   author:
@@ -267,7 +256,6 @@
     date_released: "2019-01-28"
     date_purchased: "2019-10-29"
   date_started: "2021-01-25"
-
 - title: The Queen's Gambit
   author:
     - Walter Tevis
@@ -288,7 +276,6 @@
   date_finished: "2021-01-25"
   rating:
     mine: 5
-
 - title: October
   subtitle: The Story of the Russian Revolution
   author:
@@ -310,7 +297,6 @@
   date_finished: "2021-01-20"
   rating:
     mine: 3
-
 - title: The Peregrine
   author:
     - J. A. Baker
@@ -331,9 +317,8 @@
   date_finished: "2020-12-31"
   rating:
     mine: 5
-
 - title: Crashed
-  subtitle: "How a Decade of Financial Crises Changed the World"
+  subtitle: How a Decade of Financial Crises Changed the World
   author:
     - Adam Tooze
   format:
@@ -354,7 +339,6 @@
   date_finished: "2021-01-10"
   rating:
     mine: 4
-
 - title: Life on Earth
   author:
     - David Attenborough
@@ -375,7 +359,6 @@
   date_finished: "2020-12-28"
   rating:
     mine: 4
-
 - title: The Book of Trespass
   subtitle: Crossing the Lines That Divide Us
   author:
@@ -397,7 +380,6 @@
   date_finished: "2020-12-26"
   rating:
     mine: 4
-
 - title: Quest in Paradise
   author:
     - David Attenborough
@@ -418,8 +400,7 @@
   date_finished: "2020-12-25"
   rating:
     mine: 5
-  review_url: /review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon
-
+  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon"
 - title: Zoo Quest for a Dragon
   author:
     - David Attenborough
@@ -440,8 +421,7 @@
   date_finished: "2020-12-24"
   rating:
     mine: 5
-  review_url: /review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon
-
+  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon"
 - title: Quest under Capricorn
   author:
     - David Attenborough
@@ -463,8 +443,7 @@
   date_finished: "2020-12-23"
   rating:
     mine: 5
-  review_url: /review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon
-
+  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon"
 - title: David Attenborough's New Life Stories
   author:
     - David Attenborough
@@ -478,7 +457,7 @@
     publisher: BBC Worldwide Ltd
     version: Unabridged
     language: English
-    listening_length: "3 hrs and 14 mins"
+    listening_length: 3 hrs and 14 mins
     year_released: 2017
     date_released: "2017-08-11"
     date_purchased: "2020-12-21"
@@ -486,7 +465,6 @@
   date_finished: "2020-12-23"
   rating:
     mine: 5
-
 - title: Atomic Habits
   author:
     - James Clear
@@ -500,7 +478,7 @@
     publisher: Penguin Audio
     version: Unabridged
     language: English
-    listening_length: "5 hrs and 35 mins"
+    listening_length: 5 hrs and 35 mins
     year_released: 2018
     date_released: "2018-10-18"
     date_purchased: "2020-12-20"
@@ -508,7 +486,6 @@
   date_finished: "2020-12-22"
   rating:
     mine: 3
-
 - title: Who We Are and How We Got Here
   author:
     - David Reich
@@ -522,7 +499,7 @@
     publisher: Blackstone Audio, Inc.
     version: Unabridged
     language: English
-    listening_length: "10 hrs and 50 mins"
+    listening_length: 10 hrs and 50 mins
     year_released: 2018
     date_released: "2018-06-18"
     date_purchased: "2018-09-18"
@@ -530,7 +507,6 @@
   date_finished: "2020-12-28"
   rating:
     mine: 5
-
 - title: Bring Up the Bodies
   series: The Wolf Hall Trilogy
   series_entry: Book 2
@@ -554,8 +530,7 @@
   date_finished: "2020-12-20"
   rating:
     mine: 4
-  review_url: /review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies
-
+  review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies"
 - title: The Song of Achilles
   author:
     - Madeline Miller
@@ -577,8 +552,7 @@
   date_finished: "2020-12-18"
   rating:
     mine: 5
-  review_url: /review/book/2020/12/18/the-song-of-achilles
-
+  review_url: "/review/book/2020/12/18/the-song-of-achilles"
 - title: A Closed and Common Orbit
   series: Wayfarers
   series_entry: Book 2
@@ -602,7 +576,6 @@
   date_finished: "2020-12-15"
   rating:
     mine: 3
-
 - title: The Doors of Eden
   author:
     - Adrian Tchaikovsky
@@ -616,7 +589,7 @@
     publisher: Macmillan
     version: Unabridged
     language: English
-    listening_length: "18 hrs and 2 mins"
+    listening_length: 18 hrs and 2 mins
     year_released: 2020
     date_released: 2020-08-20"
     date_purchased: "2020-11-19"
@@ -624,7 +597,6 @@
   date_finished: "2020-12-06"
   rating:
     mine: 5
-
 - title: The Fat Years
   author:
     - Chan Koonchung
@@ -639,7 +611,7 @@
     publisher: Random House AudioBooks
     version: Unabridged
     language: English
-    listening_length: "9 hrs and 59 mins"
+    listening_length: 9 hrs and 59 mins
     year_released: 2011
     date_released: "2011-08-16"
     date_purchased: "2020-08-18"
@@ -647,7 +619,6 @@
   date_finished: "2020-12-01"
   rating:
     mine: 3
-
 - title: Where the Crawdads Sing
   author:
     - Delia Owens
@@ -660,7 +631,7 @@
     publisher: Hachette Audio UK
     version: Unabridged
     language: English
-    listening_length: "12 hrs and 12 mins"
+    listening_length: 12 hrs and 12 mins
     year_released: 2018
     date_released: "2018-11-08"
     date_purchased: "2020-08-20"
@@ -668,14 +639,13 @@
   date_finished: "2020-11-26"
   rating:
     mine: 3
-
 - title: Persepolis I & II
   author:
     - Marjane Satrapi
   year_published: "2008"
   format:
     type: paperback
-    isbn: 009952399X
+    isbn: "009952399X"
     isbn13: 978-0099523994
     publisher: Vintage
     language: English
@@ -684,7 +654,6 @@
   date_finished: "2020-11-25"
   rating:
     mine: 4
-
 - title: "Peter Scott: Collected Writings, 1933-1989"
   author:
     - Peter Scott
@@ -697,7 +666,6 @@
     language: English
     pages: 300
   date_started: "2020-10-15"
-
 - title: The City We Became
   author:
     - N. K. Jemisin
@@ -718,8 +686,7 @@
   date_finished: "2020-11-12"
   rating:
     mine: 4
-  review_url: /review/book/2021/01/31/the-city-we-became
-
+  review_url: "/review/book/2021/01/31/the-city-we-became"
 - title: The Word for World is Forest
   series: Hanish Cycle
   series_entry: Book 3
@@ -738,8 +705,7 @@
   date_finished: "2020-09-15"
   rating:
     mine: 4
-  review_url: /review/book/2020/09/15/the-word-for-world-is-forest
-
+  review_url: "/review/book/2020/09/15/the-word-for-world-is-forest"
 - title: Lovecraft Country
   author:
     - Matt Ruff
@@ -761,8 +727,7 @@
   date_finished: "2020-09-08"
   rating:
     mine: 4
-  review_url: /review/book/2020/09/10/lovecraft-country
-
+  review_url: "/review/book/2020/09/10/lovecraft-country"
 - title: Vesper Flights
   full_title: Vesper Flights
   author:
@@ -785,8 +750,7 @@
   date_finished: "2020-09-05"
   rating:
     mine: 5
-  review_url: /review/book/2020/09/15/vesper-flights
-
+  review_url: "/review/book/2020/09/15/vesper-flights"
 - title: MaddAddam
   series: MaddAddam Trilogy
   series_entry: Book 3
@@ -812,8 +776,7 @@
   date_finished: "2020-08-31"
   rating:
     mine: 4
-  review_url: /review/book/2020/09/20/maddaddam/
-
+  review_url: "/review/book/2020/09/20/maddaddam/"
 - title: The Year of the Flood
   series: MaddAddam Trilogy
   series_entry: Book 2
@@ -837,8 +800,7 @@
   date_finished: "2020-08-29"
   rating:
     mine: 4
-  review_url: /review/book/2020/09/20/the-year-of-the-flood/
-
+  review_url: "/review/book/2020/09/20/the-year-of-the-flood/"
 - title: Wuhan Diary
   full_title: "Wuhan Diary: Dispatches from the Original Epicenter"
   author:
@@ -862,8 +824,7 @@
   date_finished: "2020-08-29"
   rating:
     mine: 4
-  review_url: /review/book/2020/10/18/wuhan-diary/
-
+  review_url: "/review/book/2020/10/18/wuhan-diary/"
 - title: Zita the Spacegirl
   series: Zita the Spacegirl
   series_entry: Book 1
@@ -875,7 +836,7 @@
     type: Paperback
     aisn: "1596434465"
     isbn: "9781596434462"
-    isbn13: "978-1596434462"
+    isbn13: 978-1596434462
     publisher: First Second
     language: English
     pages: 192
@@ -884,8 +845,7 @@
   date_finished: "2020-07-25"
   rating:
     mine: 5
-  review_url: /review/book/2020/09/29/zita-the-spacegirl
-
+  review_url: "/review/book/2020/09/29/zita-the-spacegirl"
 - title: Will Save the Galaxy for Food
   series: Jacques McKeown
   series_entry: Book 1
@@ -909,8 +869,7 @@
   date_finished: "2020-07-25"
   rating:
     mine: 3
-  review_url: /review/book/2020/12/08/will-save-the-galaxy-for-food
-
+  review_url: "/review/book/2020/12/08/will-save-the-galaxy-for-food"
 - title: Greetings from Bury Park
   author:
     - Sarfraz Manzoor
@@ -934,8 +893,7 @@
   date_finished: "2020-08-18"
   rating:
     mine: 4
-  review_url: /review/book/2021/01/31/greetings-from-bury-park
-
+  review_url: "/review/book/2021/01/31/greetings-from-bury-park"
 - title: The Collapsing Empire
   series: The Interdependency
   series_entry: Book 1
@@ -959,8 +917,7 @@
   date_finished: "2020-08-11"
   rating:
     mine: 1
-  review_url: /review/book/2020/11/06/the-collapsing-empire/
-
+  review_url: "/review/book/2020/11/06/the-collapsing-empire/"
 - title: Ancillary Mercy
   series: The Imperial Radch series
   series_entry: Book 3
@@ -984,8 +941,7 @@
   date_finished: "2020-07-04"
   rating:
     mine: 3
-  review_url: /review/book/2020/11/06/ancillary-mercy/
-
+  review_url: "/review/book/2020/11/06/ancillary-mercy/"
 - title: The Consuming Fire
   series: The Interdependency
   series_entry: Book 2
@@ -1009,8 +965,7 @@
   date_finished: "2020-08-16"
   rating:
     mine: 2
-  review_url: /review/book/2020/11/06/the-consuming-fire/
-
+  review_url: "/review/book/2020/11/06/the-consuming-fire/"
 - title: The Remains of the Day
   author:
     - Kazuo Ishiguro
@@ -1032,8 +987,7 @@
   date_finished: "2020-07-05"
   rating:
     mine: 4
-  review_url: /review/book/2020/11/14/the-remains-of-the-day/
-
+  review_url: "/review/book/2020/11/14/the-remains-of-the-day/"
 - title: Ancillary Sword
   series: The Imperial Radch series
   series_entry: Book 2
@@ -1057,8 +1011,7 @@
   date_finished: "2020-06-30"
   rating:
     mine: 3
-  review_url: /review/book/2020/11/06/ancillary-sword/
-
+  review_url: "/review/book/2020/11/06/ancillary-sword/"
 - title: Ancillary Justice
   series: The Imperial Radch series
   series_entry: Book 1
@@ -1082,8 +1035,7 @@
   date_finished: "2020-06-29"
   rating:
     mine: 4
-  review_url: /review/book/2020/11/06/ancillary-justice/
-
+  review_url: "/review/book/2020/11/06/ancillary-justice/"
 - title: The Good Immigrant
   author:
     - Nikesh Shukla
@@ -1123,8 +1075,7 @@
   date_finished: "2020-08-17"
   rating:
     mine: 5
-  review_url: /review/book/2020/12/21/the-good-immigrant
-
+  review_url: "/review/book/2020/12/21/the-good-immigrant"
 - title: Oryx and Crake
   series: MaddAddam Trilogy
   series_entry: Book 1
@@ -1147,9 +1098,8 @@
   date_finished: "2020-07-12"
   rating:
     mine: 5
-  review_url: /review/book/2020/09/20/oryx-and-crake/
-
-- title: "Why I'm No Longer Talking to White People About Race"
+  review_url: "/review/book/2020/09/20/oryx-and-crake/"
+- title: Why I'm No Longer Talking to White People About Race
   author:
     - Reni Eddo-Lodge
   year_published: "2017"
@@ -1170,8 +1120,7 @@
   date_finished: "2020-06-30"
   rating:
     mine: 5
-  review_url: /review/book/2021/01/31/why-im-no-longer-talking-to-white-people-about-race/
-
+  review_url: "/review/book/2021/01/31/why-im-no-longer-talking-to-white-people-about-race/"
 - title: The Long Way to a Small, Angry Planet
   series: Wayfarers
   series_entry: Book 1
@@ -1179,7 +1128,7 @@
     - Becky Chambers
   year_published: "2015"
   date_published: "2015-12-31"
-  review_url: /review/book/2020/11/14/the-long-way-to-a-small-angry-planet
+  review_url: "/review/book/2020/11/14/the-long-way-to-a-small-angry-planet"
   format:
     type: Audiobook
     narrator:
@@ -1196,7 +1145,6 @@
   date_finished: "2020-06-30"
   rating:
     mine: 3
-
 - title: Wolf Hall
   series: The Wolf Hall Trilogy
   series_entry: Book 1
@@ -1220,8 +1168,7 @@
   date_finished: "2020-06-30"
   rating:
     mine: 5
-  review_url: /review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies
-
+  review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies"
 - title: Educated
   author:
     - Tara Westover
@@ -1243,8 +1190,7 @@
   date_finished: "2020-04-10"
   rating:
     mine: 5
-  review_url: /review/book/2020/12/20/educated
-
+  review_url: "/review/book/2020/12/20/educated"
 - title: Something Deeply Hidden
   full_title: "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime"
   author:
@@ -1267,10 +1213,9 @@
   date_finished: "2020-04-06"
   rating:
     mine: 4
-  review_url: /review/book/2020/12/03/something-deeply-hidden
-
-- title: "Middle England"
-  series: "Rotters' Club"
+  review_url: "/review/book/2020/12/03/something-deeply-hidden"
+- title: Middle England
+  series: Rotters' Club
   series_entry: Book 3
   author:
     - Jonathan Coe
@@ -1280,7 +1225,7 @@
     type: Paperback
     aisn: "1596434465"
     isbn: "0241983681"
-    isbn13: "978-0241983683"
+    isbn13: 978-0241983683
     publisher: Penguin
     language: English
     pages: 432
@@ -1288,4 +1233,4 @@
   date_finished: "2020-01-16"
   rating:
     mine: 3
-  review_url: /review/book/2020/12/07/middle-england
+  review_url: "/review/book/2020/12/07/middle-england"
