@@ -2,6 +2,7 @@ require 'nokogiri'
 require 'mechanize'
 require 'json'
 require 'pry'
+require 'yaml'
 
 class ::Hash
   # via https://stackoverflow.com/a/25835016/2257038
@@ -44,33 +45,70 @@ class GetBookInfo
 
   def call
     create_scraping_agent
-    extract_from_audible
-    puts [output_data.stringify_keys].to_yaml
+    set_scaper_type
+    extract_from_audible if @domain == 'audible'
+    extract_from_amazon
+    load_books_yml
+    conditionally_write_to_file
   end
 
   private
+
+  def load_books_yml
+    @books_yml = YAML.load_file('_data/books.yml')
+  end
+
+  def conditionally_write_to_file
+    if @books_yml.map { |book| "#{book['title']}#{book['format']}" }
+                 .include?("#{output_data['title']}#{output_data['format']}")
+      puts 'There appears to already be an entry for this book, manually copy paste:'
+      puts ''
+      puts [output_data.stringify_keys].to_yaml
+    else
+      File.open('_data/books.yml', 'w') do |file|
+        file.write([output_data.stringify_keys, *@books_yml].to_yaml)
+      end
+    end
+  end
+
+  def set_scaper_type
+    uri = URI.parse(@url)
+    if uri.nil?
+      puts 'URL is not processable by URI, please  check format'
+      nil
+    elsif uri.host.include?('amazon')
+      @domain == 'amazon'
+    elsif uri.host.include?('audible')
+      @domain == 'audible'
+    end
+  end
 
   def create_scraping_agent
     @agent = Mechanize.new { |agent| agent.user_agent = user_agent }
   end
 
-  def extract_from_audible
-    @audible_path = @url.split('?')[0]
-    get_audible_page
-    get_amazon_review_page
-    extract_amazon_page_link_from_audible
-    get_amazon_page
+  def extract_from_amazon
+    @amazon_path = @url
+    parse_amazon_page
   end
 
-  def get_audible_page
+  def extract_from_audible
+    @audible_path = @url.split('?')[0]
+    parse_audible_page
+    parse_amazon_review_page
+    extract_amazon_page_link_from_audible
+    parse_amazon_page
+  end
+
+  def parse_audible_page
     @audible_page = Nokogiri::HTML(agent.get(audible_path).body)
     puts 'Pause after getting audible page (to sneak past the amazon anti-scraping guards)'
     sleep(rand(1.0..3.0))
     puts 'Resuming...'
   end
 
-  def get_amazon_review_page
-    review_path = 'https://' + URI.parse(audible_path).host + audible_page.css('#adbl-amzn-portlet-reviews').attribute('src').value
+  def parse_amazon_review_page
+    review_path = "https://#{URI.parse(audible_path).host + audible_page.css('#adbl-amzn-portlet-reviews').attribute('src').value}"
     @review_page = Nokogiri::HTML(agent.get(review_path).body)
     puts 'Pause after getting review page (to sneak past the amazon anti-scraping guards)'
     sleep(rand(1.0..3.0))
@@ -87,11 +125,11 @@ class GetBookInfo
                      URI.decode_www_form_component(open_id_connect_return_to_url.split('=')[1])
                         .gsub('product-reviews/', 'dp/')
                    elsif review_page_state_object['asin']
-                     'http://' + URI.parse(state_object_signin_url).host + '/dp/' + review_page_state_object['asin']
+                     "http://#{URI.parse(state_object_signin_url).host}/dp/#{review_page_state_object['asin']}"
                    end.gsub('audible', 'amazon')
   end
 
-  def get_amazon_page
+  def parse_amazon_page
     @amazon_page = Nokogiri::HTML(agent.get(amazon_path).body)
     puts 'Pause after getting product page (to sneak past the amazon anti-scraping guards)'
     sleep(rand(1.0..3.0))
@@ -99,32 +137,51 @@ class GetBookInfo
   end
 
   def output_data
-    return construct_data_from_amazon.merge(finished_data) if finished
-
-    construct_data_from_amazon
-  end
-
-  def construct_data_from_amazon
     {
       title: book_title,
       subtitle: book_subtitle,
       author: book_authors,
-      format: {
-        type: 'Audiobook',
-        narrator: book_narrators,
-        aisn: asin_numbers,
-        publisher: book_publisher,
-        version: book_version,
-        listening_length: audio_book_runtime,
-        year_released: audible_release_date.year,
-        date_released: audible_release_date.strftime('%Y-%m-%d'),
-        date_purchased: '@TODO'
-      }, 
-      date_started: '@TODO',
+      **construct_format_data,
+      date_started: Time.now.strftime('%Y-%m-%d'),
+      **finished_data
+    }.compact
+  end
+
+  def audiobook_format
+    {
+      type: book_format,
+      narrator: audio_book_narrators,
+      aisn: asin_numbers,
+      publisher: audiobook_publisher,
+      version: audiobook_version,
+      listening_length: audio_book_runtime,
+      year_released: audiobook_release_date.year,
+      date_released: audiobook_release_date.strftime('%Y-%m-%d'),
+      date_purchased: '@TODO'
+    }
+  end
+
+  def text_book_format
+    {
+      type: book_format,
+      **amazon_carousel,
+      date_purchased: '@TODO'
+    }
+  end
+
+  def construct_format_data
+    {
+      format: if @domain == 'audible'
+                audiobook_format
+              else
+                text_book_format
+              end
     }
   end
 
   def finished_data
+    return {} unless finished
+
     {
       date_finished: DateTime.now.strftime('%Y-%m-%d'),
       rating: {
@@ -137,33 +194,62 @@ class GetBookInfo
     amazon_page.css('#detailsListeningLength > td > span').text
   end
 
-  def book_title
-    audible_page.css('.bc-size-large').text
-  end
-
-  def book_subtitle
-    audible_page.css('span.bc-size-medium').text
-  end
-
-  def book_authors
-    audible_page.css('li.authorLabel > a').map(&:text)
-  end
-
-  def book_narrators
+  def audio_book_narrators
     audible_page.css('li.narratorLabel > a').map(&:text)
   end
 
-  def book_aisns; end
+  def amazon_carousel
+    carousel = amazon_page.css('ol.a-carousel')
+    @amazon_carousel = carousel.css('.rpi-attribute-label>span')
+                               .map(&:text)
+                               .map { |label| label.downcase.gsub(' ', '_').gsub('-', '') }
+                               .zip(
+                                 carousel.css('.rpi-attribute-value>span').map(&:text)
+                               ).to_h.symbol_keys
+  end
 
-  def book_publisher
+  def book_format
+    return 'Audiobook' if @domain == 'Audible'
+
+    amazon_page.css('#productSubtitle')
+               .text
+               .strip
+               .split(" â\u0080\u0093 ")[0]
+  end
+
+  def page_title
+    amazon_page.css('#productTitle').text.split(':')
+  end
+
+  def book_title
+    return audible_page.css('.bc-size-large').text if @domain == 'Audible'
+
+    page_title.first.strip
+  end
+
+  def book_subtitle
+    return audible_page.css('span.bc-size-medium').text if @domain == 'Audible'
+
+    return nil if page_title.length <= 1
+
+    page_title.last.strip
+  end
+
+  def book_authors
+    return audible_page.css('li.authorLabel > a').map(&:text) if @domain == 'Audible'
+
+    amazon_page.css('#bylineInfo > span.author a.a-link-normal').map(&:text)[3..-1]
+  end
+
+  def audiobook_publisher
     amazon_page.css('#detailspublisher > td > a').text
   end
 
-  def book_version
+  def audiobook_version
     amazon_page.css('#detailsVersion > td > span').text
   end
 
-  def audible_release_date
+  def audiobook_release_date
     Date.parse(amazon_page.css('#detailsReleaseDate > td > span').text)
   end
 
