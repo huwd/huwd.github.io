@@ -52,6 +52,8 @@
     date_purchased: "2021-03-21"
   date_started: "2021-04-03"
   date_finished: "2021-04-12"
+  rating:
+    mine: 4
 - title: Excession
   series: Culture Series
   series_entry: Book 5
