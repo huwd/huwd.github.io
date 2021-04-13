@@ -20,13 +20,14 @@
     mine: 5
 
 - title: Dawn
-  subtitle: Xenogenesis, Book 1
+  series: Xenogenesis
+  series_entry: Book 1
   author:
-  - Octavia E. Butler
+    - Octavia E. Butler
   format:
     type: Audiobook
     narrator:
-    - Aldrich Barrett
+      - Aldrich Barrett
     aisn:
       product: B00HZOL9PO
       membership: B07BVZK3XQ
@@ -34,19 +35,20 @@
     version: Unabridged
     listening_length: 9 hours and 20 minutes
     year_released: 2014
-    date_released: '2014-01-24'
+    date_released: "2014-01-24"
     date_purchased: "2021-03-21"
   date_started: "2021-04-03"
+  date_finished: "2021-04-12"
 
 - title: Excession
-  serise: Culture Series
-  serise_entry: Book 5
+  series: Culture Series
+  series_entry: Book 5
   author:
-  - Iain M. Banks
+    - Iain M. Banks
   format:
     type: Audiobook
     narrator:
-    - Peter Kenny
+      - Peter Kenny
     aisn:
       product: B00BIPQV0Y
       membership: B07BVZK3XQ
@@ -54,7 +56,7 @@
     version: Unabridged
     listening_length: 15 hours and 55 minutes
     year_released: 2013
-    date_released: '2013-03-07'
+    date_released: "2013-03-07"
     date_purchased: "2021-03-21"
   date_started: "2021-04-03"
   date_finished: "2021-04-08"
