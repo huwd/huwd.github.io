@@ -122,14 +122,20 @@ header ul,
 	flex-direction: column;
 }
 
+.post ol,
 .post ul {
 	margin-left: 1rem;
-	list-style: disc;
 	list-style-position: inside;
-
 	> li {
 		margin-bottom: 0.75rem;
 	}
+}
+
+.post ol {
+	list-style: symbols;
+}
+.post ul {
+	list-style: disc;
 }
 
 .listing a:hover {
