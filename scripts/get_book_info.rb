@@ -77,9 +77,9 @@ class GetBookInfo
       puts 'URL is not processable by URI, please  check format'
       nil
     elsif uri.host.include?('amazon')
-      @domain == 'amazon'
+      @domain = 'amazon'
     elsif uri.host.include?('audible')
-      @domain == 'audible'
+      @domain = 'audible'
     end
   end
 
@@ -88,7 +88,7 @@ class GetBookInfo
   end
 
   def extract_from_amazon
-    @amazon_path = @url
+    @amazon_path = @url if @domain == "amazon"
     parse_amazon_page
   end
 
@@ -97,7 +97,6 @@ class GetBookInfo
     parse_audible_page
     parse_amazon_review_page
     extract_amazon_page_link_from_audible
-    parse_amazon_page
   end
 
   def parse_audible_page
@@ -209,7 +208,7 @@ class GetBookInfo
   end
 
   def book_format
-    return 'Audiobook' if @domain == 'Audible'
+    return 'Audiobook' if @domain == 'audible'
 
     amazon_page.css('#productSubtitle')
                .text
@@ -222,13 +221,12 @@ class GetBookInfo
   end
 
   def book_title
-    return audible_page.css('.bc-size-large').text if @domain == 'Audible'
-
+    return audible_page.css('.bc-size-large').text if @domain == 'audible'
     page_title.first.strip
   end
 
   def book_subtitle
-    return audible_page.css('span.bc-size-medium').text if @domain == 'Audible'
+    return audible_page.css('span.bc-size-medium').text if @domain == 'audible'
 
     return nil if page_title.length <= 1
 
@@ -236,7 +234,7 @@ class GetBookInfo
   end
 
   def book_authors
-    return audible_page.css('li.authorLabel > a').map(&:text) if @domain == 'Audible'
+    return audible_page.css('li.authorLabel > a').map(&:text) if @domain == 'audible'
 
     amazon_page.css('#bylineInfo > span.author a.a-link-normal').map(&:text)[3..-1]
   end
@@ -250,7 +248,7 @@ class GetBookInfo
   end
 
   def audiobook_release_date
-    Date.parse(amazon_page.css('#detailsReleaseDate > td > span').text)
+    Date.strptime(amazon_page.css('#detailsReleaseDate > td > span').text, "%d %B %Y")
   end
 
   def user_agent
