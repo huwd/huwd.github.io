@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hello, I'm Huw.
+permalink: /
 ---
 
 I'm a UK based senior web engineer.

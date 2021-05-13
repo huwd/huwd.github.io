@@ -16,6 +16,11 @@ markdown: kramdown
 name: Huw Diprose
 signature: Huw
 
+# Folders
+collections:
+  weeknotes:
+    permalink: /weeknotes/:path/
+
 permalink: pretty
 
 plugins:
