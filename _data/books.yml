@@ -396,7 +396,7 @@
   date_finished: "2020-12-28"
   rating:
     mine: 4
-  review_url: "/review/book/2021/04/15/life-on-earth"
+  review_url: "/review/book/2021/04/15/life-on-earth/"
 - title: The Book of Trespass
   subtitle: Crossing the Lines That Divide Us
   author:
@@ -438,7 +438,7 @@
   date_finished: "2020-12-25"
   rating:
     mine: 5
-  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon"
+  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
 - title: Zoo Quest for a Dragon
   author:
     - David Attenborough
@@ -459,7 +459,7 @@
   date_finished: "2020-12-24"
   rating:
     mine: 5
-  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon"
+  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
 - title: Quest under Capricorn
   author:
     - David Attenborough
@@ -481,7 +481,7 @@
   date_finished: "2020-12-23"
   rating:
     mine: 5
-  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon"
+  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
 - title: David Attenborough's New Life Stories
   author:
     - David Attenborough
@@ -545,6 +545,7 @@
   date_finished: "2020-12-28"
   rating:
     mine: 5
+  review_url: "/review/book/2021/04/28/who-we-are-and-how-we-got-here/"
 - title: Bring Up the Bodies
   series: The Wolf Hall Trilogy
   series_entry: Book 2
@@ -568,7 +569,7 @@
   date_finished: "2020-12-20"
   rating:
     mine: 4
-  review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies"
+  review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/"
 - title: The Song of Achilles
   author:
     - Madeline Miller
@@ -590,7 +591,7 @@
   date_finished: "2020-12-18"
   rating:
     mine: 5
-  review_url: "/review/book/2020/12/18/the-song-of-achilles"
+  review_url: "/review/book/2020/12/18/the-song-of-achilles/"
 - title: A Closed and Common Orbit
   series: Wayfarers
   series_entry: Book 2
@@ -658,7 +659,7 @@
   date_finished: "2020-12-01"
   rating:
     mine: 3
-  review_url: "/review/book/2021/04/28/the-fat-years"
+  review_url: "/review/book/2021/04/28/the-fat-years/"
 - title: Where the Crawdads Sing
   author:
     - Delia Owens
@@ -679,7 +680,7 @@
   date_finished: "2020-11-26"
   rating:
     mine: 3
-  review_url: "/review/book/2021/04/28/where-the-crawdads-sing"
+  review_url: "/review/book/2021/04/28/where-the-crawdads-sing/"
 - title: Persepolis I & II
   author:
     - Marjane Satrapi
@@ -695,7 +696,7 @@
   date_finished: "2020-11-25"
   rating:
     mine: 4
-  review_url: "/review/book/2021/04/28/persepolis-I-and-II"
+  review_url: "/review/book/2021/04/28/persepolis-I-and-II/"
 - title: "Peter Scott: Collected Writings, 1933-1989"
   author:
     - Peter Scott
@@ -728,7 +729,7 @@
   date_finished: "2020-11-12"
   rating:
     mine: 4
-  review_url: "/review/book/2021/01/31/the-city-we-became"
+  review_url: "/review/book/2021/01/31/the-city-we-became/"
 - title: The Word for World is Forest
   series: Hanish Cycle
   series_entry: Book 3
@@ -747,7 +748,7 @@
   date_finished: "2020-09-15"
   rating:
     mine: 4
-  review_url: "/review/book/2020/09/15/the-word-for-world-is-forest"
+  review_url: "/review/book/2020/09/15/the-word-for-world-is-forest/"
 - title: Lovecraft Country
   author:
     - Matt Ruff
@@ -769,7 +770,7 @@
   date_finished: "2020-09-08"
   rating:
     mine: 4
-  review_url: "/review/book/2020/09/10/lovecraft-country"
+  review_url: "/review/book/2020/09/10/lovecraft-country/"
 - title: Vesper Flights
   full_title: Vesper Flights
   author:
@@ -792,7 +793,7 @@
   date_finished: "2020-09-05"
   rating:
     mine: 5
-  review_url: "/review/book/2020/09/15/vesper-flights"
+  review_url: "/review/book/2020/09/15/vesper-flights/"
 - title: MaddAddam
   series: MaddAddam Trilogy
   series_entry: Book 3
@@ -887,7 +888,7 @@
   date_finished: "2020-07-25"
   rating:
     mine: 5
-  review_url: "/review/book/2020/09/29/zita-the-spacegirl"
+  review_url: "/review/book/2020/09/29/zita-the-spacegirl/"
 - title: Will Save the Galaxy for Food
   series: Jacques McKeown
   series_entry: Book 1
@@ -911,7 +912,7 @@
   date_finished: "2020-07-25"
   rating:
     mine: 3
-  review_url: "/review/book/2020/12/08/will-save-the-galaxy-for-food"
+  review_url: "/review/book/2020/12/08/will-save-the-galaxy-for-food/"
 - title: Greetings from Bury Park
   author:
     - Sarfraz Manzoor
@@ -935,7 +936,7 @@
   date_finished: "2020-08-18"
   rating:
     mine: 4
-  review_url: "/review/book/2021/01/31/greetings-from-bury-park"
+  review_url: "/review/book/2021/01/31/greetings-from-bury-park/"
 - title: The Collapsing Empire
   series: The Interdependency
   series_entry: Book 1
@@ -1117,7 +1118,7 @@
   date_finished: "2020-08-17"
   rating:
     mine: 5
-  review_url: "/review/book/2020/12/21/the-good-immigrant"
+  review_url: "/review/book/2020/12/21/the-good-immigrant/"
 - title: Oryx and Crake
   series: MaddAddam Trilogy
   series_entry: Book 1
@@ -1170,7 +1171,7 @@
     - Becky Chambers
   year_published: "2015"
   date_published: "2015-12-31"
-  review_url: "/review/book/2020/11/14/the-long-way-to-a-small-angry-planet"
+  review_url: "/review/book/2020/11/14/the-long-way-to-a-small-angry-planet/"
   format:
     type: Audiobook
     narrator:
@@ -1210,7 +1211,7 @@
   date_finished: "2020-06-30"
   rating:
     mine: 5
-  review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies"
+  review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/"
 - title: Educated
   author:
     - Tara Westover
@@ -1232,7 +1233,7 @@
   date_finished: "2020-04-10"
   rating:
     mine: 5
-  review_url: "/review/book/2020/12/20/educated"
+  review_url: "/review/book/2020/12/20/educated/"
 - title: Something Deeply Hidden
   full_title: "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime"
   author:
@@ -1255,7 +1256,7 @@
   date_finished: "2020-04-06"
   rating:
     mine: 4
-  review_url: "/review/book/2020/12/03/something-deeply-hidden"
+  review_url: "/review/book/2020/12/03/something-deeply-hidden/"
 - title: Middle England
   series: Rotters' Club
   series_entry: Book 3
@@ -1275,4 +1276,4 @@
   date_finished: "2020-01-16"
   rating:
     mine: 3
-  review_url: "/review/book/2020/12/07/middle-england"
+  review_url: "/review/book/2020/12/07/middle-england/"
