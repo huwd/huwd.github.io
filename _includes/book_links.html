@@ -1,0 +1,38 @@
+{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_finished != nil' | sort: "date_finished" %}
+
+{% for book in finished_books %}
+  {% if book.review_url == page.url %}
+
+    {% if forloop.last != true %}
+      {% assign next_post_index = forloop.index | plus: 0 %}
+      {% assign next_post = finished_books[next_post_index] %}
+      <p>
+        After "{{book.title}}" I read:
+        {% if next_post.review_url != nil %}
+          <a href="{{next_post.review_url}}">
+            {{ next_post.title }}
+          </a>
+        {% else %}
+          {{ next_post.title }}
+        {% endif %}
+      </p>
+    {% endif %}
+
+    {% if forloop.first != true %}
+      {% assign previous_post_index = forloop.index | minus: 2 %}
+      {% assign previous_post = finished_books[previous_post_index] %}
+
+      <p>
+        Before "{{book.title}}" I read:
+        {% if previous_post.review_url != nil %}
+          <a href="{{previous_post.review_url}}">
+            {{ previous_post.title }}
+          </a>
+        {% else %}
+          {{ previous_post.title }}
+        {% endif %}
+      </p>
+    {% endif %}
+
+  {% endif %}
+{% endfor %}
