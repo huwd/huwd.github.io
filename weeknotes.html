@@ -1,14 +1,13 @@
 ---
 layout: listing
 title: What I did in 2020, by week
-permalink: /weeknotes
 ---
 
 <ul>
   {% assign weeknotes = site.weeknotes | where_exp: 'weeknotes', 'weeknotes.categories[0] != "review"' %}
   {% for weeknote in weeknotes %}
   <li>
-    <a class="title" href="{{ site.baseurl }}{{ post.url }}">
+    <a class="title" href="{{ site.baseurl }}{{ weeknote.url }}">
       {{ weeknote.title }}
     </a>
     <time datetime="{{ weeknote.date | date_to_xmlschema }}">

@@ -19,6 +19,7 @@ signature: Huw
 # Folders
 collections:
   weeknotes:
+    output: true
     permalink: /weeknotes/:path/
 
 permalink: pretty
