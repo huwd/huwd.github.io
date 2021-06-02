@@ -88,7 +88,7 @@ class GetBookInfo
   end
 
   def extract_from_amazon
-    @amazon_path = @url if @domain == "amazon"
+    @amazon_path = @url if @domain == 'amazon'
     parse_amazon_page
   end
 
@@ -222,6 +222,7 @@ class GetBookInfo
 
   def book_title
     return audible_page.css('.bc-size-large').text if @domain == 'audible'
+
     page_title.first.strip
   end
 
@@ -248,7 +249,7 @@ class GetBookInfo
   end
 
   def audiobook_release_date
-    Date.strptime(amazon_page.css('#detailsReleaseDate > td > span').text, "%d %B %Y")
+    Date&.strptime(amazon_page.css('#detailsReleaseDate > td > span').text, '%d %B %Y')
   end
 
   def user_agent
