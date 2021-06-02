@@ -1,4 +1,26 @@
 ---
+- title: Project Hail Mary
+  subtitle: ""
+  author:
+    - Andy Weir
+  format:
+    type: Audiobook
+    narrator:
+      - Ray Porter
+    aisn:
+      product: B08GB2RLKM
+      membership: B07BVZK3XQ
+    publisher: Audible Studios
+    version: Unabridged
+    listening_length: 16 hours and 10 minutes
+    year_released: 2021
+    date_released: "2021-05-04"
+    date_purchased: "2021-05-29"
+  date_started: "2021-05-29"
+  date_finished: "2021-05-31"
+  rating:
+    mine: 5
+  date_started: "2021-06-02"
 - title: Exercised
   subtitle: The Science of Physical Activity, Rest and Health
   author:
@@ -17,8 +39,10 @@
     date_released: "2020-09-10"
     date_purchased: "2021-01-20"
   date_started: "2021-05-14"
+  date_finished: "2021-05-29"
+  rating:
+    mine: 5
 - title: Ball Lightning
-  subtitle: ""
   author:
     - Cixin Liu
   format:
