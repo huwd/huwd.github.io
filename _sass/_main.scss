@@ -4,44 +4,62 @@
 }
 
 @media (prefers-color-scheme: dark) {
-	body {
-		background: #1e2227;
-		color: #fff;
-	}
-
-	a {
-		color: #fff;
-	}
-
-	header {
-		border-color: rgb(236, 237, 238);
-	}
-
-	@media screen and (min-width: 64rem) {
-		nav ul {
-			border-color: #fff;
-		}
+	:root {
+		--color-accent: #76cbff;
+		--color-background-1: #171a23;
+		--color-background-2: #f9f9f9;
+		--color-typography: #ffffff;
 	}
 }
+
 @media (prefers-color-scheme: light) {
-	body {
-		color: rgb(22, 23, 26);
+	:root {
+		--color-accent: #168dd9;
+		--color-background-1: #f9f9f9;
+		--color-background-2: #171a23;
+		--color-typography: #000000;
 	}
+}
 
-	a {
-		color: #000;
-	}
+// Colour variables to elements
 
-	pre {
-		background: rgb(236, 237, 238);
-	}
+a {
+	color: var(--color-accent);
+}
 
-	hr {
-		background: #000;
-	}
+body {
+	background: var(--color-background-1);
+	color: var(--color-typography);
+}
 
-	header {
-		border-color: #111;
+nav a,
+ul a {
+	color: var(--color-typography);
+}
+
+body {
+	color: var(--color-typography);
+}
+
+nav a {
+	color: var(--color-typography);
+}
+
+pre {
+	background: var(--color-background-1);
+}
+
+hr {
+	background: var(--color-typography);
+}
+
+header {
+	border-color: var(--color-typography);
+}
+
+@media screen and (min-width: 64rem) {
+	nav ul {
+		border-color: var(--color-background-2);
 	}
 }
 
