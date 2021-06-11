@@ -1,6 +1,25 @@
 ---
+- title: "The Plague: International Edition"
+  author:
+    - Albert Camus
+  format:
+    type: Audiobook
+    narrator:
+      - James Jenner
+    aisn:
+      product: "1705014453"
+      membership: B07BVZK3XQ
+    publisher: Recorded Books, Inc.
+    version: Unabridged
+    listening_length: 10 hours and 52 minutes
+    year_released: 2020
+    date_released: "2020-10-29"
+    date_purchased: "2021-04-22"
+  date_started: "2021-06-04"
+  date_finished: "2021-06-11"
+  rating:
+    mine: 4
 - title: Project Hail Mary
-  subtitle: ""
   author:
     - Andy Weir
   format:
@@ -19,8 +38,7 @@
   date_started: "2021-05-29"
   date_finished: "2021-05-31"
   rating:
-    mine: 5
-  date_started: "2021-06-02"
+    mine: 4
 - title: Exercised
   subtitle: The Science of Physical Activity, Rest and Health
   author:
