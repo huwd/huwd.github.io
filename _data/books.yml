@@ -13,10 +13,10 @@
     version: Unabridged
     listening_length: 10 hours and 52 minutes
     year_released: 2020
-    date_released: "2020-10-29"
-    date_purchased: "2021-04-22"
-  date_started: "2021-06-04"
-  date_finished: "2021-06-11"
+    date_released: 2020-10-29
+    date_purchased: 2021-04-22
+  date_started: 2021-06-04
+  date_finished: 2021-06-11
   rating:
     mine: 4
 - title: Project Hail Mary
@@ -32,11 +32,11 @@
     publisher: Audible Studios
     version: Unabridged
     listening_length: 16 hours and 10 minutes
-    year_released: 2021
-    date_released: "2021-05-04"
-    date_purchased: "2021-05-29"
-  date_started: "2021-05-29"
-  date_finished: "2021-05-31"
+    year_released: 2020
+    date_released: 2021-05-04
+    date_purchased: 2021-05-29
+  date_started: 2021-05-29
+  date_finished: 2021-05-31
   rating:
     mine: 4
 - title: Exercised
@@ -48,16 +48,16 @@
     narrator:
       - Sean Runnette
     aisn:
-      product: "0241503620"
+      product: 0241503620
       membership: B07BVZK3XQ
-    publisher: "Penguin Audio "
+    publisher: "Penguin Audio"
     version: Unabridged
     listening_length: 13 hours and 13 minutes
     year_released: 2020
-    date_released: "2020-09-10"
-    date_purchased: "2021-01-20"
-  date_started: "2021-05-14"
-  date_finished: "2021-05-29"
+    date_released: 2020-09-10
+    date_purchased: 2021-01-20
+  date_started: 2021-05-14
+  date_finished: 2021-05-29
   rating:
     mine: 5
 - title: Ball Lightning
@@ -74,12 +74,12 @@
     version: Unabridged
     listening_length: 12 hours and 51 minutes
     year_released: 2018
-    date_released: "2018-08-17"
-    date_purchased: "2021-03-21"
-    date_finished: "2021-04-26"
+    date_released: 2018-08-17
+    date_purchased: 2021-03-21
+    date_finished: 2021-04-26
   rating:
     mine: 5
-  date_started: "2021-04-12"
+  date_started: 2021-04-12
 - title: The Red Kite
   author:
     - Ian Carter
@@ -89,18 +89,18 @@
     print_length: 245 pages
     language: English
     publisher: Subbuteo Natural History Books, a division of C J WildBird Foods Ltd
-    publication_date: 11 Dec. 2007
-    isbn10: "1905268033"
+    publication_date: 2007-12-11
+    isbn10: 1905268033
     isbn13: 978-1905268030
-    date_purchased: "2021-10-11"
-  date_started: "2021-04-12"
+    date_purchased: 2021-10-11
+  date_started: 2021-04-12
 - title: The Red Kite's Year
   series: Pelagic Monographs
   author:
     - Ian Carter
     - Dan Powell
-  year_published: "2019"
-  date_published: "2019-04-08"
+  year_published: 2019
+  date_published: 2019-04-08
   format:
     type: paperback
     isbn: 1784272000
@@ -109,8 +109,8 @@
     publisher: Pelagic Publishing
     language: English
     pages: 176
-  date_started: "2021-04-10"
-  date_finished: "2021-04-11"
+  date_started: 2021-04-10
+  date_finished: 2021-04-11
   rating:
     mine: 5
 - title: Dawn
@@ -129,10 +129,10 @@
     version: Unabridged
     listening_length: 9 hours and 20 minutes
     year_released: 2014
-    date_released: "2014-01-24"
-    date_purchased: "2021-03-21"
-  date_started: "2021-04-03"
-  date_finished: "2021-04-12"
+    date_released: 2014-01-24
+    date_purchased: 2021-03-21
+  date_started: 2021-04-03
+  date_finished: 2021-04-12
   rating:
     mine: 4
 - title: Excession
@@ -151,10 +151,10 @@
     version: Unabridged
     listening_length: 15 hours and 55 minutes
     year_released: 2013
-    date_released: "2013-03-07"
-    date_purchased: "2021-03-21"
-  date_started: "2021-04-03"
-  date_finished: "2021-04-08"
+    date_released: 2013-03-07
+    date_purchased: 2021-03-21
+  date_started: 2021-04-03
+  date_finished: 2021-04-08
   rating:
     mine: 5
 - title: The State of the Art
@@ -173,10 +173,10 @@
     version: Unabridged
     listening_length: 6 hours and 20 minutes
     year_released: 2014
-    date_released: "2014-01-23"
-    date_purchased: "2021-03-21"
-  date_started: "2021-03-31"
-  date_finished: "2021-04-03"
+    date_released: 2014-01-23
+    date_purchased: 2021-03-21
+  date_started: 2021-03-31
+  date_finished: 2021-04-03
   rating:
     mine: 4
 - title: Use of Weapons
@@ -195,10 +195,10 @@
     version: Unabridged
     listening_length: 13 hours and 28 minutes
     year_released: 2012
-    date_released: "2012-04-05"
-    date_purchased: "2021-03-21"
-  date_started: "2021-03-28"
-  date_finished: "2021-03-31"
+    date_released: 2012-04-05
+    date_purchased: 2021-03-21
+  date_started: 2021-03-28
+  date_finished: 2021-03-31
   rating:
     mine: 4
 - title: The Player of Games
@@ -217,10 +217,10 @@
     version: Unabridged
     listening_length: 11 hours and 26 minutes
     year_released: 2010
-    date_released: "2010-12-02"
-    date_purchased: "2021-03-21"
-  date_started: "2021-03-25"
-  date_finished: "2021-03-28"
+    date_released: 2010-12-02
+    date_purchased: 2021-03-21
+  date_started: 2021-03-25
+  date_finished: 2021-03-28
   rating:
     mine: 4
 - title: This Is Going to Hurt
@@ -238,10 +238,10 @@
     version: Unabridged
     listening_length: 5 hours and 47 minutes
     year_released: 2017
-    date_released: "2017-09-07"
-    date_purchased: "2021-03-21"
-  date_started: "2021-03-23"
-  date_finished: "2021-03-25"
+    date_released: 2017-09-07
+    date_purchased: 2021-03-21
+  date_started: 2021-03-23
+  date_finished: 2021-03-25
   rating:
     mine: 4
 - title: Consider Phlebas
@@ -260,10 +260,10 @@
     version: Unabridged
     listening_length: 16 hours and 25 minutes
     year_released: 2010
-    date_released: "2010-11-05"
-    date_purchased: "2021-03-21"
-  date_started: "2021-03-21"
-  date_finished: "2021-03-23"
+    date_released: 2010-11-05
+    date_purchased: 2021-03-21
+  date_started: 2021-03-21
+  date_finished: 2021-03-23
   rating:
     mine: 4
 - title: Tweet of the Day
@@ -288,10 +288,10 @@
     version: Original recording
     listening_length: 6 hours and 50 minutes
     year_released: 2018
-    date_released: "2018-07-05"
-    date_purchased: "2021-03-10"
-  date_started: "2021-03-10"
-  date_finished: "2021-03-21"
+    date_released: 2018-07-05
+    date_purchased: 2021-03-10
+  date_started: 2021-03-10
+  date_finished: 2021-03-21
   rating:
     mine: 4
 - title: Kindred
@@ -309,10 +309,10 @@
     version: Unabridged
     listening_length: 16 hours and 26 minutes
     year_released: 2020
-    date_released: "2020-08-25"
-    date_purchased: "2021-12-20"
-  date_started: "2021-12-22"
-  date_finished: "2021-03-08"
+    date_released: 2020-08-25
+    date_purchased: 2021-12-20
+  date_started: 2021-12-22
+  date_finished: 2021-03-08
   rating:
     mine: 4
 - title: Half of a Yellow Sun
@@ -329,10 +329,10 @@
     version: Unabridged
     listening_length: 18 hours and 9 minutes
     year_released: 2017
-    date_released: "2017-09-28"
-    date_purchased: "2020-12-21"
-  date_started: "2021-01-26"
-  date_finished: "2021-02-08"
+    date_released: 2017-09-28
+    date_purchased: 2020-12-21
+  date_started: 2021-01-26
+  date_finished: 2021-02-08
   rating:
     mine: 4
 - title: The Age of Surveillance Capitalism
@@ -350,9 +350,9 @@
     version: Unabridged
     listening_length: 24 hours and 16 minutes
     year_released: 2019
-    date_released: "2019-01-28"
-    date_purchased: "2019-10-29"
-  date_started: "2021-01-25"
+    date_released: 2019-01-28
+    date_purchased: 2019-10-29
+  date_started: 2021-01-25
 - title: The Queen's Gambit
   author:
     - Walter Tevis
@@ -367,10 +367,10 @@
     version: Unabridged
     listening_length: 11 hours and 50 minutes
     year_released: 2018
-    date_released: "2018-12-11"
-    date_purchased: "2021-01-10"
-  date_started: "2021-01-21"
-  date_finished: "2021-01-25"
+    date_released: 2018-12-11
+    date_purchased: 2021-01-10
+  date_started: 2021-01-21
+  date_finished: 2021-01-25
   rating:
     mine: 5
 - title: October
@@ -388,10 +388,10 @@
     version: Unabridged
     listening_length: 11 hours and 37 minutes
     year_released: 2017
-    date_released: "2017-05-09"
-    date_purchased: "2020-12-21"
-  date_started: "2021-01-10"
-  date_finished: "2021-01-20"
+    date_released: 2017-05-09
+    date_purchased: 2020-12-21
+  date_started: 2021-01-10
+  date_finished: 2021-01-20
   rating:
     mine: 3
 - title: The Peregrine
@@ -408,10 +408,10 @@
     version: Unabridged
     listening_length: 8 hours and 56 minutes
     year_released: 2019
-    date_released: "2019-11-21"
-    date_purchased: "2020-12-23"
-  date_started: "2020-12-29"
-  date_finished: "2020-12-31"
+    date_released: 2019-11-21
+    date_purchased: 2020-12-23
+  date_started: 2020-12-29
+  date_finished: 2020-12-31
   rating:
     mine: 5
 - title: Crashed
@@ -426,14 +426,14 @@
     aisn:
       product: B07FPPX125
       membership: B07BVZK3XQ
-    publisher: "Penguin Books Ltd "
+    publisher: Penguin Books Ltd
     version: Unabridged
     listening_length: 25 hours and 27 minutes
     year_released: 2018
-    date_released: "2018-08-02"
-    date_purchased: "2020-12-21"
-  date_started: "2020-12-29"
-  date_finished: "2021-01-10"
+    date_released: 2018-08-02
+    date_purchased: 2020-12-21
+  date_started: 2020-12-29
+  date_finished: 2021-01-10
   rating:
     mine: 4
 - title: Life on Earth
@@ -450,10 +450,10 @@
     version: Unabridged
     listening_length: 12 hours and 26 minutes
     year_released: 2018
-    date_released: "2018-09-20"
-    date_purchased: "2020-12-23"
-  date_started: "2020-12-26"
-  date_finished: "2020-12-28"
+    date_released: 2018-09-20
+    date_purchased: 2020-12-23
+  date_started: 2020-12-26
+  date_finished: 2020-12-28
   rating:
     mine: 4
   review_url: "/review/book/2021/04/15/life-on-earth/"
@@ -466,23 +466,23 @@
     narrator:
       - Nick Hayes
     aisn:
-      product: "1526621479"
+      product: 1526621479
       membership: B07BVZK3XQ
     publisher: Bloomsbury Publishing Plc
     version: Unabridged
     listening_length: 12 hours and 19 minutes
     year_released: 2020
-    date_released: "2020-09-10"
-    date_purchased: "2020-12-21"
-  date_started: "2020-12-25"
-  date_finished: "2020-12-26"
+    date_released: 2020-09-10
+    date_purchased: 2020-12-21
+  date_started: 2020-12-25
+  date_finished: 2020-12-26
   rating:
     mine: 4
 - title: Quest in Paradise
   author:
     - David Attenborough
   year_published: 1963
-  date_published: "1963-01-01"
+  date_published: 1963-01-01
   format:
     type: Audiobook
     narrator:
@@ -492,10 +492,10 @@
     version: Unabridged
     listening_length: 2 hrs and 44 mins
     year_released: 2008
-    date_released: "2008-04-08"
-    date_purchased: "2020-12-23"
-  date_started: "2020-12-24"
-  date_finished: "2020-12-25"
+    date_released: 2008-04-08
+    date_purchased: 2020-12-23
+  date_started: 2020-12-24
+  date_finished: 2020-12-25
   rating:
     mine: 5
   review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
@@ -514,9 +514,9 @@
     listening_length: 3 hours and 13 minutes
     year_released: 2008
     date_released: "2008-04-08"
-    date_purchased: "2020-12-23"
-  date_started: "2020-12-24"
-  date_finished: "2020-12-24"
+    date_purchased: 2020-12-23
+  date_started: 2020-12-24
+  date_finished: 2020-12-24
   rating:
     mine: 5
   review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
@@ -536,17 +536,17 @@
     listening_length: 2 hrs and 56 mins
     year_released: 2008
     date_released: "2008-04-15"
-    date_purchased: "2020-12-23"
-  date_started: "2020-12-23"
-  date_finished: "2020-12-23"
+    date_purchased: 2020-12-23
+  date_started: 2020-12-23
+  date_finished: 2020-12-23
   rating:
     mine: 5
-  review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
+  review_url: /review/book2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/
 - title: David Attenborough's New Life Stories
   author:
     - David Attenborough
   year_published: 2018
-  date_published: "2017-08-11"
+  date_published: 2017-08-11
   format:
     type: Audiobook
     narrator:
@@ -557,17 +557,17 @@
     language: English
     listening_length: 3 hrs and 14 mins
     year_released: 2017
-    date_released: "2017-08-11"
-    date_purchased: "2020-12-21"
-  date_started: "2020-12-22"
-  date_finished: "2020-12-23"
+    date_released: 2017-08-11
+    date_purchased: 2020-12-21
+  date_started: 2020-12-22
+  date_finished: 2020-12-23
   rating:
     mine: 5
 - title: Atomic Habits
   author:
     - James Clear
   year_published: 2018
-  date_published: "2018-06-18"
+  date_published: 2018-06-18
   format:
     type: Audiobook
     narrator:
@@ -578,17 +578,17 @@
     language: English
     listening_length: 5 hrs and 35 mins
     year_released: 2018
-    date_released: "2018-10-18"
-    date_purchased: "2020-12-20"
-  date_started: "2020-12-20"
-  date_finished: "2020-12-22"
+    date_released: 2018-10-18
+    date_purchased: 2020-12-20
+  date_started: 2020-12-20
+  date_finished: 2020-12-22
   rating:
     mine: 3
 - title: Who We Are and How We Got Here
   author:
     - David Reich
   year_published: 2018
-  date_published: "2018-06-18"
+  date_published: 2018-06-18
   format:
     type: Audiobook
     narrator:
@@ -599,10 +599,10 @@
     language: English
     listening_length: 10 hrs and 50 mins
     year_released: 2018
-    date_released: "2018-06-18"
-    date_purchased: "2018-09-18"
-  date_started: "2018-10-01"
-  date_finished: "2020-12-28"
+    date_released: 2018-06-18
+    date_purchased: 2018-09-18
+  date_started: 2018-10-01
+  date_finished: 2020-12-28
   rating:
     mine: 5
   review_url: "/review/book/2021/04/28/who-we-are-and-how-we-got-here/"
@@ -612,7 +612,7 @@
   author:
     - Hilary Mantel
   year_published: 2012
-  date_published: "2012-05-12"
+  date_published: 2012-05-12
   format:
     type: Audiobook
     narrator:
@@ -623,10 +623,10 @@
     language: English
     listening_length: 14 hours and 33 minutes
     year_released: 2012
-    date_released: "2012-05-12"
-    date_purchased: "2012-11-19"
-  date_started: "2020-12-18"
-  date_finished: "2020-12-20"
+    date_released: 2012-05-12
+    date_purchased: 2012-11-19
+  date_started: 2020-12-18
+  date_finished: 2020-12-20
   rating:
     mine: 4
   review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/"
@@ -634,7 +634,7 @@
   author:
     - Madeline Miller
   year_published: 2012
-  date_published: "2012-04-12"
+  date_published: 2012-04-12
   format:
     type: Audiobook
     narrator:
@@ -645,10 +645,10 @@
     language: English
     listening_length: 11 hrs and 31 mins
     year_released: 2012
-    date_released: "2012-06-12"
-    date_purchased: "2020-11-20"
-  date_started: "2020-12-16"
-  date_finished: "2020-12-18"
+    date_released: 2012-06-12
+    date_purchased: 2020-11-20
+  date_started: 2020-12-16
+  date_finished: 2020-12-18
   rating:
     mine: 5
   review_url: "/review/book/2020/12/18/the-song-of-achilles/"
@@ -669,17 +669,17 @@
     language: English
     listening_length: 13 hours and 4 minutes
     year_released: 2016
-    date_released: "2016-10-20"
-    date_purchased: "2020-11-19"
-  date_started: "2020-12-08"
-  date_finished: "2020-12-15"
+    date_released: 2016-10-20
+    date_purchased: 2020-11-19
+  date_started: 2020-12-08
+  date_finished: 2020-12-15
   rating:
     mine: 3
 - title: The Doors of Eden
   author:
     - Adrian Tchaikovsky
   year_published: 2020
-  date_published: "2020-08-20"
+  date_published: 2020-08-20
   format:
     type: Audiobook
     narrator:
@@ -690,10 +690,10 @@
     language: English
     listening_length: 18 hrs and 2 mins
     year_released: 2020
-    date_released: 2020-08-20"
-    date_purchased: "2020-11-19"
-  date_started: "2020-12-02"
-  date_finished: "2020-12-06"
+    date_released: 2020-08-20
+    date_purchased: 2020-11-19
+  date_started: 2020-12-02
+  date_finished: 2020-12-06
   rating:
     mine: 5
   review_url: "/review/book/2021/04/28/the-doors-of-eden/"
@@ -702,7 +702,7 @@
     - Chan Koonchung
     - Michael S. Duke
   year_published: 2011
-  date_published: "2012-08-02"
+  date_published: 2012-08-02
   format:
     type: Audiobook
     narrator:
@@ -713,18 +713,18 @@
     language: English
     listening_length: 9 hrs and 59 mins
     year_released: 2011
-    date_released: "2011-08-16"
-    date_purchased: "2020-08-18"
-  date_started: "2020-11-28"
-  date_finished: "2020-12-01"
+    date_released: 2011-08-16
+    date_purchased: 2020-08-18
+  date_started: 2020-11-28
+  date_finished: 2020-12-01
   rating:
     mine: 3
   review_url: "/review/book/2021/04/28/the-fat-years/"
 - title: Where the Crawdads Sing
   author:
     - Delia Owens
-  year_published: "2018"
-  date_published: "2018-08-14"
+  year_published: 2018
+  date_published: 2018-08-14
   format:
     type: Audiobook
     narrator:
@@ -734,10 +734,10 @@
     language: English
     listening_length: 12 hrs and 12 mins
     year_released: 2018
-    date_released: "2018-11-08"
-    date_purchased: "2020-08-20"
-  date_started: "2018-11-08"
-  date_finished: "2020-11-26"
+    date_released: 2018-11-08
+    date_purchased: 2020-08-20
+  date_started: 2018-11-08
+  date_finished: 2020-11-26
   rating:
     mine: 3
   review_url: "/review/book/2021/04/28/where-the-crawdads-sing/"
@@ -752,8 +752,8 @@
     publisher: Vintage
     language: English
     pages: 352
-  date_started: "2020-11-24"
-  date_finished: "2020-11-25"
+  date_started: 2020-11-24
+  date_finished: 2020-11-25
   rating:
     mine: 4
   review_url: "/review/book/2021/04/28/persepolis-I-and-II/"
@@ -761,19 +761,19 @@
   author:
     - Peter Scott
   year_published: 2016
-  date_published: "2016-06-28"
+  date_published: 2016-06-28
   format:
     type: Digital Book
     aisn: B01HQN7XHG
     publisher: The Wildfowl & Wetlands Trust
     language: English
     pages: 300
-  date_started: "2020-10-15"
+  date_started: 2020-10-15
 - title: The City We Became
   author:
     - N. K. Jemisin
-  year_published: "2020"
-  date_published: "2020-03-24"
+  year_published: 2020
+  date_published: 2020-03-24
   format:
     type: Audiobook
     narrator:
@@ -782,11 +782,11 @@
     version: Unabridged
     language: English
     listening_length: 16 hours and 11 minutes
-    year_released: "2020"
-    date_released: "2020-03-24"
-    date_purchased: "2020-10-25"
-  date_started: "2020-10-25"
-  date_finished: "2020-11-12"
+    year_released: 2020
+    date_released: 2020-03-24
+    date_purchased: 2020-10-25
+  date_started: 2020-10-25
+  date_finished: 2020-11-12
   rating:
     mine: 4
   review_url: "/review/book/2021/01/31/the-city-we-became/"
@@ -795,8 +795,8 @@
   series_entry: Book 3
   author:
     - Ursula K. Le Guin
-  year_published: "2015"
-  year_originally_published: "1972"
+  year_published: 2015
+  year_originally_published: 1972
   format:
     type: paperback
     isbn: 1473205786
@@ -804,16 +804,16 @@
     publisher: Gateway
     language: English
     pages: 128
-  date_started: "2020-09-12"
-  date_finished: "2020-09-15"
+  date_started: 2020-09-12
+  date_finished: 2020-09-15
   rating:
     mine: 4
   review_url: "/review/book/2020/09/15/the-word-for-world-is-forest/"
 - title: Lovecraft Country
   author:
     - Matt Ruff
-  year_published: "2016"
-  date_published: "2016-02-16"
+  year_published: 2016
+  date_published: 2016-02-16
   format:
     type: Audiobook
     narrator:
@@ -823,11 +823,11 @@
     version: Unabridged
     language: English
     listening_length: 12 hours and 13 minutes
-    year_released: "2019"
-    date_released: "2019-02-07"
-    date_purchased: "2020-08-17"
-  date_started: "2020-09-05"
-  date_finished: "2020-09-08"
+    year_released: 2019
+    date_released: 2019-02-07
+    date_purchased: 2020-08-17
+  date_started: 2020-09-05
+  date_finished: 2020-09-08
   rating:
     mine: 4
   review_url: "/review/book/2020/09/10/lovecraft-country/"
@@ -835,8 +835,8 @@
   full_title: Vesper Flights
   author:
     - Helen Macdonald
-  year_published: "2020"
-  date_published: "2020-08-27"
+  year_published: 2020
+  date_published: 2020-08-27
   format:
     type: Audiobook
     narrator:
@@ -846,11 +846,11 @@
     publisher: Penguin Audio
     language: English
     listening_length: 10 hours and 23 minutes
-    year_released: "2020"
-    date_released: "2020-08-27"
-    date_purchased: "2020-08-26"
-  date_started: "2020-08-28"
-  date_finished: "2020-09-05"
+    year_released: 2020
+    date_released: 2020-08-27
+    date_purchased: 2020-08-26
+  date_started: 2020-08-28
+  date_finished: 2020-09-05
   rating:
     mine: 5
   review_url: "/review/book/2020/09/15/vesper-flights/"
@@ -859,7 +859,7 @@
   series_entry: Book 3
   author:
     - Margaret Atwood
-  year_published: "2013"
+  year_published: 2013
   date_published: ""
   format:
     type: Audiobook
@@ -872,11 +872,11 @@
     version: Unabridged Audiobook
     language: English
     listening_length: 13 hours and 21 minutes
-    year_released: "2014"
-    date_released: "2014-06-01"
-    date_purchased: "2020-08-19"
-  date_started: "2020-08-29"
-  date_finished: "2020-08-31"
+    year_released: 2014
+    date_released: 2014-06-01
+    date_purchased: 2020-08-19
+  date_started: 2020-08-29
+  date_finished: 2020-08-31
   rating:
     mine: 4
   review_url: "/review/book/2020/09/20/maddaddam/"
@@ -885,8 +885,8 @@
   series_entry: Book 2
   author:
     - Margaret Atwood
-  year_published: "2009"
-  date_published: "2009-09-07"
+  year_published: 2009
+  date_published: 2009-09-07
   format:
     type: Audiobook
     narrator:
@@ -896,11 +896,11 @@
     version: Unabridged Audiobook
     language: English
     listening_length: 12 hours and 46 minutes
-    year_released: "2019"
-    date_released: "2019-02-07"
-    date_purchased: "2020-08-19"
-  date_started: "2020-08-25"
-  date_finished: "2020-08-29"
+    year_released: 2019
+    date_released: 2019-02-07
+    date_purchased: 2020-08-19
+  date_started: 2020-08-25
+  date_finished: 2020-08-29
   rating:
     mine: 4
   review_url: "/review/book/2020/09/20/the-year-of-the-flood/"
@@ -909,8 +909,8 @@
   author:
     - Fang Fang
     - Michael Berry (translator)
-  year_published: "2020"
-  date_published: "2020-05-26"
+  year_published: 2020
+  date_published: 2020-05-26
   format:
     type: Audiobook
     narrator:
@@ -920,11 +920,11 @@
     version: Unabridged
     language: English
     listening_length: 14 hours and 7 minutes
-    year_released: "2020"
-    date_released: "2020-05-26"
-    date_purchased: "2020-08-18"
-  date_started: "2020-08-20"
-  date_finished: "2020-08-29"
+    year_released: 2020
+    date_released: 2020-05-26
+    date_purchased: 2020-08-18
+  date_started: 2020-08-20
+  date_finished: 2020-08-29
   rating:
     mine: 4
   review_url: "/review/book/2020/10/18/wuhan-diary/"
@@ -933,19 +933,19 @@
   series_entry: Book 1
   author:
     - Ben Hatke
-  year_published: "2011"
-  date_published: "2011-02-04"
+  year_published: 2011
+  date_published: 2011-02-04
   format:
     type: Paperback
-    aisn: "1596434465"
-    isbn: "9781596434462"
+    aisn: 1596434465
+    isbn: 9781596434462
     isbn13: 978-1596434462
     publisher: First Second
     language: English
     pages: 192
-    date_purchased: "2020-06-16"
-  date_started: "2020-07-25"
-  date_finished: "2020-07-25"
+    date_purchased: 2020-06-16
+  date_started: 2020-07-25
+  date_finished: 2020-07-25
   rating:
     mine: 5
   review_url: "/review/book/2020/09/29/zita-the-spacegirl/"
@@ -954,8 +954,8 @@
   series_entry: Book 1
   author:
     - Yahtzee Croshaw
-  year_published: "2017"
-  date_published: "2017-02-23"
+  year_published: 2017
+  date_published: 2017-02-23
   format:
     type: Audiobook
     narrator:
@@ -965,21 +965,21 @@
     version: Unabridged
     language: English
     listening_length: 10 hours and 20 minutes
-    year_released: "2017"
-    date_released: "2017-02-14"
-    date_purchased: "2020-06-20"
+    year_released: 2017
+    date_released: 2017-02-14
+    date_purchased: 2020-06-20
   date_started:
-  date_finished: "2020-07-25"
+  date_finished: 2020-07-25
   rating:
     mine: 3
   review_url: "/review/book/2020/12/08/will-save-the-galaxy-for-food/"
 - title: Greetings from Bury Park
   author:
     - Sarfraz Manzoor
-  year_originally_published: "2008"
-  date_originally_published: "2008-06-16"
-  year_published: "2019"
-  date_published: "2019-07-04"
+  year_originally_published: 2008
+  date_originally_published: 2008-06-16
+  year_published: 2019
+  date_published: 2019-07-04
   format:
     type: Audiobook
     narrator:
@@ -989,11 +989,11 @@
     version: Unabridged
     language: English
     listening_length: 7 hours and 22 minutes
-    year_released: "2019"
-    date_released: "2019-07-04"
-    date_purchased: "2020-08-11"
+    year_released: 2019
+    date_released: 2019-07-04
+    date_purchased: 2020-08-11
   date_started: ""
-  date_finished: "2020-08-18"
+  date_finished: 2020-08-18
   rating:
     mine: 4
   review_url: "/review/book/2021/01/31/greetings-from-bury-park/"
@@ -1002,8 +1002,8 @@
   series_entry: Book 1
   author:
     - John Scalzi
-  year_published: "2017"
-  date_published: "2017-03-21"
+  year_published: 2017
+  date_published: 2017-03-21
   format:
     type: Audiobook
     narrator:
@@ -1013,11 +1013,11 @@
     version: Unabridged
     language: English
     listening_length: 7 hours and 22 minutes
-    year_released: "2017"
-    date_released: "2017-03-21"
-    date_purchased: "2020-06-30"
+    year_released: 2017
+    date_released: 2017-03-21
+    date_purchased: 2020-06-30
   date_started: ""
-  date_finished: "2020-08-11"
+  date_finished: 2020-08-11
   rating:
     mine: 1
   review_url: "/review/book/2020/11/06/the-collapsing-empire/"
@@ -1026,8 +1026,8 @@
   series_entry: Book 3
   author:
     - Ann Leckie
-  year_published: "2015"
-  date_published: "2015-10-08"
+  year_published: 2015
+  date_published: 2015-10-08
   format:
     type: Audiobook
     narrator:
@@ -1038,10 +1038,10 @@
     language: English
     listening_length: 10 hours and 53 minutes
     year_released: 2015
-    date_released: "2015-10-08"
-    date_purchased: "2020-06-30"
-  date_started: "2020-06-30"
-  date_finished: "2020-07-04"
+    date_released: 2015-10-08
+    date_purchased: 2020-06-30
+  date_started: 2020-06-30
+  date_finished: 2020-07-04
   rating:
     mine: 3
   review_url: "/review/book/2020/11/06/ancillary-mercy/"
@@ -1050,8 +1050,8 @@
   series_entry: Book 2
   author:
     - John Scalzi
-  year_published: "2018"
-  date_published: "2018-09-16"
+  year_published: 2018
+  date_published: 2018-09-16
   format:
     type: Audiobook
     narrator:
@@ -1061,11 +1061,11 @@
     version: Unabridged
     language: English
     listening_length: 8 hours and 19 minutes
-    year_released: "2018"
-    date_released: "2018-10-16"
-    date_purchased: "2020-06-30"
+    year_released: 2018
+    date_released: 2018-10-16
+    date_purchased: 2020-06-30
   date_started:
-  date_finished: "2020-08-16"
+  date_finished: 2020-08-16
   rating:
     mine: 2
   review_url: "/review/book/2020/11/06/the-consuming-fire/"
@@ -1083,11 +1083,11 @@
     version: Unabridged
     language: English
     listening_length: 7 hours and 5 minutes
-    year_released: "2012"
-    date_released: "2012-09-06"
-    date_purchased: "2020-06-30"
-  date_started: "2020-07-04"
-  date_finished: "2020-07-05"
+    year_released: 2012
+    date_released: 2012-09-06
+    date_purchased: 2020-06-30
+  date_started: 2020-07-04
+  date_finished: 2020-07-05
   rating:
     mine: 4
   review_url: "/review/book/2020/11/14/the-remains-of-the-day/"
@@ -1096,8 +1096,8 @@
   series_entry: Book 2
   author:
     - Ann Leckie
-  year_published: "2014"
-  date_published: "2014-09-07"
+  year_published: 2014
+  date_published: 2014-09-07
   format:
     type: Audiobook
     narrator:
@@ -1107,11 +1107,11 @@
     version: Unabridged
     language: English
     listening_length: x hours and xx minutes
-    year_released: "2014"
-    date_released: "2014-10-07"
-    date_purchased: "2020-06-20"
+    year_released: 2014
+    date_released: 2014-10-07
+    date_purchased: 2020-06-20
   date_started:
-  date_finished: "2020-06-30"
+  date_finished: 2020-06-30
   rating:
     mine: 3
   review_url: "/review/book/2020/11/06/ancillary-sword/"
@@ -1120,8 +1120,8 @@
   series_entry: Book 1
   author:
     - Ann Leckie
-  year_published: "2013"
-  date_published: "2013-09-01"
+  year_published: 2013
+  date_published: 2013-09-01
   format:
     type: Audiobook
     narrator:
@@ -1131,11 +1131,11 @@
     version: Unabridged
     language: English
     listening_length: 12 hours and 40 minutes
-    year_released: "2014"
-    date_released: "2014-08-14"
-    date_purchased: "2020-06-14"
+    year_released: 2014
+    date_released: 2014-08-14
+    date_purchased: 2020-06-14
   date_started:
-  date_finished: "2020-06-29"
+  date_finished: 2020-06-29
   rating:
     mine: 4
   review_url: "/review/book/2020/11/06/ancillary-justice/"
@@ -1151,8 +1151,8 @@
     - Reni Eddo-Lodge
     - Wei Ming Kam
     - Darren Chetty
-  year_published: "2016"
-  date_published: "2016-09-22"
+  year_published: 2016
+  date_published: 2016-09-22
   format:
     type: Audiobook
     narrator:
@@ -1171,11 +1171,11 @@
     version: Unabridged
     language: English
     listening_length: 7 hours
-    year_released: "2017"
-    date_released: "2017-05-04"
-    date_purchased: "2020-06-14"
+    year_released: 2017
+    date_released: 2017-05-04
+    date_purchased: 2020-06-14
   date_started:
-  date_finished: "2020-08-17"
+  date_finished: 2020-08-17
   rating:
     mine: 5
   review_url: "/review/book/2020/12/21/the-good-immigrant/"
@@ -1184,7 +1184,7 @@
   series_entry: Book 1
   author:
     - Margaret Atwood
-  year_published: "2003"
+  year_published: 2003
   format:
     type: Audiobook
     narrator:
@@ -1194,19 +1194,19 @@
     version: Unabridged
     language: English
     listening_length: 12 hours and 22 minutes
-    year_released: "2005"
-    date_released: "2005-01-21"
-    date_purchased: "2020-06-14"
+    year_released: 2005
+    date_released: 2005-01-21
+    date_purchased: 2020-06-14
   date_started:
-  date_finished: "2020-07-12"
+  date_finished: 2020-07-12
   rating:
     mine: 5
   review_url: "/review/book/2020/09/20/oryx-and-crake/"
 - title: Why I'm No Longer Talking to White People About Race
   author:
     - Reni Eddo-Lodge
-  year_published: "2017"
-  date_published: "2017-07-01"
+  year_published: 2017
+  date_published: 2017-07-01
   format:
     type: Audiobook
     narrator:
@@ -1216,11 +1216,11 @@
     version: Unabridged
     language: English
     listening_length: 5 hours and 53 minutes
-    year_released: "2017"
-    date_released: "2017-06-01"
-    date_purchased: "2020-06-02"
+    year_released: 2017
+    date_released: 2017-06-01
+    date_purchased: 2020-06-02
   date_started:
-  date_finished: "2020-06-30"
+  date_finished: 2020-06-30
   rating:
     mine: 5
   review_url: "/review/book/2021/01/31/why-im-no-longer-talking-to-white-people-about-race/"
@@ -1229,8 +1229,8 @@
   series_entry: Book 1
   author:
     - Becky Chambers
-  year_published: "2015"
-  date_published: "2015-12-31"
+  year_published: 2015
+  date_published: 2015-12-31
   review_url: "/review/book/2020/11/14/the-long-way-to-a-small-angry-planet/"
   format:
     type: Audiobook
@@ -1241,11 +1241,11 @@
     version: Unabridged
     language: English
     listening_length: 15 hours and 41 minutes
-    year_released: "2015"
-    date_released: "2015-08-13"
-    date_purchased: "2020-06-02"
+    year_released: 2015
+    date_released: 2015-08-13
+    date_purchased: 2020-06-02
   date_started:
-  date_finished: "2020-06-30"
+  date_finished: 2020-06-30
   rating:
     mine: 3
 - title: Wolf Hall
@@ -1253,8 +1253,8 @@
   series_entry: Book 1
   author:
     - Hilary Mantel
-  year_published: "2009"
-  date_published: "2009-04-30"
+  year_published: 2009
+  date_published: 2009-04-30
   format:
     type: Audiobook
     narrator:
@@ -1264,19 +1264,19 @@
     version: Unabridged
     language: English
     listening_length: 24 hours and 15 minutes
-    year_released: "2009"
-    date_released: "2009-10-16"
-    date_purchased: "2020-04-12"
+    year_released: 2009
+    date_released: 2009-10-16
+    date_purchased: 2020-04-12
   date_started:
-  date_finished: "2020-06-30"
+  date_finished: 2020-06-30
   rating:
     mine: 5
   review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/"
 - title: Educated
   author:
     - Tara Westover
-  year_published: "2019"
-  date_published: "2019-02-18"
+  year_published: 2019
+  date_published: 2019-02-18
   format:
     type: Audiobook
     narrator:
@@ -1286,11 +1286,11 @@
     version: Unabridged
     language: English
     listening_length: 12 hours and 10 minutes
-    year_released: "2018"
-    date_released: "2018-02-20"
-    date_purchased: "2020-03-30"
+    year_released: 2018
+    date_released: 2018-02-20
+    date_purchased: 2020-03-30
   date_started:
-  date_finished: "2020-04-10"
+  date_finished: 2020-04-10
   rating:
     mine: 5
   review_url: "/review/book/2020/12/20/educated/"
@@ -1298,8 +1298,8 @@
   full_title: "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime"
   author:
     - Sean Carroll
-  year_published: "2019"
-  date_published: "2019-09-10"
+  year_published: 2019
+  date_published: 2019-09-10
   format:
     type: Audiobook
     narrator:
@@ -1309,11 +1309,11 @@
     version: Unabridged
     language: English
     listening_length: 10 hours and 9 minutes
-    year_released: "2019"
-    date_released: "2019-09-10"
-    date_purchased: "2020-02-11"
+    year_released: 2019
+    date_released: 2019-09-10
+    date_purchased: 2020-02-11
   date_started:
-  date_finished: "2020-04-06"
+  date_finished: 2020-04-06
   rating:
     mine: 4
   review_url: "/review/book/2020/12/03/something-deeply-hidden/"
@@ -1322,18 +1322,18 @@
   series_entry: Book 3
   author:
     - Jonathan Coe
-  year_published: "2019"
-  date_published: "2019-06-04"
+  year_published: 2019
+  date_published: 2019-06-04
   format:
     type: Paperback
-    aisn: "1596434465"
-    isbn: "0241983681"
+    aisn: 1596434465
+    isbn: 0241983681
     isbn13: 978-0241983683
     publisher: Penguin
     language: English
     pages: 432
   date_started:
-  date_finished: "2020-01-16"
+  date_finished: 2020-01-16
   rating:
     mine: 3
   review_url: "/review/book/2020/12/07/middle-england/"
