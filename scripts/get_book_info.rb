@@ -260,15 +260,15 @@ class GetBookInfo
     {
       product: product_asin,
       membership: membership_asin
-    }.select { |_k, v| v }
+    }
   end
 
   def product_asin
-    audible_page.css('.bc-trigger-sticky input[name=productAsin]').attr('value').value
+    audible_page.css('.bc-trigger-sticky input[name=productAsin]')&.attr('value')&.value
   end
 
   def membership_asin
-    audible_page.css('.bc-trigger-sticky input[name=membershipAsin]').attr('value').value
+    audible_page.css('.bc-trigger-sticky input[name=membershipAsin]')&.attr('value')&.value
   end
 end
 

@@ -1,4 +1,21 @@
 ---
+- title: Mine!
+  subtitle: How the Hidden Rules of Ownership Rule Our Lives
+  author:
+    - James Salzman
+    - Michael A. Heller
+  format:
+    type: Audiobook
+    narrator:
+      - Rene Ruiz
+    aisn: B08YRZBRGB
+    publisher: W. F. Howes Ltd
+    version: Unabridged
+    listening_length: 11 hours and 13 minutes
+    year_released: 2021
+    date_released: 2021-03-16
+    date_purchased: 2021-07-29
+  date_started: 2021-08-08
 - title: Red Mars
   author:
     - Kim Stanley Robinson
@@ -16,6 +33,9 @@
     date_released: 2008-04-04
     date_purchased: 2021-06-21
   date_started: 2021-06-24
+  date_finished: 2021-07-15
+  rating:
+    mine: 4
 - title: Adulthood Rites
   subtitle: Xenogenesis, Book 2
   author:
@@ -617,6 +637,7 @@
   date_finished: 2020-12-23
   rating:
     mine: 5
+  review_url: "/review/book/2021/07/01/new-david-attenboroughs-new-life-stories/"
 - title: Atomic Habits
   author:
     - James Clear
@@ -638,6 +659,7 @@
   date_finished: 2020-12-22
   rating:
     mine: 3
+  review_url: "/review/book/2021/07/01/atomic-habits/"
 - title: Who We Are and How We Got Here
   author:
     - David Reich
@@ -729,6 +751,7 @@
   date_finished: 2020-12-15
   rating:
     mine: 3
+  review_url: "/review/book/2021/07/01/a-closed-and-common-orbit/"
 - title: The Doors of Eden
   author:
     - Adrian Tchaikovsky
