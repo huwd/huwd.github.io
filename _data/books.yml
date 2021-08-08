@@ -153,6 +153,9 @@
   rating:
     mine: 5
   date_started: 2021-04-12
+  date_finished:  2021-06-13
+  rating:
+    mine: 5
 - title: The Red Kite
   author:
     - Ian Carter
