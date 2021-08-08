@@ -6,7 +6,7 @@ categories: review book
 version: 1.0.0
 ---
 
-I ordered these separately. Which was foolish in retrospect. All three are neatly bundled (with an extra) "David Attenborough: The Early Years Collection".
+I ordered these separately. Which was foolish in retrospect. All three are neatly bundled (with an extra) "[David Attenborough: The Early Years Collection][1]".
 But they were all going for less than the price of an audible credit in a sale, so it seemed like a good deal.
 
 I enjoyed each one tremendously.
