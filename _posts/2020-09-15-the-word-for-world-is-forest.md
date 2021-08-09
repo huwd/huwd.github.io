@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  The Word for World is Forest
-date:   2020-09-15 12:35:00 +0100
+title: The Word for World is Forest
+date: 2020-09-15 12:35:00 +0100
 categories: review book
 version: 1.0.0
 ---

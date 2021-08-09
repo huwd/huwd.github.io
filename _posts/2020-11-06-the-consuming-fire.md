@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-11-06 23:45:00 +0100
 title: The consuming fire
+date: 2020-11-06 23:45:00 +0100
 categories: review book
 version: 1.0.0
 ---

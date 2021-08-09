@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Lovecraft Country"
-date:   2020-09-10 22:44:00 +0100
+title: Lovecraft Country
+date: 2020-09-10 22:44:00 +0100
 categories: review book
 version: 1.0.0
 ---

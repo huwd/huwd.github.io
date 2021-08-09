@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Vesper Flights"
-date:   2020-09-15 12:45:00 +0100
+title: Vesper Flights
+date: 2020-09-15 12:45:00 +0100
 categories: review book
 version: 1.0.0
 ---
