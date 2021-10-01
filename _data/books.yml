@@ -17,6 +17,9 @@
     date_released: 2018-12-25
     date_purchased: 2021-08-19
   date_started: 2021-09-06
+  date_finished: 2021-09-13
+  rating:
+    mine: 4
 - title: Look to Windward
   author:
     - Iain M. Banks
