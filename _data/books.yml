@@ -1,4 +1,67 @@
 ---
+- title: Never Let Me Go
+  author:
+    - Kazuo Ishiguro
+  format:
+    type: Audiobook
+    narrator:
+      - Kerry Fox
+    aisn:
+      membership: B00LCHY9AM
+    publisher: Faber & Faber
+    format: Unabridged Audiobook
+    listening_length: 9 hours and 26 minutes
+    year_released: 2014
+    date_release: 2014-07-03
+    date_purchased: 2021-10-10
+    language: English
+  date_started: 2021-10-31
+  date_finished: 2021-11-01
+  rating:
+    mine: 4
+- title: The Mirror and the Light
+  series: The Wolf Hall Trilogy
+  series_entry: Book 3
+  author:
+    - Hilary Mantel
+  genre: Literature & Fiction > Genre Fiction
+  format:
+    type: Audiobook
+    narrator:
+      - Ben Miles
+    aisn:
+      membership: "1528880005"
+    publisher: W. F. Howes Ltd
+    version: Unabridged
+    listening_length: 38 hours and 11 minutes
+    year_released: 2020
+    date_released: 2020-03-05
+    date_purchased: 2021-09-13
+  date_started: 2021-10-11
+  date_finished: 2021-10-31
+  rating:
+    mine: 5
+- title: Shutdown
+  author:
+    - Adam Tooze
+  genre: Money & Finance > Banks & Banking
+  format:
+    type: Audiobook
+    narrator:
+      - Adam Tooze - introduction
+      - Simon Vance
+    aisn:
+      membership: "0241508932"
+    publisher: Penguin Audio
+    version: Unabridged
+    listening_length: 12 hours and 37 minutes
+    year_released: 2021
+    date_released: 2021-09-07
+    date_purchased: 2021-09-25
+  date_started: 2021-10-04
+  date_finished: 2021-10-10
+  rating:
+    mine: 5
 - title: Almost Human
   subtitle: "The Astonishing Tale of Homo Naledi and the Discovery That Changed Our Human Story"
   author:
@@ -39,6 +102,31 @@
   date_finished: 2021-09-05
   rating:
     mine: 4
+- title: Stalingrad
+  author:
+    - Vasily Grossman
+    - Robert Chandler
+    - Elizabeth Chandler - translator
+  genre: Literature & Fiction > Genre Fiction
+  format:
+    type: Audiobook
+    narrator:
+      - Elliot Levey
+      - Leighton Pugh
+    aisn:
+      membership: 147358275X
+    publisher: Penguin Audio
+    version: Unabridged
+    runtime: 37 hours and 13 minutes
+    year_released: 2020
+    release_date: 2020-05-07
+    language: English
+    date_purchased: 2021-08-20
+  date_started: 2021-09-13
+  date_finished: 2021-10-01
+  rating:
+    mine: 4
+  publisher_link: https://www.audible.co.uk/search?searchProvider=Penguin+Audio+
 - title: The Undercover Economist
   author:
     - Tim Harford
