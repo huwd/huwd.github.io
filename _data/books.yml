@@ -1,4 +1,21 @@
 ---
+- title: The Peregrine
+  author:
+    - J. A. Baker
+  format:
+    type: Audiobook
+    narrator:
+      - David Attenborough
+    aisn:
+      product: "0008388245"
+      membership: B07BVZK3XQ
+    publisher: William Collins
+    version: Unabridged
+    listening_length: 8 hours and 56 minutes
+    year_released: 2019
+    date_released: 2019-11-21
+    date_purchased: 2020-12-23
+  date_started: 2021-11-04
 - title: Matter
   series: Culture Series
   series_entry: Book 8
