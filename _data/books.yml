@@ -1,4 +1,42 @@
 ---
+- title: Entangled Life
+  author:
+    - Merlin Sheldrake
+  format:
+    type: Audiobook
+    narrator:
+      - Merlin Sheldrake
+    aisn:
+      membership: "1980035962"
+    listening_length: "9 hours and 32 minutes"
+    format: Unabridged
+    publisher: "Penguin Audio"
+    language": "English"
+  date_started: 2021-12-08
+- title: Leviathan Falls
+  series: The Expanse
+  series_entry: Book 9
+  author:
+    - James S.A. Corey
+  format:
+    type: Audiobook
+    narrator:
+      - Jefferson Mays
+    url: https://www.audible.co.uk/pd/Leviathan-Falls-Audiobook/1980035962
+    aisn:
+      membership: "1980035962"
+    image_url: https://m.media-amazon.com/images/I/51uLOQqYu3L._SL500_.jpg
+    genre: Science Fiction & Fantasy > Science Fiction
+    listening_length: 19 hours and 40 minutes
+    version: Unabridged
+    release_date: 2021-11-30
+    language: English
+    publisher: Recorded Books, Inc.
+    publisher_link: https://www.audible.co.uk/search?searchProvider=Recorded+Books%2C+Inc.
+  date_started: 2021-11-30
+  date_finished: 2021-09-04
+  rating:
+    mine: 4
 - title: The Peregrine
   author:
     - J. A. Baker
@@ -16,6 +54,9 @@
     date_released: 2019-11-21
     date_purchased: 2020-12-23
   date_started: 2021-11-04
+  date_finished: 2021-11-09
+  rating:
+    mine: 5
 - title: Matter
   series: Culture Series
   series_entry: Book 8
@@ -35,6 +76,9 @@
     date_purchased: 2021-08-20
     language: English
   date_started: 2021-11-02
+  date_finished: 2021-11-23
+  rating:
+    mine: 4
 - title: Never Let Me Go
   author:
     - Kazuo Ishiguro
