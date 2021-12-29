@@ -18,7 +18,7 @@
     - Merlin Sheldrake
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Merlin Sheldrake
     aisn:
       membership: "1980035962"
@@ -34,7 +34,7 @@
     - James S.A. Corey
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Jefferson Mays
     url: https://www.audible.co.uk/pd/Leviathan-Falls-Audiobook/1980035962
     aisn:
@@ -56,7 +56,7 @@
     - J. A. Baker
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Attenborough
     aisn:
       product: "0008388245"
@@ -78,7 +78,7 @@
     - Iain M. Banks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Toby Longworth
     aisn:
       membership: B004ER01OU
@@ -98,7 +98,7 @@
     - Kazuo Ishiguro
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Kerry Fox
     aisn:
       membership: B00LCHY9AM
@@ -121,7 +121,7 @@
   genre: Literature & Fiction > Genre Fiction
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Ben Miles
     aisn:
       membership: "1528880005"
@@ -141,7 +141,7 @@
   genre: Money & Finance > Banks & Banking
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Adam Tooze - introduction
       - Simon Vance
     aisn:
@@ -163,7 +163,7 @@
     - John Hawks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Donald Corren
     aisn:
       membership: B07L9F4CFG
@@ -182,7 +182,7 @@
     - Iain M. Banks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Peter Kenny
     aisn:
       membership: B00HRIMRO0
@@ -204,7 +204,7 @@
   genre: Literature & Fiction > Genre Fiction
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Elliot Levey
       - Leighton Pugh
     aisn:
@@ -226,7 +226,7 @@
     - Tim Harford
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Cameron Stewart
     aisn:
       product: B002SQ5D4M
@@ -248,7 +248,7 @@
     - Arthur C. Clarke
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Dick Hill
     aisn:
       product: B002SQ1IXM
@@ -270,7 +270,7 @@
     - Iain M. Banks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Peter Kenny
     aisn:
       product: B00D48YF9C
@@ -292,7 +292,7 @@
     - Michael A. Heller
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Rene Ruiz
     aisn: B08YRZBRGB
     publisher: W. F. Howes Ltd
@@ -310,7 +310,7 @@
     - Kim Stanley Robinson
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Richard Ferrone
     aisn:
       product: B004FU9CYG
@@ -331,7 +331,7 @@
     - Octavia E. Butler
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Aldrich Barrett
     aisn:
       product: B00I3K0SLU
@@ -366,7 +366,7 @@
     - Albert Camus
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - James Jenner
     aisn:
       product: 1705014453
@@ -386,7 +386,7 @@
     - Andy Weir
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Ray Porter
     aisn:
       product: B08GB2RLKM
@@ -407,7 +407,7 @@
     - Daniel Lieberman
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Sean Runnette
     aisn:
       product: "0242370960"
@@ -427,7 +427,7 @@
     - Cixin Liu
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Bruno Roubicek
     aisn:
       product: B07BWNZ2CJ
@@ -486,7 +486,7 @@
     - Octavia E. Butler
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Aldrich Barrett
     aisn:
       product: B00HZOL9PO
@@ -508,7 +508,7 @@
     - Iain M. Banks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Peter Kenny
     aisn:
       product: B00BIPQV0Y
@@ -530,7 +530,7 @@
     - Iain M. Banks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Peter Kenny
     aisn:
       product: B00HS4UEQQ
@@ -552,7 +552,7 @@
     - Iain M. Banks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Peter Kenny
     aisn:
       product: B007O0J9BU
@@ -574,7 +574,7 @@
     - Iain M. Banks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Peter Kenny
     aisn:
       product: B004EF2FXM
@@ -595,7 +595,7 @@
     - Adam Kay
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Adam Kay
     aisn:
       product: B071K6YYDN
@@ -617,7 +617,7 @@
     - Iain M. Banks
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Peter Kenny
     aisn:
       product: B004EQUC4U
@@ -638,7 +638,7 @@
     - BBC Natural History Radio
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Bill Oddie
       - Brett Westwood
       - Chris Packham
@@ -666,7 +666,7 @@
     - Rebecca Wragg Sykes
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Rebecca Wragg Sykes
     aisn:
       product: "1472962141"
@@ -686,7 +686,7 @@
     - Chimamanda Ngozi Adichie
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Zainab Jah
     aisn:
       product: B01MSPM1QV
@@ -707,7 +707,7 @@
     - Shoshana Zuboff
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Nicol Zanzarella
     aisn:
       product: "1478947276"
@@ -724,7 +724,7 @@
     - Walter Tevis
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Amy Landon
     aisn:
       product: B07KX4TTTP
@@ -745,7 +745,7 @@
     - China Mieville
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - John Banks
     aisn:
       product: B06XWGCN7S
@@ -765,7 +765,7 @@
     - J. A. Baker
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Attenborough
     aisn:
       product: "0008388245"
@@ -786,7 +786,7 @@
     - Adam Tooze
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Simon Vance
       - Adam Tooze
     aisn:
@@ -807,7 +807,7 @@
     - David Attenborough
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Attenborough
     aisn:
       product: B07DY76BPC
@@ -829,7 +829,7 @@
     - Nick Hayes
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Nick Hayes
     aisn:
       product: 1526621479
@@ -852,7 +852,7 @@
   date_published: 1963-01-01
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Attenborough
     aisn: B004F406HE
     publisher: BBC Worldwide Ltd
@@ -873,7 +873,7 @@
   date_published: "1957-12-01"
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Attenborough
     aisn: B002SQ23UY
     publisher: BBC Worldwide Ltd
@@ -894,7 +894,7 @@
   date_published: "1963-01-01"
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Attenborough
     aisn: B004F406HE
     publisher: BBC Worldwide Ltd
@@ -916,7 +916,7 @@
   date_published: 2017-08-11
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Attenborough
     aisn: B005HJBHR4
     publisher: BBC Worldwide Ltd
@@ -938,7 +938,7 @@
   date_published: 2018-06-18
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - James Clear
     aisn: B07J1XQSNK
     publisher: Penguin Audio
@@ -960,7 +960,7 @@
   date_published: 2018-06-18
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - John Lescault
     aisn: B07DNH1BKS
     publisher: Blackstone Audio, Inc.
@@ -984,7 +984,7 @@
   date_published: 2012-05-12
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Simon Vance
     aisn: B0080E6RPU
     publisher: Whole Story Audiobooks
@@ -1006,7 +1006,7 @@
   date_published: 2012-04-12
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Thorpe
     aisn: B008EKTQEO
     publisher: Isis Publishing Ltd
@@ -1030,7 +1030,7 @@
   date_published: "2016-10-20"
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Patricia Rodriguez
     aisn: B01HIXNAOY
     publisher: Hodder & Stoughton
@@ -1052,7 +1052,7 @@
   date_published: 2020-08-20
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Sophie Aldred
     aisn: B084VTZZTB
     publisher: Macmillan
@@ -1075,7 +1075,7 @@
   date_published: 2012-08-02
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - David Tse
     aisn: B005H0KP1M
     publisher: Random House AudioBooks
@@ -1097,7 +1097,7 @@
   date_published: 2018-08-14
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Cassandra Campbell
     publisher: Hachette Audio UK
     version: Unabridged
@@ -1146,7 +1146,7 @@
   date_published: 2020-03-24
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Robin Miles
     publisher: Hachette Audio UK
     version: Unabridged
@@ -1186,7 +1186,7 @@
   date_published: 2016-02-16
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Kevin Kenerly
     aisn: B07GNNDGPM
     publisher: Macmillan Digital Audio
@@ -1209,7 +1209,7 @@
   date_published: 2020-08-27
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Helen Macdonald
     aisn: B083QKYKGF
     version: Unabridged
@@ -1233,7 +1233,7 @@
   date_published: ""
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Bernadette Dunne
       - Bob Walter
       - Robbie Daymond
@@ -1259,7 +1259,7 @@
   date_published: 2009-09-07
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Lorelei King
     aisn: B004FTII2O
     publisher: Doubleday Nan A. Talese
@@ -1283,7 +1283,7 @@
   date_published: 2020-05-26
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Emily Woo Zeller
     aisn: B087RQ8LYP
     publisher: HarperCollins
@@ -1328,7 +1328,7 @@
   date_published: 2017-02-23
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Yahtzee Croshaw
     aisn: B06WLGX93W
     publisher: Audible Studios
@@ -1352,7 +1352,7 @@
   date_published: 2019-07-04
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Sarfraz Manzoor
     aisn: B07TS4ZDLL
     publisher: Whole Story Audio
@@ -1376,7 +1376,7 @@
   date_published: 2017-03-21
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Wil Wheaton
     aisn: B01L2PHDVA
     publisher: Audible Studios
@@ -1400,7 +1400,7 @@
   date_published: 2015-10-08
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Adjoa Andoh
     aisn: B014TE8M3E
     publisher: Hachette Audio UK
@@ -1424,7 +1424,7 @@
   date_published: 2018-09-16
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Wil Wheaton
     aisn: B07HNM8X4Y
     publisher: Audible Studios
@@ -1446,7 +1446,7 @@
   date_published: "1989-05-01"
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Dominic West
     aisn: B008PTT3N8
     publisher: Faber & Faber
@@ -1470,7 +1470,7 @@
   date_published: 2014-09-07
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Adjoa Andoh
     aisn: B00MH4EBC0
     publisher: Hachette Audio UK
@@ -1494,7 +1494,7 @@
   date_published: 2013-09-01
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Adjoa Andoh
     aisn: B00LPNR9QE
     publisher: Hachette Audio UK
@@ -1525,7 +1525,7 @@
   date_published: 2016-09-22
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Nikesh Shukla
       - Varaidzo
       - Chimene Suleyman
@@ -1557,7 +1557,7 @@
   year_published: 2003
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - John Chancer
     aisn: B004FTGCK4
     publisher: Bolinda Publishing Pty Ltd.
@@ -1579,7 +1579,7 @@
   date_published: 2017-07-01
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Reni Eddo-Lodge
     aisn: B06XGLP7NP
     publisher: Audible Studios for Bloomsbury
@@ -1604,7 +1604,7 @@
   review_url: "/review/book/2020/11/14/the-long-way-to-a-small-angry-planet/"
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Patricia Rodriguez
     aisn: B00W8DPMZU
     publisher: Hodder & Stoughton
@@ -1627,7 +1627,7 @@
   date_published: 2009-04-30
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Simon Slater
     aisn: B004FTXVEY
     publisher: Whole Story Audiobooks
@@ -1649,7 +1649,7 @@
   date_published: 2019-02-18
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Julia Whelan
     aisn: B079C1S8ZH
     publisher: Random House Audiobooks
@@ -1672,7 +1672,7 @@
   date_published: 2019-09-10
   format:
     type: Audiobook
-    narrator:
+    narrators:
       - Sean Carroll
     aisn: B07QTBYGBQ
     publisher: Penguin Audio
