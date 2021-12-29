@@ -22,7 +22,7 @@
       - Merlin Sheldrake
     aisn:
       membership: "1980035962"
-    listening_length: "9 hours and 32 minutes"
+    runtime: "9 hours and 32 minutes"
     format: Unabridged
     publisher: "Penguin Audio"
     language": "English"
@@ -41,7 +41,7 @@
       membership: "1980035962"
     image_url: https://m.media-amazon.com/images/I/51uLOQqYu3L._SL500_.jpg
     genre: Science Fiction & Fantasy > Science Fiction
-    listening_length: 19 hours and 40 minutes
+    runtime: 19 hours and 40 minutes
     version: Unabridged
     release_date: 2021-11-30
     language: English
@@ -63,7 +63,7 @@
       membership: B07BVZK3XQ
     publisher: William Collins
     version: Unabridged
-    listening_length: 8 hours and 56 minutes
+    runtime: 8 hours and 56 minutes
     year_released: 2019
     date_released: 2019-11-21
     date_purchased: 2020-12-23
@@ -84,7 +84,7 @@
       membership: B004ER01OU
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 17 hours and 57 minutes"
+    runtime: 17 hours and 57 minutes"
     year_released: 2008
     date_released: 2008-01-15
     date_purchased: 2021-08-20
@@ -104,7 +104,7 @@
       membership: B00LCHY9AM
     publisher: Faber & Faber
     format: Unabridged Audiobook
-    listening_length: 9 hours and 26 minutes
+    runtime: 9 hours and 26 minutes
     year_released: 2014
     date_release: 2014-07-03
     date_purchased: 2021-10-10
@@ -127,7 +127,7 @@
       membership: "1528880005"
     publisher: W. F. Howes Ltd
     version: Unabridged
-    listening_length: 38 hours and 11 minutes
+    runtime: 38 hours and 11 minutes
     year_released: 2020
     date_released: 2020-03-05
     date_purchased: 2021-09-13
@@ -148,7 +148,7 @@
       membership: "0241508932"
     publisher: Penguin Audio
     version: Unabridged
-    listening_length: 12 hours and 37 minutes
+    runtime: 12 hours and 37 minutes
     year_released: 2021
     date_released: 2021-09-07
     date_purchased: 2021-09-25
@@ -169,7 +169,7 @@
       membership: B07L9F4CFG
     publisher: Blackstone Publishing
     version: Unabridged
-    listening_length: 6 hours and 34 minutes
+    runtime: 6 hours and 34 minutes
     year_released: 2018
     date_released: 2018-12-25
     date_purchased: 2021-08-19
@@ -188,7 +188,7 @@
       membership: B00HRIMRO0
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 12 hours and 11 minutes
+    runtime: 12 hours and 11 minutes
     year_released: 2014
     date_released: 2014-01-23
     date_purchased: 2021-08-20
@@ -233,7 +233,7 @@
       membership: B004F2XCHW
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 8 hours and 20 minutes
+    runtime: 8 hours and 20 minutes
     year_released: 2007
     date_released: 2007-09-05
     date_purchased: 2021-08-19
@@ -255,7 +255,7 @@
       membership: B004EW2292
     publisher: Brilliance Audio
     version: Unabridged
-    listening_length: 6 hours and 42 minutes
+    runtime: 6 hours and 42 minutes
     year_released: 2008
     date_released: 2008-04-29
     date_purchased: 2021-08-19
@@ -277,7 +277,7 @@
       membership: B00CZGG08I
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 11 hours and 26 minutes
+    runtime: 11 hours and 26 minutes
     year_released: 2013
     date_released: 2013-06-03
     date_purchased: 2021-03-21
@@ -297,7 +297,7 @@
     aisn: B08YRZBRGB
     publisher: W. F. Howes Ltd
     version: Unabridged
-    listening_length: 11 hours and 13 minutes
+    runtime: 11 hours and 13 minutes
     year_released: 2021
     date_released: 2021-03-16
     date_purchased: 2021-07-29
@@ -317,7 +317,7 @@
       membership: B07BVZK3XQ
     publisher: Recorded Books
     version: Unabridged
-    listening_length: 23 hours and 51 minutes
+    runtime: 23 hours and 51 minutes
     year_released: 2008
     date_released: 2008-04-04
     date_purchased: 2021-06-21
@@ -338,7 +338,7 @@
       membership: B07BVZK3XQ
     publisher: Audible Studios
     version: Unabridged
-    listening_length: 10 hours and 12 minutes
+    runtime: 10 hours and 12 minutes
     year_released: 2014
     date_released: 2014-01-30
     date_purchased: 2021-03-21
@@ -373,7 +373,7 @@
       membership: B07BVZK3XQ
     publisher: Recorded Books, Inc.
     version: Unabridged
-    listening_length: 10 hours and 52 minutes
+    runtime: 10 hours and 52 minutes
     year_released: 2020
     date_released: 2020-10-29
     date_purchased: 2021-04-22
@@ -393,7 +393,7 @@
       membership: B07BVZK3XQ
     publisher: Audible Studios
     version: Unabridged
-    listening_length: 16 hours and 10 minutes
+    runtime: 16 hours and 10 minutes
     year_released: 2020
     date_released: 2021-05-04
     date_purchased: 2021-05-29
@@ -414,7 +414,7 @@
       membership: B07BVZK3XQ
     publisher: Penguin Audio
     version: Unabridged
-    listening_length: 13 hours and 13 minutes
+    runtime: 13 hours and 13 minutes
     year_released: 2020
     date_released: 2020-09-10
     date_purchased: 2021-01-20
@@ -434,7 +434,7 @@
       membership: B07BVZK3XQ
     publisher: W. F. Howes Ltd
     version: Unabridged
-    listening_length: 12 hours and 51 minutes
+    runtime: 12 hours and 51 minutes
     year_released: 2018
     date_released: 2018-08-17
     date_purchased: 2021-03-21
@@ -493,7 +493,7 @@
       membership: B07BVZK3XQ
     publisher: Audible Studios
     version: Unabridged
-    listening_length: 9 hours and 20 minutes
+    runtime: 9 hours and 20 minutes
     year_released: 2014
     date_released: 2014-01-24
     date_purchased: 2021-03-21
@@ -515,7 +515,7 @@
       membership: B07BVZK3XQ
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 15 hours and 55 minutes
+    runtime: 15 hours and 55 minutes
     year_released: 2013
     date_released: 2013-03-07
     date_purchased: 2021-03-21
@@ -537,7 +537,7 @@
       membership: B07BVZK3XQ
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 6 hours and 20 minutes
+    runtime: 6 hours and 20 minutes
     year_released: 2014
     date_released: 2014-01-23
     date_purchased: 2021-03-21
@@ -559,7 +559,7 @@
       membership: B07BVZK3XQ
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 13 hours and 28 minutes
+    runtime: 13 hours and 28 minutes
     year_released: 2012
     date_released: 2012-04-05
     date_purchased: 2021-03-21
@@ -581,7 +581,7 @@
       membership: B07BVZK3XQ
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 11 hours and 26 minutes
+    runtime: 11 hours and 26 minutes
     year_released: 2010
     date_released: 2010-12-02
     date_purchased: 2021-03-21
@@ -602,7 +602,7 @@
       membership: B07BVZK3XQ
     publisher: Picador
     version: Unabridged
-    listening_length: 5 hours and 47 minutes
+    runtime: 5 hours and 47 minutes
     year_released: 2017
     date_released: 2017-09-07
     date_purchased: 2021-03-21
@@ -624,7 +624,7 @@
       membership: B07BVZK3XQ
     publisher: Hachette Audio UK
     version: Unabridged
-    listening_length: 16 hours and 25 minutes
+    runtime: 16 hours and 25 minutes
     year_released: 2010
     date_released: 2010-11-05
     date_purchased: 2021-03-21
@@ -652,7 +652,7 @@
       membership: B07BVZK3XQ
     publisher: BBC Digital Audio
     version: Original recording
-    listening_length: 6 hours and 50 minutes
+    runtime: 6 hours and 50 minutes
     year_released: 2018
     date_released: 2018-07-05
     date_purchased: 2021-03-10
@@ -673,7 +673,7 @@
       membership: B07BVZK3XQ
     publisher: Audible Studios
     version: Unabridged
-    listening_length: 16 hours and 26 minutes
+    runtime: 16 hours and 26 minutes
     year_released: 2020
     date_released: 2020-08-25
     date_purchased: 2021-12-20
@@ -693,7 +693,7 @@
       membership: B07BVZK3XQ
     publisher: HarperCollins Publishers Limited
     version: Unabridged
-    listening_length: 18 hours and 9 minutes
+    runtime: 18 hours and 9 minutes
     year_released: 2017
     date_released: 2017-09-28
     date_purchased: 2020-12-21
@@ -714,7 +714,7 @@
       membership: B07BVZK3XQ
     publisher: Hachette Audio
     version: Unabridged
-    listening_length: 24 hours and 16 minutes
+    runtime: 24 hours and 16 minutes
     year_released: 2019
     date_released: 2019-01-28
     date_purchased: 2019-10-29
@@ -731,7 +731,7 @@
       membership: B07BVZK3XQ
     publisher: Blackstone Audio, Inc.
     version: Unabridged
-    listening_length: 11 hours and 50 minutes
+    runtime: 11 hours and 50 minutes
     year_released: 2018
     date_released: 2018-12-11
     date_purchased: 2021-01-10
@@ -752,7 +752,7 @@
       membership: B07BVZK3XQ
     publisher: Audible Studios
     version: Unabridged
-    listening_length: 11 hours and 37 minutes
+    runtime: 11 hours and 37 minutes
     year_released: 2017
     date_released: 2017-05-09
     date_purchased: 2020-12-21
@@ -772,7 +772,7 @@
       membership: B07BVZK3XQ
     publisher: William Collins
     version: Unabridged
-    listening_length: 8 hours and 56 minutes
+    runtime: 8 hours and 56 minutes
     year_released: 2019
     date_released: 2019-11-21
     date_purchased: 2020-12-23
@@ -794,7 +794,7 @@
       membership: B07BVZK3XQ
     publisher: Penguin Books Ltd
     version: Unabridged
-    listening_length: 25 hours and 27 minutes
+    runtime: 25 hours and 27 minutes
     year_released: 2018
     date_released: 2018-08-02
     date_purchased: 2020-12-21
@@ -814,7 +814,7 @@
       membership: B07BVZK3XQ
     publisher: HarperCollins Publishers Limited
     version: Unabridged
-    listening_length: 12 hours and 26 minutes
+    runtime: 12 hours and 26 minutes
     year_released: 2018
     date_released: 2018-09-20
     date_purchased: 2020-12-23
@@ -836,7 +836,7 @@
       membership: B07BVZK3XQ
     publisher: Bloomsbury Publishing Plc
     version: Unabridged
-    listening_length: 12 hours and 19 minutes
+    runtime: 12 hours and 19 minutes
     year_released: 2020
     date_released: 2020-09-10
     date_purchased: 2020-12-21
@@ -857,7 +857,7 @@
     aisn: B004F406HE
     publisher: BBC Worldwide Ltd
     version: Unabridged
-    listening_length: 2 hrs and 44 mins
+    runtime: 2 hrs and 44 mins
     year_released: 2008
     date_released: 2008-04-08
     date_purchased: 2020-12-23
@@ -878,7 +878,7 @@
     aisn: B002SQ23UY
     publisher: BBC Worldwide Ltd
     version: Abridged
-    listening_length: 3 hours and 13 minutes
+    runtime: 3 hours and 13 minutes
     year_released: 2008
     date_released: "2008-04-08"
     date_purchased: 2020-12-23
@@ -900,7 +900,7 @@
     publisher: BBC Worldwide Ltd
     version: Unabridged
     language: English
-    listening_length: 2 hrs and 56 mins
+    runtime: 2 hrs and 56 mins
     year_released: 2008
     date_released: "2008-04-15"
     date_purchased: 2020-12-23
@@ -922,7 +922,7 @@
     publisher: BBC Worldwide Ltd
     version: Unabridged
     language: English
-    listening_length: 3 hrs and 14 mins
+    runtime: 3 hrs and 14 mins
     year_released: 2017
     date_released: 2017-08-11
     date_purchased: 2020-12-21
@@ -944,7 +944,7 @@
     publisher: Penguin Audio
     version: Unabridged
     language: English
-    listening_length: 5 hrs and 35 mins
+    runtime: 5 hrs and 35 mins
     year_released: 2018
     date_released: 2018-10-18
     date_purchased: 2020-12-20
@@ -966,7 +966,7 @@
     publisher: Blackstone Audio, Inc.
     version: Unabridged
     language: English
-    listening_length: 10 hrs and 50 mins
+    runtime: 10 hrs and 50 mins
     year_released: 2018
     date_released: 2018-06-18
     date_purchased: 2018-09-18
@@ -990,7 +990,7 @@
     publisher: Whole Story Audiobooks
     version: Unabridged
     language: English
-    listening_length: 14 hours and 33 minutes
+    runtime: 14 hours and 33 minutes
     year_released: 2012
     date_released: 2012-05-12
     date_purchased: 2012-11-19
@@ -1012,7 +1012,7 @@
     publisher: Isis Publishing Ltd
     version: Unabridged
     language: English
-    listening_length: 11 hrs and 31 mins
+    runtime: 11 hrs and 31 mins
     year_released: 2012
     date_released: 2012-06-12
     date_purchased: 2020-11-20
@@ -1036,7 +1036,7 @@
     publisher: Hodder & Stoughton
     version: Unabridged
     language: English
-    listening_length: 13 hours and 4 minutes
+    runtime: 13 hours and 4 minutes
     year_released: 2016
     date_released: 2016-10-20
     date_purchased: 2020-11-19
@@ -1058,7 +1058,7 @@
     publisher: Macmillan
     version: Unabridged
     language: English
-    listening_length: 18 hrs and 2 mins
+    runtime: 18 hrs and 2 mins
     year_released: 2020
     date_released: 2020-08-20
     date_purchased: 2020-11-19
@@ -1081,7 +1081,7 @@
     publisher: Random House AudioBooks
     version: Unabridged
     language: English
-    listening_length: 9 hrs and 59 mins
+    runtime: 9 hrs and 59 mins
     year_released: 2011
     date_released: 2011-08-16
     date_purchased: 2020-08-18
@@ -1102,7 +1102,7 @@
     publisher: Hachette Audio UK
     version: Unabridged
     language: English
-    listening_length: 12 hrs and 12 mins
+    runtime: 12 hrs and 12 mins
     year_released: 2018
     date_released: 2018-11-08
     date_purchased: 2020-08-20
@@ -1151,7 +1151,7 @@
     publisher: Hachette Audio UK
     version: Unabridged
     language: English
-    listening_length: 16 hours and 11 minutes
+    runtime: 16 hours and 11 minutes
     year_released: 2020
     date_released: 2020-03-24
     date_purchased: 2020-10-25
@@ -1192,7 +1192,7 @@
     publisher: Macmillan Digital Audio
     version: Unabridged
     language: English
-    listening_length: 12 hours and 13 minutes
+    runtime: 12 hours and 13 minutes
     year_released: 2019
     date_released: 2019-02-07
     date_purchased: 2020-08-17
@@ -1215,7 +1215,7 @@
     version: Unabridged
     publisher: Penguin Audio
     language: English
-    listening_length: 10 hours and 23 minutes
+    runtime: 10 hours and 23 minutes
     year_released: 2020
     date_released: 2020-08-27
     date_purchased: 2020-08-26
@@ -1241,7 +1241,7 @@
     publisher: Bolinda Publishing Pty Ltd
     version: Unabridged Audiobook
     language: English
-    listening_length: 13 hours and 21 minutes
+    runtime: 13 hours and 21 minutes
     year_released: 2014
     date_released: 2014-06-01
     date_purchased: 2020-08-19
@@ -1265,7 +1265,7 @@
     publisher: Doubleday Nan A. Talese
     version: Unabridged Audiobook
     language: English
-    listening_length: 12 hours and 46 minutes
+    runtime: 12 hours and 46 minutes
     year_released: 2019
     date_released: 2019-02-07
     date_purchased: 2020-08-19
@@ -1289,7 +1289,7 @@
     publisher: HarperCollins
     version: Unabridged
     language: English
-    listening_length: 14 hours and 7 minutes
+    runtime: 14 hours and 7 minutes
     year_released: 2020
     date_released: 2020-05-26
     date_purchased: 2020-08-18
@@ -1334,7 +1334,7 @@
     publisher: Audible Studios
     version: Unabridged
     language: English
-    listening_length: 10 hours and 20 minutes
+    runtime: 10 hours and 20 minutes
     year_released: 2017
     date_released: 2017-02-14
     date_purchased: 2020-06-20
@@ -1358,7 +1358,7 @@
     publisher: Whole Story Audio
     version: Unabridged
     language: English
-    listening_length: 7 hours and 22 minutes
+    runtime: 7 hours and 22 minutes
     year_released: 2019
     date_released: 2019-07-04
     date_purchased: 2020-08-11
@@ -1382,7 +1382,7 @@
     publisher: Audible Studios
     version: Unabridged
     language: English
-    listening_length: 7 hours and 22 minutes
+    runtime: 7 hours and 22 minutes
     year_released: 2017
     date_released: 2017-03-21
     date_purchased: 2020-06-30
@@ -1406,7 +1406,7 @@
     publisher: Hachette Audio UK
     version: Unabridged
     language: English
-    listening_length: 10 hours and 53 minutes
+    runtime: 10 hours and 53 minutes
     year_released: 2015
     date_released: 2015-10-08
     date_purchased: 2020-06-30
@@ -1430,7 +1430,7 @@
     publisher: Audible Studios
     version: Unabridged
     language: English
-    listening_length: 8 hours and 19 minutes
+    runtime: 8 hours and 19 minutes
     year_released: 2018
     date_released: 2018-10-16
     date_purchased: 2020-06-30
@@ -1452,7 +1452,7 @@
     publisher: Faber & Faber
     version: Unabridged
     language: English
-    listening_length: 7 hours and 5 minutes
+    runtime: 7 hours and 5 minutes
     year_released: 2012
     date_released: 2012-09-06
     date_purchased: 2020-06-30
@@ -1476,7 +1476,7 @@
     publisher: Hachette Audio UK
     version: Unabridged
     language: English
-    listening_length: x hours and xx minutes
+    runtime: x hours and xx minutes
     year_released: 2014
     date_released: 2014-10-07
     date_purchased: 2020-06-20
@@ -1500,7 +1500,7 @@
     publisher: Hachette Audio UK
     version: Unabridged
     language: English
-    listening_length: 12 hours and 40 minutes
+    runtime: 12 hours and 40 minutes
     year_released: 2014
     date_released: 2014-08-14
     date_purchased: 2020-06-14
@@ -1540,7 +1540,7 @@
     publisher: Random House Audiobooks
     version: Unabridged
     language: English
-    listening_length: 7 hours
+    runtime: 7 hours
     year_released: 2017
     date_released: 2017-05-04
     date_purchased: 2020-06-14
@@ -1563,7 +1563,7 @@
     publisher: Bolinda Publishing Pty Ltd.
     version: Unabridged
     language: English
-    listening_length: 12 hours and 22 minutes
+    runtime: 12 hours and 22 minutes
     year_released: 2005
     date_released: 2005-01-21
     date_purchased: 2020-06-14
@@ -1585,7 +1585,7 @@
     publisher: Audible Studios for Bloomsbury
     version: Unabridged
     language: English
-    listening_length: 5 hours and 53 minutes
+    runtime: 5 hours and 53 minutes
     year_released: 2017
     date_released: 2017-06-01
     date_purchased: 2020-06-02
@@ -1610,7 +1610,7 @@
     publisher: Hodder & Stoughton
     version: Unabridged
     language: English
-    listening_length: 15 hours and 41 minutes
+    runtime: 15 hours and 41 minutes
     year_released: 2015
     date_released: 2015-08-13
     date_purchased: 2020-06-02
@@ -1633,7 +1633,7 @@
     publisher: Whole Story Audiobooks
     version: Unabridged
     language: English
-    listening_length: 24 hours and 15 minutes
+    runtime: 24 hours and 15 minutes
     year_released: 2009
     date_released: 2009-10-16
     date_purchased: 2020-04-12
@@ -1655,7 +1655,7 @@
     publisher: Random House Audiobooks
     version: Unabridged
     language: English
-    listening_length: 12 hours and 10 minutes
+    runtime: 12 hours and 10 minutes
     year_released: 2018
     date_released: 2018-02-20
     date_purchased: 2020-03-30
@@ -1678,7 +1678,7 @@
     publisher: Penguin Audio
     version: Unabridged
     language: English
-    listening_length: 10 hours and 9 minutes
+    runtime: 10 hours and 9 minutes
     year_released: 2019
     date_released: 2019-09-10
     date_purchased: 2020-02-11
