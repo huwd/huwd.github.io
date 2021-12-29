@@ -6,7 +6,8 @@
     type: Paperback
     print_length: 448 pages
     language: English
-    publisher: Sceptre
+    publisher:
+      name: Sceptre
     publication_date: 2015-05-21
     dimensions: 15 x 2.9 x 19.8 cm
     isbn10: 1473621992
@@ -24,7 +25,8 @@
       membership: "1980035962"
     runtime: "9 hours and 32 minutes"
     format: Unabridged
-    publisher: "Penguin Audio"
+    publisher:
+      name: "Penguin Audio"
     language": "English"
   date_started: 2021-12-08
 - title: Leviathan Falls
@@ -45,7 +47,8 @@
     version: Unabridged
     release_date: 2021-11-30
     language: English
-    publisher: Recorded Books, Inc.
+    publisher:
+      name: Recorded Books, Inc.
     publisher_link: https://www.audible.co.uk/search?searchProvider=Recorded+Books%2C+Inc.
   date_started: 2021-11-30
   date_finished: 2021-12-04
@@ -61,7 +64,8 @@
     aisn:
       product: "0008388245"
       membership: B07BVZK3XQ
-    publisher: William Collins
+    publisher:
+      name: William Collins
     version: Unabridged
     runtime: 8 hours and 56 minutes
     year_released: 2019
@@ -82,7 +86,8 @@
       - Toby Longworth
     aisn:
       membership: B004ER01OU
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 17 hours and 57 minutes"
     year_released: 2008
@@ -102,7 +107,8 @@
       - Kerry Fox
     aisn:
       membership: B00LCHY9AM
-    publisher: Faber & Faber
+    publisher:
+      name: Faber & Faber
     format: Unabridged Audiobook
     runtime: 9 hours and 26 minutes
     year_released: 2014
@@ -125,7 +131,8 @@
       - Ben Miles
     aisn:
       membership: "1528880005"
-    publisher: W. F. Howes Ltd
+    publisher:
+      name: W. F. Howes Ltd
     version: Unabridged
     runtime: 38 hours and 11 minutes
     year_released: 2020
@@ -146,7 +153,8 @@
       - Simon Vance
     aisn:
       membership: "0241508932"
-    publisher: Penguin Audio
+    publisher:
+      name: Penguin Audio
     version: Unabridged
     runtime: 12 hours and 37 minutes
     year_released: 2021
@@ -167,7 +175,8 @@
       - Donald Corren
     aisn:
       membership: B07L9F4CFG
-    publisher: Blackstone Publishing
+    publisher:
+      name: Blackstone Publishing
     version: Unabridged
     runtime: 6 hours and 34 minutes
     year_released: 2018
@@ -186,7 +195,8 @@
       - Peter Kenny
     aisn:
       membership: B00HRIMRO0
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 12 hours and 11 minutes
     year_released: 2014
@@ -209,7 +219,8 @@
       - Leighton Pugh
     aisn:
       membership: 147358275X
-    publisher: Penguin Audio
+    publisher:
+      name: Penguin Audio
     version: Unabridged
     runtime: 37 hours and 13 minutes
     year_released: 2020
@@ -231,7 +242,8 @@
     aisn:
       product: B002SQ5D4M
       membership: B004F2XCHW
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 8 hours and 20 minutes
     year_released: 2007
@@ -253,7 +265,8 @@
     aisn:
       product: B002SQ1IXM
       membership: B004EW2292
-    publisher: Brilliance Audio
+    publisher:
+      name: Brilliance Audio
     version: Unabridged
     runtime: 6 hours and 42 minutes
     year_released: 2008
@@ -275,7 +288,8 @@
     aisn:
       product: B00D48YF9C
       membership: B00CZGG08I
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 11 hours and 26 minutes
     year_released: 2013
@@ -295,7 +309,8 @@
     narrators:
       - Rene Ruiz
     aisn: B08YRZBRGB
-    publisher: W. F. Howes Ltd
+    publisher:
+      name: W. F. Howes Ltd
     version: Unabridged
     runtime: 11 hours and 13 minutes
     year_released: 2021
@@ -315,7 +330,8 @@
     aisn:
       product: B004FU9CYG
       membership: B07BVZK3XQ
-    publisher: Recorded Books
+    publisher:
+      name: Recorded Books
     version: Unabridged
     runtime: 23 hours and 51 minutes
     year_released: 2008
@@ -336,7 +352,8 @@
     aisn:
       product: B00I3K0SLU
       membership: B07BVZK3XQ
-    publisher: Audible Studios
+    publisher:
+      name: Audible Studios
     version: Unabridged
     runtime: 10 hours and 12 minutes
     year_released: 2014
@@ -354,7 +371,8 @@
     type: Paperback
     print_length: 272 pages
     language: English
-    publisher: Avery Publishing Group
+    publisher:
+      name: Avery Publishing Group
     publication_date: 2010-05-04
     dimensions: 14.17 x 1.8 x 20.93 cm
     isbn10: 9781583333976
@@ -371,7 +389,8 @@
     aisn:
       product: 1705014453
       membership: B07BVZK3XQ
-    publisher: Recorded Books, Inc.
+    publisher:
+      name: Recorded Books, Inc.
     version: Unabridged
     runtime: 10 hours and 52 minutes
     year_released: 2020
@@ -391,7 +410,8 @@
     aisn:
       product: B08GB2RLKM
       membership: B07BVZK3XQ
-    publisher: Audible Studios
+    publisher:
+      name: Audible Studios
     version: Unabridged
     runtime: 16 hours and 10 minutes
     year_released: 2020
@@ -412,7 +432,8 @@
     aisn:
       product: "0242370960"
       membership: B07BVZK3XQ
-    publisher: Penguin Audio
+    publisher:
+      name: Penguin Audio
     version: Unabridged
     runtime: 13 hours and 13 minutes
     year_released: 2020
@@ -432,7 +453,8 @@
     aisn:
       product: B07BWNZ2CJ
       membership: B07BVZK3XQ
-    publisher: W. F. Howes Ltd
+    publisher:
+      name: W. F. Howes Ltd
     version: Unabridged
     runtime: 12 hours and 51 minutes
     year_released: 2018
@@ -451,7 +473,8 @@
     type: Hardcover
     print_length: 245 pages
     language: English
-    publisher: Subbuteo Natural History Books, a division of C J WildBird Foods Ltd
+    publisher:
+      name: Subbuteo Natural History Books, a division of C J WildBird Foods Ltd
     publication_date: 2007-12-11
     isbn10: 1905268033
     isbn13: 978-1905268030
@@ -472,7 +495,8 @@
     isbn: 1784272000
     isbn13: 978-1784272005
     dimensions: 15.72 x 1.4 x 23.55 cm
-    publisher: Pelagic Publishing
+    publisher:
+      name: Pelagic Publishing
     language: English
     pages: 176
   date_started: 2021-04-10
@@ -491,7 +515,8 @@
     aisn:
       product: B00HZOL9PO
       membership: B07BVZK3XQ
-    publisher: Audible Studios
+    publisher:
+      name: Audible Studios
     version: Unabridged
     runtime: 9 hours and 20 minutes
     year_released: 2014
@@ -513,7 +538,8 @@
     aisn:
       product: B00BIPQV0Y
       membership: B07BVZK3XQ
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 15 hours and 55 minutes
     year_released: 2013
@@ -535,7 +561,8 @@
     aisn:
       product: B00HS4UEQQ
       membership: B07BVZK3XQ
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 6 hours and 20 minutes
     year_released: 2014
@@ -557,7 +584,8 @@
     aisn:
       product: B007O0J9BU
       membership: B07BVZK3XQ
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 13 hours and 28 minutes
     year_released: 2012
@@ -579,7 +607,8 @@
     aisn:
       product: B004EF2FXM
       membership: B07BVZK3XQ
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 11 hours and 26 minutes
     year_released: 2010
@@ -600,7 +629,8 @@
     aisn:
       product: B071K6YYDN
       membership: B07BVZK3XQ
-    publisher: Picador
+    publisher:
+      name: Picador
     version: Unabridged
     runtime: 5 hours and 47 minutes
     year_released: 2017
@@ -622,7 +652,8 @@
     aisn:
       product: B004EQUC4U
       membership: B07BVZK3XQ
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     runtime: 16 hours and 25 minutes
     year_released: 2010
@@ -650,7 +681,8 @@
     aisn:
       product: B07BFWVFQK
       membership: B07BVZK3XQ
-    publisher: BBC Digital Audio
+    publisher:
+      name: BBC Digital Audio
     version: Original recording
     runtime: 6 hours and 50 minutes
     year_released: 2018
@@ -671,7 +703,8 @@
     aisn:
       product: "1472962141"
       membership: B07BVZK3XQ
-    publisher: Audible Studios
+    publisher:
+      name: Audible Studios
     version: Unabridged
     runtime: 16 hours and 26 minutes
     year_released: 2020
@@ -691,7 +724,8 @@
     aisn:
       product: B01MSPM1QV
       membership: B07BVZK3XQ
-    publisher: HarperCollins Publishers Limited
+    publisher:
+      name: HarperCollins Publishers Limited
     version: Unabridged
     runtime: 18 hours and 9 minutes
     year_released: 2017
@@ -712,7 +746,8 @@
     aisn:
       product: "1478947276"
       membership: B07BVZK3XQ
-    publisher: Hachette Audio
+    publisher:
+      name: Hachette Audio
     version: Unabridged
     runtime: 24 hours and 16 minutes
     year_released: 2019
@@ -729,7 +764,8 @@
     aisn:
       product: B07KX4TTTP
       membership: B07BVZK3XQ
-    publisher: Blackstone Audio, Inc.
+    publisher:
+      name: Blackstone Audio, Inc.
     version: Unabridged
     runtime: 11 hours and 50 minutes
     year_released: 2018
@@ -750,7 +786,8 @@
     aisn:
       product: B06XWGCN7S
       membership: B07BVZK3XQ
-    publisher: Audible Studios
+    publisher:
+      name: Audible Studios
     version: Unabridged
     runtime: 11 hours and 37 minutes
     year_released: 2017
@@ -770,7 +807,8 @@
     aisn:
       product: "0008388245"
       membership: B07BVZK3XQ
-    publisher: William Collins
+    publisher:
+      name: William Collins
     version: Unabridged
     runtime: 8 hours and 56 minutes
     year_released: 2019
@@ -792,7 +830,8 @@
     aisn:
       product: B07FPPX125
       membership: B07BVZK3XQ
-    publisher: Penguin Books Ltd
+    publisher:
+      name: Penguin Books Ltd
     version: Unabridged
     runtime: 25 hours and 27 minutes
     year_released: 2018
@@ -812,7 +851,8 @@
     aisn:
       product: B07DY76BPC
       membership: B07BVZK3XQ
-    publisher: HarperCollins Publishers Limited
+    publisher:
+      name: HarperCollins Publishers Limited
     version: Unabridged
     runtime: 12 hours and 26 minutes
     year_released: 2018
@@ -834,7 +874,8 @@
     aisn:
       product: 1526621479
       membership: B07BVZK3XQ
-    publisher: Bloomsbury Publishing Plc
+    publisher:
+      name: Bloomsbury Publishing Plc
     version: Unabridged
     runtime: 12 hours and 19 minutes
     year_released: 2020
@@ -855,7 +896,8 @@
     narrators:
       - David Attenborough
     aisn: B004F406HE
-    publisher: BBC Worldwide Ltd
+    publisher:
+      name: BBC Worldwide Ltd
     version: Unabridged
     runtime: 2 hrs and 44 mins
     year_released: 2008
@@ -876,7 +918,8 @@
     narrators:
       - David Attenborough
     aisn: B002SQ23UY
-    publisher: BBC Worldwide Ltd
+    publisher:
+      name: BBC Worldwide Ltd
     version: Abridged
     runtime: 3 hours and 13 minutes
     year_released: 2008
@@ -897,7 +940,8 @@
     narrators:
       - David Attenborough
     aisn: B004F406HE
-    publisher: BBC Worldwide Ltd
+    publisher:
+      name: BBC Worldwide Ltd
     version: Unabridged
     language: English
     runtime: 2 hrs and 56 mins
@@ -919,7 +963,8 @@
     narrators:
       - David Attenborough
     aisn: B005HJBHR4
-    publisher: BBC Worldwide Ltd
+    publisher:
+      name: BBC Worldwide Ltd
     version: Unabridged
     language: English
     runtime: 3 hrs and 14 mins
@@ -941,7 +986,8 @@
     narrators:
       - James Clear
     aisn: B07J1XQSNK
-    publisher: Penguin Audio
+    publisher:
+      name: Penguin Audio
     version: Unabridged
     language: English
     runtime: 5 hrs and 35 mins
@@ -963,7 +1009,8 @@
     narrators:
       - John Lescault
     aisn: B07DNH1BKS
-    publisher: Blackstone Audio, Inc.
+    publisher:
+      name: Blackstone Audio, Inc.
     version: Unabridged
     language: English
     runtime: 10 hrs and 50 mins
@@ -987,7 +1034,8 @@
     narrators:
       - Simon Vance
     aisn: B0080E6RPU
-    publisher: Whole Story Audiobooks
+    publisher:
+      name: Whole Story Audiobooks
     version: Unabridged
     language: English
     runtime: 14 hours and 33 minutes
@@ -1009,7 +1057,8 @@
     narrators:
       - David Thorpe
     aisn: B008EKTQEO
-    publisher: Isis Publishing Ltd
+    publisher:
+      name: Isis Publishing Ltd
     version: Unabridged
     language: English
     runtime: 11 hrs and 31 mins
@@ -1033,7 +1082,8 @@
     narrators:
       - Patricia Rodriguez
     aisn: B01HIXNAOY
-    publisher: Hodder & Stoughton
+    publisher:
+      name: Hodder & Stoughton
     version: Unabridged
     language: English
     runtime: 13 hours and 4 minutes
@@ -1055,7 +1105,8 @@
     narrators:
       - Sophie Aldred
     aisn: B084VTZZTB
-    publisher: Macmillan
+    publisher:
+      name: Macmillan
     version: Unabridged
     language: English
     runtime: 18 hrs and 2 mins
@@ -1078,7 +1129,8 @@
     narrators:
       - David Tse
     aisn: B005H0KP1M
-    publisher: Random House AudioBooks
+    publisher:
+      name: Random House AudioBooks
     version: Unabridged
     language: English
     runtime: 9 hrs and 59 mins
@@ -1099,7 +1151,8 @@
     type: Audiobook
     narrators:
       - Cassandra Campbell
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     language: English
     runtime: 12 hrs and 12 mins
@@ -1119,7 +1172,8 @@
     type: paperback
     isbn: "009952399X"
     isbn13: 978-0099523994
-    publisher: Vintage
+    publisher:
+      name: Vintage
     language: English
     pages: 352
   date_started: 2020-11-24
@@ -1135,7 +1189,8 @@
   format:
     type: Digital Book
     aisn: B01HQN7XHG
-    publisher: The Wildfowl & Wetlands Trust
+    publisher:
+      name: The Wildfowl & Wetlands Trust
     language: English
     pages: 300
   date_started: 2020-10-15
@@ -1148,7 +1203,8 @@
     type: Audiobook
     narrators:
       - Robin Miles
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     language: English
     runtime: 16 hours and 11 minutes
@@ -1171,7 +1227,8 @@
     type: paperback
     isbn: 1473205786
     isbn13: 9781473205789
-    publisher: Gateway
+    publisher:
+      name: Gateway
     language: English
     pages: 128
   date_started: 2020-09-12
@@ -1189,7 +1246,8 @@
     narrators:
       - Kevin Kenerly
     aisn: B07GNNDGPM
-    publisher: Macmillan Digital Audio
+    publisher:
+      name: Macmillan Digital Audio
     version: Unabridged
     language: English
     runtime: 12 hours and 13 minutes
@@ -1213,7 +1271,8 @@
       - Helen Macdonald
     aisn: B083QKYKGF
     version: Unabridged
-    publisher: Penguin Audio
+    publisher:
+      name: Penguin Audio
     language: English
     runtime: 10 hours and 23 minutes
     year_released: 2020
@@ -1238,7 +1297,8 @@
       - Bob Walter
       - Robbie Daymond
     aisn: B00JV4CBY4
-    publisher: Bolinda Publishing Pty Ltd
+    publisher:
+      name: Bolinda Publishing Pty Ltd
     version: Unabridged Audiobook
     language: English
     runtime: 13 hours and 21 minutes
@@ -1262,7 +1322,8 @@
     narrators:
       - Lorelei King
     aisn: B004FTII2O
-    publisher: Doubleday Nan A. Talese
+    publisher:
+      name: Doubleday Nan A. Talese
     version: Unabridged Audiobook
     language: English
     runtime: 12 hours and 46 minutes
@@ -1286,7 +1347,8 @@
     narrators:
       - Emily Woo Zeller
     aisn: B087RQ8LYP
-    publisher: HarperCollins
+    publisher:
+      name: HarperCollins
     version: Unabridged
     language: English
     runtime: 14 hours and 7 minutes
@@ -1310,7 +1372,8 @@
     aisn: 1596434465
     isbn: 9781596434462
     isbn13: 978-1596434462
-    publisher: First Second
+    publisher:
+      name: First Second
     language: English
     pages: 192
     date_purchased: 2020-06-16
@@ -1331,7 +1394,8 @@
     narrators:
       - Yahtzee Croshaw
     aisn: B06WLGX93W
-    publisher: Audible Studios
+    publisher:
+      name: Audible Studios
     version: Unabridged
     language: English
     runtime: 10 hours and 20 minutes
@@ -1355,7 +1419,8 @@
     narrators:
       - Sarfraz Manzoor
     aisn: B07TS4ZDLL
-    publisher: Whole Story Audio
+    publisher:
+      name: Whole Story Audio
     version: Unabridged
     language: English
     runtime: 7 hours and 22 minutes
@@ -1379,7 +1444,8 @@
     narrators:
       - Wil Wheaton
     aisn: B01L2PHDVA
-    publisher: Audible Studios
+    publisher:
+      name: Audible Studios
     version: Unabridged
     language: English
     runtime: 7 hours and 22 minutes
@@ -1403,7 +1469,8 @@
     narrators:
       - Adjoa Andoh
     aisn: B014TE8M3E
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     language: English
     runtime: 10 hours and 53 minutes
@@ -1427,7 +1494,8 @@
     narrators:
       - Wil Wheaton
     aisn: B07HNM8X4Y
-    publisher: Audible Studios
+    publisher:
+      name: Audible Studios
     version: Unabridged
     language: English
     runtime: 8 hours and 19 minutes
@@ -1449,7 +1517,8 @@
     narrators:
       - Dominic West
     aisn: B008PTT3N8
-    publisher: Faber & Faber
+    publisher:
+      name: Faber & Faber
     version: Unabridged
     language: English
     runtime: 7 hours and 5 minutes
@@ -1473,7 +1542,8 @@
     narrators:
       - Adjoa Andoh
     aisn: B00MH4EBC0
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     language: English
     runtime: x hours and xx minutes
@@ -1497,7 +1567,8 @@
     narrators:
       - Adjoa Andoh
     aisn: B00LPNR9QE
-    publisher: Hachette Audio UK
+    publisher:
+      name: Hachette Audio UK
     version: Unabridged
     language: English
     runtime: 12 hours and 40 minutes
@@ -1537,7 +1608,8 @@
       - Wei Ming Kam
       - Darren Chetty
     aisn: B071CQ77S3
-    publisher: Random House Audiobooks
+    publisher:
+      name: Random House Audiobooks
     version: Unabridged
     language: English
     runtime: 7 hours
@@ -1560,7 +1632,8 @@
     narrators:
       - John Chancer
     aisn: B004FTGCK4
-    publisher: Bolinda Publishing Pty Ltd.
+    publisher:
+      name: Bolinda Publishing Pty Ltd.
     version: Unabridged
     language: English
     runtime: 12 hours and 22 minutes
@@ -1582,7 +1655,8 @@
     narrators:
       - Reni Eddo-Lodge
     aisn: B06XGLP7NP
-    publisher: Audible Studios for Bloomsbury
+    publisher:
+      name: Audible Studios for Bloomsbury
     version: Unabridged
     language: English
     runtime: 5 hours and 53 minutes
@@ -1607,7 +1681,8 @@
     narrators:
       - Patricia Rodriguez
     aisn: B00W8DPMZU
-    publisher: Hodder & Stoughton
+    publisher:
+      name: Hodder & Stoughton
     version: Unabridged
     language: English
     runtime: 15 hours and 41 minutes
@@ -1630,7 +1705,8 @@
     narrators:
       - Simon Slater
     aisn: B004FTXVEY
-    publisher: Whole Story Audiobooks
+    publisher:
+      name: Whole Story Audiobooks
     version: Unabridged
     language: English
     runtime: 24 hours and 15 minutes
@@ -1652,7 +1728,8 @@
     narrators:
       - Julia Whelan
     aisn: B079C1S8ZH
-    publisher: Random House Audiobooks
+    publisher:
+      name: Random House Audiobooks
     version: Unabridged
     language: English
     runtime: 12 hours and 10 minutes
@@ -1675,7 +1752,8 @@
     narrators:
       - Sean Carroll
     aisn: B07QTBYGBQ
-    publisher: Penguin Audio
+    publisher:
+      name: Penguin Audio
     version: Unabridged
     language: English
     runtime: 10 hours and 9 minutes
@@ -1699,7 +1777,8 @@
     aisn: 1596434465
     isbn: "0241983681"
     isbn13: 978-0241983683
-    publisher: Penguin
+    publisher:
+      name: Penguin
     language: English
     pages: 432
   date_started:
