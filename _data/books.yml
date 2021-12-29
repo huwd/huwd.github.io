@@ -1,4 +1,132 @@
 ---
+- title: The Tower of the Swallow
+  series: The Witcher Saga
+  series_entry: Book 4
+  authors:
+    - Andrzej Sapkowski
+  genre: Science Fiction & Fantasy > Fantasy
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Kenny
+    aisn:
+      membership: B01B2325EC
+    runtime: 16 hours and 46 minutes
+    publisher:
+      name: Orion Publishing Group
+      publisher_link: https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group
+    language: English
+    release_date: 2016-05-19
+    url: https://www.audible.co.uk/pd/The-Tower-of-the-Swallow-Audiobook/B01B2325EC
+    image_url: https://m.media-amazon.com/images/I/51CdPuwP78L._SL500_.jpg
+- title: Baptism of Fire
+  subtitle: The Witcher, Book 3
+  series: The Witcher Saga
+  series_entry: Book 3
+  authors:
+    - Andrzej Sapkowski
+  genre: Science Fiction & Fantasy > Fantasy
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Kenny
+    aisn:
+      membership: B00JF6BFBS
+    runtime: 12 hours and 15 minutes
+    publisher:
+      name: Orion Publishing Group
+      publisher_link: https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group
+    language: English
+    release_date: 2014-04-03
+    url: https://www.audible.co.uk/pd/Baptism-of-Fire-Audiobook/B00JF6BFBS
+    image_url: https://m.media-amazon.com/images/I/51lpJJaSA2L._SL500_.jpg
+- title: Sword of Destiny
+  series: The Witcher Saga
+  authors:
+    - Andrzej Sapkowski
+  genre: Science Fiction & Fantasy > Fantasy
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Kenny
+    aisn:
+      membership: B016VA8JNC
+    runtime: 12 hours and 57 minutes
+    publisher:
+      name: Orion Publishing Group
+      publisher_link: https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group
+    language: English
+    release_date: 2015-12-03
+    url: https://www.audible.co.uk/pd/Sword-of-Destiny-Audiobook/B016VA8JNC
+    image_url: https://m.media-amazon.com/images/I/51EziAFj+DL._SL500_.jpg
+- title: The Last Wish
+  series: The Witcher Saga
+  authors:
+    - Andrzej Sapkowski
+  genre: Science Fiction & Fantasy > Fantasy
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Kenny
+    aisn:
+      membership: B00HWCA2VG
+    runtime: 10 hours and 27 minutes
+    publisher:
+      name: Orion Publishing Group
+      publisher_link: https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group
+    language: English
+    release_date: 2014-02-27
+    url: https://www.audible.co.uk/pd/The-Last-Wish-Audiobook/B00HWCA2VG
+    image_url: https://m.media-amazon.com/images/I/61M1PUyk+ML._SL500_.jpg
+  date_started: 2021-12-28
+- title: Time of Contempt
+  series: The Witcher Saga
+  series_entry: Book 2
+  authors:
+    - Andrzej Sapkowski
+  genre: Science Fiction & Fantasy > Fantasy
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Kenny
+    aisn:
+      membership: B00IT5XSM0
+    runtime: 12 hours and 13 minutes
+    publisher:
+      name: Orion Publishing Group
+      publisher_link: https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group
+    language: English
+    release_date: 2014-03-06
+    url: https://www.audible.co.uk/pd/Time-of-Contempt-Audiobook/B00IT5XSM0
+    image_url: https://m.media-amazon.com/images/I/51aIkHxVftL._SL500_.jpg
+  date_started: 2021-12-27
+  date_finished: 2021-12-28
+  rating:
+    mine: 3
+- title: Blood of Elves
+  series: The Witcher Saga
+  series_entry: Book 1
+  authors:
+    - Andrzej Sapkowski
+  genre: Science Fiction & Fantasy > Fantasy
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Kenny
+    aisn:
+      membership: B00IDO9FRE
+    runtime: 11 hours and 11 minutes
+    publisher:
+      name: Orion Publishing Group
+      publisher_link: https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group
+    language: English
+    release_date: 2014-02-27
+    url: https://www.audible.co.uk/pd/Blood-of-Elves-Audiobook/B00IDO9FRE
+    image_url: https://m.media-amazon.com/images/I/41xrEwH-KgL._SL500_.jpg
+  date_started: 2021-12-26
+  date_finished: 2021-12-24
+  rating:
+    mine: 3
 - title: "The Walker's Guide to Outdoor Clues & Signs"
   authors:
     - Tristan Gooley
