@@ -1,6 +1,6 @@
 ---
 - title: "The Walker's Guide to Outdoor Clues & Signs"
-  author:
+  authors:
     - Tristan Gooley
   format:
     type: Paperback
@@ -14,7 +14,7 @@
     date_purchased: 2021-08-27
   date_started: 2021-11-25
 - title: Entangled Life
-  author:
+  authors:
     - Merlin Sheldrake
   format:
     type: Audiobook
@@ -30,7 +30,7 @@
 - title: Leviathan Falls
   series: The Expanse
   series_entry: Book 9
-  author:
+  authors:
     - James S.A. Corey
   format:
     type: Audiobook
@@ -52,7 +52,7 @@
   rating:
     mine: 4
 - title: The Peregrine
-  author:
+  authors:
     - J. A. Baker
   format:
     type: Audiobook
@@ -74,7 +74,7 @@
 - title: Matter
   series: Culture Series
   series_entry: Book 8
-  author:
+  authors:
     - Iain M. Banks
   format:
     type: Audiobook
@@ -94,7 +94,7 @@
   rating:
     mine: 4
 - title: Never Let Me Go
-  author:
+  authors:
     - Kazuo Ishiguro
   format:
     type: Audiobook
@@ -116,7 +116,7 @@
 - title: The Mirror and the Light
   series: The Wolf Hall Trilogy
   series_entry: Book 3
-  author:
+  authors:
     - Hilary Mantel
   genre: Literature & Fiction > Genre Fiction
   format:
@@ -136,7 +136,7 @@
   rating:
     mine: 5
 - title: Shutdown
-  author:
+  authors:
     - Adam Tooze
   genre: Money & Finance > Banks & Banking
   format:
@@ -158,7 +158,7 @@
     mine: 5
 - title: Almost Human
   subtitle: "The Astonishing Tale of Homo Naledi and the Discovery That Changed Our Human Story"
-  author:
+  authors:
     - Lee Berger
     - John Hawks
   format:
@@ -178,7 +178,7 @@
   rating:
     mine: 4
 - title: Look to Windward
-  author:
+  authors:
     - Iain M. Banks
   format:
     type: Audiobook
@@ -197,7 +197,7 @@
   rating:
     mine: 4
 - title: Stalingrad
-  author:
+  authors:
     - Vasily Grossman
     - Robert Chandler
     - Elizabeth Chandler - translator
@@ -222,7 +222,7 @@
     mine: 4
   publisher_link: https://www.audible.co.uk/search?searchProvider=Penguin+Audio+
 - title: The Undercover Economist
-  author:
+  authors:
     - Tim Harford
   format:
     type: Audiobook
@@ -244,7 +244,7 @@
 - title: 2001
   series: Space Odyssey Series
   series_entry: Book 1
-  author:
+  authors:
     - Arthur C. Clarke
   format:
     type: Audiobook
@@ -266,7 +266,7 @@
 - title: Inversions
   series: Culture Series
   series_entry: Book 5
-  author:
+  authors:
     - Iain M. Banks
   format:
     type: Audiobook
@@ -287,7 +287,7 @@
     mine: 4
 - title: Mine!
   subtitle: How the Hidden Rules of Ownership Rule Our Lives
-  author:
+  authors:
     - James Salzman
     - Michael A. Heller
   format:
@@ -306,7 +306,7 @@
   rating:
     mine: 3
 - title: Red Mars
-  author:
+  authors:
     - Kim Stanley Robinson
   format:
     type: Audiobook
@@ -327,7 +327,7 @@
     mine: 4
 - title: Adulthood Rites
   subtitle: Xenogenesis, Book 2
-  author:
+  authors:
     - Octavia E. Butler
   format:
     type: Audiobook
@@ -348,7 +348,7 @@
     mine: 4
 - title: A Thousand Days of Wonder
   subtitle: A Scientist's Chronicle of His Daughter's Developing Mind
-  author:
+  authors:
     - Charles Fernyhough
   format:
     type: Paperback
@@ -362,7 +362,7 @@
     date_purchased: 2021-05-11
   date_started: 2021-06-15
 - title: "The Plague: International Edition"
-  author:
+  authors:
     - Albert Camus
   format:
     type: Audiobook
@@ -382,7 +382,7 @@
   rating:
     mine: 4
 - title: Project Hail Mary
-  author:
+  authors:
     - Andy Weir
   format:
     type: Audiobook
@@ -403,7 +403,7 @@
     mine: 4
 - title: Exercised
   subtitle: The Science of Physical Activity, Rest and Health
-  author:
+  authors:
     - Daniel Lieberman
   format:
     type: Audiobook
@@ -423,7 +423,7 @@
   rating:
     mine: 5
 - title: Ball Lightning
-  author:
+  authors:
     - Cixin Liu
   format:
     type: Audiobook
@@ -444,7 +444,7 @@
   date_started: 2021-04-12
   date_finished: 2021-06-13
 - title: The Red Kite
-  author:
+  authors:
     - Ian Carter
     - Dan Powell
   format:
@@ -462,7 +462,7 @@
     mine: 5
 - title: The Red Kite's Year
   series: Pelagic Monographs
-  author:
+  authors:
     - Ian Carter
     - Dan Powell
   year_published: 2019
@@ -482,7 +482,7 @@
 - title: Dawn
   series: Xenogenesis
   series_entry: Book 1
-  author:
+  authors:
     - Octavia E. Butler
   format:
     type: Audiobook
@@ -504,7 +504,7 @@
 - title: Excession
   series: Culture Series
   series_entry: Book 5
-  author:
+  authors:
     - Iain M. Banks
   format:
     type: Audiobook
@@ -526,7 +526,7 @@
 - title: The State of the Art
   series: Culture Series
   series_entry: Book 4
-  author:
+  authors:
     - Iain M. Banks
   format:
     type: Audiobook
@@ -548,7 +548,7 @@
 - title: Use of Weapons
   series: Culture Series
   series_entry: Book 3
-  author:
+  authors:
     - Iain M. Banks
   format:
     type: Audiobook
@@ -570,7 +570,7 @@
 - title: The Player of Games
   series: Culture Series
   series_entry: Book 2
-  author:
+  authors:
     - Iain M. Banks
   format:
     type: Audiobook
@@ -591,7 +591,7 @@
     mine: 4
 - title: This Is Going to Hurt
   subtitle: Secret Diaries of a Junior Doctor
-  author:
+  authors:
     - Adam Kay
   format:
     type: Audiobook
@@ -613,7 +613,7 @@
 - title: Consider Phlebas
   series: Culture Series
   series_entry: Book 1
-  author:
+  authors:
     - Iain M. Banks
   format:
     type: Audiobook
@@ -634,7 +634,7 @@
     mine: 4
 - title: Tweet of the Day
   subtitle: A Year of British Birds
-  author:
+  authors:
     - BBC Natural History Radio
   format:
     type: Audiobook
@@ -662,7 +662,7 @@
     mine: 4
 - title: Kindred
   subtitle: Neatherthal Life, Love, Death and Art
-  author:
+  authors:
     - Rebecca Wragg Sykes
   format:
     type: Audiobook
@@ -682,7 +682,7 @@
   rating:
     mine: 4
 - title: Half of a Yellow Sun
-  author:
+  authors:
     - Chimamanda Ngozi Adichie
   format:
     type: Audiobook
@@ -703,7 +703,7 @@
     mine: 4
 - title: The Age of Surveillance Capitalism
   subtitle: The Fight for a Human Future at the New Frontier of Power
-  author:
+  authors:
     - Shoshana Zuboff
   format:
     type: Audiobook
@@ -720,7 +720,7 @@
     date_purchased: 2019-10-29
   date_started: 2021-01-25
 - title: The Queen's Gambit
-  author:
+  authors:
     - Walter Tevis
   format:
     type: Audiobook
@@ -741,7 +741,7 @@
     mine: 5
 - title: October
   subtitle: The Story of the Russian Revolution
-  author:
+  authors:
     - China Mieville
   format:
     type: Audiobook
@@ -761,7 +761,7 @@
   rating:
     mine: 3
 - title: The Peregrine
-  author:
+  authors:
     - J. A. Baker
   format:
     type: Audiobook
@@ -782,7 +782,7 @@
     mine: 5
 - title: Crashed
   subtitle: How a Decade of Financial Crises Changed the World
-  author:
+  authors:
     - Adam Tooze
   format:
     type: Audiobook
@@ -803,7 +803,7 @@
   rating:
     mine: 4
 - title: Life on Earth
-  author:
+  authors:
     - David Attenborough
   format:
     type: Audiobook
@@ -825,7 +825,7 @@
   review_url: "/review/book/2021/04/14/life-on-earth/"
 - title: The Book of Trespass
   subtitle: Crossing the Lines That Divide Us
-  author:
+  authors:
     - Nick Hayes
   format:
     type: Audiobook
@@ -846,7 +846,7 @@
     mine: 4
   review_url: "/review/book/2021/06/22/the-book-of-tresspass/"
 - title: Quest in Paradise
-  author:
+  authors:
     - David Attenborough
   year_published: 1963
   date_published: 1963-01-01
@@ -867,7 +867,7 @@
     mine: 5
   review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
 - title: Zoo Quest for a Dragon
-  author:
+  authors:
     - David Attenborough
   year_published: 1957
   date_published: "1957-12-01"
@@ -888,7 +888,7 @@
     mine: 5
   review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
 - title: Quest under Capricorn
-  author:
+  authors:
     - David Attenborough
   year_published: 1963
   date_published: "1963-01-01"
@@ -910,7 +910,7 @@
     mine: 5
   review_url: "/review/book2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
 - title: David Attenborough's New Life Stories
-  author:
+  authors:
     - David Attenborough
   year_published: 2018
   date_published: 2017-08-11
@@ -932,7 +932,7 @@
     mine: 5
   review_url: "/review/book/2021/07/01/new-david-attenboroughs-new-life-stories/"
 - title: Atomic Habits
-  author:
+  authors:
     - James Clear
   year_published: 2018
   date_published: 2018-06-18
@@ -954,7 +954,7 @@
     mine: 3
   review_url: "/review/book/2021/07/01/atomic-habits/"
 - title: Who We Are and How We Got Here
-  author:
+  authors:
     - David Reich
   year_published: 2018
   date_published: 2018-06-18
@@ -978,7 +978,7 @@
 - title: Bring Up the Bodies
   series: The Wolf Hall Trilogy
   series_entry: Book 2
-  author:
+  authors:
     - Hilary Mantel
   year_published: 2012
   date_published: 2012-05-12
@@ -1000,7 +1000,7 @@
     mine: 4
   review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/"
 - title: The Song of Achilles
-  author:
+  authors:
     - Madeline Miller
   year_published: 2012
   date_published: 2012-04-12
@@ -1024,7 +1024,7 @@
 - title: A Closed and Common Orbit
   series: Wayfarers
   series_entry: Book 2
-  author:
+  authors:
     - Becky Chambers
   year_published: 2016
   date_published: "2016-10-20"
@@ -1046,7 +1046,7 @@
     mine: 3
   review_url: "/review/book/2021/07/01/a-closed-and-common-orbit/"
 - title: The Doors of Eden
-  author:
+  authors:
     - Adrian Tchaikovsky
   year_published: 2020
   date_published: 2020-08-20
@@ -1068,7 +1068,7 @@
     mine: 5
   review_url: "/review/book/2021/04/28/the-doors-of-eden/"
 - title: The Fat Years
-  author:
+  authors:
     - Chan Koonchung
     - Michael S. Duke
   year_published: 2011
@@ -1091,7 +1091,7 @@
     mine: 3
   review_url: "/review/book/2021/04/28/the-fat-years/"
 - title: Where the Crawdads Sing
-  author:
+  authors:
     - Delia Owens
   year_published: 2018
   date_published: 2018-08-14
@@ -1112,7 +1112,7 @@
     mine: 3
   review_url: "/review/book/2021/04/28/where-the-crawdads-sing/"
 - title: Persepolis I & II
-  author:
+  authors:
     - Marjane Satrapi
   year_published: "2008"
   format:
@@ -1128,7 +1128,7 @@
     mine: 4
   review_url: "/review/book/2021/04/28/persepolis-I-and-II/"
 - title: "Peter Scott: Collected Writings, 1933-1989"
-  author:
+  authors:
     - Peter Scott
   year_published: 2016
   date_published: 2016-06-28
@@ -1140,7 +1140,7 @@
     pages: 300
   date_started: 2020-10-15
 - title: The City We Became
-  author:
+  authors:
     - N. K. Jemisin
   year_published: 2020
   date_published: 2020-03-24
@@ -1163,7 +1163,7 @@
 - title: The Word for World is Forest
   series: Hanish Cycle
   series_entry: Book 3
-  author:
+  authors:
     - Ursula K. Le Guin
   year_published: 2015
   year_originally_published: 1972
@@ -1180,7 +1180,7 @@
     mine: 4
   review_url: "/review/book/2020/09/15/the-word-for-world-is-forest/"
 - title: Lovecraft Country
-  author:
+  authors:
     - Matt Ruff
   year_published: 2016
   date_published: 2016-02-16
@@ -1203,7 +1203,7 @@
   review_url: "/review/book/2020/09/10/lovecraft-country/"
 - title: Vesper Flights
   full_title: Vesper Flights
-  author:
+  authors:
     - Helen Macdonald
   year_published: 2020
   date_published: 2020-08-27
@@ -1227,7 +1227,7 @@
 - title: MaddAddam
   series: MaddAddam Trilogy
   series_entry: Book 3
-  author:
+  authors:
     - Margaret Atwood
   year_published: 2013
   date_published: ""
@@ -1253,7 +1253,7 @@
 - title: The Year of the Flood
   series: MaddAddam Trilogy
   series_entry: Book 2
-  author:
+  authors:
     - Margaret Atwood
   year_published: 2009
   date_published: 2009-09-07
@@ -1276,7 +1276,7 @@
   review_url: "/review/book/2020/09/20/the-year-of-the-flood/"
 - title: Wuhan Diary
   full_title: "Wuhan Diary: Dispatches from the Original Epicenter"
-  author:
+  authors:
     - Fang Fang
     - Michael Berry (translator)
   year_published: 2020
@@ -1301,7 +1301,7 @@
 - title: Zita the Spacegirl
   series: Zita the Spacegirl
   series_entry: Book 1
-  author:
+  authors:
     - Ben Hatke
   year_published: 2011
   date_published: 2011-02-04
@@ -1322,7 +1322,7 @@
 - title: Will Save the Galaxy for Food
   series: Jacques McKeown
   series_entry: Book 1
-  author:
+  authors:
     - Yahtzee Croshaw
   year_published: 2017
   date_published: 2017-02-23
@@ -1344,7 +1344,7 @@
     mine: 3
   review_url: "/review/book/2020/12/08/will-save-the-galaxy-for-food/"
 - title: Greetings from Bury Park
-  author:
+  authors:
     - Sarfraz Manzoor
   year_originally_published: 2008
   date_originally_published: 2008-06-16
@@ -1370,7 +1370,7 @@
 - title: The Collapsing Empire
   series: The Interdependency
   series_entry: Book 1
-  author:
+  authors:
     - John Scalzi
   year_published: 2017
   date_published: 2017-03-21
@@ -1394,7 +1394,7 @@
 - title: Ancillary Mercy
   series: The Imperial Radch series
   series_entry: Book 3
-  author:
+  authors:
     - Ann Leckie
   year_published: 2015
   date_published: 2015-10-08
@@ -1418,7 +1418,7 @@
 - title: The Consuming Fire
   series: The Interdependency
   series_entry: Book 2
-  author:
+  authors:
     - John Scalzi
   year_published: 2018
   date_published: 2018-09-16
@@ -1440,7 +1440,7 @@
     mine: 2
   review_url: "/review/book/2020/11/06/the-consuming-fire/"
 - title: The Remains of the Day
-  author:
+  authors:
     - Kazuo Ishiguro
   year_published: "1989"
   date_published: "1989-05-01"
@@ -1464,7 +1464,7 @@
 - title: Ancillary Sword
   series: The Imperial Radch series
   series_entry: Book 2
-  author:
+  authors:
     - Ann Leckie
   year_published: 2014
   date_published: 2014-09-07
@@ -1488,7 +1488,7 @@
 - title: Ancillary Justice
   series: The Imperial Radch series
   series_entry: Book 1
-  author:
+  authors:
     - Ann Leckie
   year_published: 2013
   date_published: 2013-09-01
@@ -1510,7 +1510,7 @@
     mine: 4
   review_url: "/review/book/2020/11/06/ancillary-justice/"
 - title: The Good Immigrant
-  author:
+  authors:
     - Nikesh Shukla
     - Varaidzo
     - Chimene Suleyman
@@ -1552,7 +1552,7 @@
 - title: Oryx and Crake
   series: MaddAddam Trilogy
   series_entry: Book 1
-  author:
+  authors:
     - Margaret Atwood
   year_published: 2003
   format:
@@ -1573,7 +1573,7 @@
     mine: 5
   review_url: "/review/book/2020/09/20/oryx-and-crake/"
 - title: Why I'm No Longer Talking to White People About Race
-  author:
+  authors:
     - Reni Eddo-Lodge
   year_published: 2017
   date_published: 2017-07-01
@@ -1597,7 +1597,7 @@
 - title: The Long Way to a Small, Angry Planet
   series: Wayfarers
   series_entry: Book 1
-  author:
+  authors:
     - Becky Chambers
   year_published: 2015
   date_published: 2015-12-31
@@ -1621,7 +1621,7 @@
 - title: Wolf Hall
   series: The Wolf Hall Trilogy
   series_entry: Book 1
-  author:
+  authors:
     - Hilary Mantel
   year_published: 2009
   date_published: 2009-04-30
@@ -1643,7 +1643,7 @@
     mine: 5
   review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/"
 - title: Educated
-  author:
+  authors:
     - Tara Westover
   year_published: 2019
   date_published: 2019-02-18
@@ -1666,7 +1666,7 @@
   review_url: "/review/book/2020/12/20/educated/"
 - title: Something Deeply Hidden
   full_title: "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime"
-  author:
+  authors:
     - Sean Carroll
   year_published: 2019
   date_published: 2019-09-10
@@ -1690,7 +1690,7 @@
 - title: Middle England
   series: Rotters' Club
   series_entry: Book 3
-  author:
+  authors:
     - Jonathan Coe
   year_published: 2019
   date_published: 2019-06-04

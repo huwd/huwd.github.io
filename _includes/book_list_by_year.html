@@ -18,7 +18,7 @@ reverse %}
     </div>
     {% endif %}
     <div class="authors">
-      {{ book.author | join:", " }}
+      {{ book.authors | join:", " }}
     </div>
     <time datetime="{{ book.date_finished | date_to_xmlschema }}">
       {{ book.date_finished | date: "%Y-%m-%d" }}
