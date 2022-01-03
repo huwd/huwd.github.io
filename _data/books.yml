@@ -79,6 +79,9 @@
     url: https://www.audible.co.uk/pd/The-Last-Wish-Audiobook/B00HWCA2VG
     image_url: https://m.media-amazon.com/images/I/61M1PUyk+ML._SL500_.jpg
   date_started: 2021-12-28
+  date_finished: 2022-01-03
+  rating:
+    mine: 4
 - title: Time of Contempt
   series: The Witcher Saga
   series_entry: Book 2
