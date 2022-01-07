@@ -40,6 +40,7 @@
     release_date: 2014-04-03
     url: https://www.audible.co.uk/pd/Baptism-of-Fire-Audiobook/B00JF6BFBS
     image_url: https://m.media-amazon.com/images/I/51lpJJaSA2L._SL500_.jpg
+  date_started: 2021-12-28
 - title: Sword of Destiny
   series: The Witcher Saga
   authors:
@@ -59,6 +60,10 @@
     release_date: 2015-12-03
     url: https://www.audible.co.uk/pd/Sword-of-Destiny-Audiobook/B016VA8JNC
     image_url: https://m.media-amazon.com/images/I/51EziAFj+DL._SL500_.jpg
+  date_started: 2022-01-04
+  date_finished: 2022-01-06
+  rating:
+    mine: 3
 - title: The Last Wish
   series: The Witcher Saga
   authors:
@@ -160,6 +165,9 @@
       name: "Penguin Audio"
     language": "English"
   date_started: 2021-12-08
+  date_finished: 2022-01-06
+  rating:
+    mine: 4
 - title: Leviathan Falls
   series: The Expanse
   series_entry: Book 9
