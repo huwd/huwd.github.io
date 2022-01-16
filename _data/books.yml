@@ -20,6 +20,9 @@
     url: https://www.audible.co.uk/pd/The-Tower-of-the-Swallow-Audiobook/B01B2325EC
     image_url: https://m.media-amazon.com/images/I/51CdPuwP78L._SL500_.jpg
   date_started: 2022-01-09
+  date_finished: 2022-01-16
+  rating:
+    mine: 3
 - title: Baptism of Fire
   subtitle: The Witcher, Book 3
   series: The Witcher Saga
