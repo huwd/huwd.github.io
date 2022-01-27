@@ -1,4 +1,30 @@
 ---
+- title: The Lady of the Lake
+  subtitle: The Witcher, Book 5
+  series: The Witcher Saga
+  series_entry: Book 5
+  authors:
+    - Andrzej Sapkowski
+    - David French - translator
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Kenny
+    aisn:
+      membership: B01N3NNVAN
+    runtime: 20 hours and 16 minutes
+    publisher:
+      name: Orion
+    language: English
+    release_date: 2017-03-16
+    url: https://www.audible.co.uk/pd/Lady-of-the-Lake-Audiobook/B01N3NNVAN
+    image_url: https://m.media-amazon.com/images/I/51C58edKJUL._SL500_.jpg
+  metadata:
+    date_scraped: 2022-01-27
+  date_started: 2022-01-16
+  date_finished: 2022-01-25
+  rating:
+    mine: 3
 - title: The Tower of the Swallow
   series: The Witcher Saga
   series_entry: Book 4
