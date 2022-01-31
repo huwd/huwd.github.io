@@ -1,4 +1,24 @@
 ---
+- title: River Town
+  subtitle: Two Years on the Yangtze
+  authors:
+    - Peter Hessler
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Berkrot
+    aisn:
+      membership: B004FT977E
+    runtime: 14 hours and 36 minutes
+    publisher:
+      name: Audible Studios
+    language: English
+    release_date: "2010-05-04"
+    url: https://www.audible.co.uk/pd/River-Town-Audiobook/B004FT977E
+    image_url: https://m.media-amazon.com/images/I/51af4h2mfoL._SL500_.jpg
+  metadata:
+    date_scraped: 2022-01-27
+  date_started: 2022-01-29
 - title: The Lady of the Lake
   subtitle: The Witcher, Book 5
   series: The Witcher Saga
