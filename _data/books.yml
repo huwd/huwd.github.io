@@ -1,4 +1,25 @@
 ---
+- title: Remote
+  subtitle: Office Not Required
+  authors:
+    - David Heinemeier Hansson
+    - Jason Fried
+  format:
+    type: Paperback
+    print_length: 448 pages
+    language: English
+    publisher:
+      name: Vermilion
+    publication_date: 2013-10-31
+    dimensions: 13.5 x 1.9 x 21.6 cm
+    aisn: 0091954673
+    isbn10: 9780091954673
+    isbn13: 978-0091954673
+    date_purchased: 2021-08-27
+  date_started: 2022-02-04
+  date_finished: 2022-02-07
+  rating:
+    mine: 5
 - title: River Town
   subtitle: Two Years on the Yangtze
   authors:
