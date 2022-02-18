@@ -1,4 +1,19 @@
 ---
+- title: Land of Big Numbers
+  authors:
+    - Te-Ping Chen
+  format:
+    type: Hardcover
+    print_length: 256 pages
+    language: English
+    publisher:
+      name: Scribner UK
+    publication_date: 2021-03-04
+    dimensions: 13.5 x 2.2 x 21.6 cm
+    isbn10: 1471190595
+    isbn13: 978-1471190599
+    date_purchased: 2021-05-18
+  date_started: 2022-02-08
 - title: Remote
   subtitle: Office Not Required
   authors:
