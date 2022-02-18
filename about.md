@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello, I'm Huw.
+title: Hello
 permalink: /
 ---
 
