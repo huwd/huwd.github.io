@@ -1,4 +1,22 @@
 ---
+- title: Klara and the Sun
+  authors:
+    - Kazuo Ishiguro
+  format:
+    type: Audiobook
+    narrators:
+      - Sura Siu
+    aisn:
+      membership: B08BPJHNCG
+    publisher:
+      name: Faber & Faber
+    format: Unabridged Audiobook
+    runtime: 10 hours and 16 minutes
+    year_released: 2021
+    date_release: 2021-03-02
+    date_purchased: 2021-12-19
+    language: English
+  date_started: 2022-02-19
 - title: Land of Big Numbers
   authors:
     - Te-Ping Chen
