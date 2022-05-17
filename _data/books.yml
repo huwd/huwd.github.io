@@ -1,4 +1,44 @@
 ---
+- title: Free
+  authors:
+    - Lea Ypi
+  date_started: 2022-05-16
+- title: The Anthropocene Reviewed
+  authors:
+    - John Green
+  date_started: 2022-04-22
+  date_finished: 2022-04-30
+  rating:
+    mine: 3
+- title: An Absolutely Remarkable Thing
+  authors:
+    - Hank Green
+- title: Surface Detail
+  authors:
+    - Ian M Banks
+  date_started: 2022-05-02
+  date_finished: 2022-05-10
+  rating:
+    mine: 4
+- title: Watching the English
+  authors:
+    - Kate Fox
+  date_started: 2022-02-24
+- title: Season of Storms
+  subtitle: The Witcher, Book 6
+  series: The Witcher Saga
+  series_entry: Book 6
+  authors:
+    - Andrzej Sapkowski
+    - David French - translator
+  format:
+    type: Unabridged Audiobook
+    narrators:
+      - Peter Kenny
+  date_started: 2022-04-19
+  date_finished: 2022-04-21
+  rating:
+    mine: 4
 - title: Klara and the Sun
   authors:
     - Kazuo Ishiguro
