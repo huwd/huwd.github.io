@@ -1,4 +1,47 @@
 ---
+- title: Butler to the World
+  subtitle:
+    How Britain Became the Servant of Tycoons, Tax Dodgers, Kleptocrats and
+    Criminals
+  authors:
+    - Oliver Bullough
+  format:
+    bookFormat: Unabridged Audiobook
+    readBy:
+      - Oliver Bullough
+    identifier:
+      membership: B09TMB36H6
+    duration: PTH8M6
+    publisher:
+      name: Hachette Audio UK
+    inLanguage: English
+    releasedEvent: "2022-03-10"
+    url: https://www.audible.co.uk/pd/Butler-to-the-World-Audiobook/B09TMB36H6
+    image: https://m.media-amazon.com/images/I/41IuDt9ZD0L._SL500_.jpg
+  metadata:
+    date_scraped: "2022-06-03"
+  date_started: 2022-06-02
+  date_finished: 2022-06-03
+  rating:
+    mine: 5
+- title: The Red Virgin and the Vision of Utopia
+  authors:
+    - Bryan Talbot
+    - Mary Talbot
+  format:
+    type: Hardcover
+    print_length: 144 pages
+    language: English
+    publisher:
+      name: Jonathan Cape
+    publication_date: 2016-05-05
+    dimensions: 16 x 2 x 22.3 cm
+    isbn10: 0224102346
+    isbn13: 978-0224102346
+  date_started: 2022-05-10
+  date_finished: 2022-06-01
+  rating:
+    mine: 4
 - title: "Free: Coming of Age at the End of History"
   authors:
     - Lea Ypi
@@ -11,6 +54,29 @@
     - John Green
   date_started: 2022-04-22
   date_finished: 2022-04-30
+  rating:
+    mine: 3
+- title: Oracle Bones
+  subtitle: A Journey Through Time in China
+  authors:
+    - Peter Hessler
+  format:
+    bookFormat: Unabridged Audiobook
+    readBy:
+      - Peter Berkrot
+    identifier:
+      membership: B004FTAUE8
+    duration: PTH18M32
+    publisher:
+      name: Audible Studios
+    inLanguage: English
+    releasedEvent: "2010-03-23"
+    url: https://www.audible.co.uk/pd/Oracle-Bones-Audiobook/B004FTAUE8
+    image: https://m.media-amazon.com/images/I/51yZ3Z78fzL._SL500_.jpg
+  metadata:
+    date_scraped: "2022-05-21"
+  date_started: 2022-05-21
+  date_finished: 2022-05-31
   rating:
     mine: 3
 - title: An Absolutely Remarkable Thing
