@@ -1,4 +1,18 @@
 ---
+- title: Radical Candor
+  authors:
+    - Kim Scott
+- title: Moneyland
+  authors:
+    - Oliver Bullough
+- title: Atoms and Ashes
+  authors:
+    - Serhii Plokhy
+  date_started: 2022-06-03
+- title: The Entrepreneurial State
+  authors:
+    - Mariana Mazzucato
+  date_started: 2022-06-11
 - title: Butler to the World
   subtitle:
     How Britain Became the Servant of Tycoons, Tax Dodgers, Kleptocrats and
@@ -93,6 +107,9 @@
   authors:
     - Kate Fox
   date_started: 2022-02-24
+  date_finished: 2022-06-11
+  rating:
+    mine: 3
 - title: Season of Storms
   subtitle: The Witcher, Book 6
   series: The Witcher Saga
