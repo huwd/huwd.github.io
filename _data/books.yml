@@ -5,6 +5,9 @@
 - title: Moneyland
   authors:
     - Oliver Bullough
+  date_finished: 2022-06-22
+  rating:
+    mine: 3
 - title: Atoms and Ashes
   authors:
     - Serhii Plokhy
@@ -13,6 +16,9 @@
   authors:
     - Mariana Mazzucato
   date_started: 2022-06-11
+  date_finished: 2022-06-20
+  rating:
+    mine: 4
 - title: Butler to the World
   subtitle:
     How Britain Became the Servant of Tycoons, Tax Dodgers, Kleptocrats and
