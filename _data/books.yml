@@ -1,4 +1,8 @@
 ---
+- title: Country Driving
+  authors:
+    - Peter Hessler
+  date_started: 2022-06-24
 - title: Radical Candor
   authors:
     - Kim Scott
@@ -149,6 +153,9 @@
     date_purchased: 2021-12-19
     language: English
   date_started: 2022-02-19
+  date_finished: 2022-06-26
+  rating:
+    mine: 2
 - title: Land of Big Numbers
   authors:
     - Te-Ping Chen
