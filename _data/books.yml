@@ -3,6 +3,9 @@
   authors:
     - Ursula K. Le Guin
   date_started: 2022-07-04
+  date_finished: 2022-07-07
+  rating:
+    mine: 4
 - title: Country Driving
   authors:
     - Peter Hessler
@@ -16,6 +19,7 @@
 - title: Moneyland
   authors:
     - Oliver Bullough
+  date_started: 2022-06-19
   date_finished: 2022-06-22
   rating:
     mine: 3
