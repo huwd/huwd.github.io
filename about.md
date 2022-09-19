@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Hello
+display_title: Hello
+title: About me
 permalink: /
 ---
 
