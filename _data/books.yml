@@ -1,8 +1,29 @@
 ---
+- title: A Desolation Called Peace
+  authors:
+    - Arkady Martine
+  date_started: 2022-12-24
+- title: Children of Memory
+  authors:
+    - Adrian Tchaikovsky
+  date_started: 2022-12-22
+  date_finished: 2022-12-23
+  rating:
+    mine: 5
 - title: The Data-centric Revolution
   authors:
     - David McComb
   date_started: 2022-10-23
+  date_finished: 2022-12-25
+  rating:
+    mine: 4
+- title: A Memory Called Empire
+  authors:
+    - Arkady Martine
+  date_started: 2022-11-05
+  date_finished: 2022-11-28
+  rating:
+    mine: 4
 - title: Moon Witch, Spider King
   authors:
     - Marlon James
