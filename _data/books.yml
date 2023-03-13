@@ -1,8 +1,15 @@
 ---
+- title: God, Human, Animal, Machine
+  authors:
+    - Meghan O'Gieblyn
+  date_started: 2023-01-20
 - title: A Desolation Called Peace
   authors:
     - Arkady Martine
   date_started: 2022-12-24
+  date_finished: 2023-01-06
+  rating:
+    mine: 5
 - title: Children of Memory
   authors:
     - Adrian Tchaikovsky
