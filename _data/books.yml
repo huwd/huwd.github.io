@@ -1,8 +1,16 @@
 ---
+- title": Follow the Money
+  subtitle": How Much Does Britain Cost?
+  authors:
+    - "Paul Johnson"
+  date_started: 2022-12-24
 - title: God, Human, Animal, Machine
   authors:
     - Meghan O'Gieblyn
   date_started: 2023-01-20
+  date_finished: 2023-03-26
+  rating:
+    mine: 3
 - title: A Desolation Called Peace
   authors:
     - Arkady Martine
