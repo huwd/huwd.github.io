@@ -1,9 +1,21 @@
 ---
-- title": Follow the Money
-  subtitle": How Much Does Britain Cost?
+- title: "Fracture"
+  subtitle: The collision between technology and democracy and how we fix it
+  authors:
+    - Jerry Fishenden
+  date_started: 2023-03-31
+- title: "Burn"
+  authors:
+    - "Herman Pontzer"
+  date_started: 2023-03-31
+- title: Follow the Money
+  subtitle: How Much Does Britain Cost?
   authors:
     - "Paul Johnson"
-  date_started: 2022-12-24
+  date_started: 2022-03-26
+  date_finished: 2023-03-31
+  rating:
+    mine: 4
 - title: God, Human, Animal, Machine
   authors:
     - Meghan O'Gieblyn
