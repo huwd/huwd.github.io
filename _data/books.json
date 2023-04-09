@@ -104,7 +104,10 @@
     }
   },
   {
-    "title": "The Master and Margarita - Mikhail Bulgakov"
+    "title": "The Master and Margarita",
+    "authors": [
+      "Mikhail Bulgakov"
+    ]
   },
   {
     "title": "The Right to Sex",
@@ -130,7 +133,10 @@
     }
   },
   {
-    "title": "Our Bloc"
+    "title": "Our Bloc",
+    "authors": [
+      "James Schneider"
+    ]
   },
   {
     "title": "Lavinia",
