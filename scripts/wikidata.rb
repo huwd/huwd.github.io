@@ -13,7 +13,7 @@ class Wikidata
   def query_all
     @books.map do |book|
       puts "Querying #{book["title"]}, by #{book["authors"].join(", ")}"
-      find_wikidata_iri(book) unless book["wikidata_iri"] || book["wikidata_potential_iris"]
+      find_book_iri(book) unless book["book_iri"] || book["wikidata_potential_iris"]
     end
   end
 
@@ -39,33 +39,33 @@ class Wikidata
     )
   end
 
-  def find_wikidata_iri(book)
+  def find_book_iri(book)
     puts "> Querying Wikidata for #{book["title"]}"
 
     response = query_wikidata_books(book)
 
     return {
       **book,
-      wikidata_iri: nil
+      book_iri: nil
     } unless response.code == 200
 
-    wikidata_iri = JSON.parse(response)
+    book_iri = JSON.parse(response)
                       .dig('results', 'bindings')
                       .map { |result| result['book']['value'] }
-    return book if wikidata_iri == 0
-    if wikidata_iri.count == 1
-      puts "> Single IRI found: #{wikidata_iri.first}"
+    return book if book_iri == 0
+    if book_iri.count == 1
+      puts "> Single IRI found: #{book_iri.first}"
       return {
         **book,
-        wikidata_iri: wikidata_iri.first
+        book_iri: book_iri.first
       }
     else
-      puts "> WARNING: #{wikidata_iri.count} Wikidata entries found"
-      potentials = wikidata_iri.empty? ? {} : { wikidata_potential_iris: wikidata_iri }
+      puts "> WARNING: #{book_iri.count} Wikidata entries found"
+      potentials = book_iri.empty? ? {} : { wikidata_potential_book_iris: book_iri }
 
       return {
         **book,
-        wikidata_iri: nil,
+        book_iri: nil,
         **potentials
       }
     end
@@ -75,4 +75,4 @@ end
 wd = Wikidata.new
 data = JSON.pretty_generate(wd.query_all)
 
-File.open('_data/books_test.json', 'w') { |file| file.write(data) }
+File.open('_data/books.json', 'w') { |file| file.write(data) }

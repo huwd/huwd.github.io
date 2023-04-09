@@ -5,7 +5,7 @@
       "Isabel Hardman"
     ],
     "date_started": "2023-04-09T00:00:00Z",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Fracture",
@@ -14,8 +14,8 @@
       "Jerry Fishenden"
     ],
     "date_started": "2023-03-31T00:00:00Z",
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q111541167",
       "http://www.wikidata.org/entity/Q111534085",
       "http://www.wikidata.org/entity/Q7317354",
@@ -33,8 +33,8 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q42187584",
       "http://www.wikidata.org/entity/Q90137257",
       "http://www.wikidata.org/entity/Q99589911",
@@ -127,7 +127,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "God, Human, Animal, Machine",
@@ -139,7 +139,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "A Desolation Called Peace",
@@ -151,7 +151,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q105722561"
+    "book_iri": "http://www.wikidata.org/entity/Q105722561"
   },
   {
     "title": "Children of Memory",
@@ -163,7 +163,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Data-centric Revolution",
@@ -175,7 +175,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "A Memory Called Empire",
@@ -187,7 +187,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q82566838"
+    "book_iri": "http://www.wikidata.org/entity/Q82566838"
   },
   {
     "title": "Moon Witch, Spider King",
@@ -199,14 +199,14 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Master and Margarita",
     "authors": [
       "Mikhail Bulgakov"
     ],
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Right to Sex",
@@ -230,14 +230,14 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Our Bloc",
     "authors": [
       "James Schneider"
     ],
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Lavinia",
@@ -249,8 +249,8 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q2811112",
       "http://www.wikidata.org/entity/Q80225191"
     ]
@@ -265,14 +265,14 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Radical Candor",
     "authors": [
       "Kim Scott"
     ],
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Moneyland",
@@ -284,7 +284,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Atoms and Ashes",
@@ -292,7 +292,7 @@
       "Serhii Plokhy"
     ],
     "date_started": "2022-06-03T00:00:00Z",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Entrepreneurial State",
@@ -304,7 +304,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q25345736"
+    "book_iri": "http://www.wikidata.org/entity/Q25345736"
   },
   {
     "title": "Butler to the World",
@@ -337,7 +337,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Red Virgin and the Vision of Utopia",
@@ -362,7 +362,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Free: Coming of Age at the End of History",
@@ -374,7 +374,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q110608207"
+    "book_iri": "http://www.wikidata.org/entity/Q110608207"
   },
   {
     "title": "The Anthropocene Reviewed",
@@ -386,7 +386,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q107490750"
+    "book_iri": "http://www.wikidata.org/entity/Q107490750"
   },
   {
     "title": "Oracle Bones",
@@ -419,14 +419,14 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "An Absolutely Remarkable Thing",
     "authors": [
       "Hank Green"
     ],
-    "wikidata_iri": "http://www.wikidata.org/entity/Q41663453"
+    "book_iri": "http://www.wikidata.org/entity/Q41663453"
   },
   {
     "title": "Surface Detail",
@@ -438,7 +438,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q302026"
+    "book_iri": "http://www.wikidata.org/entity/Q302026"
   },
   {
     "title": "Watching the English",
@@ -450,7 +450,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Season of Storms",
@@ -472,7 +472,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Klara and the Sun",
@@ -502,7 +502,7 @@
     "rating": {
       "mine": 2
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q105704813"
+    "book_iri": "http://www.wikidata.org/entity/Q105704813"
   },
   {
     "title": "Land of Big Numbers",
@@ -523,7 +523,7 @@
       "date_purchased": "2021-05-18T00:00:00Z"
     },
     "date_started": "2022-02-08T00:00:00Z",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Remote",
@@ -551,8 +551,8 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q102036179",
       "http://www.wikidata.org/entity/Q181488",
       "http://www.wikidata.org/entity/Q73357626",
@@ -590,7 +590,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Lady of the Lake",
@@ -626,7 +626,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Tower of the Swallow",
@@ -659,7 +659,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Baptism of Fire",
@@ -693,7 +693,7 @@
     "rating": {
       "mine": 2
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Sword of Destiny",
@@ -725,7 +725,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Last Wish",
@@ -757,7 +757,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Time of Contempt",
@@ -790,7 +790,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Blood of Elves",
@@ -823,7 +823,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Walker's Guide to Outdoor Clues & Signs",
@@ -844,7 +844,7 @@
       "date_purchased": "2021-08-27T00:00:00Z"
     },
     "date_started": "2021-11-25T00:00:00Z",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Entangled Life",
@@ -871,7 +871,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Leviathan Falls",
@@ -905,7 +905,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q107316509"
+    "book_iri": "http://www.wikidata.org/entity/Q107316509"
   },
   {
     "title": "The Peregrine",
@@ -935,7 +935,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q16887074"
+    "book_iri": "http://www.wikidata.org/entity/Q16887074"
   },
   {
     "title": "Matter",
@@ -967,8 +967,8 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q57572553",
       "http://www.wikidata.org/entity/Q106811468",
       "http://www.wikidata.org/entity/Q111460838",
@@ -1040,7 +1040,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q951587"
+    "book_iri": "http://www.wikidata.org/entity/Q951587"
   },
   {
     "title": "The Mirror and the Light",
@@ -1072,7 +1072,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q7751674"
+    "book_iri": "http://www.wikidata.org/entity/Q7751674"
   },
   {
     "title": "Shutdown",
@@ -1103,7 +1103,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Almost Human",
@@ -1134,7 +1134,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q64742347"
+    "book_iri": "http://www.wikidata.org/entity/Q64742347"
   },
   {
     "title": "Look to Windward",
@@ -1163,7 +1163,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q884010"
+    "book_iri": "http://www.wikidata.org/entity/Q884010"
   },
   {
     "title": "Stalingrad",
@@ -1198,8 +1198,8 @@
       "mine": 4
     },
     "publisher_link": "https://www.audible.co.uk/search?searchProvider=Penguin+Audio+",
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q2329298",
       "http://www.wikidata.org/entity/Q5376793",
       "http://www.wikidata.org/entity/Q7597259",
@@ -1234,7 +1234,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q7771354"
+    "book_iri": "http://www.wikidata.org/entity/Q7771354"
   },
   {
     "title": 2001,
@@ -1266,8 +1266,8 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q98668861",
       "http://www.wikidata.org/entity/Q835341",
       "http://www.wikidata.org/entity/Q16127117",
@@ -1304,7 +1304,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q666405"
+    "book_iri": "http://www.wikidata.org/entity/Q666405"
   },
   {
     "title": "Mine!",
@@ -1333,7 +1333,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q21659771"
+    "book_iri": "http://www.wikidata.org/entity/Q21659771"
   },
   {
     "title": "Red Mars",
@@ -1363,7 +1363,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Adulthood Rites",
@@ -1394,7 +1394,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q11889107"
+    "book_iri": "http://www.wikidata.org/entity/Q11889107"
   },
   {
     "title": "A Thousand Days of Wonder",
@@ -1416,7 +1416,7 @@
       "date_purchased": "2021-05-11T00:00:00Z"
     },
     "date_started": "2021-06-15T00:00:00Z",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Plague: International Edition",
@@ -1446,7 +1446,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Project Hail Mary",
@@ -1476,7 +1476,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q106852836"
+    "book_iri": "http://www.wikidata.org/entity/Q106852836"
   },
   {
     "title": "Exercised",
@@ -1507,7 +1507,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Ball Lightning",
@@ -1538,7 +1538,7 @@
     },
     "date_started": "2021-04-12T00:00:00Z",
     "date_finished": "2021-06-13T00:00:00Z",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Red Kite",
@@ -1563,7 +1563,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Red Kite's Year",
@@ -1590,7 +1590,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Dawn",
@@ -1622,8 +1622,8 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q99527553",
       "http://www.wikidata.org/entity/Q111346138",
       "http://www.wikidata.org/entity/Q111318383",
@@ -1718,7 +1718,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q74362"
+    "book_iri": "http://www.wikidata.org/entity/Q74362"
   },
   {
     "title": "The State of the Art",
@@ -1750,7 +1750,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q30887961"
+    "book_iri": "http://www.wikidata.org/entity/Q30887961"
   },
   {
     "title": "Use of Weapons",
@@ -1782,7 +1782,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q339923"
+    "book_iri": "http://www.wikidata.org/entity/Q339923"
   },
   {
     "title": "The Player of Games",
@@ -1814,7 +1814,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q467139"
+    "book_iri": "http://www.wikidata.org/entity/Q467139"
   },
   {
     "title": "This Is Going to Hurt",
@@ -1845,7 +1845,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Consider Phlebas",
@@ -1877,7 +1877,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q261728"
+    "book_iri": "http://www.wikidata.org/entity/Q261728"
   },
   {
     "title": "Tweet of the Day",
@@ -1915,7 +1915,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Kindred",
@@ -1946,8 +1946,8 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q107107590",
       "http://www.wikidata.org/entity/Q6410642",
       "http://www.wikidata.org/entity/Q6410652",
@@ -1986,7 +1986,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q3235393"
+    "book_iri": "http://www.wikidata.org/entity/Q3235393"
   },
   {
     "title": "The Age of Surveillance Capitalism",
@@ -2013,7 +2013,7 @@
       "date_purchased": "2019-10-29T00:00:00Z"
     },
     "date_started": "2021-01-25T00:00:00Z",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q75804726"
+    "book_iri": "http://www.wikidata.org/entity/Q75804726"
   },
   {
     "title": "The Queen's Gambit",
@@ -2043,7 +2043,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "October",
@@ -2074,8 +2074,8 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null,
-    "wikidata_potential_iris": [
+    "book_iri": null,
+    "wikidata_potential_book_iris": [
       "http://www.wikidata.org/entity/Q102047051",
       "http://www.wikidata.org/entity/Q101538215",
       "http://www.wikidata.org/entity/Q111536041",
@@ -2112,7 +2112,7 @@
     "rating": {
       "mine": 5
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q16887074"
+    "book_iri": "http://www.wikidata.org/entity/Q16887074"
   },
   {
     "title": "Crashed",
@@ -2144,7 +2144,7 @@
     "rating": {
       "mine": 4
     },
-    "wikidata_iri": "http://www.wikidata.org/entity/Q80943751"
+    "book_iri": "http://www.wikidata.org/entity/Q80943751"
   },
   {
     "title": "Life on Earth",
@@ -2175,7 +2175,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2021/04/14/life-on-earth/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Book of Trespass",
@@ -2207,7 +2207,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2021/06/22/the-book-of-tresspass/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Quest in Paradise",
@@ -2237,7 +2237,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Zoo Quest for a Dragon",
@@ -2267,7 +2267,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Quest under Capricorn",
@@ -2298,7 +2298,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "David Attenborough's New Life Stories",
@@ -2329,7 +2329,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2021/07/01/new-david-attenboroughs-new-life-stories/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Atomic Habits",
@@ -2360,7 +2360,7 @@
       "mine": 3
     },
     "review_url": "/review/book/2021/07/01/atomic-habits/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q98178602"
+    "book_iri": "http://www.wikidata.org/entity/Q98178602"
   },
   {
     "title": "Who We Are and How We Got Here",
@@ -2391,7 +2391,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2021/04/28/who-we-are-and-how-we-got-here/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q54489223"
+    "book_iri": "http://www.wikidata.org/entity/Q54489223"
   },
   {
     "title": "Bring Up the Bodies",
@@ -2424,7 +2424,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Song of Achilles",
@@ -2455,7 +2455,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2020/12/18/the-song-of-achilles/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q21189971"
+    "book_iri": "http://www.wikidata.org/entity/Q21189971"
   },
   {
     "title": "A Closed and Common Orbit",
@@ -2488,7 +2488,7 @@
       "mine": 3
     },
     "review_url": "/review/book/2021/07/01/a-closed-and-common-orbit/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Doors of Eden",
@@ -2519,7 +2519,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2021/04/28/the-doors-of-eden/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Fat Years",
@@ -2551,7 +2551,7 @@
       "mine": 3
     },
     "review_url": "/review/book/2021/04/28/the-fat-years/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Where the Crawdads Sing",
@@ -2581,7 +2581,7 @@
       "mine": 3
     },
     "review_url": "/review/book/2021/04/28/where-the-crawdads-sing/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q65063529"
+    "book_iri": "http://www.wikidata.org/entity/Q65063529"
   },
   {
     "title": "Persepolis I & II",
@@ -2605,7 +2605,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2021/04/28/persepolis-I-and-II/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Peter Scott: Collected Writings, 1933-1989",
@@ -2624,7 +2624,7 @@
       "pages": 300
     },
     "date_started": "2020-10-15T00:00:00Z",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The City We Became",
@@ -2654,7 +2654,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2021/01/31/the-city-we-became/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q95075560"
+    "book_iri": "http://www.wikidata.org/entity/Q95075560"
   },
   {
     "title": "The Word for World is Forest",
@@ -2681,7 +2681,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/09/15/the-word-for-world-is-forest/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q2447776"
+    "book_iri": "http://www.wikidata.org/entity/Q2447776"
   },
   {
     "title": "Lovecraft Country",
@@ -2712,7 +2712,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/09/10/lovecraft-country/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q30608520"
+    "book_iri": "http://www.wikidata.org/entity/Q30608520"
   },
   {
     "title": "Vesper Flights",
@@ -2744,7 +2744,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2020/09/15/vesper-flights/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "MaddAddam",
@@ -2779,7 +2779,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/09/20/maddaddam/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Year of the Flood",
@@ -2812,7 +2812,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/09/20/the-year-of-the-flood/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q4352956"
+    "book_iri": "http://www.wikidata.org/entity/Q4352956"
   },
   {
     "title": "Wuhan Diary",
@@ -2845,7 +2845,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/10/18/wuhan-diary/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Zita the Spacegirl",
@@ -2874,7 +2874,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2020/09/29/zita-the-spacegirl/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Will Save the Galaxy for Food",
@@ -2907,7 +2907,7 @@
       "mine": 3
     },
     "review_url": "/review/book/2020/12/08/will-save-the-galaxy-for-food/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Greetings from Bury Park",
@@ -2940,7 +2940,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2021/01/31/greetings-from-bury-park/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Collapsing Empire",
@@ -2973,7 +2973,7 @@
       "mine": 1
     },
     "review_url": "/review/book/2020/11/06/the-collapsing-empire/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q29344605"
+    "book_iri": "http://www.wikidata.org/entity/Q29344605"
   },
   {
     "title": "Ancillary Mercy",
@@ -3006,7 +3006,7 @@
       "mine": 3
     },
     "review_url": "/review/book/2020/11/06/ancillary-mercy/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q18003141"
+    "book_iri": "http://www.wikidata.org/entity/Q18003141"
   },
   {
     "title": "The Consuming Fire",
@@ -3039,7 +3039,7 @@
       "mine": 2
     },
     "review_url": "/review/book/2020/11/06/the-consuming-fire/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Remains of the Day",
@@ -3070,7 +3070,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/11/14/the-remains-of-the-day/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q829934"
+    "book_iri": "http://www.wikidata.org/entity/Q829934"
   },
   {
     "title": "Ancillary Sword",
@@ -3103,7 +3103,7 @@
       "mine": 3
     },
     "review_url": "/review/book/2020/11/06/ancillary-sword/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q17989172"
+    "book_iri": "http://www.wikidata.org/entity/Q17989172"
   },
   {
     "title": "Ancillary Justice",
@@ -3136,7 +3136,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/11/06/ancillary-justice/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q17001721"
+    "book_iri": "http://www.wikidata.org/entity/Q17001721"
   },
   {
     "title": "The Good Immigrant",
@@ -3185,7 +3185,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2020/12/21/the-good-immigrant/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Oryx and Crake",
@@ -3217,7 +3217,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2020/09/20/oryx-and-crake/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q2032398"
+    "book_iri": "http://www.wikidata.org/entity/Q2032398"
   },
   {
     "title": "Why I'm No Longer Talking to White People About Race",
@@ -3248,7 +3248,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2021/01/31/why-im-no-longer-talking-to-white-people-about-race/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "The Long Way to a Small, Angry Planet",
@@ -3281,7 +3281,7 @@
     "rating": {
       "mine": 3
     },
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Wolf Hall",
@@ -3314,7 +3314,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q2657795"
+    "book_iri": "http://www.wikidata.org/entity/Q2657795"
   },
   {
     "title": "Educated",
@@ -3345,7 +3345,7 @@
       "mine": 5
     },
     "review_url": "/review/book/2020/12/20/educated/",
-    "wikidata_iri": null
+    "book_iri": null
   },
   {
     "title": "Something Deeply Hidden",
@@ -3377,7 +3377,7 @@
       "mine": 4
     },
     "review_url": "/review/book/2020/12/03/something-deeply-hidden/",
-    "wikidata_iri": "http://www.wikidata.org/entity/Q85802021"
+    "book_iri": "http://www.wikidata.org/entity/Q85802021"
   },
   {
     "title": "Middle England",
@@ -3405,6 +3405,6 @@
       "mine": 3
     },
     "review_url": "/review/book/2020/12/07/middle-england/",
-    "wikidata_iri": null
+    "book_iri": null
   }
 ]
