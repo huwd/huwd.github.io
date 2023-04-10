@@ -21,7 +21,7 @@ class Wikidata
     "SELECT DISTINCT ?book ?label ?author_label
       WHERE
       {
-        VALUES ?type {wd:Q571 wd:Q7725634}
+        VALUES ?type {wdt:P279* wd:Q47461344}
         ?book wdt:P31 ?type .
         ?book wdt:P1476 ?title FILTER (contains(lcase(?title), lcase('#{book["title"]}'))) .
         ?book rdfs:label ?label FILTER (lang(?label) = 'en')
