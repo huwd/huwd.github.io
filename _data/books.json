@@ -5,7 +5,11 @@
       "Isabel Hardman"
     ],
     "date_started": "2023-04-09T00:00:00Z",
-    "work_iri": "https://www.wikidata.org/wiki/Q117480568"
+    "date_finished": "2023-04-10T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117480568",
+    "rating": {
+      "mine": 4
+    }
   },
   {
     "title": "Fracture",
