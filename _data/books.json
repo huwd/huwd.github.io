@@ -1,5 +1,16 @@
 [
   {
+    "title": "The Big Con",
+    "subtitle": "How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments and Warps Our Economies",
+    "authors": [
+      "Mariana Mazzucato",
+      "Rosie Collington"
+    ],
+    "date_started": "2023-04-10T00:00:00Z",
+    "work_iri":  "https://www.wikidata.org/wiki/Q116872080",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117572606"
+  },
+  {
     "title": "Why We Get The Wrong Politicians",
     "authors": [
       "Isabel Hardman"
@@ -7,6 +18,7 @@
     "date_started": "2023-04-09T00:00:00Z",
     "date_finished": "2023-04-10T00:00:00Z",
     "work_iri": "https://www.wikidata.org/wiki/Q117480568",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117567368",
     "rating": {
       "mine": 4
     }
@@ -18,7 +30,8 @@
       "Jerry Fishenden"
     ],
     "date_started": "2023-03-31T00:00:00Z",
-    "work_iri": "https://www.wikidata.org/wiki/Q117480560"
+    "work_iri": "https://www.wikidata.org/wiki/Q117480560",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117565798"
   },
   {
     "title": "Burn",
@@ -30,7 +43,8 @@
     "rating": {
       "mine": 4
     },
-    "work_iri": "https://www.wikidata.org/wiki/Q117478258"
+    "work_iri": "https://www.wikidata.org/wiki/Q117478258",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117569148"
   },
   {
     "title": "Follow the Money",
@@ -43,7 +57,8 @@
     "rating": {
       "mine": 4
     },
-    "work_iri": "https://www.wikidata.org/wiki/Q117480545"
+    "work_iri": "https://www.wikidata.org/wiki/Q117480545",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117570329"
   },
   {
     "title": "God, Human, Animal, Machine",
@@ -55,7 +70,8 @@
     "rating": {
       "mine": 3
     },
-    "work_iri": "https://www.wikidata.org/wiki/Q117480535"
+    "work_iri": "https://www.wikidata.org/wiki/Q117480535",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117571340"
   },
   {
     "title": "A Desolation Called Peace",
@@ -67,7 +83,8 @@
     "rating": {
       "mine": 5
     },
-    "work_iri": "http://www.wikidata.org/entity/Q105722561"
+    "work_iri": "http://www.wikidata.org/entity/Q105722561",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117571899"
   },
   {
     "title": "Children of Memory",
