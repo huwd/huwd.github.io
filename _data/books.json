@@ -5,7 +5,8 @@
       "Ursula K. Le Guin"
     ],
     "work_iri":  "https://www.wikidata.org/wiki/Q1771810",
-    "edition_iri": "https://www.wikidata.org/wiki/Q118551857"
+    "edition_iri": "https://www.wikidata.org/wiki/Q118551857",
+    "date_started": "2023-05-14T00:00:00Z"
   },
   {
     "title": "Why Politics Fails",
@@ -14,8 +15,12 @@
       "Ben Ansell"
     ],
     "date_started": "2023-05-14T00:00:00Z",
+    "date_finished": "2023-05-29T00:00:00Z",
     "work_iri":  "https://www.wikidata.org/wiki/Q118550925",
-    "edition_iri": "https://www.wikidata.org/wiki/Q118551199"
+    "edition_iri": "https://www.wikidata.org/wiki/Q118551199",
+    "rating": {
+      "mine": 4
+    }
   },
   {
     "title": "The Big Con",
