@@ -1,12 +1,26 @@
 [
   {
+    "title": "Everyday Utopia",
+    "subtitle": "In Praise of Radical Alternatives to the Traditional Family Home",
+    "author": [
+      "Kristen Ghodsee"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q119976210",
+    "edition_iri": "https://www.wikidata.org/wiki/Q119976712",
+    "date_started": "2023-06-22T00:00:00Z"
+  },
+  {
     "title": "The Farthest Shore",
     "authors": [
       "Ursula K. Le Guin"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q2288175",
     "edition_iri": "https://www.wikidata.org/wiki/Q119293018",
-    "date_started": "2023-06-09T00:00:00Z"
+    "date_started": "2023-06-09T00:00:00Z",
+    "date_finished": "2023-06-22T00:00:00Z",
+    "rating": {
+      "mine": 3
+    }
   },
   {
     "title": "The Tombs of Atuan",
