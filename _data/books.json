@@ -1,5 +1,15 @@
 [
   {
+    "title": "Radical Help",
+    "subtitle": "How We Can Remake the Relationships Between Us and Revolutionise the Welfare State",
+    "author": [
+      " Hilary Cottam"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q120728921",
+    "edition_iri": "https://www.wikidata.org/wiki/Q120728926",
+    "date_started": "2023-07-10T00:00:00Z"
+  },
+  {
     "title": "Tehanu",
     "subtitle": "The Earthsea Cycle, Book Four",
     "author": [
@@ -7,7 +17,11 @@
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q2261855",
     "edition_iri": "https://www.wikidata.org/wiki/Q120410559",
-    "date_started": "2023-07-06T00:00:00Z"
+    "date_started": "2023-07-06T00:00:00Z",
+    "date_finished": "2023-07-10T00:00:00Z",
+    "rating": {
+      "mine": 3
+    }
   },
   {
     "title": "How to Be Animal",
