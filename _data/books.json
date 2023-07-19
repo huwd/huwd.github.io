@@ -2,8 +2,8 @@
   {
     "title": "Radical Help",
     "subtitle": "How We Can Remake the Relationships Between Us and Revolutionise the Welfare State",
-    "author": [
-      " Hilary Cottam"
+    "authors": [
+      "Hilary Cottam"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q120728921",
     "edition_iri": "https://www.wikidata.org/wiki/Q120728926",
@@ -12,7 +12,7 @@
   {
     "title": "Tehanu",
     "subtitle": "The Earthsea Cycle, Book Four",
-    "author": [
+    "authors": [
       "Ursula K. Le Guin"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q2261855",
@@ -26,7 +26,7 @@
   {
     "title": "How to Be Animal",
     "subtitle": "A New History of What It Means to Be Human",
-    "author": [
+    "authors": [
       "Melanie Challenger"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q120235408",
@@ -40,7 +40,7 @@
   {
     "title": "Everyday Utopia",
     "subtitle": "In Praise of Radical Alternatives to the Traditional Family Home",
-    "author": [
+    "authors": [
       "Kristen Ghodsee"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q119976210",
