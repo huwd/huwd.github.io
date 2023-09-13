@@ -1,20 +1,81 @@
 [
-    {
-    "title": "Good Strategy/Bad Strategy:",
+  {
+    "title": "The Human Condition (Second Edition)",
+    "authors": [
+      "Hannah Arendt"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q2006866",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2023-09-05T00:00:00Z"
+  },
+  {
+    "title": "Empireland",
+    "subtitle": "How Imperialism Has Shaped Modern Britain",
+    "authors": [
+      "Sathnam Sanghera"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q121880088",
+    "edition_iri": "https://www.wikidata.org/wiki/Q121880100",
+    "date_started": "2023-09-12T00:00:00Z",
+    "date_finished": "2023-09-03T00:00:00Z",
+    "rating": {
+      "mine": 3
+    }
+  },
+  {
+    "title": "Translation State",
+    "authors": [
+      "Ann Leckie"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q120482895",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "Understanding Power",
+    "subtitle": "The Indispensable Chomsky",
+    "authors": [
+      "Noam Chomsky",
+      "John Schoeffel - editor",
+      "Peter R. Mitchell - editor"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q16547846",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2023-09-12T00:00:00Z"
+  },
+  {
+    "title": "The Secret Barrister",
+    "subtitle": "Stories of the Law and How It's Broken",
+    "authors": [
+      "The Secret Barrister"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q54489094",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2023-09-08T00:00:00Z",
+    "date_finished": "2023-09-12T00:00:00Z",
+    "rating": {
+      "mine": 3
+    }
+  },
+  {
+    "title": "Good Strategy/Bad Strategy",
     "subtitle": "The difference and why it matters",
     "authors": [
       "Richard Rumelt"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q122070534",
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2023-08-15T00:00:00Z"
+    "date_started": "2023-08-15T00:00:00Z",
+    "date_finished": "2023-08-26T00:00:00Z",
+    "rating": {
+      "mine": 3
+    }
   },
   {
     "title": "Feng Shui Modern",
     "authors": [
       "Cliff Tan"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q122070561",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2023-08-01T00:00:00Z"
   },
@@ -23,7 +84,7 @@
     "authors": [
       "Oliver Sacks"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q15975187",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2023-08-03T00:00:00Z",
     "date_finished": "2023-08-13T00:00:00Z",
@@ -36,7 +97,7 @@
     "authors": [
       "Ursula K. Le Guin"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q717326",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2023-07-27T00:00:00Z",
     "date_finished": "2023-08-03T00:00:00Z",
@@ -49,7 +110,7 @@
     "authors": [
       "Ursula K. Le Guin"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q2499675",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2023-07-20T00:00:00Z",
     "date_finished": "2023-07-25T00:00:00Z",
@@ -1891,7 +1952,7 @@
     "rating": {
       "mine": 4
     },
-    "work_iri": "https://www.wikidata.org/wiki/Q114051262"
+    "edition_iri": "https://www.wikidata.org/wiki/Q114051262"
   },
   {
     "title": "Kindred",
