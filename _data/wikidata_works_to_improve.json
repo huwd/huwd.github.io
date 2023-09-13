@@ -1,0 +1,2044 @@
+[
+  {
+    "Q2006866": {
+      "labels": {
+        "gl": "The Human Condition",
+        "pt": "A condição humana",
+        "de": "Vita activa oder vom tätigen Leben",
+        "ja": "人間の条件",
+        "fa": "وضع بشر",
+        "fr": "Condition de l'homme moderne",
+        "en": "The Human Condition",
+        "zh": "人的境况",
+        "pl": "Kondycja ludzka",
+        "bs": "Ljudsko stanje",
+        "es": "La condición humana",
+        "he": "המצב האנושי",
+        "et": "The Human Condition",
+        "uk": "Становище людини",
+        "da": "Menneskets vilkår (Moderne tænkere)",
+        "it": "Vita activa",
+        "ca": "La condició humana",
+        "ru": "Vita activa, или О деятельности жизни",
+        "ko": "인간의 조건"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q54489094": {
+      "labels": {
+        "en": "The Secret Barrister"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q122070534": {
+      "labels": {
+        "en": "Good Strategy/Bad Strategy"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q122070561": {
+      "labels": {
+        "en": "Feng Shui Modern"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q15975187": {
+      "labels": {
+        "en": "Migraine",
+        "fr": "Migraine",
+        "ko": "편두통",
+        "ga": "Migraine"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q717326": {
+      "labels": {
+        "zh-hans": "地海奇风",
+        "zh-hant": "地海奇風",
+        "zh-hk": "地海奇風",
+        "pl": "Inny wiatr",
+        "en": "The Other Wind",
+        "es": "En el otro viento",
+        "fi": "Toinen tuuli",
+        "it": "I venti di Earthsea",
+        "cs": "Jiný vítr",
+        "zh": "地海奇風",
+        "ru": "На иных ветрах",
+        "de": "Rückkehr nach Erdsee",
+        "nl": "The Other Wind",
+        "eo": "La Alia Vento",
+        "fr": "Le vent d'ailleurs",
+        "ja": "アースシーの風",
+        "sv": "Burna av en annan vind",
+        "ast": "The Other Wind",
+        "ca": "L'altre vent"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q2499675": {
+      "labels": {
+        "zh-hans": "地海故事集",
+        "zh-hant": "地海故事集",
+        "zh-hk": "地海故事集",
+        "pl": "Opowieści z Ziemiomorza",
+        "ru": "Сказания Земноморья",
+        "en": "Tales from Earthsea",
+        "fr": "Contes de Terremer",
+        "es": "Cuentos de Terramar",
+        "fi": "Kertomuksia Maamereltä",
+        "cs": "Příběhy ze Zeměmoří",
+        "zh": "地海故事集",
+        "de": "Das Vermächtnis von Erdsee",
+        "it": "Leggende di Earthsea",
+        "eo": "Rakontoj de Termaro",
+        "ja": "ドラゴンフライ アースシーの五つの物語",
+        "sv": "Berättelser från Övärlden",
+        "ast": "Tales from Earthsea",
+        "ga": "Tales from Earthsea",
+        "ca": "Contes de Terramar"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q120728921": {
+      "labels": {
+        "en": "Radical Help"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q120235408": {
+      "labels": {
+        "en": "How to Be Animal"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q119976210": {
+      "labels": {
+        "en": "Everyday Utopia"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q2288175": {
+      "labels": {
+        "zh-hans": "地海彼岸",
+        "zh-hant": "地海彼岸",
+        "zh-hk": "地海彼岸",
+        "pl": "Najdalszy brzeg",
+        "ru": "На последнем берегу",
+        "en": "The Farthest Shore",
+        "es": "La costa más lejana",
+        "ro": "Cel mai îndepărtat țărm",
+        "ca": "La costa més llunyana",
+        "fi": "Kaukaisin ranta",
+        "uk": "Останній берег",
+        "it": "La spiaggia più lontana",
+        "cs": "Nejvzdálenější pobřeží",
+        "zh": "地海彼岸",
+        "de": "Das ferne Ufer",
+        "fa": "دورترین کرانه",
+        "nl": "The Farthest Shore",
+        "he": "החוף הרחוק ביותר",
+        "eo": "La Plej Fora Marbordo",
+        "fr": "L'ultime rivage",
+        "ja": "さいはての島へ",
+        "sv": "Den yttersta stranden",
+        "ast": "The Farthest Shore",
+        "ga": "The Farthest Shore"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q2070380": {
+      "labels": {
+        "zh-hans": "地海古墓",
+        "zh-hant": "地海古墓",
+        "zh-hk": "地海古墓",
+        "pl": "Grobowce Atuanu",
+        "bg": "Гробниците на Атуан",
+        "en": "The Tombs of Atuan",
+        "he": "הקברים של אטואן",
+        "ru": "Гробницы Атуана",
+        "es": "Las tumbas de Atuan",
+        "ro": "Mormintele din Atuan",
+        "fi": "Atuanin holvihaudat",
+        "uk": "Гробниці Атуану",
+        "it": "Le tombe di Atuan",
+        "zh": "地海古墓",
+        "cs": "Hrobky Atuánu",
+        "de": "Die Gräber von Atuan",
+        "fa": "گورهای آتوان",
+        "nl": "The Tombs of Atuan",
+        "af": "The Tombs of Atuan",
+        "eo": "La Tomboj de Atuan",
+        "fr": "Les tombeaux d'Atuan",
+        "ko": "아투안의 무덤",
+        "ja": "こわれた腕輪",
+        "ca": "Les tombes d'Atuan",
+        "ka": "ატუანის აკლდამები",
+        "sv": "Gravkamrarna i Atuan",
+        "ast": "The Tombs of Atuan",
+        "ga": "The Tombs of Atuan"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q1771810": {
+      "labels": {
+        "zh-hans": "地海巫师",
+        "zh-hant": "地海巫師",
+        "zh-hk": "地海巫師",
+        "pl": "Czarnoksiężnik z Archipelagu",
+        "he": "הקוסם מארץ ים",
+        "ru": "Волшебник Земноморья",
+        "en": "A Wizard of Earthsea",
+        "es": "Un mago de Terramar",
+        "ro": "Un vrăjitor din Terramare",
+        "th": "พ่อมดแห่งเอิร์ธซี",
+        "fi": "Maameren velho",
+        "lv": "Jūrzemes burvis",
+        "uk": "Чарівник Земномор'я",
+        "it": "Il mago di Earthsea",
+        "cs": "Čaroděj Zeměmoří",
+        "bg": "Магьосникът от Землемория",
+        "zh": "地海巫師",
+        "de": "Der Magier der Erdsee",
+        "tr": "Yerdeniz Büyücüsü",
+        "ko": "어스시의 마법사",
+        "fa": "جادوگر دریای‌زمین",
+        "nl": "A Wizard of Earthsea",
+        "fr": "Le Sorcier de Terremer",
+        "pt": "A Wizard of Earthsea",
+        "af": "A Wizard of Earthsea",
+        "ta": "பூமிக்கடலில் ஒரு மந்திரவாதி",
+        "eo": "Magiisto de Termaro",
+        "id": "A Wizard of Earthsea",
+        "ca": "Un mag de Terramar",
+        "ja": "影との戦い",
+        "ar": "ساحر الأرض",
+        "ka": "ზღვამიწეთის ჯადოქარი",
+        "sv": "Trollkarlen från Övärlden",
+        "ast": "A Wizard of Earthsea",
+        "ga": "A Wizard of Earthsea"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q118550925": {
+      "labels": {
+        "en": "Why Politics Fails: The Five Traps of the Modern World and How to Escape Them"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480568": {
+      "labels": {
+        "en": "Why We Get The Wrong Politicians"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480560": {
+      "labels": {
+        "en": "Fracture: The collision between technology and democracy and how we fix it"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117478258": {
+      "labels": {
+        "en": "Burn"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480545": {
+      "labels": {
+        "en": "Follow the Money"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480535": {
+      "labels": {
+        "en": "God, Human, Animal, Machine"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q105722561": {
+      "labels": {
+        "en": "A Desolation Called Peace",
+        "zh": "名為和平的荒蕪",
+        "fr": "Une désolation nommée paix",
+        "uk": "Пустка під назвою мир",
+        "ga": "A Desolation Called Peace",
+        "ja": "平和という名の廃墟",
+        "cs": "Pustina zvaná mír",
+        "ru": "Пустошь, что зовётся миром"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480516": {
+      "labels": {
+        "en": "Children of Memory"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117480397": {
+      "labels": {
+        "en": "The Data-Centric Revolution"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q82566838": {
+      "labels": {
+        "en": "A Memory Called Empire",
+        "es": "A Memory Called Empire",
+        "fr": "Un souvenir nommé empire",
+        "zh": "名為帝國的記憶",
+        "ar": "ذكرى تسمى إمبراطورية",
+        "pl": "Pamięć zwana Imperium",
+        "ja": "帝国と呼ばれた記憶",
+        "ga": "A Memory Called Empire",
+        "ru": "Память, что зовется империей",
+        "cs": "Vzpomínka zvaná říše"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q111954893": {
+      "labels": {
+        "en": "Moon Witch, Spider King"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q109967298": {
+      "labels": {
+        "en": "The Right to Sex"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117480376": {
+      "labels": {
+        "en": "Our Bloc: How We Win"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q2811112": {
+      "labels": {
+        "fr": "Lavinia",
+        "en": "Lavinia",
+        "fi": "Lavinia",
+        "sv": "Lavinia",
+        "nl": "Lavinia",
+        "es": "Lavinia",
+        "ru": "Лавиния",
+        "tr": "Lavinia",
+        "ka": "ლავინია",
+        "ko": "라비니아",
+        "it": "Lavinia",
+        "ast": "Lavinia",
+        "ga": "Lavinia",
+        "pl": "Lawinia",
+        "ja": "ラウィーニア"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q78496966": {
+      "labels": {
+        "zh": "寻路中国：长城、乡村、工厂，一段见证与观察的纪程",
+        "zh-hant": "尋路中國：長城、鄉村、工廠，一段見證與觀察的紀程",
+        "en": "Country Driving: A Chinese Road Trip",
+        "zh-tw": "Country Driving: A Chinese Road Trip"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q109171045": {
+      "labels": {
+        "en": "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117480358": {
+      "labels": {
+        "en": "Moneyland"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117480347": {
+      "labels": {
+        "en": "Atoms and Ashes"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q25345736": {
+      "labels": {
+        "en": "The Entrepreneurial State",
+        "zh-hant": "創業型國家：揭開公營與私營部門的神話",
+        "ga": "The Entrepreneurial State"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q114397287": {
+      "labels": {
+        "en": "Butler to the World"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117480339": {
+      "labels": {
+        "en": "The Red Virgin and the Vision of Utopia"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q110608207": {
+      "labels": {
+        "en": "Free: Coming of Age at the End of History",
+        "tr": "Özgür (kitap)"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q107490750": {
+      "labels": {
+        "en": "The Anthropocene Reviewed"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480335": {
+      "labels": {
+        "en": "Oracle Bones: A Journey Through Time in China"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q41663453": {
+      "labels": {
+        "en": "An Absolutely Remarkable Thing",
+        "sv": "An Absolutely Remarkable Thing",
+        "ga": "An Absolutely Remarkable Thing",
+        "uk": "Ну просто нереальна штука!"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q302026": {
+      "labels": {
+        "en": "Surface Detail",
+        "fi": "Pintakuvio",
+        "fr": "Les Enfers virtuels",
+        "de": "Krieg der Seelen",
+        "es": "Detalle superficial",
+        "he": "על פני השטח",
+        "sv": "Surface Detail",
+        "ru": "Несущественная деталь",
+        "ga": "Surface Detail"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q7973159": {
+      "labels": {
+        "en": "Watching the English: the hidden rules of English behaviour",
+        "ru": "Наблюдая за англичанами",
+        "zh": "看這些英國佬",
+        "uk": "Спостерігаючи за англійцями",
+        "cv": "Акăлчансене сăнаса"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q15260619": {
+      "labels": {
+        "pl": "Sezon burz",
+        "ru": "Сезон гроз",
+        "en": "Season of Storms",
+        "it": "Sezon burz",
+        "uk": "Сезон бур",
+        "es": "Estación de tormentas",
+        "cs": "Bouřková sezóna",
+        "fa": "فصل طوفان‌ها",
+        "fr": "La Saison des orages",
+        "zh": "風暴季節",
+        "zh-hans": "风暴季节",
+        "hu": "Viharidő",
+        "mk": "Сезона на бури",
+        "sr": "Сезона олуја",
+        "tr": "Fırtına Mevsimi",
+        "sr-ec": "Сезона олуја",
+        "he": "עונת הסופות",
+        "uz": "Boʻronlar fasli",
+        "ca": "Sezon burz",
+        "ro": "Anotimpul furtunilor"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q105704813": {
+      "labels": {
+        "en": "Klara and the Sun",
+        "es": "Klara y el Sol",
+        "fa": "کلارا و خورشید",
+        "ru": "Клара и Солнце",
+        "it": "Klara e il Sole",
+        "de": "Klara und die Sonne",
+        "hu": "Klara és a Nap",
+        "da": "Klara og solen",
+        "fr": "Klara et le Soleil",
+        "ca": "La Klara i el Sol",
+        "zh": "克拉拉与太阳",
+        "zh-hans": "克拉拉与太阳",
+        "zh-hant": "克拉拉與太陽",
+        "ar": "كلارا والشمس",
+        "pl": "Klara i słońce",
+        "nl": "Klara en de zon",
+        "sv": "Klara och solen",
+        "tr": "Klara ile Güneş",
+        "pt": "Klara e o Sol",
+        "fi": "Klara ja aurinko",
+        "el": "Η Κλάρα και ο ήλιος",
+        "ro": "Klara și Soarele",
+        "bg": "Клара и Слънцето",
+        "lt": "Klara ir Saulė",
+        "uk": "Клара і сонце",
+        "hr": "Klara i Sunce",
+        "et": "Klara ja Päike",
+        "th": "คลาราและดวงอาทิตย์",
+        "cs": "Klára a Slunce",
+        "ko": "클라라와 태양",
+        "ga": "Klara and the Sun",
+        "ka": "კლარა და მზე",
+        "id": "Klara dan Sang Matahari",
+        "he": "קלרה והשמש"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117480313": {
+      "labels": {
+        "en": "Land of Big Numbers"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117480305": {
+      "labels": {
+        "en": "Remote: Office Not Required"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q18217160": {
+      "labels": {
+        "en": "River Town: Two Years on the Yangtze",
+        "zh": "江城",
+        "it": "River Town: Two Years on the Yangtze",
+        "ga": "River Town: Two Years on the Yangtze"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q4113386": {
+      "labels": {
+        "ru": "Владычица Озера",
+        "uk": "Володарка Озера",
+        "pl": "Pani Jeziora",
+        "en": "Lady of the Lake",
+        "cs": "Paní jezera",
+        "it": "La signora del lago",
+        "es": "La Dama del Lago",
+        "pt": "A Senhora do Lago",
+        "pt-br": "A Senhora do Lago",
+        "ar": "سيدة البحيرة",
+        "vi": "Lady of the Lake",
+        "fa": "بانوی دریاچه",
+        "fr": "La Dame du lac",
+        "zh": "獵魔士長篇5：湖之主",
+        "sr": "Господарица језера",
+        "ja": "ウィッチャーV 湖の貴婦人",
+        "tr": "Gölün Hanımı",
+        "mk": "Дамата од езерото (роман на Сапковски)",
+        "he": "גבירת האגם",
+        "uz": "Koʻl xonim (roman)",
+        "ca": "Pani Jeziora",
+        "ro": "Domnița lacului"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q4080260": {
+      "labels": {
+        "ru": "Башня Ласточки",
+        "pl": "Wieża Jaskółki",
+        "uk": "Вежа Ластівки",
+        "en": "The Tower of the Swallow",
+        "cs": "Věž vlaštovky",
+        "it": "La torre della rondine",
+        "es": "La torre de la golondrina",
+        "pt": "A Torre da Andorinha",
+        "pt-br": "A Torre da Andorinha",
+        "ar": "برج السنونو",
+        "ka": "მერცხლის კოშკი",
+        "fr": "La Tour de l'hirondelle",
+        "zh": "獵魔士長篇4：燕之塔",
+        "sr": "Ластавичја кула",
+        "ja": "ウィッチャーIV ツバメの塔",
+        "tr": "Kırlangıç Kulesi",
+        "mk": "Кулата на ластовицата",
+        "ca": "Wieża Jaskółki",
+        "nl": "De zwaluwentoren",
+        "de": "Der Schwalbenturm",
+        "bg": "Кулата на лястовицата",
+        "br": "Tour ar gwennili",
+        "be": "Вежа Ластаўкі",
+        "el": "Ο Πύργος του Χελιδονιού",
+        "hu": "Fecske-torony",
+        "lt": "Kregždės bokštas",
+        "sk": "Veža lastovičky",
+        "fi": "Pääskytorni",
+        "sv": "Svalornas torn",
+        "he": "מגדל הסנונית",
+        "nb": "The Tower of the Swallow",
+        "uz": "Qaldirgʻoch minorasi",
+        "ro": "Turnul rândunicii"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q4240572": {
+      "labels": {
+        "ru": "Крещение огнём",
+        "pl": "Chrzest ognia",
+        "uk": "Хрещення вогнем",
+        "en": "Baptism of Fire",
+        "it": "Il battesimo del fuoco",
+        "cs": "Křest ohněm",
+        "es": "Bautismo de fuego",
+        "pt": "Batismo de Fogo",
+        "pt-br": "Batismo de Fogo",
+        "ar": "معمودية النار",
+        "fa": "غسل تعمید آتش",
+        "fr": "Le Baptême du feu",
+        "zh": "獵魔士長篇3：火之洗禮",
+        "ja": "ウィッチャーIII 炎の洗礼",
+        "sr": "Ватрено крштење",
+        "hu": "Tűzkeresztség",
+        "tr": "Ateşle İmtihan",
+        "mk": "Огнена крштевка",
+        "de": "Feuertaufe",
+        "nl": "De vuurdoop",
+        "br": "Badez an tan",
+        "bg": "Огнено кръщение",
+        "el": "Βάπτισμα Πυρός",
+        "lt": "Krikštas ugnimi",
+        "sk": "Krst ohňom",
+        "fi": "Tulikaste",
+        "sv": "Elddop",
+        "he": "טבילת האש",
+        "ko": "불의 세례",
+        "uz": "Olovga choʻmdirish (roman)",
+        "ca": "Chrzest ognia",
+        "ro": "Botezul focului",
+        "zh-cn": "火之洗礼"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q2045474": {
+      "labels": {
+        "pl": "Czas pogardy",
+        "ru": "Час Презрения",
+        "en": "Time of Contempt",
+        "uk": "Час погорди",
+        "it": "Il tempo della guerra",
+        "cs": "Čas opovržení",
+        "es": "Tiempo de odio",
+        "pt": "Tempo do Desprezo",
+        "nl": "De jaren van verachting",
+        "pt-br": "Tempo do Desprezo",
+        "ar": "زمن الازدراء",
+        "ka": "ზიზღის ჟამი",
+        "fa": "موعد تحقیر",
+        "tr": "Nefret Çağı",
+        "fr": "Le Temps du mépris",
+        "zh": "獵魔士長篇2：蔑視時代",
+        "sr": "Време презира",
+        "ja": "ウィッチャーII 屈辱の刻",
+        "hu": "A megvetés ideje",
+        "mk": "Време на презир",
+        "ca": "Czas pogardy",
+        "da": "Foragtens tid",
+        "br": "Amzer ar c'hounnar",
+        "de": "Die Zeit der Verachtung",
+        "bg": "Време на презрение",
+        "el": "Οι Καιροί της Περιφρόνησης",
+        "et": "Põlguse aeg",
+        "lt": "Paniekos metas",
+        "sk": "Čas opovrhnutia",
+        "fi": "Halveksunnan aika",
+        "sv": "Föraktets tid",
+        "ro": "Vremea disprețului",
+        "he": "זמן הזילות",
+        "nb": "Time of Contempt",
+        "uz": "Nafratlanish vaqti"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q2652386": {
+      "labels": {
+        "pl": "Krew elfów",
+        "ru": "Кровь эльфов",
+        "en": "Blood of Elves",
+        "fi": "Haltiain verta",
+        "uk": "Кров ельфів",
+        "it": "Il sangue degli elfi",
+        "cs": "Krev elfů",
+        "es": "La sangre de los elfos",
+        "pt": "O Sangue dos Elfos",
+        "nl": "Het bloed van elfen",
+        "pt-br": "O Sangue dos Elfos",
+        "ar": "دم الإلف",
+        "tr": "Elflerin Kanı",
+        "hy": "Էլֆերի արյունը",
+        "ja": "ウィッチャーI エルフの血脈",
+        "fr": "Le Sang des elfes",
+        "zh": "獵魔士長篇1：精靈血",
+        "sr": "Крв вилењака",
+        "az": "Elflərin qanı",
+        "hu": "Tündevér",
+        "mk": "Виленичка крв",
+        "da": "Elverblod",
+        "de": "Das Erbe der Elfen",
+        "bg": "Кръвта на елфите",
+        "el": "Το Αίμα των Ξωτικών",
+        "et": "Haldjate veri",
+        "lt": "Elfų Kraujas",
+        "sk": "Krv elfov",
+        "sv": "Alvblod",
+        "ro": "Sângele elfilor",
+        "he": "דם האלפים",
+        "be": "Кроў эльфаў",
+        "uz": "Elflar qoni",
+        "ca": "Krew elfów"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q114051423": {
+      "labels": {
+        "en": "The Walker's Guide to Outdoor Clues and Signs"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q98686638": {
+      "labels": {
+        "en": "Entangled Life",
+        "es": "La red oculta de la vida",
+        "de": "Verwobenes Leben",
+        "et": "Läbipõimunud elu"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q107316509": {
+      "labels": {
+        "en": "Leviathan Falls",
+        "fr": "La Chute du Léviathan",
+        "pt": "Leviatã Adormece",
+        "ga": "Leviathan Falls",
+        "ru": "Падение Левиафана",
+        "pl": "Upadek Lewiatana",
+        "it": "Leviathan Falls - Scontro finale"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480103": {
+      "labels": {
+        "en": "The Peregrine"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q684818": {
+      "labels": {
+        "it": "Matter",
+        "de": "Sphären",
+        "en": "Matter",
+        "fi": "Matter",
+        "fr": "Trames",
+        "es": "Materia",
+        "de-ch": "Sphären",
+        "en-ca": "Matter",
+        "en-gb": "Matter",
+        "nl": "Matter",
+        "sv": "Matter",
+        "ru": "Материя",
+        "ga": "Matter"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q951587": {
+      "labels": {
+        "pl": "Nie opuszczaj mnie",
+        "de": "Alles, was wir geben mussten",
+        "en": "Never Let Me Go",
+        "es": "Nunca me abandones",
+        "fa": "هرگز رهایم مکن",
+        "fi": "Ole luonani aina",
+        "fr": "Auprès de moi toujours",
+        "gl": "Non me deixes nunca",
+        "is": "Slepptu mér aldrei",
+        "it": "Non lasciarmi",
+        "ja": "わたしを離さないで",
+        "ru": "Не отпускай меня",
+        "vi": "Mãi Đừng Xa Tôi",
+        "zh": "別讓我走",
+        "id": "Never Let Me Go",
+        "tyv": "Мени салба (ном)",
+        "sv": "Never Let Me Go",
+        "uk": "Не відпускай мене",
+        "ko": "나를 보내지 마",
+        "af": "Never Let Me Go",
+        "ca": "No em deixis mai",
+        "nl": "Laat me nooit alleen",
+        "nb": "Never Let Me Go",
+        "ar": "لا تدعني أذهب أبداً",
+        "hy": "Չթողնես ինձ երբեք",
+        "ky": "Мени эч качан коё бербе",
+        "en-gb": "Never Let Me Go",
+        "da": "Slip mig aldrig",
+        "sr": "Не дај ми никада да одем",
+        "be": "Не адпускай мяне",
+        "ka": "არასოდეს გამიშვა",
+        "zh-hans": "莫失莫忘",
+        "zh-hant": "別讓我走",
+        "tr": "Beni Asla Bırakma",
+        "ro": "Să nu mă părăsești",
+        "pt": "Não Me Abandone Jamais",
+        "lt": "Neleisk man išeiti",
+        "el": "Μη μ' αφήσεις ποτέ",
+        "cs": "Neopouštěj mě",
+        "et": "Ära lase mul minna",
+        "hr": "Nikad me ne ostavljaj",
+        "hu": "Ne engedj el…",
+        "lv": "Neļauj man aiziet",
+        "he": "לעולם אל תיתן לי ללכת",
+        "th": "แผลลึกหัวใจสลาย",
+        "az": "Məni heç vaxt tərk etmə",
+        "uz": "Never Let Me Go",
+        "ga": "Never Let Me Go"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q7751674": {
+      "labels": {
+        "en": "The Mirror and the Light",
+        "es": "The Mirror and the Light",
+        "ar": "المرآة والضوء",
+        "zh": "镜与光",
+        "ru": "Зеркало и свет",
+        "fa": "آینه و نور",
+        "ja": "鏡と光",
+        "ca": "The Mirror and the Light",
+        "ast": "The Mirror and the Light"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q108899582": {
+      "labels": {
+        "en": "Shutdown: How Covid Shook the World's Economy"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480269": {
+      "labels": {
+        "en": "Almost Human: The Astonishing Tale of Homo Naledi and the Discovery That Changed Our Human Story"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q884010": {
+      "labels": {
+        "fi": "Tähystä tuulenpuolta",
+        "fr": "Le Sens du vent",
+        "en": "Look to Windward",
+        "de": "Blicke windwärts",
+        "it": "Volgi lo sguardo al vento",
+        "es": "A barlovento",
+        "nl": "Look to Windward",
+        "he": "הבט אל הרוח",
+        "ru": "Взгляд с наветренной стороны",
+        "sv": "Look to Windward",
+        "ga": "Look to Windward"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q85803121": {
+      "labels": {
+        "en": "Stalingrad",
+        "ru": "За правое дело",
+        "fr": "Pour une juste cause"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q7771354": {
+      "labels": {
+        "en": "The Undercover Economist",
+        "it": "L'economista mascherato",
+        "ga": "The Undercover Economist",
+        "he": "הכלכלן הסמוי"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q666405": {
+      "labels": {
+        "de": "Inversionen",
+        "fr": "Inversions",
+        "en": "Inversions",
+        "hu": "Ellentétek",
+        "nl": "Inversions",
+        "es": "Inversiones",
+        "he": "התהפכויות",
+        "sv": "Inversions",
+        "fi": "Inversions",
+        "ga": "Inversions"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480255": {
+      "labels": {
+        "en": "Mine! How the Hidden Rules of Ownership Rule Our Lives"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q3294969": {
+      "labels": {
+        "fr": "Mars la rouge",
+        "en": "Red Mars",
+        "de": "Roter Mars",
+        "es": "Marte rojo",
+        "pl": "Czerwony Mars",
+        "cs": "Rudý Mars",
+        "zh": "紅火星",
+        "ro": "Marte roșu",
+        "uk": "Червоний Марс",
+        "ja": "レッド・マーズ",
+        "ru": "Красный Марс"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q11889107": {
+      "labels": {
+        "fi": "Puolipäivän riitit",
+        "en": "Adulthood Rites",
+        "ko": "성인식",
+        "ga": "Adulthood Rites"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q114051368": {
+      "labels": {
+        "en": "A Thousand Days of Wonder"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q106852836": {
+      "labels": {
+        "en": "Project Hail Mary",
+        "en-ca": "Project Hail Mary",
+        "en-gb": "Project Hail Mary",
+        "nl": "Project Hail Mary",
+        "de": "Der Astronaut",
+        "fr": "Projet Dernière Chance",
+        "he": "פרויקט הייל מרי",
+        "ru": "Проект «Аве Мария»",
+        "zh": "挽救计划",
+        "sr": "Project Hail Mary",
+        "fi": "Project Hail Mary",
+        "pt": "Project Hail Mary",
+        "ga": "Project Hail Mary",
+        "pl": "Projekt Hail Mary",
+        "ja": "プロジェクト・ヘイル・メアリー",
+        "es": "Proyecto Hail Mary"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480240": {
+      "labels": {
+        "en": "Exercised: the Science of Physical Activity, Rest and Health"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q15909011": {
+      "labels": {
+        "zh": "球状闪电",
+        "ja": "球電",
+        "en": "Ball Lightning",
+        "pt": "Ball Lightning",
+        "de": "Kugelblitz",
+        "fr": "Boule de foudre"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q114051789": {
+      "labels": {
+        "en": "The Red Kite"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q114051689": {
+      "labels": {
+        "en": "The Red Kite's Year"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q9321397": {
+      "labels": {
+        "fi": "Aamunkoitto",
+        "en": "Dawn",
+        "it": "Ultima genesi",
+        "de": "Dämmerung",
+        "ga": "Dawn"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q74362": {
+      "labels": {
+        "en": "Excession",
+        "en-ca": "Excession",
+        "en-gb": "Excession",
+        "de": "Exzession",
+        "de-ch": "Exzession",
+        "fr": "Excession",
+        "hu": "Holtpont",
+        "it": "L'altro universo",
+        "es": "Excesión",
+        "ca": "Excession",
+        "oc": "Excession",
+        "nl": "Excession",
+        "he": "התעלות",
+        "eo": "Excession",
+        "ar": "الخارق (رواية خيال علمي)",
+        "sv": "Excession",
+        "fi": "Excession",
+        "ru": "Эксцессия",
+        "ja": "Excession",
+        "ga": "Excession"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q30887961": {
+      "labels": {
+        "it": "Lo stato dell'arte",
+        "en": "The State of the Art",
+        "es": "Última generación",
+        "ga": "The State of the Art"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q339923": {
+      "labels": {
+        "de": "Einsatz der Waffen",
+        "en": "Use of Weapons",
+        "es": "El uso de las armas",
+        "fi": "Aseiden käyttö",
+        "fr": "L'Usage des armes",
+        "hu": "Fegyver a kézben",
+        "it": "La guerra di Zakalwe",
+        "de-ch": "Einsatz der Waffen",
+        "en-ca": "Use of Weapons",
+        "en-gb": "Use of Weapons",
+        "nl": "Use of Weapons",
+        "he": "שימוש בנשק",
+        "ru": "Выбор оружия",
+        "ro": "Folosirea armelor",
+        "sv": "Use of Weapons",
+        "ga": "Use of Weapons",
+        "pl": "Najemnik"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q467139": {
+      "labels": {
+        "fr": "L'Homme des jeux",
+        "en": "The Player of Games",
+        "de": "Das Spiel Azad",
+        "it": "L'impero di Azad",
+        "es": "El jugador",
+        "hu": "A játékmester",
+        "de-ch": "Das Spiel Azad",
+        "en-ca": "The Player of Games",
+        "en-gb": "The Player of Games",
+        "nl": "The Player of Games",
+        "uk": "Гравець ігор",
+        "ru": "Игрок",
+        "ro": "Jucătorul total",
+        "sv": "The Player of Games",
+        "fi": "The Player of Games",
+        "ar": "لاعب الالعاب",
+        "ko": "게임의 명수",
+        "ga": "The Player of Games"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q54488606": {
+      "labels": {
+        "en": "This Is Going to Hurt",
+        "pl": "Będzie bolało",
+        "fa": "این درد داره",
+        "ga": "This Is Going to Hurt"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q261728": {
+      "labels": {
+        "hu": "Emlékezz Phlebasra",
+        "de": "Bedenke Phlebas",
+        "en": "Consider Phlebas",
+        "es": "Pensad en Flebas",
+        "fi": "Muista Flebasta",
+        "fr": "Une forme de guerre",
+        "it": "Pensa a Fleba",
+        "uk": "Пам'ятай про Флеба",
+        "ro": "Spectrul lui Phlebas",
+        "de-ch": "Bedenke Phlebas",
+        "en-ca": "Consider Phlebas",
+        "en-gb": "Consider Phlebas",
+        "nl": "Consider Phlebas",
+        "he": "חשבו על פלבאס",
+        "ru": "Вспомни о Флебе",
+        "sv": "Consider Phlebas",
+        "tr": "Phlebas'ı Hatırla",
+        "ga": "Consider Phlebas",
+        "fa": "به فلباس بیندیش"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q107107590": {
+      "labels": {
+        "en": "Kindred"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q3235393": {
+      "labels": {
+        "en": "Half of a Yellow Sun",
+        "sv": "En halv gul sol",
+        "fa": "نیمی از یک خورشید زرد",
+        "ru": "Половина жёлтого солнца",
+        "hy": "Դեղին արևի կեսը",
+        "ja": "半分のぼった黄色い太陽",
+        "ko": "태양은 노랗게 타오른다",
+        "da": "En halv gul sol",
+        "he": "חצי שמש צהובה",
+        "cy": "Half of a Yellow Sun",
+        "fr": "L'Autre Moitié du soleil",
+        "fi": "Puolikas keltaista aurinkoa",
+        "el": "Δακρυσμένος ήλιος",
+        "sr": "Пола жутог сунца",
+        "nb": "En halv gul sol",
+        "en-ca": "Half of a Yellow Sun",
+        "en-gb": "Half of a Yellow Sun",
+        "it": "Metà di un sole giallo",
+        "ca": "Half of a Yellow Sun",
+        "bn": "হাফ অব আ ইয়েলো সান",
+        "es": "Medio sol amarillo",
+        "zh": "半轮黄日",
+        "et": "Pool kollast Päikest",
+        "pl": "Połówka żółtego słońca",
+        "ig": "Half a Yellow Sun",
+        "ga": "Half a yellow sun"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q75804726": {
+      "labels": {
+        "en": "The Age of Surveillance Capitalism",
+        "de": "Das Zeitalter des Überwachungskapitalismus",
+        "fr": "L’Âge du capitalisme de surveillance",
+        "it": "Il capitalismo della sorveglianza",
+        "pl": "Wiek kapitalizmu inwigilacji",
+        "ca": "The Age of Surveillance Capitalism",
+        "ja": "監視資本主義の時代",
+        "nb": "The Age of Surveillance Capitalism",
+        "ga": "The Age of Surveillance Capitalism"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q1115619": {
+      "labels": {
+        "it": "La regina degli scacchi",
+        "en": "The Queen's Gambit",
+        "es": "Gambito de dama",
+        "nl": "The Queen's Gambit",
+        "ru": "Ход королевы",
+        "hu": "A vezércsel",
+        "ca": "The Queen's Gambit",
+        "fr": "Le Jeu de la dame",
+        "sv": "The Queen's Gambit",
+        "fi": "Musta kuningatar",
+        "de": "The Queen's Gambit",
+        "uk": "Ферзевий гамбіт",
+        "da": "The Queen's Gambit (roman)",
+        "ar": "مناورة الملكة",
+        "tr": "Vezir Gambiti",
+        "zh": "后翼棄兵",
+        "hy": "Թագուհու գամբիտը (վեպ)",
+        "ja": "クイーンズ・ギャンビット",
+        "pl": "Gambit królowej",
+        "ko": "퀸스 갬빗",
+        "he": "גמביט המלכה",
+        "mk": "Дамски гамбит",
+        "fa": "گامبی وزیر (رمان)"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q104093629": {
+      "labels": {
+        "en": "October"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117480103": {
+      "labels": {
+        "en": "The Peregrine"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q80943751": {
+      "labels": {
+        "en": "Crashed: How a Decade of Financial Crises Changed the World",
+        "ga": "Crashed: How a Decade of Financial Crises Changed the World"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117480025": {
+      "labels": {
+        "en": "Life on Earth"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117479981": {
+      "labels": {
+        "en": "The Book of Trespass"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q114051110": {
+      "labels": {
+        "en": "Quest in Paradise"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q114051065": {
+      "labels": {
+        "en": "Zoo Quest for a Dragon"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q114051049": {
+      "labels": {
+        "en": "Quest Under Capricorn"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q114051028": {
+      "labels": {
+        "en": "David Attenborough's New Life Stories"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q98178602": {
+      "labels": {
+        "ru": "Атомные привычки",
+        "en": "Atomic Habits",
+        "uk": "Атомні Звички",
+        "id": "Atomic Habits"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q54489223": {
+      "labels": {
+        "en": "Who We Are and How We Got Here",
+        "en-ca": "Who We Are and How We Got Here",
+        "en-gb": "Who We Are and How We Got Here",
+        "uk": "Хто ми такі? Походження людини крізь призму ДНК (книга)",
+        "ga": "Who We Are and How We Got Here"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q3644822": {
+      "labels": {
+        "en": "Bring Up the Bodies",
+        "it": "Anna Bolena, una questione di famiglia",
+        "nl": "Bring Up the Bodies",
+        "fr": "Bring Up the Bodies",
+        "es": "Una reina en el estrado",
+        "fa": "اجساد را بیاورید",
+        "af": "Bring Up the Bodies",
+        "ja": "罪人を召し出せ",
+        "pt": "Bring Up the Bodies",
+        "ru": "Внесите тела",
+        "he": "הביאו את הגופות",
+        "zh": "狼廳二部曲：提堂",
+        "da": "Bring Up the Bodies",
+        "sv": "För in de döda",
+        "ar": "أخرجوا الجثث",
+        "ast": "Bring Up the Bodies",
+        "ca": "Bring Up the Bodies"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q21189971": {
+      "labels": {
+        "it": "La canzone di Achille",
+        "en": "The Song of Achilles",
+        "de": "Das Lied des Achill",
+        "es": "La canción de Aquiles",
+        "et": "Achilleuse laul",
+        "fr": "Le Chant d'Achille",
+        "sr": "Ахилов пев",
+        "mk": "Ахиловата песна",
+        "zh": "阿基里斯之歌",
+        "ga": "The Song of Achilles",
+        "hu": "Akhilleusz dala",
+        "id": "Nyanyian Achilles",
+        "pt": "A Canção de Aquiles",
+        "pl": "Pieśń o Achillesie",
+        "ar": "اغنية أخيل"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q43625060": {
+      "labels": {
+        "en": "A Closed and Common Orbit",
+        "id": "A Closed and Common Orbit",
+        "es": "Una órbita cerrada y compartida",
+        "fr": "Libration",
+        "ga": "A Closed and Common Orbit"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q117479942": {
+      "labels": {
+        "en": "The Doors of Eden"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q7733522": {
+      "labels": {
+        "ar": "السنوات السمان",
+        "en": "The Fat Years",
+        "nl": "The Fat Years",
+        "zh": "盛世 中國 2013年",
+        "ca": "Anys de prosperitat"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117479922": {
+      "labels": {
+        "en": "Peter Scott: Collected Writings, 1933-1989"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q95075560": {
+      "labels": {
+        "en": "The City We Became",
+        "es": "La ciudad que nos unió",
+        "fr": "Genèse de la cité",
+        "ko": "우리는 도시가 된다",
+        "ga": "The City We Became",
+        "pl": "Miasto, którym się staliśmy"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q2447776": {
+      "labels": {
+        "pl": "Słowo \"las\" znaczy \"świat\"",
+        "ru": "Слово для леса и мира одно",
+        "fr": "Le nom du monde est forêt",
+        "en": "The Word for World Is Forest",
+        "es": "El nombre del mundo es Bosque",
+        "ro": "Lumii îi spuneau pădure",
+        "it": "Il mondo della foresta",
+        "sv": "Där världen kallas skog",
+        "de": "Das Wort für Welt ist Wald",
+        "eu": "The Word for World Is Forest",
+        "nl": "The Word for World Is Forest",
+        "uk": "Слово для світу — ліс",
+        "af": "The Word for World Is Forest",
+        "ko": "세상을 가리키는 말은 숲",
+        "eo": "La Nomo de Mondo estas Arbaro",
+        "ca": "The Word for World Is Forest",
+        "ja": "世界の合言葉は森",
+        "zh": "世界的詞語是森林",
+        "ast": "The Word for World Is Forest",
+        "ga": "The Word for World Is Forest",
+        "sl": "Beseda za svet je gozd"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q30608520": {
+      "labels": {
+        "en": "Lovecraft Country",
+        "ru": "Страна Лавкрафта",
+        "zh": "洛夫克拉夫特之鄉：逃出絕命村",
+        "fr": "Lovecraft Country",
+        "de": "Lovecraft Country",
+        "he": "ארץ לאבקראפט",
+        "pl": "Kraina Lovecrafta (powieść)",
+        "ko": "러브크래프트 컨트리",
+        "yue": "洛夫卡拉夫特之國",
+        "ga": "Lovecraft Country"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117479865": {
+      "labels": {
+        "en": "Vesper Flights"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q16204596": {
+      "labels": {
+        "en": "MaddAddam",
+        "nl": "MaddAddam",
+        "fi": "Uusi maa",
+        "af": "MaddAddam",
+        "fr": "MaddAddam",
+        "ca": "MaddAddam",
+        "ar": "آدم المجنون",
+        "he": "אדם האחרון",
+        "de": "Die Geschichte von Zeb",
+        "fa": "آدام دیوانه",
+        "ko": "미친 아담",
+        "ga": "MaddAddam",
+        "sv": "MaddAddam",
+        "it": "L'altro inizio"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q91452788": {
+      "labels": {
+        "zh": "方方日記",
+        "en": "Wuhan Diary",
+        "ja": "武漢日記",
+        "id": "Wuhan Diary",
+        "ca": "Wuhan Diary"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117479850": {
+      "labels": {
+        "en": "Zita the Spacegirl"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q29832540": {
+      "labels": {
+        "en": "Will Save the Galaxy for Food",
+        "ga": "Will Save the Galaxy for Food"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q117479841": {
+      "labels": {
+        "en": "Greetings from Bury Park"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q29344605": {
+      "labels": {
+        "en": "The Collapsing Empire",
+        "fi": "The Collapsing Empire",
+        "es": "El fin del imperio",
+        "fr": "L'Effondrement de l'empire",
+        "it": "Il collasso dell'Impero",
+        "ko": "무너지는 제국",
+        "pl": "Upadające imperium",
+        "ro": "Prăbușirea Imperiului",
+        "ja": "星間帝国の皇女 ラスト・エンペロー",
+        "ar": "الإمبراطورية المنهارة",
+        "ga": "The Collapsing Empire"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q60749168": {
+      "labels": {
+        "en": "The Consuming Fire",
+        "ko": "타오르는 화염",
+        "fr": "Les Flammes de l'empire",
+        "ro": "Foc mistuitor",
+        "ga": "The Consuming Fire",
+        "pl": "Imperium w płomieniach"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q96075523": {
+      "labels": {
+        "en": "The Good Immigrant"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q2032398": {
+      "labels": {
+        "fa": "اوریکس و کریک",
+        "fr": "Le Dernier Homme",
+        "en": "Oryx and Crake",
+        "fi": "Oryx ja Crake",
+        "ca": "Oryx i Crake",
+        "de": "Oryx und Crake",
+        "sv": "Oryx och Crake",
+        "es": "Oryx y Crake",
+        "it": "L'ultimo degli uomini",
+        "he": "בז וניאלה",
+        "uk": "Орикс і Деркач",
+        "cs": "Přežívá nejsmutnější",
+        "af": "Oryx and Crake",
+        "nl": "Oryx and Crake",
+        "zh": "末世男女",
+        "da": "Oryx og Crake",
+        "ja": "オリクスとクレイク",
+        "gl": "Oryx e Crake",
+        "ar": "أوريكس وكريك",
+        "ka": "ორიქსი და კრეიკი",
+        "ko": "오릭스와 크레이크",
+        "sr": "Антилопа и косац",
+        "el": "Όρυξ και Ραλλίδα",
+        "hu": "Guvat ​és Gazella",
+        "ga": "Oryx and Crake",
+        "ru": "Орикс и Коростель",
+        "pl": "Oryks i Derkacz"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q39050412": {
+      "labels": {
+        "en": "Why I’m No Longer Talking to White People About Race",
+        "ar": "لماذا لم أعد أتحدث للبيض عن العرق",
+        "id": "Why I'm No Longer Talking to White People About Race",
+        "ga": "Why I’m No Longer Talking to White People About Race",
+        "zh": "為甚麼我不再跟白人談論種族問題"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q61064573": {
+      "labels": {
+        "fa": "دختر تحصیلکرده",
+        "en": "Educated",
+        "fr": "Educated",
+        "ru": "Ученица",
+        "da": "Oplyst",
+        "id": "Terdidik"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q85802021": {
+      "labels": {
+        "en": "Something Deeply Hidden",
+        "zh": "隐藏的宇宙：量子世界与时空涌现"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q62992042": {
+      "labels": {
+        "en": "Middle England",
+        "de": "Middle England",
+        "fr": "Le Cœur de l'Angleterre",
+        "ga": "Middle England",
+        "es": "El corazón de Inglaterra"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ]
+    }
+  }
+]

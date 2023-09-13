@@ -21,7 +21,7 @@ class Wikidata
     "SELECT DISTINCT ?book ?label ?author_label
       WHERE
       {
-        VALUES ?type {wdt:P279* wd:Q47461344}
+        VALUES ?type {wdt:P279 wd:Q47461344}
         ?book wdt:P31 ?type .
         ?book wdt:P1476 ?title FILTER (contains(lcase(?title), lcase('#{book["title"]}'))) .
         ?book rdfs:label ?label FILTER (lang(?label) = 'en')
@@ -35,13 +35,12 @@ class Wikidata
   def query_wikidata_books(book)
     HTTParty.get(
       "https://query.wikidata.org/sparql?query=#{sparql_query(book)}&format=json",
-      headers: { 'User-Agent' => 'Ruby scraping script' }
+      headers: { 'User-Agent' => 'Ruby scraping script', 'Accept-Encoding' => 'gzip,deflat' }
     )
   end
 
   def find_work_iri(book)
     puts "> Querying Wikidata for #{book["title"]}"
-
     response = query_wikidata_books(book)
 
     return {
@@ -75,4 +74,4 @@ end
 wd = Wikidata.new
 data = JSON.pretty_generate(wd.query_all)
 
-File.open('_data/books.json', 'w') { |file| file.write(data) }
+File.open('_data/scraped_books.json', 'w') { |file| file.write(data) }
