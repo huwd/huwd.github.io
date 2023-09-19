@@ -19,5 +19,5 @@ I occasionally read my email at [mail@huwdiprose.co.uk][4]
 [2]: https://github.com/huwd/
 [3]: https://twitter.com/huwdiprose
 [4]: mailto:mail@huwdiprose.co.uk
-[5]: https://www.gov.uk/guidance/software-developer#lead-developer---management
+[5]: https://ddat-capability-framework.service.gov.uk/software-developer.html#lead-developer---management
 [6]: https://www.sign-in.service.gov.uk/
