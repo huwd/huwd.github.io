@@ -5,7 +5,7 @@
       "George Orwell"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q514694",
-    "edition_iri": "https://www.wikidata.org/wiki/Q122705759",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731856",
     "date_started": "2023-09-19T00:00:00Z"
   },
   {
@@ -14,7 +14,7 @@
       "Hannah Arendt"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q2006866",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122730893",
     "date_started": "2023-09-05T00:00:00Z"
   },
   {
@@ -37,7 +37,7 @@
       "Ann Leckie"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q120482895",
-    "edition_iri": "https://www.wikidata.org/wiki/"
+    "edition_iri": "https://www.wikidata.org/wiki/Q122732022"
   },
   {
     "title": "Understanding Power",
@@ -62,7 +62,7 @@
       "The Secret Barrister"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q54489094",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731298",
     "date_started": "2023-09-08T00:00:00Z",
     "date_finished": "2023-09-12T00:00:00Z",
     "rating": {
@@ -76,7 +76,7 @@
       "Richard Rumelt"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q122070534",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731741",
     "date_started": "2023-08-15T00:00:00Z",
     "date_finished": "2023-08-26T00:00:00Z",
     "rating": {
@@ -89,7 +89,7 @@
       "Cliff Tan"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q122070561",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122732065",
     "date_started": "2023-08-01T00:00:00Z"
   },
   {
@@ -98,7 +98,7 @@
       "Oliver Sacks"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q15975187",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731321",
     "date_started": "2023-08-03T00:00:00Z",
     "date_finished": "2023-08-13T00:00:00Z",
     "rating": {
@@ -111,7 +111,7 @@
       "Ursula K. Le Guin"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q717326",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122732596",
     "date_started": "2023-07-27T00:00:00Z",
     "date_finished": "2023-08-03T00:00:00Z",
     "rating": {
@@ -124,7 +124,7 @@
       "Ursula K. Le Guin"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q2499675",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122732562",
     "date_started": "2023-07-20T00:00:00Z",
     "date_finished": "2023-07-25T00:00:00Z",
     "rating": {
@@ -341,7 +341,8 @@
     "rating": {
       "mine": 5
     },
-    "work_iri": "https://www.wikidata.org/wiki/Q117480516"
+    "work_iri": "https://www.wikidata.org/wiki/Q117480516",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731077"
   },
   {
     "title": "The Data-centric Revolution",
@@ -353,7 +354,8 @@
     "rating": {
       "mine": 4
     },
-    "work_iri": "https://www.wikidata.org/wiki/Q117480397"
+    "work_iri": "https://www.wikidata.org/wiki/Q117480397",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731242"
   },
   {
     "title": "A Memory Called Empire",
@@ -365,7 +367,8 @@
     "rating": {
       "mine": 4
     },
-    "work_iri": "http://www.wikidata.org/entity/Q82566838"
+    "work_iri": "http://www.wikidata.org/entity/Q82566838",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122730942"
   },
   {
     "title": "Moon Witch, Spider King",
