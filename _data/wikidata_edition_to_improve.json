@@ -1,89 +1,11 @@
 [
   {
-    "Q121880100": {
+    "Q122732065": {
       "labels": {
-        "en": "Empireland"
+        "en": "Feng Shui Modern (eBook)"
       },
       "Missing Mandatory": [
-        "P577",
-        "P123",
-        "P407",
-        "P2047"
-      ]
-    }
-  },
-  {
-    "Q120728926": {
-      "labels": {
-        "en": "Radical Help"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P123",
-        "P407",
-        "P2047"
-      ]
-    }
-  },
-  {
-    "Q120410559": {
-      "labels": {
-        "en": "Tehanu"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P123",
-        "P407",
-        "P2047"
-      ]
-    }
-  },
-  {
-    "Q120235440": {
-      "labels": {
-        "en": "How to Be Animal"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P123",
-        "P407",
-        "P2438",
-        "P2047"
-      ]
-    }
-  },
-  {
-    "Q119976712": {
-      "labels": {
-        "en": "Everyday Utopia"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P123",
-        "P407"
-      ]
-    }
-  },
-  {
-    "Q119293018": {
-      "labels": {
-        "en": "The Farthest Shore"
-      },
-      "Missing Mandatory": [
-        "P629",
-        "P123",
-        "P407",
-        "P2047"
-      ]
-    }
-  },
-  {
-    "Q119057234": {
-      "labels": {
-        "en": "The Tombs of Atuan"
-      },
-      "Missing Mandatory": [
-        "P2047"
+        "P1680"
       ]
     }
   },
@@ -97,16 +19,6 @@
         "P1680",
         "P291",
         "P407"
-      ]
-    }
-  },
-  {
-    "Q114051262": {
-      "labels": {
-        "en": "Tweet of the Day"
-      },
-      "Missing Mandatory": [
-        "P629"
       ]
     }
   }

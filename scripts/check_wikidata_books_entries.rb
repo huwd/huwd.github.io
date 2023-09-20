@@ -66,19 +66,32 @@ class CheckWikidataBookEntries
       print "\r"
       print "Validating #{i+1}/#{items.count}"
       instance_of = item["statements"]["P31"].map { |s| s["value"]["content"] }.first
-      unless [].include?(item["id"])
+      unless [].include?(item["id"]) || instance_of == "Q106833"
         binding.pry if !validation_data.keys.include?(instance_of)
       end
       schema = validation_data[instance_of]
       if schema.nil?
         {}
       else
-        {
-          item["id"] => {
-            "labels" => { **item["labels"] },
-            "Missing Mandatory" => schema["Mandatory"].keys - item["statements"].keys,
+        if instance_of == "Q106833"
+          {
+            item["id"] => {
+              "Missing Mandatory" => {
+                "change instance_of" => {
+                  "is_currently" => "Q106833",
+                  "should_be" => "Q122731938"
+                }
+              }
+            }
           }
-        }
+        else
+          {
+            item["id"] => {
+              "labels" => { **item["labels"] },
+              "Missing Mandatory" => schema["Mandatory"].keys - item["statements"].keys,
+            }
+          }
+        end
       end
     end
   end
@@ -290,7 +303,7 @@ class CheckWikidataBookEntries
           "P941" => "inspired by"
         }
       },
-      "Q106833" => {
+      "Q122731938" => {
         "Mandatory" => {
           "P31" => "instance of",
           "P629" => "edition or translation of",
@@ -358,6 +371,42 @@ class CheckWikidataBookEntries
           "P110" => "illustrator",
           "P872" => "printed by",
         }
+      },
+      "Q1224889" => {
+        "Mandatory" => {
+          "P31" => "instance of",
+          "P629" => "edition or translation of",
+          "P1476" => "title",
+          "P1680" => "subtitle",
+          "P291" => "place of publication",
+          "P577" => "publication date",
+          "P123" => "publisher",
+          "P407" => "language of work or name"
+        },
+        "Mandatory if applicable" => {
+          "P2679" => {
+            "label" => "author of foreword",
+            "condition" => "if present"
+          },
+          "P2680" => {
+            "label" => "author of afterword",
+            "condition" => "if present"
+          },
+          "P98" => {
+            "label" => "editor",
+            "condition" => "if present"
+          },
+        },
+        "Mandatory if different from work" => {
+          "P50" => "author",
+          "P1476" => "title",
+          "P1680" => "subtitle",
+        },
+        "Optional" => {
+          "P655" => "translator",
+          "P110" => "illustrator",
+          "P872" => "printed by",
+        }
       }
     }
   end
@@ -370,6 +419,6 @@ todo_works = output_works.nil? ? {} : output_works.reject { |work| work == {} }.
 
 output_editions = entry_checker.validate_edition
 print "\n"
-todo_editions = output_editions.nil? ? {} : output_editions.reject { |ed| ed == {} }.select { |ed| ed.values.first["Missing Mandatory"] != [] }
+todo_editions = output_editions.nil? ? {} : output_editions.reject { |ed| ed == {} }.compact.select { |ed| ed.values.first["Missing Mandatory"] != [] }
 File.open('_data/wikidata_works_to_improve.json', 'w') { |file| file.write(JSON.pretty_generate(todo_works)) }
 File.open('_data/wikidata_edition_to_improve.json', 'w') { |file| file.write(JSON.pretty_generate(todo_editions)) }
