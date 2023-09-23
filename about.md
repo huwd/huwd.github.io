@@ -11,7 +11,7 @@ I work for the [Government Digital Service][1], as a [Lead Developer][5] for [GO
 
 I work in the open on [Github][2].
 
-I'm quietly on [Twitter][3].
+I'm silently on [Twitter][3] or X or whatever.
 
 I occasionally read my email at [mail@huwdiprose.co.uk][4]
 
