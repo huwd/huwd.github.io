@@ -1,25 +1,3 @@
 [
-  {
-    "Q122732065": {
-      "labels": {
-        "en": "Feng Shui Modern (eBook)"
-      },
-      "Missing Mandatory": [
-        "P1680"
-      ]
-    }
-  },
-  {
-    "Q117565798": {
-      "labels": {
-        "en": "Fracture: The collision between technology and democracy and how we fix it (Paperback)"
-      },
-      "Missing Mandatory": [
-        "P1476",
-        "P1680",
-        "P291",
-        "P407"
-      ]
-    }
-  }
+
 ]
