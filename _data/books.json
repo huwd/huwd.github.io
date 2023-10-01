@@ -1,12 +1,25 @@
 [
-    {
+  {
+    "title": "Green and Prosperous Land",
+    "authors": [
+      "Dieter Helm"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2023-09-27T00:00:00Z"
+  },
+  {
     "title": "Feral",
     "authors": [
       "George Monbiot"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q48801122",
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2023-09-27T00:00:00Z"
+    "date_started": "2023-09-27T00:00:00Z",
+    "date_finished": "2023-09-29T00:00:00Z",
+    "rating": {
+      "mine": 4
+    }
   },
   {
     "title": "The Lost Rainforests of Britain",
