@@ -1,4 +1,30 @@
 [
+
+  {
+    "title": "Journeys in the Wild",
+    "subtitle": "The Secret Life of a Cameraman",
+    "authors": [
+      "Gavin Thurston",
+      "Sir David Attenborough"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2023-10-06T00:00:00Z"
+  },
+  {
+    "title": "Technofeudalism",
+    "subtitle": "What Killed Capitalism",
+    "authors": [
+      "Yanis Varoufakis"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2023-10-13T00:00:00Z",
+    "date_finished": "2023-10-18T00:01:00Z",
+    "rating": {
+      "mine": 4
+    }
+  },
   {
     "title": "Trees and Woodland in the British landscape",
     "authors": [
