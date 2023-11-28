@@ -1,5 +1,29 @@
 [
   {
+    "title": "Invisible Women",
+    "subtitle": "Exposing data bias in a world designed for men",
+    "authors": [
+      "Caroline Criado Perez"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2023-11-28T00:00:00Z"
+  },
+  {
+    "title": "The Internet Con",
+    "subtitle": "How to seize the means of computation",
+    "authors": [
+      "Cory Doctorow"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2023-11-27T00:00:00Z",
+    "date_finished": "2023-11-28T00:00:00Z",
+    "rating": {
+      "mine": 5
+    }
+  },
+  {
     "title": "Reflections",
     "subtitle": "What wildlife needs and how to provide it",
     "authors": [
@@ -33,7 +57,7 @@
     ],
     "work_iri": "https://www.wikidata.org/wiki/",
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2023-11-03T00:00:00Z"
+    "date_started":"2022-11-02T00:00:00Z"
   },
   {
     "title": "Material World",
