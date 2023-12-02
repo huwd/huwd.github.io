@@ -7,7 +7,11 @@
     ],
     "work_iri": "https://www.wikidata.org/wiki/",
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2023-11-28T00:00:00Z"
+    "date_started": "2023-11-28T00:00:00Z",
+    "date_finished": "2023-12-02T00:00:00Z",
+    "rating": {
+      "mine": 4
+    } 
   },
   {
     "title": "The Internet Con",
@@ -20,7 +24,7 @@
     "date_started": "2023-11-27T00:00:00Z",
     "date_finished": "2023-11-28T00:00:00Z",
     "rating": {
-      "mine": 5
+      "mine": 4
     }
   },
   {
