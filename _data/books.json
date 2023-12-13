@@ -4,9 +4,13 @@
     "authors": [
       "Ian M Banks"
     ],
-    "date_started": "2022-12-05T00:00:00Z",
     "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2022-12-05T00:00:00Z",
+    "date_finished": "2023-12-13T00:00:00Z",
+    "rating": {
+      "mine": 5
+    }
   },
   {
     "title": "These Burning Stars",
@@ -33,7 +37,7 @@
     "date_finished": "2023-12-02T00:00:00Z",
     "rating": {
       "mine": 4
-    } 
+    }
   },
   {
     "title": "The Internet Con",
