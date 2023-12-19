@@ -1,5 +1,101 @@
 [
   {
+    "Q123915755": {
+      "labels": {
+        "en": "Rebirding"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q123915777": {
+      "labels": {
+        "en": "Ultra-Processed People"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P407"
+      ]
+    }
+  },
+  {
+    "Q106771034": {
+      "labels": {
+        "en": "Invisible Women: Exposing Data Bias in a World Designed for Men",
+        "sv": "Osynliga kvinnor: hur brist på data bygger en värld för män",
+        "es": "La mujer invisible: Descubre cómo los datos configuran un mundo hecho por y para los hombres",
+        "uk": "Невидимі жінки: як вижити у світі, де навіть цифри брешуть на користь чоловіків",
+        "fa": "زنان نامرئی: افشای سوگیری داده‌ها در دنیایی طراحی‌شده برای مردان",
+        "zh": "被隱形的女性：從各式數據看女性受到的不公對待，消弭生活、職場、設計、醫療中的各種歧視",
+        "de": "Unsichtbare Frauen: Wie eine von Daten beherrschte Welt die Hälfte der Bevölkerung ignoriert."
+      },
+      "Missing Mandatory": [
+        "P407"
+      ]
+    }
+  },
+  {
+    "Q123916686": {
+      "labels": {
+        "en": "The Internet Con: How to Seize the Means of Computation"
+      },
+      "Missing Mandatory": [
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q123916792": {
+      "labels": {
+        "en": "Reflections: What wildlife needs and how to provide it"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P407",
+        "P747"
+      ]
+    }
+  },
+  {
+    "Q123478630": {
+      "labels": {
+        "en": "How to Blow Up a Pipeline"
+      },
+      "Missing Mandatory": [
+        "P1476",
+        "P577"
+      ]
+    }
+  },
+  {
+    "Q123916842": {
+      "labels": {
+        "en": "Material World: A Substantial Story of Our Past and Future"
+      },
+      "Missing Mandatory": [
+        "P1476",
+        "P577",
+        "P50",
+        "P407"
+      ]
+    }
+  },
+  {
+    "Q123916852": {
+      "labels": {
+        "en": "Journeys in the Wild: The Secret Life of a Cameraman"
+      },
+      "Missing Mandatory": [
+        "P1476",
+        "P577",
+        "P50",
+        "P407"
+      ]
+    }
+  },
+  {
     "Q111954893": {
       "labels": {
         "en": "Moon Witch, Spider King"
@@ -439,7 +535,6 @@
         "zh-cn": "火之洗礼"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ]
     }
@@ -484,51 +579,7 @@
         "uz": "Nafratlanish vaqti"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
-      ]
-    }
-  },
-  {
-    "Q2652386": {
-      "labels": {
-        "pl": "Krew elfów",
-        "ru": "Кровь эльфов",
-        "en": "Blood of Elves",
-        "fi": "Haltiain verta",
-        "uk": "Кров ельфів",
-        "it": "Il sangue degli elfi",
-        "cs": "Krev elfů",
-        "es": "La sangre de los elfos",
-        "pt": "O Sangue dos Elfos",
-        "nl": "Het bloed van elfen",
-        "pt-br": "O Sangue dos Elfos",
-        "ar": "دم الإلف",
-        "tr": "Elflerin Kanı",
-        "hy": "Էլֆերի արյունը",
-        "ja": "ウィッチャーI エルフの血脈",
-        "fr": "Le Sang des elfes",
-        "zh": "獵魔士長篇1：精靈血",
-        "sr": "Крв вилењака",
-        "az": "Elflərin qanı",
-        "hu": "Tündevér",
-        "mk": "Виленичка крв",
-        "da": "Elverblod",
-        "de": "Das Erbe der Elfen",
-        "bg": "Кръвта на елфите",
-        "el": "Το Αίμα των Ξωτικών",
-        "et": "Haldjate veri",
-        "lt": "Elfų Kraujas",
-        "sk": "Krv elfov",
-        "sv": "Alvblod",
-        "ro": "Sângele elfilor",
-        "he": "דם האלפים",
-        "be": "Кроў эльфаў",
-        "uz": "Elflar qoni",
-        "ca": "Krew elfów"
-      },
-      "Missing Mandatory": [
-        "P577"
       ]
     }
   },
@@ -763,7 +814,8 @@
         "sv": "Inversions",
         "fi": "Inversions",
         "ga": "Inversions",
-        "ru": "Inversions"
+        "ru": "Inversions",
+        "it": "Inversioni"
       },
       "Missing Mandatory": [
         "P577"
@@ -807,7 +859,8 @@
         "fi": "Puolipäivän riitit",
         "en": "Adulthood Rites",
         "ko": "성인식",
-        "ga": "Adulthood Rites"
+        "ga": "Adulthood Rites",
+        "tr": "Erginlenme Ritüelleri"
       },
       "Missing Mandatory": [
         "P577",
@@ -823,31 +876,6 @@
       "Missing Mandatory": [
         "P577",
         "P747"
-      ]
-    }
-  },
-  {
-    "Q106852836": {
-      "labels": {
-        "en": "Project Hail Mary",
-        "en-ca": "Project Hail Mary",
-        "en-gb": "Project Hail Mary",
-        "nl": "Project Hail Mary",
-        "de": "Der Astronaut",
-        "fr": "Projet Dernière Chance",
-        "he": "פרויקט הייל מרי",
-        "ru": "Проект «Аве Мария»",
-        "zh": "挽救计划",
-        "sr": "Project Hail Mary",
-        "fi": "Project Hail Mary",
-        "pt": "Project Hail Mary",
-        "ga": "Project Hail Mary",
-        "pl": "Projekt Hail Mary",
-        "ja": "プロジェクト・ヘイル・メアリー",
-        "es": "Proyecto Hail Mary"
-      },
-      "Missing Mandatory": [
-        "P577"
       ]
     }
   },
@@ -907,7 +935,8 @@
         "it": "Ultima genesi",
         "de": "Dämmerung",
         "ga": "Dawn",
-        "fr": "L'Aube"
+        "fr": "L'Aube",
+        "tr": "Şafak"
       },
       "Missing Mandatory": [
         "P747"
@@ -1015,11 +1044,11 @@
         "en": "This Is Going to Hurt",
         "pl": "Będzie bolało",
         "fa": "این درد داره",
-        "ga": "This Is Going to Hurt"
+        "ga": "This Is Going to Hurt",
+        "ar": "هذا الكتاب سيؤلمك"
       },
       "Missing Mandatory": [
-        "P577",
-        "P747"
+        "P577"
       ]
     }
   },
@@ -1108,7 +1137,8 @@
         "ca": "The Age of Surveillance Capitalism",
         "ja": "監視資本主義の時代",
         "nb": "The Age of Surveillance Capitalism",
-        "ga": "The Age of Surveillance Capitalism"
+        "ga": "The Age of Surveillance Capitalism",
+        "da": "Overvågningskapitalismens tidsalder"
       },
       "Missing Mandatory": [
         "P577",
@@ -1144,7 +1174,6 @@
         "fa": "گامبی وزیر (رمان)"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ]
     }
@@ -1386,36 +1415,6 @@
         "ko": "우리는 도시가 된다",
         "ga": "The City We Became",
         "pl": "Miasto, którym się staliśmy"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q2447776": {
-      "labels": {
-        "pl": "Słowo \"las\" znaczy \"świat\"",
-        "ru": "Слово для леса и мира одно",
-        "fr": "Le nom du monde est forêt",
-        "en": "The Word for World Is Forest",
-        "es": "El nombre del mundo es Bosque",
-        "ro": "Lumii îi spuneau pădure",
-        "it": "Il mondo della foresta",
-        "sv": "Där världen kallas skog",
-        "de": "Das Wort für Welt ist Wald",
-        "eu": "The Word for World Is Forest",
-        "nl": "The Word for World Is Forest",
-        "uk": "Слово для світу — ліс",
-        "af": "The Word for World Is Forest",
-        "ko": "세상을 가리키는 말은 숲",
-        "eo": "La Nomo de Mondo estas Arbaro",
-        "ca": "The Word for World Is Forest",
-        "ja": "世界の合言葉は森",
-        "zh": "世界的詞語是森林",
-        "ast": "The Word for World Is Forest",
-        "ga": "The Word for World Is Forest",
-        "sl": "Beseda za svet je gozd"
       },
       "Missing Mandatory": [
         "P577"
