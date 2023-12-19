@@ -5,18 +5,18 @@
     "authors": [
       "Benedict Macdonald"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123915755",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123915767",
     "date_started": "2022-12-19T00:00:00Z"
   },
   {
     "title": "Ultra-Processed People",
-    "subtitle": "Why Do We All Eat Stuff That Isn`t Food … and Why Can`t We Stop?",
+    "subtitle": "Why Do We All Eat Stuff That Isn`t Food… and Why Can`t We Stop?",
     "authors": [
       "Chris van Tulleken"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123915777",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123915783",
     "date_started": "2022-12-15T00:00:00Z",
     "date_finished": "2023-12-17T00:00:00Z",
     "rating": {
@@ -28,8 +28,8 @@
     "authors": [
       "Ian M Banks"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q7741197",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123915790",
     "date_started": "2022-12-05T00:00:00Z",
     "date_finished": "2023-12-13T00:00:00Z",
     "rating": {
@@ -41,8 +41,8 @@
     "authors": [
       "Bethany Jacobs"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123916482",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916512",
     "date_started": "2023-12-05T00:00:00Z",
     "date_finished": "2023-12-02T00:00:00Z",
     "rating": {
@@ -55,8 +55,8 @@
     "authors": [
       "Caroline Criado Perez"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q106771034",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916557",
     "date_started": "2023-11-28T00:00:00Z",
     "date_finished": "2023-12-02T00:00:00Z",
     "rating": {
@@ -69,8 +69,8 @@
     "authors": [
       "Cory Doctorow"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123916686",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916686",
     "date_started": "2023-11-27T00:00:00Z",
     "date_finished": "2023-11-28T00:00:00Z",
     "rating": {
@@ -83,8 +83,8 @@
     "authors": [
       "Dr. Mark Avery"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123916792",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916806",
     "date_started": "2023-10-31T00:00:00Z",
     "date_finished": "2023-11-03T00:00:00Z",
     "rating": {
@@ -96,8 +96,8 @@
     "authors": [
       "Andreas Malm"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123478630",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916813",
     "date_started": "2023-10-30T00:00:00Z",
     "date_finished": "2023-10-31T00:00:00Z",
     "rating": {
@@ -109,8 +109,8 @@
     "authors": [
       "E. P. Thompson"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q913804",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916822",
     "date_started":"2022-11-02T00:00:00Z"
   },
   {
@@ -118,8 +118,8 @@
     "authors": [
       "Ed Conway"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123916842",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916845",
     "date_started": "2023-10-24T00:00:00Z",
     "date_finished": "2023-10-30T00:00:00Z",
     "rating": {
@@ -133,8 +133,8 @@
       "Gavin Thurston",
       "Sir David Attenborough"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123916852",
+    "edition_iri": "https://www.wikidata.org/Q123916853",
     "date_started": "2023-10-19T00:00:00Z",
     "date_finished": "2023-10-24T00:00:00Z",
     "rating": {
