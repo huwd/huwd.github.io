@@ -1,5 +1,35 @@
 [
   {
+    "title": "Wilding",
+    "subtitle": "The return of nature to a British far",
+    "authors":
+      [
+        "Isabella Tree"
+      ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2022-12-02T00:00:00Z",
+    "date_finished": "2023-12-09T00:00:00Z",
+    "rating": {
+      "mine": 4
+    }
+  },
+  {
+    "title": "Back to nature",
+    "subtitle": "How to love life - and save it",
+    "authors": [
+      "Chris Packham",
+      "Megan McCubbin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2022-12-27T00:00:00Z",
+    "date_finished": "2023-12-02T00:00:00Z",
+    "rating": {
+      "mine": 2
+    }
+  },
+  {
     "title": "Rebirding",
     "subtitle": "Rewilding Britian and it's Birds",
     "authors": [
