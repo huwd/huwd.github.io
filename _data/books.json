@@ -1,5 +1,21 @@
 [
   {
+    "title": "Not the end of the world",
+    "authors": [
+      "Hannah Richie"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "Cinema Speculation",
+    "authors": [
+      "Quentin Tarintio"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
     "title": "Wilding",
     "subtitle": "The return of nature to a British far",
     "authors":

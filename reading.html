@@ -8,7 +8,7 @@ reverse %}
 {% assign finished_books_by_year = finished_books | group_by_exp:"book", "book.date_finished | date: '%Y'" %}
 {% for year in finished_books_by_year %}
 
-<h2>{{ year.name }}</h2>
+<h2 id="{{year.name}}">{{ year.name }}</h2>
 <ul>
   {% for book in year.items %}
   <li>
