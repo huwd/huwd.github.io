@@ -1,5 +1,61 @@
 [
   {
+    "Q124274349": {
+      "labels": {
+        "en": "Not the End of the World (Audiobook)"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P123",
+        "P407",
+        "P2438",
+        "P2047"
+      ]
+    }
+  },
+  {
+    "Q124273861": {
+      "labels": {
+        "en": "Cinema Speculation (Audiobook)"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P123",
+        "P407",
+        "P2438",
+        "P2047"
+      ]
+    }
+  },
+  {
+    "Q124273194": {
+      "labels": {
+        "en": "Wilding"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P123",
+        "P407",
+        "P2438",
+        "P2047"
+      ]
+    }
+  },
+  {
+    "Q124273716": {
+      "labels": {
+        "en": "Back to nature (Audiobook)"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P123",
+        "P407",
+        "P2438",
+        "P2047"
+      ]
+    }
+  },
+  {
     "Q123915767": {
       "labels": {
         "en": "Rebirding"
@@ -70,22 +126,11 @@
     }
   },
   {
-    "Q123916686": {
-      "labels": {
-        "en": "The Internet Con: How to Seize the Means of Computation"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
     "Q123916806": {
       "labels": {
         "en": "Reflections: What wildlife needs and how to provide it (Audiobook)"
       },
       "Missing Mandatory": [
-        "P629",
         "P577",
         "P123",
         "P407",

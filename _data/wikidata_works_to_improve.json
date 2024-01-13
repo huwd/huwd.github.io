@@ -1,107 +1,10 @@
 [
   {
-    "Q123915755": {
-      "labels": {
-        "en": "Rebirding"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q123915777": {
-      "labels": {
-        "en": "Ultra-Processed People"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P407"
-      ]
-    }
-  },
-  {
-    "Q106771034": {
-      "labels": {
-        "en": "Invisible Women: Exposing Data Bias in a World Designed for Men",
-        "sv": "Osynliga kvinnor: hur brist på data bygger en värld för män",
-        "es": "La mujer invisible: Descubre cómo los datos configuran un mundo hecho por y para los hombres",
-        "uk": "Невидимі жінки: як вижити у світі, де навіть цифри брешуть на користь чоловіків",
-        "fa": "زنان نامرئی: افشای سوگیری داده‌ها در دنیایی طراحی‌شده برای مردان",
-        "zh": "被隱形的女性：從各式數據看女性受到的不公對待，消弭生活、職場、設計、醫療中的各種歧視",
-        "de": "Unsichtbare Frauen: Wie eine von Daten beherrschte Welt die Hälfte der Bevölkerung ignoriert."
-      },
-      "Missing Mandatory": [
-        "P407"
-      ]
-    }
-  },
-  {
-    "Q123916686": {
-      "labels": {
-        "en": "The Internet Con: How to Seize the Means of Computation"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q123916792": {
-      "labels": {
-        "en": "Reflections: What wildlife needs and how to provide it"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P407",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q123478630": {
-      "labels": {
-        "en": "How to Blow Up a Pipeline"
-      },
-      "Missing Mandatory": [
-        "P1476",
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q123916842": {
-      "labels": {
-        "en": "Material World: A Substantial Story of Our Past and Future"
-      },
-      "Missing Mandatory": [
-        "P1476",
-        "P577",
-        "P50",
-        "P407"
-      ]
-    }
-  },
-  {
-    "Q123916852": {
-      "labels": {
-        "en": "Journeys in the Wild: The Secret Life of a Cameraman"
-      },
-      "Missing Mandatory": [
-        "P1476",
-        "P577",
-        "P50",
-        "P407"
-      ]
-    }
-  },
-  {
     "Q111954893": {
       "labels": {
         "en": "Moon Witch, Spider King"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ]
     }
@@ -709,7 +612,6 @@
         "ga": "Never Let Me Go"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ]
     }
@@ -1141,8 +1043,7 @@
         "da": "Overvågningskapitalismens tidsalder"
       },
       "Missing Mandatory": [
-        "P577",
-        "P747"
+        "P577"
       ]
     }
   },
@@ -1414,7 +1315,8 @@
         "fr": "Genèse de la cité",
         "ko": "우리는 도시가 된다",
         "ga": "The City We Became",
-        "pl": "Miasto, którym się staliśmy"
+        "pl": "Miasto, którym się staliśmy",
+        "de": "Die Wächterinnen von New York"
       },
       "Missing Mandatory": [
         "P577"
