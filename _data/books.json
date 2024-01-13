@@ -4,16 +4,17 @@
     "authors": [
       "Hannah Richie"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
+    "work_iri": "https://www.wikidata.org/wiki/Q124274261",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124274349"
   },
   {
     "title": "Cinema Speculation",
     "authors": [
       "Quentin Tarintio"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
+    "work_iri": "https://www.wikidata.org/wiki/Q114948604",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124273861",
+    "date_started": "2024-01-09T00:00:00Z"
   },
   {
     "title": "Wilding",
@@ -22,8 +23,8 @@
       [
         "Isabella Tree"
       ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q124272968",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124273194",
     "date_started": "2024-01-02T00:00:00Z",
     "date_finished": "2024-01-09T00:00:00Z",
     "rating": {
@@ -37,8 +38,8 @@
       "Chris Packham",
       "Megan McCubbin"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q124273504",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124273716",
     "date_started": "2022-12-27T00:00:00Z",
     "date_finished": "2024-12-02T00:00:00Z",
     "rating": {
