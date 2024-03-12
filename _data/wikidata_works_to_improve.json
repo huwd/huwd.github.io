@@ -176,7 +176,8 @@
         "en": "An Absolutely Remarkable Thing",
         "sv": "An Absolutely Remarkable Thing",
         "ga": "An Absolutely Remarkable Thing",
-        "uk": "Ну просто нереальна штука!"
+        "uk": "Ну просто нереальна штука!",
+        "sl": "An Absolutely Remarkable Thing"
       },
       "Missing Mandatory": [
         "P577",
@@ -239,7 +240,8 @@
         "he": "עונת הסופות",
         "uz": "Boʻronlar fasli",
         "ca": "Sezon burz",
-        "ro": "Anotimpul furtunilor"
+        "ro": "Anotimpul furtunilor",
+        "ast": "Sezon burz"
       },
       "Missing Mandatory": [
         "P577"
@@ -282,7 +284,8 @@
         "ga": "Klara and the Sun",
         "ka": "კლარა და მზე",
         "id": "Klara dan Sang Matahari",
-        "he": "קלרה והשמש"
+        "he": "קלרה והשמש",
+        "sk": "Klára a Slnko"
       },
       "Missing Mandatory": [
         "P577",
@@ -350,7 +353,8 @@
         "he": "גבירת האגם",
         "uz": "Koʻl xonim (roman)",
         "ca": "Pani Jeziora",
-        "ro": "Domnița lacului"
+        "ro": "Domnița lacului",
+        "ast": "Pani Jeziora"
       },
       "Missing Mandatory": [
         "P577"
@@ -392,7 +396,8 @@
         "he": "מגדל הסנונית",
         "nb": "The Tower of the Swallow",
         "uz": "Qaldirgʻoch minorasi",
-        "ro": "Turnul rândunicii"
+        "ro": "Turnul rândunicii",
+        "ast": "Wieża Jaskółki"
       },
       "Missing Mandatory": [
         "P577",
@@ -435,7 +440,8 @@
         "uz": "Olovga choʻmdirish (roman)",
         "ca": "Chrzest ognia",
         "ro": "Botezul focului",
-        "zh-cn": "火之洗礼"
+        "zh-cn": "火之洗礼",
+        "ast": "Chrzest ognia"
       },
       "Missing Mandatory": [
         "P747"
@@ -479,7 +485,8 @@
         "ro": "Vremea disprețului",
         "he": "זמן הזילות",
         "nb": "Time of Contempt",
-        "uz": "Nafratlanish vaqti"
+        "uz": "Nafratlanish vaqti",
+        "ast": "Czas pogardy"
       },
       "Missing Mandatory": [
         "P747"
@@ -931,7 +938,7 @@
         "ro": "Jucătorul total",
         "sv": "The Player of Games",
         "fi": "The Player of Games",
-        "ar": "لاعب الالعاب",
+        "ar": "لاعب الألعاب",
         "ko": "게임의 명수",
         "ga": "The Player of Games"
       },
@@ -1021,7 +1028,8 @@
         "et": "Pool kollast Päikest",
         "pl": "Połówka żółtego słońca",
         "ig": "Half a Yellow Sun",
-        "ga": "Half a yellow sun"
+        "ga": "Half a yellow sun",
+        "ha": "Half of a Yellow Sun"
       },
       "Missing Mandatory": [
         "P577"
@@ -1183,7 +1191,8 @@
         "ru": "Атомные привычки",
         "en": "Atomic Habits",
         "uk": "Атомні Звички",
-        "id": "Atomic Habits"
+        "id": "Atomic Habits",
+        "sl": "Atomske navade"
       },
       "Missing Mandatory": [
         "P577",
@@ -1523,7 +1532,8 @@
         "fr": "Educated",
         "ru": "Ученица",
         "da": "Oplyst",
-        "id": "Terdidik"
+        "id": "Terdidik",
+        "zh": "你当像鸟飞往你的山"
       },
       "Missing Mandatory": [
         "P747"

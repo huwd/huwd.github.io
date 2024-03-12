@@ -1,5 +1,33 @@
 [
   {
+    "Q124822964": {
+      "labels": {
+        "en": "Children of Ash and Elm"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P123",
+        "P407",
+        "P2438",
+        "P2047"
+      ]
+    }
+  },
+  {
+    "Q124823022": {
+      "labels": {
+        "en": "The Old Ways"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P123",
+        "P407",
+        "P2438",
+        "P2047"
+      ]
+    }
+  },
+  {
     "Q124274349": {
       "labels": {
         "en": "Not the End of the World (Audiobook)"
@@ -142,7 +170,8 @@
   {
     "Q123916813": {
       "labels": {
-        "en": "How to Blow Up a Pipeline"
+        "en": "How to Blow Up a Pipeline",
+        "ca": "How to Blow Up a Pipeline"
       },
       "Missing Mandatory": [
         "P577",
