@@ -1,12 +1,12 @@
 [
   {
-    "title": "The children of Ash and Elm",
+    "title": "Children of Ash and Elm",
     "subtitle": "A history of the Vikings",
     "authors": [
       "Neil Price"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q124822936",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124822964",
     "date_started": "2024-03-09T00:00:00Z"
   },
   {
@@ -15,8 +15,8 @@
     "authors": [
       "Robert Macfarlane"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q104570068",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124823022",
     "date_started": "2024-02-25T00:00:00Z",
     "date_finished": "2024-03-05T00:00:00Z",
     "rating": {
