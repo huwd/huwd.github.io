@@ -20,21 +20,7 @@
     "date_started": "2024-02-25T00:00:00Z",
     "date_finished": "2024-03-05T00:00:00Z",
     "rating": {
-      "mine": 4
-    }
-  },
-  {
-    "title": "The old ways",
-    "subtitle": "A journey on foot",
-    "authors": [
-      "Robert Macfarlane"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2024-02-25T00:00:00Z",
-    "date_finished": "2024-03-05T00:00:00Z",
-    "rating": {
-      "mine": 4
+      "mine": 5
     }
   },
   {
