@@ -1,12 +1,54 @@
 [
   {
+    "title": "The children of Ash and Elm",
+    "subtitle": "A history of the Vikings",
+    "authors": [
+      "Neil Price"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-03-09T00:00:00Z"
+  },
+  {
+    "title": "The old ways",
+    "subtitle": "A journey on foot",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-02-25T00:00:00Z",
+    "date_finished": "2024-03-05T00:00:00Z",
+    "rating": {
+      "mine": 4
+    }
+  },
+  {
+    "title": "The old ways",
+    "subtitle": "A journey on foot",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-02-25T00:00:00Z",
+    "date_finished": "2024-03-05T00:00:00Z",
+    "rating": {
+      "mine": 4
+    }
+  },
+  {
     "title": "Not the end of the world",
     "authors": [
       "Hannah Richie"
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q124274261",
     "edition_iri": "https://www.wikidata.org/wiki/Q124274349",
-    "date_started": "2024-02-10T00:00:00Z"
+    "date_started": "2024-02-10T00:00:00Z",
+    "date_finished": "2024-02-24T00:00:00Z",
+    "rating": {
+      "mine": 4
+    }
   },
   {
     "title": "Cinema Speculation",
