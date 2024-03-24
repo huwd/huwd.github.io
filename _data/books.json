@@ -1,4 +1,37 @@
 [
+    {
+    "title": "Underland",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "These Bodies of Water",
+    "authors": [
+      "Sabrina Mahfouz"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "Team Topologies",
+    "subtitle": " Organizing Business and Technology Teams for Fast Flow",
+    "authors": [
+      "Matthew Skelton"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "The Hidden Girl and Other Stories",
+    "authors": [
+      "Ken Liu"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
   {
     "title": "Children of Ash and Elm",
     "subtitle": "A history of the Vikings",
