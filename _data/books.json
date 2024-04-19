@@ -32,7 +32,11 @@
     ],
     "work_iri": "https://www.wikidata.org/wiki/Q913804",
     "edition_iri": "https://www.wikidata.org/wiki/Q123916822",
-    "date_started":"2022-11-02T00:00:00Z"
+    "date_started":"2023-11-02T00:00:00Z",
+    "date_finished": "2024-04-19T00:00:00Z",
+    "rating": {
+      "mine": 4
+    }
   },
   {
     "title": "These Bodies of Water",
