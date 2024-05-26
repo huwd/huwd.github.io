@@ -1,5 +1,19 @@
 [
   {
+    "Q123916822": {
+      "labels": {
+        "en": "The Making of the English Working Class (Audiobook)"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P123",
+        "P407",
+        "P2438",
+        "P2047"
+      ]
+    }
+  },
+  {
     "Q124822964": {
       "labels": {
         "en": "Children of Ash and Elm"
@@ -172,20 +186,6 @@
       "labels": {
         "en": "How to Blow Up a Pipeline",
         "ca": "How to Blow Up a Pipeline"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P123",
-        "P407",
-        "P2438",
-        "P2047"
-      ]
-    }
-  },
-  {
-    "Q123916822": {
-      "labels": {
-        "en": "The Making of the English Working Class (Audiobook)"
       },
       "Missing Mandatory": [
         "P577",

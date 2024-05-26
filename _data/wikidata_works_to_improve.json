@@ -288,8 +288,7 @@
         "sk": "Klára a Slnko"
       },
       "Missing Mandatory": [
-        "P577",
-        "P747"
+        "P577"
       ]
     }
   },
@@ -510,7 +509,8 @@
         "en": "Entangled Life",
         "es": "La red oculta de la vida",
         "de": "Verwobenes Leben",
-        "et": "Läbipõimunud elu"
+        "et": "Läbipõimunud elu",
+        "zh": "纠缠的生命"
       },
       "Missing Mandatory": [
         "P577"
@@ -1029,26 +1029,8 @@
         "pl": "Połówka żółtego słońca",
         "ig": "Half a Yellow Sun",
         "ga": "Half a yellow sun",
-        "ha": "Half of a Yellow Sun"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q75804726": {
-      "labels": {
-        "en": "The Age of Surveillance Capitalism",
-        "de": "Das Zeitalter des Überwachungskapitalismus",
-        "fr": "L’Âge du capitalisme de surveillance",
-        "it": "Il capitalismo della sorveglianza",
-        "pl": "Wiek kapitalizmu inwigilacji",
-        "ca": "The Age of Surveillance Capitalism",
-        "ja": "監視資本主義の時代",
-        "nb": "The Age of Surveillance Capitalism",
-        "ga": "The Age of Surveillance Capitalism",
-        "da": "Overvågningskapitalismens tidsalder"
+        "ha": "Half of a Yellow Sun",
+        "ar": "نصف شمس صفراء"
       },
       "Missing Mandatory": [
         "P577"
@@ -1195,8 +1177,7 @@
         "sl": "Atomske navade"
       },
       "Missing Mandatory": [
-        "P577",
-        "P747"
+        "P577"
       ]
     }
   },
@@ -1533,7 +1514,8 @@
         "ru": "Ученица",
         "da": "Oplyst",
         "id": "Terdidik",
-        "zh": "你当像鸟飞往你的山"
+        "zh": "你当像鸟飞往你的山",
+        "ar": "المتعلمة"
       },
       "Missing Mandatory": [
         "P747"
