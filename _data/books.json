@@ -1,5 +1,47 @@
 [
   {
+    "title": "The Book of Wilding",
+    "authors": [
+      "Isabella Tree"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "American Prometheus",
+    "subtitle": "The Triumph and Tragedy of J. Robert Oppenheimer",
+    "authors": [
+      "Kai Bird"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "Imaginary Friend",
+    "authors": [
+      "Stephen Chbosky"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "Babel",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "An Elegant Puzzle",
+    "subtitle": "Systems of Engineering Management",
+    "authors": [
+      "Will Larson"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
     "title": "We Are Bellingcat",
     "subtitle": "An Intelligence Agency for the People",
     "authors": [
