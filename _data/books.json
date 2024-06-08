@@ -41,6 +41,38 @@
     "work_iri": "https://www.wikidata.org/wiki/",
     "edition_iri": "https://www.wikidata.org/wiki/"
   },
+   {
+    "title": "Ancestors",
+    "subtitle": "The Prehistory of Britain in Seven Burials",
+    "authors": [
+      "Alice Roberts"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-06-07T00:00:00Z"
+  },
+  {
+    "title": "The Looking Glass War",
+    "authors": [
+      "John le Carré"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-06-07T00:00:00Z"
+  },
+  {
+    "title": "The Silence of the Girls",
+    "authors": [
+      "Pat Barker"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-06-06T00:00:00Z",
+    "date_finished": "2024-06-07T00:00:00Z",
+    "rating": {
+      "mine": 5
+    }
+  },
   {
     "title": "We Are Bellingcat",
     "subtitle": "An Intelligence Agency for the People",
