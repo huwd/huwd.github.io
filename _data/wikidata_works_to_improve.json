@@ -637,8 +637,7 @@
         "ast": "The Mirror and the Light"
       },
       "Missing Mandatory": [
-        "P577",
-        "P747"
+        "P577"
       ]
     }
   },
@@ -723,7 +722,7 @@
         "sv": "Inversions",
         "fi": "Inversions",
         "ga": "Inversions",
-        "ru": "Inversions",
+        "ru": "Инверсии",
         "it": "Inversioni"
       },
       "Missing Mandatory": [
@@ -1038,38 +1037,6 @@
     }
   },
   {
-    "Q1115619": {
-      "labels": {
-        "it": "La regina degli scacchi",
-        "en": "The Queen's Gambit",
-        "es": "Gambito de dama",
-        "nl": "The Queen's Gambit",
-        "ru": "Ход королевы",
-        "hu": "A vezércsel",
-        "ca": "The Queen's Gambit",
-        "fr": "Le Jeu de la dame",
-        "sv": "The Queen's Gambit",
-        "fi": "Musta kuningatar",
-        "de": "The Queen's Gambit",
-        "uk": "Ферзевий гамбіт",
-        "da": "The Queen's Gambit (roman)",
-        "ar": "مناورة الملكة",
-        "tr": "Vezir Gambiti",
-        "zh": "后翼棄兵",
-        "hy": "Թագուհու գամբիտը (վեպ)",
-        "ja": "クイーンズ・ギャンビット",
-        "pl": "Gambit królowej",
-        "ko": "퀸스 갬빗",
-        "he": "גמביט המלכה",
-        "mk": "Дамски гамбит",
-        "fa": "گامبی وزیر (رمان)"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
     "Q104093629": {
       "labels": {
         "en": "October"
@@ -1238,7 +1205,8 @@
         "id": "Nyanyian Achilles",
         "pt": "A Canção de Aquiles",
         "pl": "Pieśń o Achillesie",
-        "ar": "اغنية أخيل"
+        "ar": "اغنية أخيل",
+        "eu": "The Song of Achilles"
       },
       "Missing Mandatory": [
         "P577",
@@ -1325,7 +1293,8 @@
         "pl": "Kraina Lovecrafta (powieść)",
         "ko": "러브크래프트 컨트리",
         "yue": "洛夫卡拉夫特之國",
-        "ga": "Lovecraft Country"
+        "ga": "Lovecraft Country",
+        "hy": "Լավքրաֆթի երկիր"
       },
       "Missing Mandatory": [
         "P747"
@@ -1449,56 +1418,6 @@
     "Q96075523": {
       "labels": {
         "en": "The Good Immigrant"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q2032398": {
-      "labels": {
-        "fa": "اوریکس و کریک",
-        "fr": "Le Dernier Homme",
-        "en": "Oryx and Crake",
-        "fi": "Oryx ja Crake",
-        "ca": "Oryx i Crake",
-        "de": "Oryx und Crake",
-        "sv": "Oryx och Crake",
-        "es": "Oryx y Crake",
-        "it": "L'ultimo degli uomini",
-        "he": "בז וניאלה",
-        "uk": "Орикс і Деркач",
-        "cs": "Přežívá nejsmutnější",
-        "af": "Oryx and Crake",
-        "nl": "Oryx and Crake",
-        "zh": "末世男女",
-        "da": "Oryx og Crake",
-        "ja": "オリクスとクレイク",
-        "gl": "Oryx e Crake",
-        "ar": "أوريكس وكريك",
-        "ka": "ორიქსი და კრეიკი",
-        "ko": "오릭스와 크레이크",
-        "sr": "Антилопа и косац",
-        "el": "Όρυξ και Ραλλίδα",
-        "hu": "Guvat ​és Gazella",
-        "ga": "Oryx and Crake",
-        "ru": "Орикс и Коростель",
-        "pl": "Oryks i Derkacz"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q39050412": {
-      "labels": {
-        "en": "Why I’m No Longer Talking to White People About Race",
-        "ar": "لماذا لم أعد أتحدث للبيض عن العرق",
-        "id": "Why I'm No Longer Talking to White People About Race",
-        "ga": "Why I’m No Longer Talking to White People About Race",
-        "zh": "為甚麼我不再跟白人談論種族問題"
       },
       "Missing Mandatory": [
         "P747"
