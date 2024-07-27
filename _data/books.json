@@ -45,11 +45,13 @@
   },
   {
     "title": "Babel",
+    "subtitle": "Or the Necessity of Violence: An Arcane history of the Oxford Translators' Revolution",
     "authors": [
       "R. F. Kuang"
     ],
     "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-07-22T00:00:00Z"
   },
   {
     "title": "An Elegant Puzzle",
