@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Age of Revolution",
+    "subtitle": "Europe, 1789-1848 ",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-02T00:00:00Z"
+  },
+  {
     "title": "Natives",
     "subtitle": "Race and Class in the Ruins of Empire",
     "authors": [
@@ -29,7 +39,8 @@
       "Isabella Tree"
     ],
     "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-02T00:00:00Z"
   },
   {
     "title": "American Prometheus",
