@@ -1,5 +1,15 @@
 [
   {
+    "title": "Natives",
+    "subtitle": "Race and Class in the Ruins of Empire",
+    "authors": [
+      "Akala"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-02T00:00:00Z"
+  },
+  {
     "title": "Failed State",
     "subtitle": "Why Nothing Works and How We Fix It",
     "authors": [
@@ -51,7 +61,11 @@
     ],
     "work_iri": "https://www.wikidata.org/wiki/",
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2024-07-22T00:00:00Z"
+    "date_started": "2024-07-22T00:00:00Z",
+    "date_finished": "2024-08-02T00:00:00Z",
+    "rating": {
+      "mine": 5
+    }
   },
   {
     "title": "An Elegant Puzzle",
