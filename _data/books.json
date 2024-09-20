@@ -1,5 +1,15 @@
 [
   {
+    "title": "What Does Jeremy Think?",
+    "subtitle": "Jeremy Heywood and the Making of Modern Britian",
+    "authors": [
+      "Suzanne Heywood"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-09-19T00:00:00Z"
+  },
+  {
     "title": "Platformland",
     "authors": [
       "Ricahrd Pope"
@@ -9,93 +19,6 @@
     "date_started": "2024-09-09T00:00:00Z"
   },
   {
-    "title": "Frieren: Beyond Journey's End: Volume 9",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
-  },
-  {
-    "title": "Frieren: Beyond Journey's End: Volume 8",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
-  },
-  {
-    "title": "Frieren: Beyond Journey's End: Volume 7",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
-  },
-  {
-    "title": "Frieren: Beyond Journey's End: Volume 6",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
-  },
-  {
-    "title": "Frieren: Beyond Journey's End: Volume 5",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
-  },
-  {
-    "title": "Frieren: Beyond Journey's End: Volume 4",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
-  },
-  {
-    "title": "Frieren: Beyond Journey's End: Volume 3",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/"
-  },
-  {
-    "title": "Frieren: Beyond Journey's End: Volume 2",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2024-09-10T00:00:00Z"
-  },
-  {
-    "title": "Frieren: Beyond Journey's End: Volume 1",
-    "authors": [
-      "Tsukasa Abe",
-      "Kanehito Yamada"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/",
-    "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2024-09-09T00:00:00Z",
-    "date_finished": "2024-09-09T00:00:00Z",
-    "rating": {
-      "mine": 4
-    }
-  },
-  {
     "title": "Nature's Ghosts",
     "subtitle": "The world we lost and how to bring it back",
     "authors": [
@@ -103,7 +26,11 @@
     ],
     "work_iri": "https://www.wikidata.org/wiki/",
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2024-08-28T00:00:00Z"
+    "date_started": "2024-08-28T00:00:00Z",
+    "date_finished": "2024-09-18T00:00:00Z",
+    "rating": {
+      "mine": 5
+    }
   },
   {
     "title": "The Unaccountability Machine",
