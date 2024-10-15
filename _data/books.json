@@ -1,5 +1,65 @@
 [
   {
+    "title": "Clean Coder",
+    "subtitle": "A Code of Conduct for Professional Programmer",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  {
+    "title": "Clean Architecture",
+    "subtitle": "A Craftsman's Guide to Software Structure and Design",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-10-15T00:00:00Z"
+  },
+  {
+    "title": "Clean Code",
+    "subtitle": "A Handbook of Agile Software Craftsmanship",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-09-26T00:00:00Z",
+    "date_finished": "2024-10-15T00:00:00Z",
+    "rating": {
+      "mine": 4
+    }
+  },
+  {
+    "title": "Bartleby, the Scrivener",
+    "authors": [
+      "Herman Melville"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-10-13T00:00:00Z",
+    "date_finished": "2024-10-13T00:00:00Z",
+    "rating": {
+      "mine": 3
+    }
+  },
+  {
+    "title": "Lie of the Land",
+    "subtitle": "Who Really Cares for the Countryside?",
+    "authors": [
+      "Guy Shrubsole"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-09-15T00:00:00Z",
+    "date_finished": "2024-10-06T00:00:00Z",
+    "rating": {
+      "mine": 4
+    }
+  },
+  {
     "title": "What Does Jeremy Think?",
     "subtitle": "Jeremy Heywood and the Making of Modern Britain",
     "authors": [
