@@ -1,5 +1,14 @@
 [
   {
+    "title": "Yellowface",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-07-27T00:00:00Z"
+  },
+  {
     "title": "Hunt for the Shadow Wolf",
     "authors": [
       "Derek Gow"
@@ -51,7 +60,11 @@
     ],
     "work_iri": "https://www.wikidata.org/wiki/",
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "date_started": "2024-10-15T00:00:00Z"
+    "date_started": "2024-10-15T00:00:00Z",
+    "date_finished": "2024-10-27T00:00:00Z",
+    "rating": {
+      "mine": 3
+    }
   },
   {
     "title": "Clean Code",
