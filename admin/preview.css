@@ -1,0 +1,10 @@
+---
+layout: css
+---
+
+{% include sassify.html %}
+
+.frame-content {
+  padding: 2rem 2rem 0 2rem;
+  max-width: 43rem;
+}
