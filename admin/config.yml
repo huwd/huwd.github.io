@@ -1,0 +1,25 @@
+publish_mode: editorial_workflow
+site_url: https://huwdiprose.co.uk
+
+backend:
+  name: github
+  repo: huwd/huwd.github.io
+  branch: main
+
+media_folder: /public
+public_folder: /public
+
+collections:
+  - name: "reviews"
+    label: "Reviews"
+    folder: "_posts/"
+    preview_path: "/review/book/{{year}}/{{month}}/{{day}}/{{title}}"
+    description: "Review of a books I have read"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Categories', name: 'categories', widget: 'list', default: ["review, book"] }
+      - { label: 'Version', name: 'version', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
