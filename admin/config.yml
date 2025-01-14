@@ -23,3 +23,29 @@ collections:
       - { label: 'Categories', name: 'categories', widget: 'list', default: ["review, book"] }
       - { label: 'Version', name: 'version', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "About me"
+        name: "about"
+        file: "about.md"
+        fields:
+          - { label: 'Layout', name: 'layout' }
+          - { label: 'Display Title', name: 'display_title', widget: 'string' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Permalink', name: 'permalink', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+  - label: "Data"
+    name: "data"
+    files:
+      - label: "Reading Log"
+        name: "books"
+        file: "_data/decap_books.json"
+        format: "json"
+        fields:
+          - label: "Reading Entry"
+            name: "entry"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", :widget: string}
+
