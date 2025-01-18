@@ -44,19 +44,22 @@ collections:
         name: "books"
         file: "_data/books.json"
         format: "json"
+        editor:
+          preview: false
         fields:
           - label: "Reading Entry"
             name: "entries"
             widget: "list"
+            add_to_top: true
             fields:
-              - { label: "Title", name: "title", widget: :string }
-              # - { label: "Subtitle", name: "subtitle", widget: :string }
-              # - { label: "Series", name: "series", widget: :string }
-              # - { label: "Series Entry", name: "series_entry", widget: :string }
-              # - { label: "Authors", name: "authors", widget: :list }
-              # - { label: "Work IRI", name: "work_iri", widget: :string }
-              # - { label: "Edition IRI", name: "edition_iri", widget: :string }
-              # - { label: "Date Started", name: "date_started", widget: :datetime }
-              # - { label: "Date Finished", name: "date_finished", widget: :datetime }
-              # - { label: "Rating", name: "rating", widget: :number,   value_type: "int" }
-              # - { label: "Review URL", name: "review_url", widget: :string }
+              - { required: true, label: "Title", name: "title", widget: string }
+              - { required: false, label: "Subtitle", name: "subtitle", widget: string }
+              - { required: false, label: "Series", name: "series", widget: string }
+              - { required: false, label: "Series Entry", name: "series_entry", widget: string }
+              - { required: true, label: "Authors", name: "authors", widget: list }
+              - { required: false, label: "Work IRI", name: "work_iri", widget: string }
+              - { required: false, label: "Edition IRI", name: "edition_iri", widget: string }
+              - { required: false, label: "Date Started", name: "date_started", widget: datetime }
+              - { required: false, label: "Date Finished", name: "date_finished", widget: datetime }
+              - { required: false, label: "Rating", name: "rating", widget: number, value_type: "int" }
+              - { required: false, label: "Review URL", name: "review_url", widget: string }
