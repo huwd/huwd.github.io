@@ -6,6 +6,7 @@ backend:
   repo: huwd/huwd.github.io
   branch: main
   base_url: https://auth-proxy.huwdiprose.co.uk
+  # site_domain: localhost:4000
 
 media_folder: /public
 public_folder: /public
@@ -41,11 +42,21 @@ collections:
     files:
       - label: "Reading Log"
         name: "books"
-        file: "_data/decap_books.json"
+        file: "_data/books.json"
         format: "json"
         fields:
           - label: "Reading Entry"
-            name: "entry"
+            name: "entries"
             widget: "list"
             fields:
-              - {label: "Title", name: "title", :widget: string}
+              - { label: "Title", name: "title", widget: :string }
+              # - { label: "Subtitle", name: "subtitle", widget: :string }
+              # - { label: "Series", name: "series", widget: :string }
+              # - { label: "Series Entry", name: "series_entry", widget: :string }
+              # - { label: "Authors", name: "authors", widget: :list }
+              # - { label: "Work IRI", name: "work_iri", widget: :string }
+              # - { label: "Edition IRI", name: "edition_iri", widget: :string }
+              # - { label: "Date Started", name: "date_started", widget: :datetime }
+              # - { label: "Date Finished", name: "date_finished", widget: :datetime }
+              # - { label: "Rating", name: "rating", widget: :number,   value_type: "int" }
+              # - { label: "Review URL", name: "review_url", widget: :string }

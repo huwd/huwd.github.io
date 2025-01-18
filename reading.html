@@ -2,7 +2,9 @@
 layout: listing
 title: Reading
 ---
-{% assign finished_books = site.data.books | where_exp: 'book', 'book.date_finished != nil' | sort: "date_finished" |
+
+{% assign finished_books = site.data.books.entries | where_exp: 'book', 'book.date_finished != nil' | sort:
+"date_finished" |
 reverse %}
 
 {% assign finished_books_by_year = finished_books | group_by_exp:"book", "book.date_finished | date: '%Y'" %}

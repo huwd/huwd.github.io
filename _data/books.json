@@ -1,4 +1,5 @@
-[
+{
+  "entries": [
   {
     "title": "The Witch's Heart",
     "authors": [
@@ -4333,3 +4334,4 @@
     "work_iri": "https://www.wikidata.org/wiki/Q62992042"
   }
 ]
+}
