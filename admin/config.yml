@@ -5,6 +5,7 @@ backend:
   name: github
   repo: huwd/huwd.github.io
   branch: main
+  base_url: https://auth-proxy.huwdiprose.co.uk
 
 media_folder: /public
 public_folder: /public
@@ -48,4 +49,3 @@ collections:
             widget: "list"
             fields:
               - {label: "Title", name: "title", :widget: string}
-
