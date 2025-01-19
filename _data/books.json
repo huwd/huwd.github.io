@@ -1,34 +1,34 @@
 {
   "entries": [
     {
-      "date_finished": "2025-01-19T14:15:00.000Z",
-      "authors": [
-        "MarthaWells"
-      ],
-      "series_entry": "Book 2",
-      "date_started": "2025-01-19T00:56:00.000Z",
-      "work_iri": "https://www.wikidata.org/wiki/",
-      "series": "The Murderbot Diaries",
       "title": "Artificial Condition",
-      "rating": {
-        "mine": 4
-      }
-      "edition_iri": "https://www.wikidata.org/wiki/"
-    },
-    {
-      "date_finished": "2025-01-19T20:31:00.000Z",
       "authors": [
         "Martha Wells"
       ],
-      "series_entry": "Book 1",
-      "date_started": "2025-01-14T00:12:00.000Z",
-      "work_iri": "https://www.wikidata.org/wiki/",
       "series": "The Murderbot Diaries",
-      "title": "All Systems Red",
+      "series_entry": "Book 2",
+      "work_iri": "https://www.wikidata.org/wiki/",
+      "edition_iri": "https://www.wikidata.org/wiki/",
+      "date_started": "2025-01-19T00:56:00.000Z",
+      "date_finished": "2025-01-19T14:15:00.000Z",
       "rating": {
         "mine": 4
       }
-      "edition_iri": "https://www.wikidata.org/wiki/"
+    },
+    {
+      "title": "All Systems Red",
+      "authors": [
+        "Martha Wells"
+      ],
+      "series": "The Murderbot Diaries",
+      "series_entry": "Book 1",
+      "work_iri": "https://www.wikidata.org/wiki/",
+      "edition_iri": "https://www.wikidata.org/wiki/",
+      "date_started": "2025-01-14T00:12:00.000Z",
+      "date_finished": "2025-01-19T20:31:00.000Z",
+      "rating": {
+        "mine": 4
+      }
     },
     {
       "title": "The Witch's Heart",
