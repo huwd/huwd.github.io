@@ -10,7 +10,9 @@
       "work_iri": "https://www.wikidata.org/wiki/",
       "series": "The Murderbot Diaries",
       "title": "Artificial Condition",
-      "rating": 4,
+      "rating": {
+        "mine": 4
+      }
       "edition_iri": "https://www.wikidata.org/wiki/"
     },
     {
@@ -23,7 +25,9 @@
       "work_iri": "https://www.wikidata.org/wiki/",
       "series": "The Murderbot Diaries",
       "title": "All Systems Red",
-      "rating": 4,
+      "rating": {
+        "mine": 4
+      }
       "edition_iri": "https://www.wikidata.org/wiki/"
     },
     {
