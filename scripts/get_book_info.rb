@@ -183,9 +183,7 @@ class GetBookInfo
 
     {
       date_finished: DateTime.now.strftime('%Y-%m-%d'),
-      rating: {
-        mine: 0
-      }
+      rating: 0
     }
   end
 

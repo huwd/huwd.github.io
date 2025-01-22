@@ -25,7 +25,7 @@ reverse %}
       {{ book.date_finished | date: "%Y-%m-%d" }}
     </time>
     <div class="rating">
-      {{ "★★★★★" | truncate: book.rating.mine, "" }}
+      {{ "★★★★★" | truncate: book.rating, "" }}
     </div>
   </li>
   {% endfor %}
