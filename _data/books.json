@@ -11,9 +11,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2025-01-19T00:56:00.000Z",
       "date_finished": "2025-01-19T14:15:00.000Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "All Systems Red",
@@ -26,9 +24,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2025-01-14T00:12:00.000Z",
       "date_finished": "2025-01-19T20:31:00.000Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Witch's Heart",
@@ -39,9 +35,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-12-04T00:00:00Z",
       "date_finished": "2025-01-12T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Art of Uncertainty",
@@ -53,9 +47,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-12-04T00:00:00Z",
       "date_finished": "2025-01-06T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Trials of Life",
@@ -67,9 +59,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-11-15T00:00:00Z",
       "date_finished": "2024-12-08T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Unmasked",
@@ -80,9 +70,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-11-15T00:00:00Z",
       "date_finished": "2024-11-26T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Voyage Home",
@@ -93,9 +81,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-11-10T00:00:00Z",
       "date_finished": "2024-11-14T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Yellowface",
@@ -106,9 +92,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-07-27T00:00:00Z",
       "date_finished": "2024-11-03T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Hunt for the Shadow Wolf",
@@ -119,9 +103,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-10-26T00:00:00Z",
       "date_finished": "2024-11-02T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Women of Troy",
@@ -132,9 +114,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-10-21T00:00:00Z",
       "date_finished": "2024-10-24T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "We Are Free to Change the World",
@@ -145,9 +125,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-10-17T00:00:00Z",
       "date_finished": "2024-10-21T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "Clean Coder",
@@ -159,9 +137,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-11-04T00:00:00Z",
       "date_finished": "2024-11-10T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Clean Architecture",
@@ -173,9 +149,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-10-15T00:00:00Z",
       "date_finished": "2024-10-27T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Clean Code",
@@ -187,9 +161,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-09-26T00:00:00Z",
       "date_finished": "2024-10-15T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Bartleby, the Scrivener",
@@ -200,9 +172,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-10-13T00:00:00Z",
       "date_finished": "2024-10-13T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Lie of the Land",
@@ -214,9 +184,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-09-15T00:00:00Z",
       "date_finished": "2024-10-06T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "What Does Jeremy Think?",
@@ -228,9 +196,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-09-19T00:00:00Z",
       "date_finished": "2024-09-25T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Platformland",
@@ -251,9 +217,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-08-28T00:00:00Z",
       "date_finished": "2024-09-18T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "The Unaccountability Machine",
@@ -265,9 +229,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-08-12T00:00:00Z",
       "date_finished": "2024-08-26T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Accelerate",
@@ -281,9 +243,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-08-06T00:00:00Z",
       "date_finished": "2024-08-09T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Age of Revolution",
@@ -305,9 +265,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-08-02T00:00:00Z",
       "date_finished": "2024-08-11T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Failed State",
@@ -319,9 +277,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-07-12T00:00:00Z",
       "date_finished": "2024-07-14T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Book of Wilding",
@@ -332,9 +288,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-08-02T00:00:00Z",
       "date_finished": "2024-09-06T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "American Prometheus",
@@ -354,9 +308,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-06-26T00:00:00Z",
       "date_finished": "2024-07-05T00:00:00Z",
-      "rating": {
-        "mine": 1
-      }
+      "rating": 1
     },
     {
       "title": "Babel",
@@ -368,9 +320,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-07-22T00:00:00Z",
       "date_finished": "2024-08-02T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "An Elegant Puzzle",
@@ -391,9 +341,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-06-07T00:00:00Z",
       "date_finished": "2024-06-25T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Looking Glass War",
@@ -404,9 +352,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-06-07T00:00:00Z",
       "date_finished": "2024-06-20T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Silence of the Girls",
@@ -417,9 +363,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-06-06T00:00:00Z",
       "date_finished": "2024-06-07T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "We Are Bellingcat",
@@ -431,9 +375,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-05-27T00:00:00Z",
       "date_finished": "2024-05-31T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Spy Who Came in from the Cold",
@@ -444,9 +386,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-05-27T00:00:00Z",
       "date_finished": "2024-05-27T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "A Murder of Quality",
@@ -457,9 +397,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-05-25T00:00:00Z",
       "date_finished": "2024-05-26T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Call for the Dead",
@@ -470,9 +408,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-05-23T00:00:00Z",
       "date_finished": "2024-05-25T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Every man against himself and god against all",
@@ -483,9 +419,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-05-06T00:00:00Z",
       "date_finished": "2024-05-19T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "Underland",
@@ -496,9 +430,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-06-29T00:00:00Z",
       "date_finished": "2024-07-21T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "We Should All Be Feminists",
@@ -509,9 +441,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-04-27T00:00:00Z",
       "date_finished": "2024-04-27T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Hidden Girl and Other Stories",
@@ -522,9 +452,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-04-24T00:00:00Z",
       "date_finished": "2024-05-11T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Team Topologies",
@@ -536,9 +464,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-03-24T00:00:00Z",
       "date_finished": "2024-05-31T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "The Making of the English Working Class",
@@ -549,9 +475,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123916822",
       "date_started": "2023-11-02T00:00:00Z",
       "date_finished": "2024-04-19T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "These Bodies of Water",
@@ -562,9 +486,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/",
       "date_started": "2024-03-28T00:00:00Z",
       "date_finished": "2024-03-29T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Children of Ash and Elm",
@@ -576,9 +498,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q124822964",
       "date_started": "2024-03-09T00:00:00Z",
       "date_finished": "2024-03-24T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Old Ways",
@@ -590,9 +510,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q124823022",
       "date_started": "2024-02-25T00:00:00Z",
       "date_finished": "2024-03-05T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "Not the end of the world",
@@ -603,9 +521,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q124274349",
       "date_started": "2024-02-10T00:00:00Z",
       "date_finished": "2024-02-24T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Cinema Speculation",
@@ -616,9 +532,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q124273861",
       "date_started": "2024-01-09T00:00:00Z",
       "date_finished": "2024-02-10T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Wilding",
@@ -630,9 +544,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q124273194",
       "date_started": "2024-01-02T00:00:00Z",
       "date_finished": "2024-01-09T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Back to nature",
@@ -645,9 +557,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q124273716",
       "date_started": "2022-12-27T00:00:00Z",
       "date_finished": "2024-01-02T00:00:00Z",
-      "rating": {
-        "mine": 2
-      }
+      "rating": 2
     },
     {
       "title": "Rebirding",
@@ -659,9 +569,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123915767",
       "date_started": "2022-12-19T00:00:00Z",
       "date_finished": "2023-12-26T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Ultra-Processed People",
@@ -673,9 +581,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123915783",
       "date_started": "2022-12-15T00:00:00Z",
       "date_finished": "2023-12-17T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Hydrogen Sonata",
@@ -686,9 +592,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123915790",
       "date_started": "2022-12-05T00:00:00Z",
       "date_finished": "2023-12-13T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "These Burning Stars",
@@ -699,9 +603,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123916512",
       "date_started": "2023-12-05T00:00:00Z",
       "date_finished": "2023-12-02T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Invisible Women",
@@ -713,9 +615,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123916557",
       "date_started": "2023-11-28T00:00:00Z",
       "date_finished": "2023-12-02T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Internet Con",
@@ -727,9 +627,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123916686",
       "date_started": "2023-11-27T00:00:00Z",
       "date_finished": "2023-11-28T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Reflections",
@@ -741,9 +639,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123916806",
       "date_started": "2023-10-31T00:00:00Z",
       "date_finished": "2023-11-03T00:00:00Z",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "How to blow up a pipeline",
@@ -754,9 +650,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123916813",
       "date_started": "2023-10-30T00:00:00Z",
       "date_finished": "2023-10-31T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Material World",
@@ -767,9 +661,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123916845",
       "date_started": "2023-10-24T00:00:00Z",
       "date_finished": "2023-10-30T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Journeys in the Wild",
@@ -782,9 +674,7 @@
       "edition_iri": "https://www.wikidata.org/Q123916853",
       "date_started": "2023-10-19T00:00:00Z",
       "date_finished": "2023-10-24T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Technofeudalism",
@@ -796,9 +686,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q123693103",
       "date_started": "2023-10-13T00:00:00Z",
       "date_finished": "2023-10-18T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Trees and Woodland in the British landscape",
@@ -818,9 +706,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122998064",
       "date_started": "2023-10-06T00:00:00Z",
       "date_finished": "2023-10-09T00:00:00Z",
-      "rating": {
-        "mine": 2
-      }
+      "rating": 2
     },
     {
       "title": "The BBC Naturalist",
@@ -853,9 +739,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122961148",
       "date_started": "2023-10-06T00:00:00Z",
       "date_finished": "2023-10-06T00:01:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Regenesis",
@@ -866,9 +750,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122924557",
       "date_started": "2023-10-03T00:00:00Z",
       "date_finished": "2023-10-06T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Green and Prosperous Land",
@@ -879,9 +761,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122912815",
       "date_started": "2023-09-27T00:00:00Z",
       "date_finished": "2023-10-03T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Feral",
@@ -892,9 +772,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122912832",
       "date_started": "2023-09-27T00:00:00Z",
       "date_finished": "2023-09-29T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Lost Rainforests of Britain",
@@ -905,9 +783,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122810986",
       "date_started": "2023-09-26T00:00:00Z",
       "date_finished": "2023-09-27T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Homage to Catalonia",
@@ -918,9 +794,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122731856",
       "date_started": "2023-09-19T00:00:00Z",
       "date_finished": "2023-09-23T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Human Condition (Second Edition)",
@@ -941,9 +815,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q121880100",
       "date_started": "2023-09-12T00:00:00Z",
       "date_finished": "2023-09-03T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Translation State",
@@ -954,9 +826,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122732022",
       "date_started": "2023-09-23T00:00:00Z",
       "date_finished": "2023-09-26T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Understanding Power",
@@ -970,9 +840,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122705615",
       "date_started": "2023-09-12T00:00:00Z",
       "date_finished": "2023-09-19T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Secret Barrister",
@@ -984,9 +852,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122731298",
       "date_started": "2023-09-08T00:00:00Z",
       "date_finished": "2023-09-12T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Good Strategy/Bad Strategy",
@@ -998,9 +864,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122731741",
       "date_started": "2023-08-15T00:00:00Z",
       "date_finished": "2023-08-26T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Feng Shui Modern",
@@ -1020,9 +884,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122731321",
       "date_started": "2023-08-03T00:00:00Z",
       "date_finished": "2023-08-13T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Other Wind",
@@ -1033,9 +895,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122732596",
       "date_started": "2023-07-27T00:00:00Z",
       "date_finished": "2023-08-03T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Tales from Earthsea",
@@ -1046,9 +906,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q122732562",
       "date_started": "2023-07-20T00:00:00Z",
       "date_finished": "2023-07-25T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Radical Help",
@@ -1060,9 +918,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q120728926",
       "date_started": "2023-07-10T00:00:00Z",
       "date_finished": "2023-07-19T00:00:00Z",
-      "rating": {
-        "mine": 2
-      }
+      "rating": 2
     },
     {
       "title": "Tehanu",
@@ -1074,9 +930,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q120410559",
       "date_started": "2023-07-06T00:00:00Z",
       "date_finished": "2023-07-10T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "How to Be Animal",
@@ -1088,9 +942,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q120235440",
       "date_started": "2023-07-03T00:00:00Z",
       "date_finished": "2023-07-06T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Everyday Utopia",
@@ -1102,9 +954,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q119976712",
       "date_started": "2023-06-22T00:00:00Z",
       "date_finished": "2023-07-03T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Farthest Shore",
@@ -1115,9 +965,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q119293018",
       "date_started": "2023-06-09T00:00:00Z",
       "date_finished": "2023-06-22T00:00:00Z",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Tombs of Atuan",
@@ -1128,9 +976,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q119057234",
       "date_started": "2023-06-04T00:00:00Z",
       "date_finished": "2023-06-09T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "A Wizard of Earthsea",
@@ -1141,9 +987,7 @@
       "edition_iri": "https://www.wikidata.org/wiki/Q118551857",
       "date_started": "2023-05-14T00:00:00Z",
       "date_finished": "2023-06-04T00:00:00Z",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Why Politics Fails",
@@ -1155,9 +999,7 @@
       "date_finished": "2023-05-29T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q118550925",
       "edition_iri": "https://www.wikidata.org/wiki/Q118551199",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Big Con",
@@ -1170,9 +1012,7 @@
       "date_finished": "2023-05-14T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q116872080",
       "edition_iri": "https://www.wikidata.org/wiki/Q117572606",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "Why We Get The Wrong Politicians",
@@ -1183,9 +1023,7 @@
       "date_finished": "2023-04-10T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q117480568",
       "edition_iri": "https://www.wikidata.org/wiki/Q117567368",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Fracture",
@@ -1204,9 +1042,7 @@
       ],
       "date_started": "2023-03-31T00:00:00Z",
       "date_finished": "2023-04-09T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q117478258",
       "edition_iri": "https://www.wikidata.org/wiki/Q117569148"
     },
@@ -1218,9 +1054,7 @@
       ],
       "date_started": "2022-03-26T00:00:00Z",
       "date_finished": "2023-03-31T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q117480545",
       "edition_iri": "https://www.wikidata.org/wiki/Q117570329"
     },
@@ -1231,9 +1065,7 @@
       ],
       "date_started": "2023-01-20T00:00:00Z",
       "date_finished": "2023-03-26T00:00:00Z",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "work_iri": "https://www.wikidata.org/wiki/Q117480535",
       "edition_iri": "https://www.wikidata.org/wiki/Q117571340"
     },
@@ -1244,9 +1076,7 @@
       ],
       "date_started": "2022-12-24T00:00:00Z",
       "date_finished": "2023-01-06T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "http://www.wikidata.org/wiki/Q105722561",
       "edition_iri": "https://www.wikidata.org/wiki/Q117571899"
     },
@@ -1257,9 +1087,7 @@
       ],
       "date_started": "2022-12-22T00:00:00Z",
       "date_finished": "2022-12-23T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "https://www.wikidata.org/wiki/Q117480516",
       "edition_iri": "https://www.wikidata.org/wiki/Q122731077"
     },
@@ -1270,9 +1098,7 @@
       ],
       "date_started": "2022-10-23T00:00:00Z",
       "date_finished": "2022-12-25T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q117480397",
       "edition_iri": "https://www.wikidata.org/wiki/Q122731242"
     },
@@ -1283,9 +1109,7 @@
       ],
       "date_started": "2022-11-05T00:00:00Z",
       "date_finished": "2022-11-28T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q82566838",
       "edition_iri": "https://www.wikidata.org/wiki/Q122730942"
     },
@@ -1296,9 +1120,7 @@
       ],
       "date_started": "2022-08-21T00:00:00Z",
       "date_finished": "2022-10-23T00:00:00Z",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "work_iri": "https://www.wikidata.org/wiki/Q111954893"
     },
     {
@@ -1327,9 +1149,7 @@
       },
       "date_started": "2022-08-17T00:00:00Z",
       "date_finished": "2022-09-04T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "https://www.wikidata.org/wiki/Q109967298"
     },
     {
@@ -1346,9 +1166,7 @@
       ],
       "date_started": "2022-07-04T00:00:00Z",
       "date_finished": "2022-07-07T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q2811112"
     },
     {
@@ -1358,9 +1176,7 @@
       ],
       "date_started": "2022-06-24T00:00:00Z",
       "date_finished": "2022-07-04T00:00:00Z",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "work_iri": "https://www.wikidata.org/wiki/Q78496966"
     },
     {
@@ -1377,9 +1193,7 @@
       ],
       "date_started": "2022-06-19T00:00:00Z",
       "date_finished": "2022-06-22T00:00:00Z",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "work_iri": "https://www.wikidata.org/wiki/Q117480358"
     },
     {
@@ -1397,9 +1211,7 @@
       ],
       "date_started": "2022-06-11T00:00:00Z",
       "date_finished": "2022-06-20T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q25345736"
     },
     {
@@ -1431,9 +1243,7 @@
       },
       "subtitle": "How Britain Became the Servant of Tycoons, Tax Dodgers, Kleptocrats and Criminals",
       "title": "Butler to the World",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "The Red Virgin and the Vision of Utopia",
@@ -1455,9 +1265,7 @@
       },
       "date_started": "2022-05-10T00:00:00Z",
       "date_finished": "2022-06-01T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q117480339"
     },
     {
@@ -1467,9 +1275,7 @@
       ],
       "date_started": "2022-05-16T00:00:00Z",
       "date_finished": "2022-05-21T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "http://www.wikidata.org/wiki/Q110608207"
     },
     {
@@ -1479,9 +1285,7 @@
       ],
       "date_started": "2022-04-22T00:00:00Z",
       "date_finished": "2022-04-30T00:00:00Z",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "work_iri": "http://www.wikidata.org/wiki/Q107490750"
     },
     {
@@ -1513,9 +1317,7 @@
       },
       "subtitle": "A Journey Through Time in China",
       "title": "Oracle Bones",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "An Absolutely Remarkable Thing",
@@ -1531,9 +1333,7 @@
       ],
       "date_started": "2022-05-02T00:00:00Z",
       "date_finished": "2022-05-10T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q302026"
     },
     {
@@ -1543,9 +1343,7 @@
       ],
       "date_started": "2022-02-24T00:00:00Z",
       "date_finished": "2022-06-11T00:00:00Z",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "work_iri": "https://www.wikidata.org/wiki/Q7973159"
     },
     {
@@ -1566,9 +1364,7 @@
       },
       "subtitle": "The Witcher, Book 6",
       "title": "Season of Storms",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Klara and the Sun",
@@ -1595,9 +1391,7 @@
       },
       "date_started": "2022-02-19T00:00:00Z",
       "date_finished": "2022-06-26T00:00:00Z",
-      "rating": {
-        "mine": 2
-      },
+      "rating": 2,
       "work_iri": "http://www.wikidata.org/wiki/Q105704813"
     },
     {
@@ -1644,9 +1438,7 @@
       },
       "date_started": "2022-02-04T00:00:00Z",
       "date_finished": "2022-02-07T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "https://www.wikidata.org/wiki/Q117480305"
     },
     {
@@ -1678,9 +1470,7 @@
       },
       "subtitle": "Two Years on the Yangtze",
       "title": "River Town",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "date_finished": "2022-01-25T00:00:00Z",
@@ -1714,9 +1504,7 @@
       },
       "subtitle": "The Witcher, Book 5",
       "title": "The Lady of the Lake",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "genre": "Science Fiction & Fantasy > Fantasy",
@@ -1747,9 +1535,7 @@
         }
       },
       "title": "The Tower of the Swallow",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "genre": "Science Fiction & Fantasy > Fantasy",
@@ -1781,9 +1567,7 @@
       },
       "subtitle": "The Witcher, Book 3",
       "title": "Baptism of Fire",
-      "rating": {
-        "mine": 2
-      }
+      "rating": 2
     },
     {
       "genre": "Science Fiction & Fantasy > Fantasy",
@@ -1813,9 +1597,7 @@
         }
       },
       "title": "Sword of Destiny",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "genre": "Science Fiction & Fantasy > Fantasy",
@@ -1845,9 +1627,7 @@
         }
       },
       "title": "The Last Wish",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "genre": "Science Fiction & Fantasy > Fantasy",
@@ -1878,9 +1658,7 @@
         }
       },
       "title": "Time of Contempt",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "genre": "Science Fiction & Fantasy > Fantasy",
@@ -1911,9 +1689,7 @@
         }
       },
       "title": "Blood of Elves",
-      "rating": {
-        "mine": 3
-      }
+      "rating": 3
     },
     {
       "title": "The Walker's Guide to Outdoor Clues & Signs",
@@ -1958,9 +1734,7 @@
       },
       "date_started": "2021-12-08T00:00:00Z",
       "date_finished": "2022-01-06T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q98686638"
     },
     {
@@ -1993,9 +1767,7 @@
         "publisher_link": "https://www.audible.co.uk/search?searchProvider=Recorded+Books%2C+Inc."
       },
       "title": "Leviathan Falls",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Peregrine",
@@ -2022,9 +1794,7 @@
       },
       "date_started": "2021-11-04T00:00:00Z",
       "date_finished": "2021-11-09T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "http://www.wikidata.org/wiki/Q117480103"
     },
     {
@@ -2055,9 +1825,7 @@
         "year_released": 2008
       },
       "title": "Matter",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Never Let Me Go",
@@ -2084,9 +1852,7 @@
       },
       "date_started": "2021-10-31T00:00:00Z",
       "date_finished": "2021-11-01T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q951587"
     },
     {
@@ -2117,9 +1883,7 @@
         "year_released": 2020
       },
       "title": "The Mirror and the Light",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "title": "Shutdown",
@@ -2147,9 +1911,7 @@
       },
       "date_started": "2021-10-04T00:00:00Z",
       "date_finished": "2021-10-10T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "https://www.wikidata.org/wiki/Q108899582"
     },
     {
@@ -2178,9 +1940,7 @@
       },
       "date_started": "2021-09-06T00:00:00Z",
       "date_finished": "2021-09-13T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q117480269"
     },
     {
@@ -2207,9 +1967,7 @@
       },
       "date_started": "2021-09-01T00:00:00Z",
       "date_finished": "2021-09-05T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q884010"
     },
     {
@@ -2243,9 +2001,7 @@
       },
       "title": "Stalingrad",
       "publisher_link": "https://www.audible.co.uk/search?searchProvider=Penguin+Audio+",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "The Undercover Economist",
@@ -2272,9 +2028,7 @@
       },
       "date_started": "2021-08-19T00:00:00Z",
       "date_finished": "2021-09-01T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q7771354"
     },
     {
@@ -2305,9 +2059,7 @@
         "year_released": 2008
       },
       "title": 2001,
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "date_finished": "2021-08-20T00:00:00Z",
@@ -2337,9 +2089,7 @@
         "year_released": 2013
       },
       "title": "Inversions",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Mine!",
@@ -2365,9 +2115,7 @@
       },
       "date_started": "2021-08-08T00:00:00Z",
       "date_finished": "2021-07-29T00:00:00Z",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "work_iri": "https://www.wikidata.org/wiki/Q117480255"
     },
     {
@@ -2395,9 +2143,7 @@
       },
       "date_started": "2021-06-24T00:00:00Z",
       "date_finished": "2021-07-15T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q3294969"
     },
     {
@@ -2428,9 +2174,7 @@
         "year_released": 2014
       },
       "title": "Adulthood Rites",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "A Thousand Days of Wonder",
@@ -2479,9 +2223,7 @@
       },
       "date_started": "2021-06-04T00:00:00Z",
       "date_finished": "2021-06-11T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q320372"
     },
     {
@@ -2509,9 +2251,7 @@
       },
       "date_started": "2021-05-29T00:00:00Z",
       "date_finished": "2021-05-31T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q106852836"
     },
     {
@@ -2540,9 +2280,7 @@
       },
       "date_started": "2021-05-14T00:00:00Z",
       "date_finished": "2021-05-29T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "https://www.wikidata.org/wiki/Q117480240"
     },
     {
@@ -2569,9 +2307,7 @@
         },
         "year_released": 2018
       },
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_started": "2021-04-12T00:00:00Z",
       "date_finished": "2021-06-13T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q15909011"
@@ -2596,9 +2332,7 @@
       },
       "date_started": "2021-04-12T00:00:00Z",
       "date_finished": "2021-06-13T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "https://www.wikidata.org/wiki/Q114051789"
     },
     {
@@ -2623,9 +2357,7 @@
         "pages": 176
       },
       "title": "The Red Kite's Year",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2019-04-08T00:00:00Z"
     },
     {
@@ -2656,9 +2388,7 @@
         "year_released": 2014
       },
       "title": "Dawn",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "date_finished": "2021-04-08T00:00:00Z",
@@ -2688,9 +2418,7 @@
         "year_released": 2013
       },
       "title": "Excession",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "date_finished": "2021-04-03T00:00:00Z",
@@ -2720,9 +2448,7 @@
         "year_released": 2014
       },
       "title": "The State of the Art",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "date_finished": "2021-03-31T00:00:00Z",
@@ -2752,9 +2478,7 @@
         "year_released": 2012
       },
       "title": "Use of Weapons",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "date_finished": "2021-03-28T00:00:00Z",
@@ -2784,9 +2508,7 @@
         "year_released": 2010
       },
       "title": "The Player of Games",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "This Is Going to Hurt",
@@ -2814,9 +2536,7 @@
       },
       "date_started": "2021-03-23T00:00:00Z",
       "date_finished": "2021-03-25T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q54488606"
     },
     {
@@ -2847,9 +2567,7 @@
         "year_released": 2010
       },
       "title": "Consider Phlebas",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Tweet of the Day",
@@ -2884,9 +2602,7 @@
       },
       "date_started": "2021-03-10T00:00:00Z",
       "date_finished": "2021-03-21T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "edition_iri": "https://www.wikidata.org/wiki/Q114051262"
     },
     {
@@ -2915,9 +2631,7 @@
       },
       "date_started": "2021-12-22T00:00:00Z",
       "date_finished": "2021-03-08T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "https://www.wikidata.org/wiki/Q107107590"
     },
     {
@@ -2945,9 +2659,7 @@
       },
       "date_started": "2021-01-26T00:00:00Z",
       "date_finished": "2021-02-08T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q3235393"
     },
     {
@@ -3002,9 +2714,7 @@
       },
       "date_started": "2021-01-21T00:00:00Z",
       "date_finished": "2021-01-25T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "https://www.wikidata.org/wiki/Q1115619"
     },
     {
@@ -3033,9 +2743,7 @@
       },
       "date_started": "2021-01-10T00:00:00Z",
       "date_finished": "2021-01-20T00:00:00Z",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "work_iri": "https://www.wikidata.org/wiki/Q104093629"
     },
     {
@@ -3063,9 +2771,7 @@
       },
       "date_started": "2020-12-29T00:00:00Z",
       "date_finished": "2020-12-31T00:00:00Z",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "work_iri": "https://www.wikidata.org/wiki/Q117480103"
     },
     {
@@ -3095,9 +2801,7 @@
       },
       "date_started": "2020-12-29T00:00:00Z",
       "date_finished": "2021-01-10T00:00:00Z",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "work_iri": "http://www.wikidata.org/wiki/Q80943751"
     },
     {
@@ -3127,9 +2831,7 @@
         "year_released": 2018
       },
       "title": "Life on Earth",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "edition_iri": "https://www.wikidata.org/wiki/Q117480003"
     },
     {
@@ -3160,9 +2862,7 @@
       },
       "subtitle": "Crossing the Lines That Divide Us",
       "title": "The Book of Trespass",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "date_finished": "2020-12-25T00:00:00Z",
@@ -3189,9 +2889,7 @@
         "year_released": 2008
       },
       "title": "Quest in Paradise",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "1963-01-01T00:00:00Z"
     },
     {
@@ -3219,9 +2917,7 @@
         "year_released": 2008
       },
       "title": "Zoo Quest for a Dragon",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "1957-12-01"
     },
     {
@@ -3250,9 +2946,7 @@
         "year_released": 2008
       },
       "title": "Quest under Capricorn",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "1963-01-01"
     },
     {
@@ -3281,9 +2975,7 @@
         "year_released": 2017
       },
       "title": "David Attenborough's New Life Stories",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2017-08-11T00:00:00Z"
     },
     {
@@ -3312,9 +3004,7 @@
         "year_released": 2018
       },
       "title": "Atomic Habits",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2018-06-18T00:00:00Z"
     },
     {
@@ -3343,9 +3033,7 @@
         "year_released": 2018
       },
       "title": "Who We Are and How We Got Here",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2018-06-18T00:00:00Z"
     },
     {
@@ -3376,9 +3064,7 @@
         "year_released": 2012
       },
       "title": "Bring Up the Bodies",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "2012-05-12T00:00:00Z"
     },
     {
@@ -3407,9 +3093,7 @@
         "year_released": 2012
       },
       "title": "The Song of Achilles",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2012-04-12T00:00:00Z"
     },
     {
@@ -3440,9 +3124,7 @@
         "year_released": 2016
       },
       "title": "A Closed and Common Orbit",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2016-10-20"
     },
     {
@@ -3471,9 +3153,7 @@
         "year_released": 2020
       },
       "title": "The Doors of Eden",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2020-08-20T00:00:00Z"
     },
     {
@@ -3503,9 +3183,7 @@
         "year_released": 2011
       },
       "title": "The Fat Years",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2012-08-02T00:00:00Z"
     },
     {
@@ -3533,9 +3211,7 @@
         "year_released": 2018
       },
       "title": "Where the Crawdads Sing",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2018-08-14T00:00:00Z"
     },
     {
@@ -3558,9 +3234,7 @@
         "pages": 352
       },
       "title": "Persepolis I & II",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "title": "Peter Scott: Collected Writings, 1933-1989",
@@ -3606,9 +3280,7 @@
         "year_released": 2020
       },
       "title": "The City We Became",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "2020-03-24T00:00:00Z"
     },
     {
@@ -3634,9 +3306,7 @@
         "pages": 128
       },
       "title": "The Word for World is Forest",
-      "rating": {
-        "mine": 4
-      }
+      "rating": 4
     },
     {
       "date_finished": "2020-09-08T00:00:00Z",
@@ -3664,9 +3334,7 @@
         "year_released": 2019
       },
       "title": "Lovecraft Country",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "2016-02-16T00:00:00Z"
     },
     {
@@ -3696,9 +3364,7 @@
         "year_released": 2020
       },
       "title": "Vesper Flights",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2020-08-27T00:00:00Z"
     },
     {
@@ -3731,9 +3397,7 @@
         "year_released": 2014
       },
       "title": "MaddAddam",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": ""
     },
     {
@@ -3764,9 +3428,7 @@
         "year_released": 2019
       },
       "title": "The Year of the Flood",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "2009-09-07T00:00:00Z"
     },
     {
@@ -3797,9 +3459,7 @@
         "year_released": 2020
       },
       "title": "Wuhan Diary",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "2020-05-26T00:00:00Z"
     },
     {
@@ -3826,9 +3486,7 @@
         "date_purchased": "2020-06-16T00:00:00Z"
       },
       "title": "Zita the Spacegirl",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2011-02-04T00:00:00Z"
     },
     {
@@ -3859,9 +3517,7 @@
         "year_released": 2017
       },
       "title": "Will Save the Galaxy for Food",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2017-02-23T00:00:00Z"
     },
     {
@@ -3891,9 +3547,7 @@
         "year_released": 2019
       },
       "title": "Greetings from Bury Park",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "2019-07-04T00:00:00Z",
       "date_originally_published": "2008-06-16T00:00:00Z"
     },
@@ -3925,9 +3579,7 @@
         "year_released": 2017
       },
       "title": "The Collapsing Empire",
-      "rating": {
-        "mine": 1
-      },
+      "rating": 1,
       "date_published": "2017-03-21T00:00:00Z"
     },
     {
@@ -3958,9 +3610,7 @@
         "year_released": 2015
       },
       "title": "Ancillary Mercy",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2015-10-08T00:00:00Z"
     },
     {
@@ -3991,9 +3641,7 @@
         "year_released": 2018
       },
       "title": "The Consuming Fire",
-      "rating": {
-        "mine": 2
-      },
+      "rating": 2,
       "date_published": "2018-09-16T00:00:00Z"
     },
     {
@@ -4022,9 +3670,7 @@
         "year_released": 2012
       },
       "title": "The Remains of the Day",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "1989-05-01"
     },
     {
@@ -4055,9 +3701,7 @@
         "year_released": 2014
       },
       "title": "Ancillary Sword",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2014-09-07T00:00:00Z"
     },
     {
@@ -4088,9 +3732,7 @@
         "year_released": 2014
       },
       "title": "Ancillary Justice",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "2013-09-01T00:00:00Z"
     },
     {
@@ -4137,9 +3779,7 @@
         "year_released": 2017
       },
       "title": "The Good Immigrant",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2016-09-22T00:00:00Z"
     },
     {
@@ -4170,9 +3810,7 @@
         "year_released": 2005
       },
       "title": "Oryx and Crake",
-      "rating": {
-        "mine": 5
-      }
+      "rating": 5
     },
     {
       "date_finished": "2020-06-30T00:00:00Z",
@@ -4200,9 +3838,7 @@
         "year_released": 2017
       },
       "title": "Why I'm No Longer Talking to White People About Race",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2017-07-01T00:00:00Z"
     },
     {
@@ -4233,9 +3869,7 @@
         "year_released": 2015
       },
       "title": "The Long Way to a Small, Angry Planet",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2015-12-31T00:00:00Z"
     },
     {
@@ -4266,9 +3900,7 @@
         "year_released": 2009
       },
       "title": "Wolf Hall",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2009-04-30T00:00:00Z"
     },
     {
@@ -4297,9 +3929,7 @@
         "year_released": 2018
       },
       "title": "Educated",
-      "rating": {
-        "mine": 5
-      },
+      "rating": 5,
       "date_published": "2019-02-18T00:00:00Z"
     },
     {
@@ -4329,9 +3959,7 @@
         "year_released": 2019
       },
       "title": "Something Deeply Hidden",
-      "rating": {
-        "mine": 4
-      },
+      "rating": 4,
       "date_published": "2019-09-10T00:00:00Z"
     },
     {
@@ -4357,9 +3985,7 @@
         "pages": 432
       },
       "title": "Middle England",
-      "rating": {
-        "mine": 3
-      },
+      "rating": 3,
       "date_published": "2019-06-04T00:00:00Z"
     }
   ]
