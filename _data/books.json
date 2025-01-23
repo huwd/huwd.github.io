@@ -28,57 +28,60 @@
       "series": "The Murderbot Diaries",
       "series_entry": "Book 5",
       "work_iri": "https://www.wikidata.org/wiki/",
+      "edition_iri": "https://www.wikidata.org/wiki/",
+      "date_started": "2025-01-23T18:42:00.000Z"
+    },
+    {
+      "date_finished": "2025-01-23T12:00:00.000Z",
+      "authors": [
+        "Martha Wells"
+      ],
+      "series_entry": "Book 4",
+      "date_started": "2025-01-20T23:51:00.000Z",
+      "work_iri": "https://www.wikidata.org/wiki/",
+      "series": "The Murderbot Diaries",
+      "title": "Exit Strategy",
+      "rating": 4,
       "edition_iri": "https://www.wikidata.org/wiki/"
     },
     {
-      "title": "Exit Strategy",
-      "authors": [
-        "Martha Wells"
-      ],
-      "series": "The Murderbot Diaries",
-      "series_entry": "Book 4",
-      "work_iri": "https://www.wikidata.org/wiki/",
-      "edition_iri": "https://www.wikidata.org/wiki/",
-      "date_started": "2025-01-20T23:51:00.000Z"
-    },
-    {
-      "title": "Rogue Protocol",
-      "authors": [
-        "Martha Wells"
-      ],
-      "series": "The Murderbot Diaries",
-      "series_entry": "Book 3",
-      "work_iri": "https://www.wikidata.org/wiki/",
-      "edition_iri": "https://www.wikidata.org/wiki/",
-      "date_started": "2025-01-19T23:48:00.000Z",
       "date_finished": "2025-01-20T23:48:00.000Z",
-      "rating": 4
-    },
-    {
-      "title": "Artificial Condition",
       "authors": [
         "Martha Wells"
       ],
-      "series": "The Murderbot Diaries",
-      "series_entry": "Book 2",
+      "series_entry": "Book 3",
+      "date_started": "2025-01-19T23:48:00.000Z",
       "work_iri": "https://www.wikidata.org/wiki/",
-      "edition_iri": "https://www.wikidata.org/wiki/",
-      "date_started": "2025-01-19T00:56:00.000Z",
+      "series": "The Murderbot Diaries",
+      "title": "Rogue Protocol",
+      "rating": 4,
+      "edition_iri": "https://www.wikidata.org/wiki/"
+    },
+    {
       "date_finished": "2025-01-19T14:15:00.000Z",
-      "rating": 4
-    },
-    {
-      "title": "All Systems Red",
       "authors": [
         "Martha Wells"
       ],
-      "series": "The Murderbot Diaries",
-      "series_entry": "Book 1",
+      "series_entry": "Book 2",
+      "date_started": "2025-01-19T00:56:00.000Z",
       "work_iri": "https://www.wikidata.org/wiki/",
-      "edition_iri": "https://www.wikidata.org/wiki/",
-      "date_started": "2025-01-14T00:12:00.000Z",
+      "series": "The Murderbot Diaries",
+      "title": "Artificial Condition",
+      "rating": 4,
+      "edition_iri": "https://www.wikidata.org/wiki/"
+    },
+    {
       "date_finished": "2025-01-19T20:31:00.000Z",
-      "rating": 4
+      "authors": [
+        "Martha Wells"
+      ],
+      "series_entry": "Book 1",
+      "date_started": "2025-01-14T00:12:00.000Z",
+      "work_iri": "https://www.wikidata.org/wiki/",
+      "series": "The Murderbot Diaries",
+      "title": "All Systems Red",
+      "rating": 4,
+      "edition_iri": "https://www.wikidata.org/wiki/"
     },
     {
       "title": "The Witch's Heart",
