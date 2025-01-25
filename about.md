@@ -10,6 +10,6 @@ I work for the [Government Digital Service](https://www.gov.uk/government/organi
 
 I work in the open on [Github](https://github.com/huwd/).
 
-I'm silently on [Bluesky](https://bsky.app/profile/huwdiprose.bsky.social), [Twitter](https://twitter.com/huwdiprose) or X or whatever.
+I'm sometimes on [Bluesky](https://bsky.app/profile/huwdiprose.bsky.social), [Twitter](https://twitter.com/huwdiprose).
 
 I occasionally read my email at [mail@huwdiprose.co.uk](mailto:mail@huwdiprose.co.uk)

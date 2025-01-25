@@ -1,13 +1,29 @@
-# Site settings
-title: Huw Diprose
-email: mail@huwdiprose.co.uk
+# Jekyll SEO Site settings
+title: Homepage - Huw Diprose
+tagline: Huw's Homepage - My home on the web
 description: >
   Home page of Huw Diprose, UK based web engineer and data nerd
-baseurl: ""
+email: mail@huwdiprose.co.uk
 url: "https://huwdiprose.co.uk"
-twitter_username: huwdiprose
-github_username: huwd
+author:
+  name: Huw Diprose
+  url: https://huwdiprose.co.uk
+social:
+  name: Huw Diprose
+  links:
+    - https://bsky.app/profile/huwdiprose.bsky.social
+    - https://x.com/huwdiprose
+    - https://github.com/huwd
+    - https://keybase.io/huwdiprose
+seo:
+  name: "Huw Diprose"
+  twitter:
+    username: "huwdiprose"
+  github:
+    username: "huwd"
+locale: en_GB
 
+baseurl: ""
 # Build settings
 markdown: kramdown
 
@@ -24,6 +40,5 @@ collections:
 permalink: pretty
 
 plugins:
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap

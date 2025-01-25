@@ -12,14 +12,6 @@
       {% else %}
         {{ page.title | escape }}
       {% endif %}
-      -
-    {% endif %}
-    {% if paginator and paginator.page and paginator.total_pages > 1 and paginator.page > 1 %}
-      Page
-      {{ paginator.page }}
-      of
-      {{ paginator.total_pages }}
-      -
     {% endif %}
     {{ site.title | escape }}
     {% unless page.tag or page.title %}
@@ -28,9 +20,6 @@
     {% endunless %}
   </title>
 
-  {%- comment -%} <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.png"> {%- endcomment -%}
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
-  <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}"/>
   <link rel="sitemap" type="application/xml" title="sitemap" href="{{ site.baseurl }}/sitemap.xml"/>
 
   <style>
