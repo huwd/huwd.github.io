@@ -1,6 +1,18 @@
 {
   "entries": [
     {
+      "title": "The Bear",
+      "series": "",
+      "authors": [
+        "Andrew Krivak"
+      ],
+      "work_iri": "https://www.wikidata.org/wiki/",
+      "edition_iri": "https://www.wikidata.org/wiki/",
+      "date_finished": "2025-02-15T01:08:00.000Z",
+      "date_started": "2025-02-11T16:41:00.000Z",
+      "rating": 5
+    },
+    {
       "date_finished": "2025-02-10T23:40:00.000Z",
       "authors": [
         "R. F. Kuang"
