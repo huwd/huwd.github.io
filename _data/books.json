@@ -7,7 +7,8 @@
         "David Grann"
       ],
       "date_finished": "2025-04-21T14:49:00.000Z",
-      "date_started": "2025-04-23T13:09:00.000Z"
+      "date_started": "2025-04-23T13:09:00.000Z",
+      "rating": 4
     },
     {
       "title": "Abundance",
@@ -489,7 +490,8 @@
       ],
       "work_iri": "https://www.wikidata.org/wiki/",
       "edition_iri": "https://www.wikidata.org/wiki/",
-      "date_started": "2025-02-12T09:30:00.000Z"
+      "date_started": "2025-02-12T09:30:00.000Z",
+      "rating": 5
     },
     {
       "title": "Ancestors",
