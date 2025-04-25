@@ -72,7 +72,6 @@
     },
     {
       "title": "The Bear",
-      "series": "",
       "authors": [
         "Andrew Krivak"
       ],
@@ -1739,7 +1738,7 @@
         "Andrzej Sapkowski"
       ],
       "date_started": "2022-01-04T00:00:00Z",
-      "work_iri": null,
+      "work_iri": "https://www.wikidata.org/wiki/",
       "series": "The Witcher Saga",
       "format": {
         "aisn": {
@@ -1893,7 +1892,7 @@
         "publisher": {
           "name": "Penguin Audio"
         },
-        "language\"": "English"
+        "language": "English"
       },
       "date_started": "2021-12-08T00:00:00Z",
       "date_finished": "2022-01-06T00:00:00Z",
@@ -1980,7 +1979,7 @@
         "date_purchased": "2021-08-20T00:00:00Z",
         "version": "Unabridged",
         "language": "English",
-        "runtime": "17 hours and 57 minutes\"",
+        "runtime": "17 hours and 57 minutes",
         "type": "Audiobook",
         "publisher": {
           "name": "Hachette Audio UK"
@@ -3564,7 +3563,7 @@
       },
       "title": "MaddAddam",
       "rating": 4,
-      "date_published": ""
+      "date_published": "2013-08-27T00:00:00Z"
     },
     {
       "date_finished": "2020-08-29T00:00:00Z",
@@ -3663,7 +3662,7 @@
       ],
       "series_entry": "Book 1",
       "year_published": 2017,
-      "date_started": null,
+      "date_started": "2020-06-20T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q29832540",
       "series": "Jacques McKeown",
       "format": {
@@ -3694,7 +3693,7 @@
       ],
       "year_published": 2019,
       "year_originally_published": 2008,
-      "date_started": "",
+      "date_started": "2020-08-11T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q117479841",
       "format": {
         "aisn": "B07TS4ZDLL",
@@ -3725,7 +3724,7 @@
       ],
       "series_entry": "Book 1",
       "year_published": 2017,
-      "date_started": "",
+      "date_started": "2020-06-30T00:00:00Z",
       "work_iri": "http://www.wikidata.org/wiki/Q29344605",
       "series": "The Interdependency",
       "format": {
@@ -3787,7 +3786,7 @@
       ],
       "series_entry": "Book 2",
       "year_published": 2018,
-      "date_started": null,
+      "date_started": "2018-09-16T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q60749168",
       "series": "The Interdependency",
       "format": {
@@ -3847,7 +3846,7 @@
       ],
       "series_entry": "Book 2",
       "year_published": 2014,
-      "date_started": null,
+      "date_started": "2020-06-29T00:00:00Z",
       "work_iri": "http://www.wikidata.org/wiki/Q17989172",
       "series": "The Imperial Radch series",
       "format": {
@@ -3877,8 +3876,8 @@
         "Ann Leckie"
       ],
       "series_entry": "Book 1",
-      "year_published": 2013,
-      "date_started": null,
+      "year_published": "2020-06-14T00:00:00Z",
+      "date_started": "2020-06-14T00:00:00Z",
       "work_iri": "http://www.wikidata.org/wiki/Q17001721",
       "series": "The Imperial Radch series",
       "format": {
@@ -3917,7 +3916,7 @@
         "Darren Chetty"
       ],
       "year_published": 2016,
-      "date_started": null,
+      "date_started": "2020-06-14T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q96075523",
       "format": {
         "aisn": "B071CQ77S3",
@@ -3956,7 +3955,7 @@
       ],
       "series_entry": "Book 1",
       "year_published": 2003,
-      "date_started": null,
+      "date_started": "2020-06-14T00:00:00Z",
       "work_iri": "http://www.wikidata.org/wiki/Q2032398",
       "series": "MaddAddam Trilogy",
       "format": {
@@ -3985,7 +3984,7 @@
         "Reni Eddo-Lodge"
       ],
       "year_published": 2017,
-      "date_started": null,
+      "date_started": "2020-06-02T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q39050412",
       "format": {
         "aisn": "B06XGLP7NP",
@@ -4015,7 +4014,7 @@
       ],
       "series_entry": "Book 1",
       "year_published": 2015,
-      "date_started": null,
+      "date_started": "2020-06-02T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q41663451",
       "series": "Wayfarers",
       "format": {
@@ -4046,7 +4045,7 @@
       ],
       "series_entry": "Book 1",
       "year_published": 2009,
-      "date_started": null,
+      "date_started": "2020-04-12T00:00:00Z",
       "work_iri": "http://www.wikidata.org/wiki/Q2657795",
       "series": "The Wolf Hall Trilogy",
       "format": {
@@ -4076,7 +4075,7 @@
         "Tara Westover"
       ],
       "year_published": 2019,
-      "date_started": null,
+      "date_started": "2020-03-30T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q61064573",
       "format": {
         "aisn": "B079C1S8ZH",
@@ -4106,7 +4105,7 @@
       ],
       "full_title": "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime",
       "year_published": 2019,
-      "date_started": null,
+      "date_started": "2020-02-11T00:00:00Z",
       "work_iri": "http://www.wikidata.org/wiki/Q85802021",
       "format": {
         "aisn": "B07QTBYGBQ",
@@ -4136,7 +4135,7 @@
       ],
       "series_entry": "Book 3",
       "year_published": 2019,
-      "date_started": null,
+      "date_started": "2020-01-01T00:00:00Z",
       "work_iri": "https://www.wikidata.org/wiki/Q62992042",
       "series": "Rotters' Club",
       "format": {
