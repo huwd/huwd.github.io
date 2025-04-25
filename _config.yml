@@ -36,6 +36,9 @@ collections:
   weeknotes:
     output: true
     permalink: /weeknotes/:path/
+  books:
+    output: false   # you probably don’t want individual book pages
+
 
 permalink: pretty
 
