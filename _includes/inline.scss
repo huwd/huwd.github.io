@@ -1,4 +1,4 @@
-@import "reset";
-@import "main";
-@import "listing";
-@import "reading";
+@use "reset"   as *;
+@use "main"    as *;
+@use "listing" as *;
+@use "reading" as *;
