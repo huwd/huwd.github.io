@@ -1,12 +1,16 @@
 require 'json'
 require 'httparty'
+require 'yaml'
 require 'pry'
 
 class CheckWikidataBookEntries
   WIKIDATA_REST_GET_ITEM = "https://www.wikidata.org/w/rest.php/wikibase/v0/entities/items"
 
   def initialize
-    @books = JSON.load File.new("_data/books.json")
+    @books = Dir.glob("_books/*.md").map do |file|
+      frontmatter = File.read(file)[/\A---\s*\n(.*?)\n---/m, 1]
+      YAML.safe_load(frontmatter || "", permitted_classes: [Time], aliases: true) || {}
+    end
   end
 
   def works_iris
@@ -38,7 +42,8 @@ class CheckWikidataBookEntries
   def validate_work
     print "Validating Works:\n"
     work_items = query_wikidata(works_iris)
-    work_items.map.with_index do |work, i|
+    available_items = work_items.reject { |item| item["httpCode"] == 404 }
+    available_items.map.with_index do |work, i|
       print "\r"
       print "Validating #{i+1}/#{work_items.count}"
       instance_of = work["statements"]["P31"].map { |s| s["value"]["content"] }.first
@@ -53,6 +58,20 @@ class CheckWikidataBookEntries
           work["id"] => {
             "labels" => { **work["labels"] },
             "Missing Mandatory" => schema["Mandatory"].keys - work["statements"].keys,
+          }
+        }
+      end
+    end
+    unavailable_items = work_items.select { |item| item["httpCode"] == 404 }
+    unless unavailable_items.empty?
+      print "There were also #{unavailable_items.count} unavailable items:\n"
+      unavailable_items.map do |item|
+        print "\r"
+        print "Unavailable #{item["id"]}"
+        {
+          item["id"] => {
+            "labels" => { **item["labels"] },
+            "Missing Mandatory" => ["P31", "P1476", "P50", "P577", "P407", "P747"]
           }
         }
       end

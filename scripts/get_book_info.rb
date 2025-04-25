@@ -55,7 +55,10 @@ class GetBookInfo
   private
 
   def load_books_yml
-    @books_yml = YAML.load_file('_data/books.yml')
+    @books = Dir.glob("_books/*.md").map do |file|
+      frontmatter = File.read(file)[/\A---\s*\n(.*?)\n---/m, 1]
+      YAML.safe_load(frontmatter || "", permitted_classes: [Time], aliases: true) || {}
+    end
   end
 
   def conditionally_write_to_file

@@ -7,7 +7,10 @@ class Wikidata
   WIKIDATA_SPARQL_URL = 'https://query.wikidata.org/sparql'.freeze
 
   def initialize
-    @books = JSON.load File.new("_data/books.json")
+    @books = Dir.glob("_books/*.md").map do |file|
+      frontmatter = File.read(file)[/\A---\s*\n(.*?)\n---/m, 1]
+      YAML.safe_load(frontmatter || "", permitted_classes: [Time], aliases: true) || {}
+    end
   end
 
   def query_all
