@@ -23,10 +23,7 @@
   <link rel="sitemap" type="application/xml" title="sitemap" href="{{ site.baseurl }}/sitemap.xml"/>
 
   <style>
-    {% capture include_to_scssify %}
-      {% include inline.scss %}
-    {% endcapture %}
-    {{ include_to_scssify | scssify }}
+    {% include scssify.html %}
   </style>
 
 </head>
