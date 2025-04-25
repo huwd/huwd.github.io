@@ -450,15 +450,6 @@
       "rating": 3
     },
     {
-      "title": "American Prometheus",
-      "subtitle": "The Triumph and Tragedy of J. Robert Oppenheimer",
-      "authors": [
-        "Kai Bird"
-      ],
-      "work_iri": "https://www.wikidata.org/wiki/",
-      "edition_iri": "https://www.wikidata.org/wiki/"
-    },
-    {
       "title": "Imaginary Friend",
       "authors": [
         "Stephen Chbosky"
@@ -1286,13 +1277,6 @@
       "work_iri": "https://www.wikidata.org/wiki/Q111954893"
     },
     {
-      "title": "The Master and Margarita",
-      "authors": [
-        "Mikhail Bulgakov"
-      ],
-      "work_iri": "https://www.wikidata.org/wiki/Q188538"
-    },
-    {
       "title": "The Right to Sex",
       "authors": [
         "Amia Srinivasan"
@@ -1315,13 +1299,6 @@
       "work_iri": "https://www.wikidata.org/wiki/Q109967298"
     },
     {
-      "title": "Our Bloc",
-      "authors": [
-        "James Schneider"
-      ],
-      "work_iri": "https://www.wikidata.org/wiki/Q117480376"
-    },
-    {
       "title": "Lavinia",
       "authors": [
         "Ursula K. Le Guin"
@@ -1340,13 +1317,6 @@
       "date_finished": "2022-07-04T00:00:00Z",
       "rating": 3,
       "work_iri": "https://www.wikidata.org/wiki/Q78496966"
-    },
-    {
-      "title": "Radical Candor",
-      "authors": [
-        "Kim Scott"
-      ],
-      "work_iri": "https://www.wikidata.org/wiki/Q109171045"
     },
     {
       "title": "Moneyland",
@@ -1480,13 +1450,6 @@
       "subtitle": "A Journey Through Time in China",
       "title": "Oracle Bones",
       "rating": 3
-    },
-    {
-      "title": "An Absolutely Remarkable Thing",
-      "authors": [
-        "Hank Green"
-      ],
-      "work_iri": "http://www.wikidata.org/wiki/Q41663453"
     },
     {
       "title": "Surface Detail",
