@@ -1,11 +1,10 @@
-{% assign finished_books = site.data.books.entries | where_exp: 'book', 'book.date_finished != nil' | sort:
-"date_finished" |
-reverse %}
+{% assign finished_books = site.books | where_exp: 'book', 'book.date_finished != nil' | sort: "date_finished" | reverse %}
 
-{% assign finished_books_by_year = finished_books | group_by_exp:"book", "book.date_finished | date: '%Y'" %}
+{% assign finished_books_by_year = finished_books | group_by_exp: "book", "book.date_finished | date: '%Y'" %}
 
 {% assign books = finished_books_by_year | where: "name", page.year | first %}
 
+{% if books %}
 <ul>
   {% for book in books.items %}
   <li>
@@ -15,11 +14,11 @@ reverse %}
     </a>
     {% else %}
     <div class="title">
-      {{ book.title}}
+      {{ book.title }}
     </div>
     {% endif %}
     <div class="authors">
-      {{ book.authors | join:", " }}
+      {{ book.authors | join: ", " }}
     </div>
     <time datetime="{{ book.date_finished | date_to_xmlschema }}">
       {{ book.date_finished | date: "%Y-%m-%d" }}
@@ -31,3 +30,6 @@ reverse %}
   {% endfor %}
 </ul>
 <span>({{ books.items | size }} books total)</span>
+{% else %}
+<p>No books found for {{ page.year }}</p>
+{% endif %}
