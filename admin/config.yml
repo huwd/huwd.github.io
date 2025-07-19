@@ -41,6 +41,7 @@ collections:
     label: "Books"
     folder: "_books"
     create: true
+    slug: "{{date_started}}-{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Series", name: "series", widget: "string", required: false }
