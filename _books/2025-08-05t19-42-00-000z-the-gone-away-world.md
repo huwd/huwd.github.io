@@ -1,7 +1,7 @@
 ---
 title: The Gone-Away World
 authors:
-  - NickHarkaway
+  - Nick Harkaway
 work_iri: https://www.wikidata.org/wiki/Q
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-08-05T19:42:00.000Z
