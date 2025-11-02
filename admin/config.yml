@@ -52,3 +52,4 @@ collections:
       - { label: "Date Started", name: "date_started", widget: "datetime", summary: "{{fields.date_started}}" }
       - { label: "Date Finished", name: "date_finished", widget: "datetime", required: false }
       - { label: "Rating", name: "rating", widget: "number", required: false }
+      - { label: "Review URL", name: "review_url", widget: "string", required: false }
