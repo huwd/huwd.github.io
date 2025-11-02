@@ -18,6 +18,7 @@ collections:
     preview_path: "/review/book/{{year}}/{{month}}/{{day}}/{{title}}"
     description: "Review of a books I have read"
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
