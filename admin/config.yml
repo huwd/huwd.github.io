@@ -24,7 +24,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Categories', name: 'categories', widget: 'list', default: ["review, book"] }
-      - { label: 'Version', name: 'version', widget: 'string' }
+      - { label: 'Version', name: 'version', value_type: float, widget: 'number', default: 1.0.0 }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - label: "Pages"
     name: "pages"
