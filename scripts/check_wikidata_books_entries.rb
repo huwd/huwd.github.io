@@ -28,14 +28,18 @@ class CheckWikidataBookEntries
   def query_wikidata(iris)
     print
     iris.map.with_index do |iri, i|
-      print "\r"
-      print "Querying #{i+1}/#{iris.count}"
-      HTTParty.get(
+      print "\rQuerying #{i + 1}/#{iris.count}"
+
+      response = HTTParty.get(
         "#{WIKIDATA_REST_GET_ITEM}/#{iri}",
-        headers: {
-          'accept' => 'application/json'
-          }
-        ).parsed_response
+        headers: { 'accept' => 'application/json' }
+      )
+
+      unless response.code == 200
+        raise "\nWikidata query failed for #{iri} (status #{response.code})"
+      end
+
+      response.parsed_response
     end
   end
 
