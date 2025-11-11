@@ -1,1469 +1,3706 @@
-[
-  {
-    "Q111954893": {
-      "labels": {
-        "en": "Moon Witch, Spider King"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q109967298": {
-      "labels": {
-        "en": "The Right to Sex"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117480376": {
-      "labels": {
-        "en": "Our Bloc: How We Win"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q2811112": {
-      "labels": {
-        "fr": "Lavinia",
-        "en": "Lavinia",
-        "fi": "Lavinia",
-        "sv": "Lavinia",
-        "nl": "Lavinia",
-        "es": "Lavinia",
-        "ru": "Лавиния",
-        "tr": "Lavinia",
-        "ka": "ლავინია",
-        "ko": "라비니아",
-        "it": "Lavinia",
-        "ast": "Lavinia",
-        "ga": "Lavinia",
-        "pl": "Lawinia",
-        "ja": "ラウィーニア",
-        "fa": "لاوینیا (رمان)"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q78496966": {
-      "labels": {
-        "zh": "寻路中国：长城、乡村、工厂，一段见证与观察的纪程",
-        "zh-hant": "尋路中國：長城、鄉村、工廠，一段見證與觀察的紀程",
-        "en": "Country Driving: A Chinese Road Trip",
-        "zh-tw": "Country Driving: A Chinese Road Trip"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q109171045": {
-      "labels": {
-        "en": "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117480358": {
-      "labels": {
-        "en": "Moneyland"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117480347": {
-      "labels": {
-        "en": "Atoms and Ashes"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q25345736": {
-      "labels": {
-        "en": "The Entrepreneurial State",
-        "zh-hant": "創業型國家：揭開公營與私營部門的神話",
-        "ga": "The Entrepreneurial State"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q114397287": {
-      "labels": {
-        "en": "Butler to the World"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117480339": {
-      "labels": {
-        "en": "The Red Virgin and the Vision of Utopia"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q110608207": {
-      "labels": {
-        "en": "Free: Coming of Age at the End of History",
-        "tr": "Özgür (kitap)"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q107490750": {
-      "labels": {
-        "en": "The Anthropocene Reviewed"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q117480335": {
-      "labels": {
-        "en": "Oracle Bones: A Journey Through Time in China"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q41663453": {
-      "labels": {
-        "en": "An Absolutely Remarkable Thing",
-        "sv": "An Absolutely Remarkable Thing",
-        "ga": "An Absolutely Remarkable Thing",
-        "uk": "Ну просто нереальна штука!",
-        "sl": "An Absolutely Remarkable Thing"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q302026": {
-      "labels": {
-        "en": "Surface Detail",
-        "fi": "Pintakuvio",
-        "fr": "Les Enfers virtuels",
-        "de": "Krieg der Seelen",
-        "es": "Detalle superficial",
-        "he": "על פני השטח",
-        "sv": "Surface Detail",
-        "ru": "Несущественная деталь",
-        "ga": "Surface Detail"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q7973159": {
-      "labels": {
-        "en": "Watching the English: the hidden rules of English behaviour",
-        "ru": "Наблюдая за англичанами",
-        "zh": "看這些英國佬",
-        "uk": "Спостерігаючи за англійцями",
-        "cv": "Акăлчансене сăнаса"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q15260619": {
-      "labels": {
-        "pl": "Sezon burz",
-        "ru": "Сезон гроз",
-        "en": "Season of Storms",
-        "it": "Sezon burz",
-        "uk": "Сезон бур",
-        "es": "Estación de tormentas",
-        "cs": "Bouřková sezóna",
-        "fa": "فصل طوفان‌ها",
-        "fr": "La Saison des orages",
-        "zh": "風暴季節",
-        "zh-hans": "风暴季节",
-        "hu": "Viharidő",
-        "mk": "Сезона на бури",
-        "sr": "Сезона олуја",
-        "tr": "Fırtına Mevsimi",
-        "sr-ec": "Сезона олуја",
-        "he": "עונת הסופות",
-        "uz": "Boʻronlar fasli",
-        "ca": "Sezon burz",
-        "ro": "Anotimpul furtunilor",
-        "ast": "Sezon burz"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q105704813": {
-      "labels": {
-        "en": "Klara and the Sun",
-        "es": "Klara y el Sol",
-        "fa": "کلارا و خورشید",
-        "ru": "Клара и Солнце",
-        "it": "Klara e il Sole",
-        "de": "Klara und die Sonne",
-        "hu": "Klara és a Nap",
-        "da": "Klara og solen",
-        "fr": "Klara et le Soleil",
-        "ca": "La Klara i el Sol",
-        "zh": "克拉拉与太阳",
-        "zh-hans": "克拉拉与太阳",
-        "zh-hant": "克拉拉與太陽",
-        "ar": "كلارا والشمس",
-        "pl": "Klara i słońce",
-        "nl": "Klara en de zon",
-        "sv": "Klara och solen",
-        "tr": "Klara ile Güneş",
-        "pt": "Klara e o Sol",
-        "fi": "Klara ja aurinko",
-        "el": "Η Κλάρα και ο ήλιος",
-        "ro": "Klara și Soarele",
-        "bg": "Клара и Слънцето",
-        "lt": "Klara ir Saulė",
-        "uk": "Клара і сонце",
-        "hr": "Klara i Sunce",
-        "et": "Klara ja Päike",
-        "th": "คลาราและดวงอาทิตย์",
-        "cs": "Klára a Slunce",
-        "ko": "클라라와 태양",
-        "ga": "Klara and the Sun",
-        "ka": "კლარა და მზე",
-        "id": "Klara dan Sang Matahari",
-        "he": "קלרה והשמש",
-        "sk": "Klára a Slnko"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q117480313": {
-      "labels": {
-        "en": "Land of Big Numbers"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117480305": {
-      "labels": {
-        "en": "Remote: Office Not Required"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q18217160": {
-      "labels": {
-        "en": "River Town: Two Years on the Yangtze",
-        "zh": "江城",
-        "it": "River Town: Two Years on the Yangtze",
-        "ga": "River Town: Two Years on the Yangtze"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q4113386": {
-      "labels": {
-        "ru": "Владычица Озера",
-        "uk": "Володарка Озера",
-        "pl": "Pani Jeziora",
-        "en": "Lady of the Lake",
-        "cs": "Paní jezera",
-        "it": "La signora del lago",
-        "es": "La Dama del Lago",
-        "pt": "A Senhora do Lago",
-        "pt-br": "A Senhora do Lago",
-        "ar": "سيدة البحيرة",
-        "vi": "Lady of the Lake",
-        "fa": "بانوی دریاچه",
-        "fr": "La Dame du lac",
-        "zh": "獵魔士長篇5：湖之主",
-        "sr": "Господарица језера",
-        "ja": "ウィッチャーV 湖の貴婦人",
-        "tr": "Gölün Hanımı",
-        "mk": "Дамата од езерото (роман на Сапковски)",
-        "he": "גבירת האגם",
-        "uz": "Koʻl xonim (roman)",
-        "ca": "Pani Jeziora",
-        "ro": "Domnița lacului",
-        "ast": "Pani Jeziora"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q4080260": {
-      "labels": {
-        "ru": "Башня Ласточки",
-        "pl": "Wieża Jaskółki",
-        "uk": "Вежа Ластівки",
-        "en": "The Tower of the Swallow",
-        "cs": "Věž vlaštovky",
-        "it": "La torre della rondine",
-        "es": "La torre de la golondrina",
-        "pt": "A Torre da Andorinha",
-        "pt-br": "A Torre da Andorinha",
-        "ar": "برج السنونو",
-        "ka": "მერცხლის კოშკი",
-        "fr": "La Tour de l'hirondelle",
-        "zh": "獵魔士長篇4：燕之塔",
-        "sr": "Ластавичја кула",
-        "ja": "ウィッチャーIV ツバメの塔",
-        "tr": "Kırlangıç Kulesi",
-        "mk": "Кулата на ластовицата",
-        "ca": "Wieża Jaskółki",
-        "nl": "De zwaluwentoren",
-        "de": "Der Schwalbenturm",
-        "bg": "Кулата на лястовицата",
-        "br": "Tour ar gwennili",
-        "be": "Вежа Ластаўкі",
-        "el": "Ο Πύργος του Χελιδονιού",
-        "hu": "Fecske-torony",
-        "lt": "Kregždės bokštas",
-        "sk": "Veža lastovičky",
-        "fi": "Pääskytorni",
-        "sv": "Svalornas torn",
-        "he": "מגדל הסנונית",
-        "nb": "The Tower of the Swallow",
-        "uz": "Qaldirgʻoch minorasi",
-        "ro": "Turnul rândunicii",
-        "ast": "Wieża Jaskółki"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q4240572": {
-      "labels": {
-        "ru": "Крещение огнём",
-        "pl": "Chrzest ognia",
-        "uk": "Хрещення вогнем",
-        "en": "Baptism of Fire",
-        "it": "Il battesimo del fuoco",
-        "cs": "Křest ohněm",
-        "es": "Bautismo de fuego",
-        "pt": "Batismo de Fogo",
-        "pt-br": "Batismo de Fogo",
-        "ar": "معمودية النار",
-        "fa": "غسل تعمید آتش",
-        "fr": "Le Baptême du feu",
-        "zh": "獵魔士長篇3：火之洗禮",
-        "ja": "ウィッチャーIII 炎の洗礼",
-        "sr": "Ватрено крштење",
-        "hu": "Tűzkeresztség",
-        "tr": "Ateşle İmtihan",
-        "mk": "Огнена крштевка",
-        "de": "Feuertaufe",
-        "nl": "De vuurdoop",
-        "br": "Badez an tan",
-        "bg": "Огнено кръщение",
-        "el": "Βάπτισμα Πυρός",
-        "lt": "Krikštas ugnimi",
-        "sk": "Krst ohňom",
-        "fi": "Tulikaste",
-        "sv": "Elddop",
-        "he": "טבילת האש",
-        "ko": "불의 세례",
-        "uz": "Olovga choʻmdirish (roman)",
-        "ca": "Chrzest ognia",
-        "ro": "Botezul focului",
-        "zh-cn": "火之洗礼",
-        "ast": "Chrzest ognia"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q2045474": {
-      "labels": {
-        "pl": "Czas pogardy",
-        "ru": "Час Презрения",
-        "en": "Time of Contempt",
-        "uk": "Час погорди",
-        "it": "Il tempo della guerra",
-        "cs": "Čas opovržení",
-        "es": "Tiempo de odio",
-        "pt": "Tempo do Desprezo",
-        "nl": "De jaren van verachting",
-        "pt-br": "Tempo do Desprezo",
-        "ar": "زمن الازدراء",
-        "ka": "ზიზღის ჟამი",
-        "fa": "موعد تحقیر",
-        "tr": "Nefret Çağı",
-        "fr": "Le Temps du mépris",
-        "zh": "獵魔士長篇2：蔑視時代",
-        "sr": "Време презира",
-        "ja": "ウィッチャーII 屈辱の刻",
-        "hu": "A megvetés ideje",
-        "mk": "Време на презир",
-        "ca": "Czas pogardy",
-        "da": "Foragtens tid",
-        "br": "Amzer ar c'hounnar",
-        "de": "Die Zeit der Verachtung",
-        "bg": "Време на презрение",
-        "el": "Οι Καιροί της Περιφρόνησης",
-        "et": "Põlguse aeg",
-        "lt": "Paniekos metas",
-        "sk": "Čas opovrhnutia",
-        "fi": "Halveksunnan aika",
-        "sv": "Föraktets tid",
-        "ro": "Vremea disprețului",
-        "he": "זמן הזילות",
-        "nb": "Time of Contempt",
-        "uz": "Nafratlanish vaqti",
-        "ast": "Czas pogardy"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q114051423": {
-      "labels": {
-        "en": "The Walker's Guide to Outdoor Clues and Signs"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q98686638": {
-      "labels": {
-        "en": "Entangled Life",
-        "es": "La red oculta de la vida",
-        "de": "Verwobenes Leben",
-        "et": "Läbipõimunud elu",
-        "zh": "纠缠的生命"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q107316509": {
-      "labels": {
-        "en": "Leviathan Falls",
-        "fr": "La Chute du Léviathan",
-        "pt": "Leviatã Adormece",
-        "ga": "Leviathan Falls",
-        "ru": "Падение Левиафана",
-        "pl": "Upadek Lewiatana",
-        "it": "Leviathan Falls - Scontro finale"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q117480103": {
-      "labels": {
-        "en": "The Peregrine"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q684818": {
-      "labels": {
-        "it": "Matter",
-        "de": "Sphären",
-        "en": "Matter",
-        "fi": "Matter",
-        "fr": "Trames",
-        "es": "Materia",
-        "de-ch": "Sphären",
-        "en-ca": "Matter",
-        "en-gb": "Matter",
-        "nl": "Matter",
-        "sv": "Matter",
-        "ru": "Материя",
-        "ga": "Matter"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q951587": {
-      "labels": {
-        "pl": "Nie opuszczaj mnie",
-        "de": "Alles, was wir geben mussten",
-        "en": "Never Let Me Go",
-        "es": "Nunca me abandones",
-        "fa": "هرگز رهایم مکن",
-        "fi": "Ole luonani aina",
-        "fr": "Auprès de moi toujours",
-        "gl": "Non me deixes nunca",
-        "is": "Slepptu mér aldrei",
-        "it": "Non lasciarmi",
-        "ja": "わたしを離さないで",
-        "ru": "Не отпускай меня",
-        "vi": "Mãi Đừng Xa Tôi",
-        "zh": "別讓我走",
-        "id": "Never Let Me Go",
-        "tyv": "Мени салба (ном)",
-        "sv": "Never Let Me Go",
-        "uk": "Не відпускай мене",
-        "ko": "나를 보내지 마",
-        "af": "Never Let Me Go",
-        "ca": "No em deixis mai",
-        "nl": "Laat me nooit alleen",
-        "nb": "Never Let Me Go",
-        "ar": "لا تدعني أذهب أبداً",
-        "hy": "Չթողնես ինձ երբեք",
-        "ky": "Мени эч качан коё бербе",
-        "en-gb": "Never Let Me Go",
-        "da": "Slip mig aldrig",
-        "sr": "Не дај ми никада да одем",
-        "be": "Не адпускай мяне",
-        "ka": "არასოდეს გამიშვა",
-        "zh-hans": "莫失莫忘",
-        "zh-hant": "別讓我走",
-        "tr": "Beni Asla Bırakma",
-        "ro": "Să nu mă părăsești",
-        "pt": "Não Me Abandone Jamais",
-        "lt": "Neleisk man išeiti",
-        "el": "Μη μ' αφήσεις ποτέ",
-        "cs": "Neopouštěj mě",
-        "et": "Ära lase mul minna",
-        "hr": "Nikad me ne ostavljaj",
-        "hu": "Ne engedj el…",
-        "lv": "Neļauj man aiziet",
-        "he": "לעולם אל תיתן לי ללכת",
-        "th": "แผลลึกหัวใจสลาย",
-        "az": "Məni heç vaxt tərk etmə",
-        "uz": "Never Let Me Go",
-        "ga": "Never Let Me Go"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q7751674": {
-      "labels": {
-        "en": "The Mirror and the Light",
-        "es": "The Mirror and the Light",
-        "ar": "المرآة والضوء",
-        "zh": "镜与光",
-        "ru": "Зеркало и свет",
-        "fa": "آینه و نور",
-        "ja": "鏡と光",
-        "ca": "The Mirror and the Light",
-        "ast": "The Mirror and the Light"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q108899582": {
-      "labels": {
-        "en": "Shutdown: How Covid Shook the World's Economy"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q117480269": {
-      "labels": {
-        "en": "Almost Human: The Astonishing Tale of Homo Naledi and the Discovery That Changed Our Human Story"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q884010": {
-      "labels": {
-        "fi": "Tähystä tuulenpuolta",
-        "fr": "Le Sens du vent",
-        "en": "Look to Windward",
-        "de": "Blicke windwärts",
-        "it": "Volgi lo sguardo al vento",
-        "es": "A barlovento",
-        "nl": "Look to Windward",
-        "he": "הבט אל הרוח",
-        "ru": "Взгляд с наветренной стороны",
-        "sv": "Look to Windward",
-        "ga": "Look to Windward"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q85803121": {
-      "labels": {
-        "en": "Stalingrad",
-        "ru": "За правое дело",
-        "fr": "Pour une juste cause"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q7771354": {
-      "labels": {
-        "en": "The Undercover Economist",
-        "it": "L'economista mascherato",
-        "ga": "The Undercover Economist",
-        "he": "הכלכלן הסמוי"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q666405": {
-      "labels": {
-        "de": "Inversionen",
-        "fr": "Inversions",
-        "en": "Inversions",
-        "hu": "Ellentétek",
-        "nl": "Inversions",
-        "es": "Inversiones",
-        "he": "התהפכויות",
-        "sv": "Inversions",
-        "fi": "Inversions",
-        "ga": "Inversions",
-        "ru": "Инверсии",
-        "it": "Inversioni"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q117480255": {
-      "labels": {
-        "en": "Mine! How the Hidden Rules of Ownership Rule Our Lives"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q3294969": {
-      "labels": {
-        "fr": "Mars la rouge",
-        "en": "Red Mars",
-        "de": "Roter Mars",
-        "es": "Marte rojo",
-        "pl": "Czerwony Mars",
-        "cs": "Rudý Mars",
-        "zh": "紅火星",
-        "ro": "Marte roșu",
-        "uk": "Червоний Марс",
-        "ja": "レッド・マーズ",
-        "ru": "Красный Марс"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q11889107": {
-      "labels": {
-        "fi": "Puolipäivän riitit",
-        "en": "Adulthood Rites",
-        "ko": "성인식",
-        "ga": "Adulthood Rites",
-        "tr": "Erginlenme Ritüelleri"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q114051368": {
-      "labels": {
-        "en": "A Thousand Days of Wonder"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117480240": {
-      "labels": {
-        "en": "Exercised: the Science of Physical Activity, Rest and Health"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q15909011": {
-      "labels": {
-        "zh": "球状闪电",
-        "ja": "球電",
-        "en": "Ball Lightning",
-        "pt": "Ball Lightning",
-        "de": "Kugelblitz",
-        "fr": "Boule de foudre"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q114051789": {
-      "labels": {
-        "en": "The Red Kite"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q114051689": {
-      "labels": {
-        "en": "The Red Kite's Year"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q9321397": {
-      "labels": {
-        "fi": "Aamunkoitto",
-        "en": "Dawn",
-        "it": "Ultima genesi",
-        "de": "Dämmerung",
-        "ga": "Dawn",
-        "fr": "L'Aube",
-        "tr": "Şafak"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q74362": {
-      "labels": {
-        "en": "Excession",
-        "en-ca": "Excession",
-        "en-gb": "Excession",
-        "de": "Exzession",
-        "de-ch": "Exzession",
-        "fr": "Excession",
-        "hu": "Holtpont",
-        "it": "L'altro universo",
-        "es": "Excesión",
-        "ca": "Excession",
-        "oc": "Excession",
-        "nl": "Excession",
-        "he": "התעלות",
-        "eo": "Excession",
-        "ar": "الخارق (رواية خيال علمي)",
-        "sv": "Excession",
-        "fi": "Excession",
-        "ru": "Эксцессия",
-        "ja": "Excession",
-        "ga": "Excession"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q30887961": {
-      "labels": {
-        "it": "Lo stato dell'arte",
-        "en": "The State of the Art",
-        "es": "Última generación",
-        "ga": "The State of the Art"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q339923": {
-      "labels": {
-        "de": "Einsatz der Waffen",
-        "en": "Use of Weapons",
-        "es": "El uso de las armas",
-        "fi": "Aseiden käyttö",
-        "fr": "L'Usage des armes",
-        "hu": "Fegyver a kézben",
-        "it": "La guerra di Zakalwe",
-        "de-ch": "Einsatz der Waffen",
-        "en-ca": "Use of Weapons",
-        "en-gb": "Use of Weapons",
-        "nl": "Use of Weapons",
-        "he": "שימוש בנשק",
-        "ru": "Выбор оружия",
-        "ro": "Folosirea armelor",
-        "sv": "Use of Weapons",
-        "ga": "Use of Weapons",
-        "pl": "Najemnik"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q467139": {
-      "labels": {
-        "fr": "L'Homme des jeux",
-        "en": "The Player of Games",
-        "de": "Das Spiel Azad",
-        "it": "L'impero di Azad",
-        "es": "El jugador",
-        "hu": "A játékmester",
-        "de-ch": "Das Spiel Azad",
-        "en-ca": "The Player of Games",
-        "en-gb": "The Player of Games",
-        "nl": "The Player of Games",
-        "uk": "Гравець ігор",
-        "ru": "Игрок",
-        "ro": "Jucătorul total",
-        "sv": "The Player of Games",
-        "fi": "The Player of Games",
-        "ar": "لاعب الألعاب",
-        "ko": "게임의 명수",
-        "ga": "The Player of Games"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q54488606": {
-      "labels": {
-        "en": "This Is Going to Hurt",
-        "pl": "Będzie bolało",
-        "fa": "این درد داره",
-        "ga": "This Is Going to Hurt",
-        "ar": "هذا الكتاب سيؤلمك"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q261728": {
-      "labels": {
-        "hu": "Emlékezz Phlebasra",
-        "de": "Bedenke Phlebas",
-        "en": "Consider Phlebas",
-        "es": "Pensad en Flebas",
-        "fi": "Muista Flebasta",
-        "fr": "Une forme de guerre",
-        "it": "Pensa a Fleba",
-        "uk": "Пам'ятай про Флеба",
-        "ro": "Spectrul lui Phlebas",
-        "de-ch": "Bedenke Phlebas",
-        "en-ca": "Consider Phlebas",
-        "en-gb": "Consider Phlebas",
-        "nl": "Consider Phlebas",
-        "he": "חשבו על פלבאס",
-        "ru": "Вспомни о Флебе",
-        "sv": "Consider Phlebas",
-        "tr": "Phlebas'ı Hatırla",
-        "ga": "Consider Phlebas",
-        "fa": "به فلباس بیندیش"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q107107590": {
-      "labels": {
-        "en": "Kindred"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q3235393": {
-      "labels": {
-        "en": "Half of a Yellow Sun",
-        "sv": "En halv gul sol",
-        "fa": "نیمی از یک خورشید زرد",
-        "ru": "Половина жёлтого солнца",
-        "hy": "Դեղին արևի կեսը",
-        "ja": "半分のぼった黄色い太陽",
-        "ko": "태양은 노랗게 타오른다",
-        "da": "En halv gul sol",
-        "he": "חצי שמש צהובה",
-        "cy": "Half of a Yellow Sun",
-        "fr": "L'Autre Moitié du soleil",
-        "fi": "Puolikas keltaista aurinkoa",
-        "el": "Δακρυσμένος ήλιος",
-        "sr": "Пола жутог сунца",
-        "nb": "En halv gul sol",
-        "en-ca": "Half of a Yellow Sun",
-        "en-gb": "Half of a Yellow Sun",
-        "it": "Metà di un sole giallo",
-        "ca": "Half of a Yellow Sun",
-        "bn": "হাফ অব আ ইয়েলো সান",
-        "es": "Medio sol amarillo",
-        "zh": "半轮黄日",
-        "et": "Pool kollast Päikest",
-        "pl": "Połówka żółtego słońca",
-        "ig": "Half a Yellow Sun",
-        "ga": "Half a yellow sun",
-        "ha": "Half of a Yellow Sun",
-        "ar": "نصف شمس صفراء"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q104093629": {
-      "labels": {
-        "en": "October"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q117480103": {
-      "labels": {
-        "en": "The Peregrine"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q80943751": {
-      "labels": {
-        "en": "Crashed: How a Decade of Financial Crises Changed the World",
-        "ga": "Crashed: How a Decade of Financial Crises Changed the World"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117480025": {
-      "labels": {
-        "en": "Life on Earth"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q117479981": {
-      "labels": {
-        "en": "The Book of Trespass"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q114051110": {
-      "labels": {
-        "en": "Quest in Paradise"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q114051065": {
-      "labels": {
-        "en": "Zoo Quest for a Dragon"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q114051049": {
-      "labels": {
-        "en": "Quest Under Capricorn"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q114051028": {
-      "labels": {
-        "en": "David Attenborough's New Life Stories"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q98178602": {
-      "labels": {
-        "ru": "Атомные привычки",
-        "en": "Atomic Habits",
-        "uk": "Атомні Звички",
-        "id": "Atomic Habits",
-        "sl": "Atomske navade"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q54489223": {
-      "labels": {
-        "en": "Who We Are and How We Got Here",
-        "en-ca": "Who We Are and How We Got Here",
-        "en-gb": "Who We Are and How We Got Here",
-        "uk": "Хто ми такі? Походження людини крізь призму ДНК (книга)",
-        "ga": "Who We Are and How We Got Here"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q3644822": {
-      "labels": {
-        "en": "Bring Up the Bodies",
-        "it": "Anna Bolena, una questione di famiglia",
-        "nl": "Bring Up the Bodies",
-        "fr": "Bring Up the Bodies",
-        "es": "Una reina en el estrado",
-        "fa": "اجساد را بیاورید",
-        "af": "Bring Up the Bodies",
-        "ja": "罪人を召し出せ",
-        "pt": "Bring Up the Bodies",
-        "ru": "Внесите тела",
-        "he": "הביאו את הגופות",
-        "zh": "狼廳二部曲：提堂",
-        "da": "Bring Up the Bodies",
-        "sv": "För in de döda",
-        "ar": "أخرجوا الجثث",
-        "ast": "Bring Up the Bodies",
-        "ca": "Bring Up the Bodies"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q21189971": {
-      "labels": {
-        "it": "La canzone di Achille",
-        "en": "The Song of Achilles",
-        "de": "Das Lied des Achill",
-        "es": "La canción de Aquiles",
-        "et": "Achilleuse laul",
-        "fr": "Le Chant d'Achille",
-        "sr": "Ахилов пев",
-        "mk": "Ахиловата песна",
-        "zh": "阿基里斯之歌",
-        "ga": "The Song of Achilles",
-        "hu": "Akhilleusz dala",
-        "id": "Nyanyian Achilles",
-        "pt": "A Canção de Aquiles",
-        "pl": "Pieśń o Achillesie",
-        "ar": "اغنية أخيل",
-        "eu": "The Song of Achilles"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q43625060": {
-      "labels": {
-        "en": "A Closed and Common Orbit",
-        "id": "A Closed and Common Orbit",
-        "es": "Una órbita cerrada y compartida",
-        "fr": "Libration",
-        "ga": "A Closed and Common Orbit"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q117479942": {
-      "labels": {
-        "en": "The Doors of Eden"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q7733522": {
-      "labels": {
-        "ar": "السنوات السمان",
-        "en": "The Fat Years",
-        "nl": "The Fat Years",
-        "zh": "盛世 中國 2013年",
-        "ca": "Anys de prosperitat"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117479922": {
-      "labels": {
-        "en": "Peter Scott: Collected Writings, 1933-1989"
-      },
-      "Missing Mandatory": [
-        "P577",
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q95075560": {
-      "labels": {
-        "en": "The City We Became",
-        "es": "La ciudad que nos unió",
-        "fr": "Genèse de la cité",
-        "ko": "우리는 도시가 된다",
-        "ga": "The City We Became",
-        "pl": "Miasto, którym się staliśmy",
-        "de": "Die Wächterinnen von New York"
-      },
-      "Missing Mandatory": [
-        "P577"
-      ]
-    }
-  },
-  {
-    "Q30608520": {
-      "labels": {
-        "en": "Lovecraft Country",
-        "ru": "Страна Лавкрафта",
-        "zh": "洛夫克拉夫特之鄉：逃出絕命村",
-        "fr": "Lovecraft Country",
-        "de": "Lovecraft Country",
-        "he": "ארץ לאבקראפט",
-        "pl": "Kraina Lovecrafta (powieść)",
-        "ko": "러브크래프트 컨트리",
-        "yue": "洛夫卡拉夫特之國",
-        "ga": "Lovecraft Country",
-        "hy": "Լավքրաֆթի երկիր"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117479865": {
-      "labels": {
-        "en": "Vesper Flights"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q16204596": {
-      "labels": {
-        "en": "MaddAddam",
-        "nl": "MaddAddam",
-        "fi": "Uusi maa",
-        "af": "MaddAddam",
-        "fr": "MaddAddam",
-        "ca": "MaddAddam",
-        "ar": "آدم المجنون",
-        "he": "אדם האחרון",
-        "de": "Die Geschichte von Zeb",
-        "fa": "آدام دیوانه",
-        "ko": "미친 아담",
-        "ga": "MaddAddam",
-        "sv": "MaddAddam",
-        "it": "L'altro inizio"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q91452788": {
-      "labels": {
-        "zh": "方方日記",
-        "en": "Wuhan Diary",
-        "ja": "武漢日記",
-        "id": "Wuhan Diary",
-        "ca": "Wuhan Diary"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117479850": {
-      "labels": {
-        "en": "Zita the Spacegirl"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q29832540": {
-      "labels": {
-        "en": "Will Save the Galaxy for Food",
-        "ga": "Will Save the Galaxy for Food"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q117479841": {
-      "labels": {
-        "en": "Greetings from Bury Park"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q29344605": {
-      "labels": {
-        "en": "The Collapsing Empire",
-        "fi": "The Collapsing Empire",
-        "es": "El fin del imperio",
-        "fr": "L'Effondrement de l'empire",
-        "it": "Il collasso dell'Impero",
-        "ko": "무너지는 제국",
-        "pl": "Upadające imperium",
-        "ro": "Prăbușirea Imperiului",
-        "ja": "星間帝国の皇女 ラスト・エンペロー",
-        "ar": "الإمبراطورية المنهارة",
-        "ga": "The Collapsing Empire"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q60749168": {
-      "labels": {
-        "en": "The Consuming Fire",
-        "ko": "타오르는 화염",
-        "fr": "Les Flammes de l'empire",
-        "ro": "Foc mistuitor",
-        "ga": "The Consuming Fire",
-        "pl": "Imperium w płomieniach"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q96075523": {
-      "labels": {
-        "en": "The Good Immigrant"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q61064573": {
-      "labels": {
-        "fa": "دختر تحصیلکرده",
-        "en": "Educated",
-        "fr": "Educated",
-        "ru": "Ученица",
-        "da": "Oplyst",
-        "id": "Terdidik",
-        "zh": "你当像鸟飞往你的山",
-        "ar": "المتعلمة"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q85802021": {
-      "labels": {
-        "en": "Something Deeply Hidden",
-        "zh": "隐藏的宇宙：量子世界与时空涌现"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  },
-  {
-    "Q62992042": {
-      "labels": {
-        "en": "Middle England",
-        "de": "Middle England",
-        "fr": "Le Cœur de l'Angleterre",
-        "ga": "Middle England",
-        "es": "El corazón de Inglaterra"
-      },
-      "Missing Mandatory": [
-        "P747"
-      ]
-    }
-  }
-]
+{
+  "available": [
+    {
+      "Q60749168": {
+        "labels": {
+          "en": "The Consuming Fire"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q54489223": {
+        "labels": {
+          "en": "Who We Are and How We Got Here"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q65063529": {
+        "labels": {
+          "en": "Where the Crawdads Sing"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q62992042": {
+        "labels": {
+          "en": "Middle England"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q85802021": {
+        "labels": {
+          "en": "Something Deeply Hidden"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q61064573": {
+        "labels": {
+          "en": "Educated"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2657795": {
+        "labels": {
+          "en": "Wolf Hall"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q41663451": {
+        "labels": {
+          "en": "The Long Way to a Small, Angry Planet"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q39050412": {
+        "labels": {
+          "en": "Why I’m No Longer Talking to White People About Race"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q17001721": {
+        "labels": {
+          "en": "Ancillary Justice"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2032398": {
+        "labels": {
+          "en": "Oryx and Crake"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q96075523": {
+        "labels": {
+          "en": "The Good Immigrant"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q29832540": {
+        "labels": {
+          "en": "Will Save the Galaxy for Food"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q17989172": {
+        "labels": {
+          "en": "Ancillary Sword"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q18003141": {
+        "labels": {
+          "en": "Ancillary Mercy"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q29344605": {
+        "labels": {
+          "en": "The Collapsing Empire"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q829934": {
+        "labels": {
+          "en": "The Remains of the Day"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117479850": {
+        "labels": {
+          "en": "Zita the Spacegirl"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117479841": {
+        "labels": {
+          "en": "Greetings from Bury Park"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q91452788": {
+        "labels": {
+          "en": "Wuhan Diary"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q4352956": {
+        "labels": {
+          "en": "The Year of the Flood"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117479865": {
+        "labels": {
+          "en": "Vesper Flights"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q16204596": {
+        "labels": {
+          "en": "MaddAddam"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q30608520": {
+        "labels": {
+          "en": "Lovecraft Country"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2447776": {
+        "labels": {
+          "en": "The Word for World Is Forest"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117479922": {
+        "labels": {
+          "en": "Peter Scott: Collected Writings, 1933-1989"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q95075560": {
+        "labels": {
+          "en": "The City We Became"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {},
+    {
+      "Q7733522": {
+        "labels": {
+          "en": "The Fat Years"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117479942": {
+        "labels": {
+          "en": "The Doors of Eden"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q43625060": {
+        "labels": {
+          "en": "A Closed and Common Orbit"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q21189971": {
+        "labels": {
+          "en": "The Song of Achilles"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q3644822": {
+        "labels": {
+          "en": "Bring Up the Bodies"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q98178602": {
+        "labels": {
+          "en": "Atomic Habits"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114051028": {
+        "labels": {
+          "en": "David Attenborough's New Life Stories"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114051049": {
+        "labels": {
+          "en": "Quest Under Capricorn"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114051110": {
+        "labels": {
+          "en": "Quest in Paradise"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114051065": {
+        "labels": {
+          "en": "Zoo Quest for a Dragon"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117479981": {
+        "labels": {
+          "en": "The Book of Trespass"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480025": {
+        "labels": {
+          "en": "Life on Earth"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q80943751": {
+        "labels": {
+          "en": "Crashed: How a Decade of Financial Crises Changed the World"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480103": {
+        "labels": {
+          "en": "The Peregrine"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q104093629": {
+        "labels": {
+          "en": "October"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q1115619": {
+        "labels": {
+          "en": "The Queen's Gambit"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q3235393": {
+        "labels": {
+          "en": "Half of a Yellow Sun"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q261728": {
+        "labels": {
+          "en": "Consider Phlebas"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q54488606": {
+        "labels": {
+          "en": "This Is Going to Hurt"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q467139": {
+        "labels": {
+          "en": "The Player of Games"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q339923": {
+        "labels": {
+          "en": "Use of Weapons"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q30887961": {
+        "labels": {
+          "en": "The State of the Art"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q9321397": {
+        "labels": {
+          "en": "Dawn"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q74362": {
+        "labels": {
+          "en": "Excession"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114051689": {
+        "labels": {
+          "en": "The Red Kite's Year"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q15909011": {
+        "labels": {
+          "en": "Ball Lightning"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114051789": {
+        "labels": {
+          "en": "The Red Kite"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480240": {
+        "labels": {
+          "en": "Exercised: the Science of Physical Activity, Rest and Health"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q106852836": {
+        "labels": {
+          "en": "Project Hail Mary"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q320372": {
+        "labels": {
+          "en": "The Plague"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156"
+        ],
+        "Optional": [
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114051368": {
+        "labels": {
+          "en": "A Thousand Days of Wonder"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q11889107": {
+        "labels": {
+          "en": "Adulthood Rites"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q3294969": {
+        "labels": {
+          "en": "Red Mars"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480255": {
+        "labels": {
+          "en": "Mine! How the Hidden Rules of Ownership Rule Our Lives"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q835341": {
+        "labels": {
+          "en": "2001: A Space Odyssey"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P840",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q666405": {
+        "labels": {
+          "en": "Inversions"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q7771354": {
+        "labels": {
+          "en": "The Undercover Economist"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q884010": {
+        "labels": {
+          "en": "Look to Windward"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480269": {
+        "labels": {
+          "en": "Almost Human: The Astonishing Tale of Homo Naledi and the Discovery That Changed Our Human Story"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q85803121": {
+        "labels": {
+          "en": "Stalingrad"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q108899582": {
+        "labels": {
+          "en": "Shutdown: How Covid Shook the World's Economy"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q7751674": {
+        "labels": {
+          "en": "The Mirror and the Light"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q951587": {
+        "labels": {
+          "en": "Never Let Me Go"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q684818": {
+        "labels": {
+          "en": "Matter"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114051423": {
+        "labels": {
+          "en": "The Walker's Guide to Outdoor Clues and Signs"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q107316509": {
+        "labels": {
+          "en": "Leviathan Falls"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q98686638": {
+        "labels": {
+          "en": "Entangled Life"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q107107590": {
+        "labels": {
+          "en": "Kindred"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2652386": {
+        "labels": {
+          "en": "Blood of Elves"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2045474": {
+        "labels": {
+          "en": "Time of Contempt"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q4240572": {
+        "labels": {
+          "en": "Baptism of Fire"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q4080260": {
+        "labels": {
+          "en": "The Tower of the Swallow"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q4113386": {
+        "labels": {
+          "en": "Lady of the Lake"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q18217160": {
+        "labels": {
+          "en": "River Town: Two Years on the Yangtze"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480305": {
+        "labels": {
+          "en": "Remote: Office Not Required"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480313": {
+        "labels": {
+          "en": "Land of Big Numbers"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q105704813": {
+        "labels": {
+          "en": "Klara and the Sun"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q7973159": {
+        "labels": {
+          "en": "Watching the English: the hidden rules of English behaviour"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480545": {
+        "labels": {
+          "en": "Follow the Money"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q15260619": {
+        "labels": {
+          "en": "Season of Storms"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q107490750": {
+        "labels": {
+          "en": "The Anthropocene Reviewed"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q302026": {
+        "labels": {
+          "en": "Surface Detail"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480339": {
+        "labels": {
+          "en": "The Red Virgin and the Vision of Utopia"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q110608207": {
+        "labels": {
+          "en": "Free: Coming of Age at the End of History"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480335": {
+        "labels": {
+          "en": "Oracle Bones: A Journey Through Time in China"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114397287": {
+        "labels": {
+          "en": "Butler to the World"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480347": {
+        "labels": {
+          "en": "Atoms and Ashes"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q25345736": {
+        "labels": {
+          "en": "The Entrepreneurial State"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480358": {
+        "labels": {
+          "en": "Moneyland"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q78496966": {
+        "labels": {
+          "en": "Country Driving: A Chinese Road Trip"
+        },
+        "Missing Mandatory": [
+          "P577",
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2811112": {
+        "labels": {
+          "en": "Lavinia"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q109967298": {
+        "labels": {
+          "en": "The Right to Sex"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q111954893": {
+        "labels": {
+          "en": "Moon Witch, Spider King"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480397": {
+        "labels": {
+          "en": "The Data-Centric Revolution"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q82566838": {
+        "labels": {
+          "en": "A Memory Called Empire"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q7741197": {
+        "labels": {
+          "en": "The Hydrogen Sonata"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123915777": {
+        "labels": {
+          "en": "Ultra-Processed People"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123915755": {
+        "labels": {
+          "en": "Rebirding"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480516": {
+        "labels": {
+          "en": "Children of Memory"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q105722561": {
+        "labels": {
+          "en": "A Desolation Called Peace"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q124273504": {
+        "labels": {
+          "en": "Back to nature"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480535": {
+        "labels": {
+          "en": "God, Human, Animal, Machine"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117478258": {
+        "labels": {},
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480560": {
+        "labels": {
+          "en": "Fracture: The collision between technology and democracy and how we fix it"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q117480568": {
+        "labels": {
+          "en": "Why We Get The Wrong Politicians"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q116872080": {
+        "labels": {
+          "en": "The Big Con"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q1771810": {
+        "labels": {
+          "en": "A Wizard of Earthsea"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q118550925": {
+        "labels": {
+          "en": "Why Politics Fails: The Five Traps of the Modern World and How to Escape Them"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2070380": {
+        "labels": {
+          "en": "The Tombs of Atuan"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2288175": {
+        "labels": {
+          "en": "The Farthest Shore"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q119976210": {
+        "labels": {
+          "en": "Everyday Utopia"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q120235408": {
+        "labels": {
+          "en": "How to Be Animal"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2261855": {
+        "labels": {
+          "en": "Tehanu"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q120728921": {
+        "labels": {
+          "en": "Radical Help"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2499675": {
+        "labels": {
+          "en": "Tales from Earthsea"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q717326": {
+        "labels": {
+          "en": "The Other Wind"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q122070561": {
+        "labels": {
+          "en": "Feng Shui Modern"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q15975187": {
+        "labels": {
+          "en": "Migraine"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q122070534": {
+        "labels": {
+          "en": "Good Strategy/Bad Strategy"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q2006866": {
+        "labels": {
+          "en": "The Human Condition"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q54489094": {
+        "labels": {
+          "en": "The Secret Barrister"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q121880088": {
+        "labels": {
+          "en": "Empireland"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q16547846": {
+        "labels": {
+          "en": "Understanding Power:  The Indispensable Chomsky"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q514694": {
+        "labels": {
+          "en": "Homage to Catalonia"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q120482895": {
+        "labels": {
+          "en": "Translation State"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q122810966": {
+        "labels": {
+          "en": "The Lost Rainforests of Britain"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q48801122": {
+        "labels": {
+          "en": "Feral"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q122903068": {
+        "labels": {
+          "en": "Green and Prosperous Land"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q122924535": {
+        "labels": {
+          "en": "Regenesis: Feeding the World without Devouring the Planet"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q122998129": {
+        "labels": {
+          "en": "Trees and woodlands in the British Landscape"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q122969865": {
+        "labels": {
+          "en": "Animals in focus"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q122961060": {
+        "labels": {
+          "en": "The BBC Naturalist"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123693041": {
+        "labels": {
+          "en": "Technofeudalism: What Killed Capitalism"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123916852": {
+        "labels": {
+          "en": "Journeys in the Wild: The Secret Life of a Cameraman"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123916842": {
+        "labels": {
+          "en": "Material World: A Substantial Story of Our Past and Future"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123478630": {
+        "labels": {
+          "en": "How to Blow Up a Pipeline"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123916792": {
+        "labels": {
+          "en": "Reflections: What wildlife needs and how to provide it"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q913804": {
+        "labels": {
+          "en": "The Making of the English Working Class"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123916686": {
+        "labels": {
+          "en": "The Internet Con: How to Seize the Means of Computation"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q106771034": {
+        "labels": {
+          "en": "Invisible Women: Exposing Data Bias in a World Designed for Men"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123916482": {
+        "labels": {
+          "en": "These Burning Stars"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q124272968": {
+        "labels": {
+          "en": "Wilding"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q114948604": {
+        "labels": {
+          "en": "Cinema Speculation"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q124274261": {
+        "labels": {
+          "en": "Not the End of the World"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q104570068": {
+        "labels": {
+          "en": "The Old Ways"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q124822936": {
+        "labels": {
+          "en": "Children of Ash and Elm"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q652350": {
+        "labels": {
+          "en": "Call for the Dead"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q1305005": {
+        "labels": {
+          "en": "A Murder of Quality"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q268112": {
+        "labels": {
+          "en": "The Looking Glass War"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q109996684": {
+        "labels": {
+          "en": "Clean Code"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q125055054": {
+        "labels": {
+          "en": "Clean Architecture"
+        },
+        "Missing Mandatory": [
+          "P407"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q75804726": {
+        "labels": {},
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q133305848": {
+        "labels": {
+          "en": "Careless People"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q123269684": {
+        "labels": {
+          "en": "Recent estimates of the abundances of the elements in the earth's crust"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q125618921": {
+        "labels": {
+          "en": "Las \"Carceri\" de Giovanni Battista Piranesi. Entre clasicismo y romanticismo"
+        },
+        "Missing Mandatory": [
+          "P577"
+        ],
+        "Mandatory if applicable": [
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P136",
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q4658878": {
+        "labels": {
+          "en": "A Place of Greater Safety"
+        },
+        "Missing Mandatory": [
+          "P747"
+        ],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P921",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    },
+    {
+      "Q77256555": {
+        "labels": {
+          "en": "The War on Normal People"
+        },
+        "Missing Mandatory": [],
+        "Mandatory if applicable": [
+          "P1680",
+          "P767",
+          "P155",
+          "P156",
+          "P571"
+        ],
+        "Optional": [
+          "P135",
+          "P674",
+          "P840",
+          "P144",
+          "P941"
+        ]
+      }
+    }
+  ]
+}
