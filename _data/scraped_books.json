@@ -1,0 +1,4547 @@
+{
+  "_books/2018-09-16-the-consuming-fire.md": {
+    "date_finished": "2020-08-16T00:00:00Z",
+    "review_url": "/review/book/2020/11/06/the-consuming-fire/",
+    "authors": [
+      "John Scalzi"
+    ],
+    "series_entry": "Book 2",
+    "year_published": 2018,
+    "date_started": "2018-09-16T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q60749168",
+    "series": "The Interdependency",
+    "format": {
+      "aisn": "B07HNM8X4Y",
+      "narrators": [
+        "Wil Wheaton"
+      ],
+      "date_released": "2018-10-16T00:00:00Z",
+      "date_purchased": "2020-06-30T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "8 hours and 19 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "year_released": 2018
+    },
+    "title": "The Consuming Fire",
+    "rating": 2,
+    "date_published": "2018-09-16T00:00:00Z"
+  },
+  "_books/2018-10-01-who-we-are-and-how-we-got-here.md": {
+    "date_finished": "2020-12-28T00:00:00Z",
+    "review_url": "/review/book/2021/04/28/who-we-are-and-how-we-got-here/",
+    "authors": [
+      "David Reich"
+    ],
+    "year_published": 2018,
+    "date_started": "2018-10-01T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q54489223",
+    "format": {
+      "aisn": "B07DNH1BKS",
+      "narrators": [
+        "John Lescault"
+      ],
+      "date_released": "2018-06-18T00:00:00Z",
+      "date_purchased": "2018-09-18T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "10 hrs and 50 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Blackstone Audio, Inc."
+      },
+      "year_released": 2018
+    },
+    "title": "Who We Are and How We Got Here",
+    "rating": 5,
+    "date_published": "2018-06-18T00:00:00Z"
+  },
+  "_books/2018-11-08-where-the-crawdads-sing.md": {
+    "date_finished": "2020-11-26T00:00:00Z",
+    "review_url": "/review/book/2021/04/28/where-the-crawdads-sing/",
+    "authors": [
+      "Delia Owens"
+    ],
+    "year_published": 2018,
+    "date_started": "2018-11-08T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q65063529",
+    "format": {
+      "narrators": [
+        "Cassandra Campbell"
+      ],
+      "date_released": "2018-11-08T00:00:00Z",
+      "date_purchased": "2020-08-20T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "12 hrs and 12 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2018
+    },
+    "title": "Where the Crawdads Sing",
+    "rating": 3,
+    "date_published": "2018-08-14T00:00:00Z"
+  },
+  "_books/2020-01-01-middle-england.md": {
+    "date_finished": "2020-01-16T00:00:00Z",
+    "review_url": "/review/book/2020/12/07/middle-england/",
+    "authors": [
+      "Jonathan Coe"
+    ],
+    "series_entry": "Book 3",
+    "year_published": 2019,
+    "date_started": "2020-01-01T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q62992042",
+    "series": "Rotters' Club",
+    "format": {
+      "type": "Paperback",
+      "aisn": 1596434465,
+      "isbn": "0241983681",
+      "isbn13": "978-0241983683",
+      "publisher": {
+        "name": "Penguin"
+      },
+      "language": "English",
+      "pages": 432
+    },
+    "title": "Middle England",
+    "rating": 3,
+    "date_published": "2019-06-04T00:00:00Z"
+  },
+  "_books/2020-02-11-something-deeply-hidden.md": {
+    "date_finished": "2020-04-06T00:00:00Z",
+    "review_url": "/review/book/2020/12/03/something-deeply-hidden/",
+    "authors": [
+      "Sean Carroll"
+    ],
+    "full_title": "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime",
+    "year_published": 2019,
+    "date_started": "2020-02-11T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q85802021",
+    "format": {
+      "aisn": "B07QTBYGBQ",
+      "narrators": [
+        "Sean Carroll"
+      ],
+      "date_released": "2019-09-10T00:00:00Z",
+      "date_purchased": "2020-02-11T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "10 hours and 9 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Penguin Audio"
+      },
+      "year_released": 2019
+    },
+    "title": "Something Deeply Hidden",
+    "rating": 4,
+    "date_published": "2019-09-10T00:00:00Z"
+  },
+  "_books/2020-03-30-educated.md": {
+    "date_finished": "2020-04-10T00:00:00Z",
+    "review_url": "/review/book/2020/12/20/educated/",
+    "authors": [
+      "Tara Westover"
+    ],
+    "year_published": 2019,
+    "date_started": "2020-03-30T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q61064573",
+    "format": {
+      "aisn": "B079C1S8ZH",
+      "narrators": [
+        "Julia Whelan"
+      ],
+      "date_released": "2018-02-20T00:00:00Z",
+      "date_purchased": "2020-03-30T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "12 hours and 10 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Random House Audiobooks"
+      },
+      "year_released": 2018
+    },
+    "title": "Educated",
+    "rating": 5,
+    "date_published": "2019-02-18T00:00:00Z"
+  },
+  "_books/2020-04-12-wolf-hall.md": {
+    "date_finished": "2020-06-30T00:00:00Z",
+    "review_url": "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/",
+    "authors": [
+      "Hilary Mantel"
+    ],
+    "series_entry": "Book 1",
+    "year_published": 2009,
+    "date_started": "2020-04-12T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q2657795",
+    "series": "The Wolf Hall Trilogy",
+    "format": {
+      "aisn": "B004FTXVEY",
+      "narrators": [
+        "Simon Slater"
+      ],
+      "date_released": "2009-10-16T00:00:00Z",
+      "date_purchased": "2020-04-12T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "24 hours and 15 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Whole Story Audiobooks"
+      },
+      "year_released": 2009
+    },
+    "title": "Wolf Hall",
+    "rating": 5,
+    "date_published": "2009-04-30T00:00:00Z"
+  },
+  "_books/2020-06-02-the-long-way-to-a-small-angry-planet.md": {
+    "date_finished": "2020-06-30T00:00:00Z",
+    "review_url": "/review/book/2020/11/14/the-long-way-to-a-small-angry-planet/",
+    "authors": [
+      "Becky Chambers"
+    ],
+    "series_entry": "Book 1",
+    "year_published": 2015,
+    "date_started": "2020-06-02T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q41663451",
+    "series": "Wayfarers",
+    "format": {
+      "aisn": "B00W8DPMZU",
+      "narrators": [
+        "Patricia Rodriguez"
+      ],
+      "date_released": "2015-08-13T00:00:00Z",
+      "date_purchased": "2020-06-02T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "15 hours and 41 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hodder & Stoughton"
+      },
+      "year_released": 2015
+    },
+    "title": "The Long Way to a Small, Angry Planet",
+    "rating": 3,
+    "date_published": "2015-12-31T00:00:00Z"
+  },
+  "_books/2020-06-02-why-im-no-longer-talking-to-white-people-about-race.md": {
+    "date_finished": "2020-06-30T00:00:00Z",
+    "review_url": "/review/book/2021/01/31/why-im-no-longer-talking-to-white-people-about-race/",
+    "authors": [
+      "Reni Eddo-Lodge"
+    ],
+    "year_published": 2017,
+    "date_started": "2020-06-02T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q39050412",
+    "format": {
+      "aisn": "B06XGLP7NP",
+      "narrators": [
+        "Reni Eddo-Lodge"
+      ],
+      "date_released": "2017-06-01T00:00:00Z",
+      "date_purchased": "2020-06-02T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "5 hours and 53 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios for Bloomsbury"
+      },
+      "year_released": 2017
+    },
+    "title": "Why I'm No Longer Talking to White People About Race",
+    "rating": 5,
+    "date_published": "2017-07-01T00:00:00Z"
+  },
+  "_books/2020-06-14-ancillary-justice.md": {
+    "date_finished": "2020-06-29T00:00:00Z",
+    "review_url": "/review/book/2020/11/06/ancillary-justice/",
+    "authors": [
+      "Ann Leckie"
+    ],
+    "series_entry": "Book 1",
+    "year_published": "2020-06-14T00:00:00Z",
+    "date_started": "2020-06-14T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q17001721",
+    "series": "The Imperial Radch series",
+    "format": {
+      "aisn": "B00LPNR9QE",
+      "narrators": [
+        "Adjoa Andoh"
+      ],
+      "date_released": "2014-08-14T00:00:00Z",
+      "date_purchased": "2020-06-14T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "12 hours and 40 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2014
+    },
+    "title": "Ancillary Justice",
+    "rating": 4,
+    "date_published": "2013-09-01T00:00:00Z"
+  },
+  "_books/2020-06-14-oryx-and-crake.md": {
+    "date_finished": "2020-07-12T00:00:00Z",
+    "review_url": "/review/book/2020/09/20/oryx-and-crake/",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "series_entry": "Book 1",
+    "year_published": 2003,
+    "date_started": "2020-06-14T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q2032398",
+    "series": "MaddAddam Trilogy",
+    "format": {
+      "aisn": "B004FTGCK4",
+      "narrators": [
+        "John Chancer"
+      ],
+      "date_released": "2005-01-21T00:00:00Z",
+      "date_purchased": "2020-06-14T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "12 hours and 22 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Bolinda Publishing Pty Ltd."
+      },
+      "year_released": 2005
+    },
+    "title": "Oryx and Crake",
+    "rating": 5
+  },
+  "_books/2020-06-14-the-good-immigrant.md": {
+    "date_finished": "2020-08-17T00:00:00Z",
+    "review_url": "/review/book/2020/12/21/the-good-immigrant/",
+    "authors": [
+      "Nikesh Shukla",
+      "Varaidzo",
+      "Chimene Suleyman",
+      "Vera Chok",
+      "Daniel York Loh",
+      "Himesh Patel",
+      "Nish Kumar",
+      "Reni Eddo-Lodge",
+      "Wei Ming Kam",
+      "Darren Chetty"
+    ],
+    "year_published": 2016,
+    "date_started": "2020-06-14T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q96075523",
+    "format": {
+      "aisn": "B071CQ77S3",
+      "narrators": [
+        "Nikesh Shukla",
+        "Varaidzo",
+        "Chimene Suleyman",
+        "Vera Chok",
+        "Daniel York Loh",
+        "Himesh Patel",
+        "Nish Kumar",
+        "Reni Eddo-Lodge",
+        "Wei Ming Kam",
+        "Darren Chetty"
+      ],
+      "date_released": "2017-05-04T00:00:00Z",
+      "date_purchased": "2020-06-14T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "7 hours",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Random House Audiobooks"
+      },
+      "year_released": 2017
+    },
+    "title": "The Good Immigrant",
+    "rating": 5,
+    "date_published": "2016-09-22T00:00:00Z"
+  },
+  "_books/2020-06-20-will-save-the-galaxy-for-food.md": {
+    "date_finished": "2020-07-25T00:00:00Z",
+    "review_url": "/review/book/2020/12/08/will-save-the-galaxy-for-food/",
+    "authors": [
+      "Yahtzee Croshaw"
+    ],
+    "series_entry": "Book 1",
+    "year_published": 2017,
+    "date_started": "2020-06-20T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q29832540",
+    "series": "Jacques McKeown",
+    "format": {
+      "aisn": "B06WLGX93W",
+      "narrators": [
+        "Yahtzee Croshaw"
+      ],
+      "date_released": "2017-02-14T00:00:00Z",
+      "date_purchased": "2020-06-20T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "10 hours and 20 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "year_released": 2017
+    },
+    "title": "Will Save the Galaxy for Food",
+    "rating": 3,
+    "date_published": "2017-02-23T00:00:00Z"
+  },
+  "_books/2020-06-29-ancillary-sword.md": {
+    "date_finished": "2020-06-30T00:00:00Z",
+    "review_url": "/review/book/2020/11/06/ancillary-sword/",
+    "authors": [
+      "Ann Leckie"
+    ],
+    "series_entry": "Book 2",
+    "year_published": 2014,
+    "date_started": "2020-06-29T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q17989172",
+    "series": "The Imperial Radch series",
+    "format": {
+      "aisn": "B00MH4EBC0",
+      "narrators": [
+        "Adjoa Andoh"
+      ],
+      "date_released": "2014-10-07T00:00:00Z",
+      "date_purchased": "2020-06-20T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "x hours and xx minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2014
+    },
+    "title": "Ancillary Sword",
+    "rating": 3,
+    "date_published": "2014-09-07T00:00:00Z"
+  },
+  "_books/2020-06-30-ancillary-mercy.md": {
+    "date_finished": "2020-07-04T00:00:00Z",
+    "review_url": "/review/book/2020/11/06/ancillary-mercy/",
+    "authors": [
+      "Ann Leckie"
+    ],
+    "series_entry": "Book 3",
+    "year_published": 2015,
+    "date_started": "2020-06-30T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q18003141",
+    "series": "The Imperial Radch series",
+    "format": {
+      "aisn": "B014TE8M3E",
+      "narrators": [
+        "Adjoa Andoh"
+      ],
+      "date_released": "2015-10-08T00:00:00Z",
+      "date_purchased": "2020-06-30T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "10 hours and 53 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2015
+    },
+    "title": "Ancillary Mercy",
+    "rating": 3,
+    "date_published": "2015-10-08T00:00:00Z"
+  },
+  "_books/2020-06-30-the-collapsing-empire.md": {
+    "date_finished": "2020-08-11T00:00:00Z",
+    "review_url": "/review/book/2020/11/06/the-collapsing-empire/",
+    "authors": [
+      "John Scalzi"
+    ],
+    "series_entry": "Book 1",
+    "year_published": 2017,
+    "date_started": "2020-06-30T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q29344605",
+    "series": "The Interdependency",
+    "format": {
+      "aisn": "B01L2PHDVA",
+      "narrators": [
+        "Wil Wheaton"
+      ],
+      "date_released": "2017-03-21T00:00:00Z",
+      "date_purchased": "2020-06-30T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "7 hours and 22 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "year_released": 2017
+    },
+    "title": "The Collapsing Empire",
+    "rating": 1,
+    "date_published": "2017-03-21T00:00:00Z"
+  },
+  "_books/2020-07-04-the-remains-of-the-day.md": {
+    "date_finished": "2020-07-05T00:00:00Z",
+    "review_url": "/review/book/2020/11/14/the-remains-of-the-day/",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "year_published": "1989",
+    "date_started": "2020-07-04T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q829934",
+    "format": {
+      "aisn": "B008PTT3N8",
+      "narrators": [
+        "Dominic West"
+      ],
+      "date_released": "2012-09-06T00:00:00Z",
+      "date_purchased": "2020-06-30T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "7 hours and 5 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Faber & Faber"
+      },
+      "year_released": 2012
+    },
+    "title": "The Remains of the Day",
+    "rating": 4,
+    "date_published": "1989-05-01"
+  },
+  "_books/2020-07-25-zita-the-spacegirl.md": {
+    "date_finished": "2020-07-25T00:00:00Z",
+    "review_url": "/review/book/2020/09/29/zita-the-spacegirl/",
+    "authors": [
+      "Ben Hatke"
+    ],
+    "series_entry": "Book 1",
+    "year_published": 2011,
+    "date_started": "2020-07-25T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117479850",
+    "series": "Zita the Spacegirl",
+    "format": {
+      "type": "Paperback",
+      "aisn": 1596434465,
+      "isbn": 9781596434462,
+      "isbn13": "978-1596434462",
+      "publisher": {
+        "name": "First Second"
+      },
+      "language": "English",
+      "pages": 192,
+      "date_purchased": "2020-06-16T00:00:00Z"
+    },
+    "title": "Zita the Spacegirl",
+    "rating": 5,
+    "date_published": "2011-02-04T00:00:00Z"
+  },
+  "_books/2020-08-11-greetings-from-bury-park.md": {
+    "date_finished": "2020-08-18T00:00:00Z",
+    "review_url": "/review/book/2021/01/31/greetings-from-bury-park/",
+    "authors": [
+      "Sarfraz Manzoor"
+    ],
+    "year_published": 2019,
+    "year_originally_published": 2008,
+    "date_started": "2020-08-11T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117479841",
+    "format": {
+      "aisn": "B07TS4ZDLL",
+      "narrators": [
+        "Sarfraz Manzoor"
+      ],
+      "date_released": "2019-07-04T00:00:00Z",
+      "date_purchased": "2020-08-11T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "7 hours and 22 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Whole Story Audio"
+      },
+      "year_released": 2019
+    },
+    "title": "Greetings from Bury Park",
+    "rating": 4,
+    "date_published": "2019-07-04T00:00:00Z",
+    "date_originally_published": "2008-06-16T00:00:00Z"
+  },
+  "_books/2020-08-20-wuhan-diary.md": {
+    "date_finished": "2020-08-29T00:00:00Z",
+    "review_url": "/review/book/2020/10/18/wuhan-diary/",
+    "authors": [
+      "Fang Fang",
+      "Michael Berry (translator)"
+    ],
+    "full_title": "Wuhan Diary: Dispatches from the Original Epicenter",
+    "year_published": 2020,
+    "date_started": "2020-08-20T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q91452788",
+    "format": {
+      "aisn": "B087RQ8LYP",
+      "narrators": [
+        "Emily Woo Zeller"
+      ],
+      "date_released": "2020-05-26T00:00:00Z",
+      "date_purchased": "2020-08-18T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "14 hours and 7 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "HarperCollins"
+      },
+      "year_released": 2020
+    },
+    "title": "Wuhan Diary",
+    "rating": 4,
+    "date_published": "2020-05-26T00:00:00Z"
+  },
+  "_books/2020-08-25-the-year-of-the-flood.md": {
+    "date_finished": "2020-08-29T00:00:00Z",
+    "review_url": "/review/book/2020/09/20/the-year-of-the-flood/",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "series_entry": "Book 2",
+    "year_published": 2009,
+    "date_started": "2020-08-25T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q4352956",
+    "series": "MaddAddam Trilogy",
+    "format": {
+      "aisn": "B004FTII2O",
+      "narrators": [
+        "Lorelei King"
+      ],
+      "date_released": "2019-02-07T00:00:00Z",
+      "date_purchased": "2020-08-19T00:00:00Z",
+      "version": "Unabridged Audiobook",
+      "language": "English",
+      "runtime": "12 hours and 46 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Doubleday Nan A. Talese"
+      },
+      "year_released": 2019
+    },
+    "title": "The Year of the Flood",
+    "rating": 4,
+    "date_published": "2009-09-07T00:00:00Z"
+  },
+  "_books/2020-08-28-vesper-flights.md": {
+    "date_finished": "2020-09-05T00:00:00Z",
+    "review_url": "/review/book/2020/09/15/vesper-flights/",
+    "authors": [
+      "Helen Macdonald"
+    ],
+    "full_title": "Vesper Flights",
+    "year_published": 2020,
+    "date_started": "2020-08-28T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117479865",
+    "format": {
+      "aisn": "B083QKYKGF",
+      "narrators": [
+        "Helen Macdonald"
+      ],
+      "date_released": "2020-08-27T00:00:00Z",
+      "date_purchased": "2020-08-26T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "10 hours and 23 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Penguin Audio"
+      },
+      "year_released": 2020
+    },
+    "title": "Vesper Flights",
+    "rating": 5,
+    "date_published": "2020-08-27T00:00:00Z"
+  },
+  "_books/2020-08-29-maddaddam.md": {
+    "date_finished": "2020-08-31T00:00:00Z",
+    "review_url": "/review/book/2020/09/20/maddaddam/",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "series_entry": "Book 3",
+    "year_published": 2013,
+    "date_started": "2020-08-29T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q16204596",
+    "series": "MaddAddam Trilogy",
+    "format": {
+      "aisn": "B00JV4CBY4",
+      "narrators": [
+        "Bernadette Dunne",
+        "Bob Walter",
+        "Robbie Daymond"
+      ],
+      "date_released": "2014-06-01T00:00:00Z",
+      "date_purchased": "2020-08-19T00:00:00Z",
+      "version": "Unabridged Audiobook",
+      "language": "English",
+      "runtime": "13 hours and 21 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Bolinda Publishing Pty Ltd"
+      },
+      "year_released": 2014
+    },
+    "title": "MaddAddam",
+    "rating": 4,
+    "date_published": "2013-08-27T00:00:00Z"
+  },
+  "_books/2020-09-05-lovecraft-country.md": {
+    "date_finished": "2020-09-08T00:00:00Z",
+    "review_url": "/review/book/2020/09/10/lovecraft-country/",
+    "authors": [
+      "Matt Ruff"
+    ],
+    "year_published": 2016,
+    "date_started": "2020-09-05T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q30608520",
+    "format": {
+      "aisn": "B07GNNDGPM",
+      "narrators": [
+        "Kevin Kenerly"
+      ],
+      "date_released": "2019-02-07T00:00:00Z",
+      "date_purchased": "2020-08-17T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "12 hours and 13 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Macmillan Digital Audio"
+      },
+      "year_released": 2019
+    },
+    "title": "Lovecraft Country",
+    "rating": 4,
+    "date_published": "2016-02-16T00:00:00Z"
+  },
+  "_books/2020-09-12-the-word-for-world-is-forest.md": {
+    "date_finished": "2020-09-15T00:00:00Z",
+    "review_url": "/review/book/2020/09/15/the-word-for-world-is-forest/",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "series_entry": "Book 3",
+    "year_published": 2015,
+    "year_originally_published": 1972,
+    "date_started": "2020-09-12T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q2447776",
+    "series": "Hanish Cycle",
+    "format": {
+      "type": "paperback",
+      "isbn": 1473205786,
+      "isbn13": 9781473205789,
+      "publisher": {
+        "name": "Gateway"
+      },
+      "language": "English",
+      "pages": 128
+    },
+    "title": "The Word for World is Forest",
+    "rating": 4
+  },
+  "_books/2020-10-15-peter-scott-collected-writings-1933-1989.md": {
+    "title": "Peter Scott: Collected Writings, 1933-1989",
+    "authors": [
+      "Peter Scott"
+    ],
+    "year_published": 2016,
+    "date_published": "2016-06-28T00:00:00Z",
+    "format": {
+      "type": "Digital Book",
+      "aisn": "B01HQN7XHG",
+      "publisher": {
+        "name": "The Wildfowl & Wetlands Trust"
+      },
+      "language": "English",
+      "pages": 300
+    },
+    "date_started": "2020-10-15T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117479922"
+  },
+  "_books/2020-10-25-the-city-we-became.md": {
+    "date_finished": "2020-11-12T00:00:00Z",
+    "review_url": "/review/book/2021/01/31/the-city-we-became/",
+    "authors": [
+      "N. K. Jemisin"
+    ],
+    "year_published": 2020,
+    "date_started": "2020-10-25T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q95075560",
+    "format": {
+      "narrators": [
+        "Robin Miles"
+      ],
+      "date_released": "2020-03-24T00:00:00Z",
+      "date_purchased": "2020-10-25T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "16 hours and 11 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2020
+    },
+    "title": "The City We Became",
+    "rating": 4,
+    "date_published": "2020-03-24T00:00:00Z"
+  },
+  "_books/2020-11-24-persepolis-i-ii.md": {
+    "date_finished": "2020-11-25T00:00:00Z",
+    "review_url": "/review/book/2021/04/28/persepolis-I-and-II/",
+    "authors": [
+      "Marjane Satrapi"
+    ],
+    "year_published": "2008",
+    "date_started": "2020-11-24T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q756604",
+    "format": {
+      "type": "paperback",
+      "isbn": "009952399X",
+      "isbn13": "978-0099523994",
+      "publisher": {
+        "name": "Vintage"
+      },
+      "language": "English",
+      "pages": 352
+    },
+    "title": "Persepolis I & II",
+    "rating": 4
+  },
+  "_books/2020-11-28-the-fat-years.md": {
+    "date_finished": "2020-12-01T00:00:00Z",
+    "review_url": "/review/book/2021/04/28/the-fat-years/",
+    "authors": [
+      "Chan Koonchung",
+      "Michael S. Duke"
+    ],
+    "year_published": 2011,
+    "date_started": "2020-11-28T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q7733522",
+    "format": {
+      "aisn": "B005H0KP1M",
+      "narrators": [
+        "David Tse"
+      ],
+      "date_released": "2011-08-16T00:00:00Z",
+      "date_purchased": "2020-08-18T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "9 hrs and 59 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Random House AudioBooks"
+      },
+      "year_released": 2011
+    },
+    "title": "The Fat Years",
+    "rating": 3,
+    "date_published": "2012-08-02T00:00:00Z"
+  },
+  "_books/2020-12-02-the-doors-of-eden.md": {
+    "date_finished": "2020-12-06T00:00:00Z",
+    "review_url": "/review/book/2021/04/28/the-doors-of-eden/",
+    "authors": [
+      "Adrian Tchaikovsky"
+    ],
+    "year_published": 2020,
+    "date_started": "2020-12-02T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117479942",
+    "format": {
+      "aisn": "B084VTZZTB",
+      "narrators": [
+        "Sophie Aldred"
+      ],
+      "date_released": "2020-08-20T00:00:00Z",
+      "date_purchased": "2020-11-19T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "18 hrs and 2 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Macmillan"
+      },
+      "year_released": 2020
+    },
+    "title": "The Doors of Eden",
+    "rating": 5,
+    "date_published": "2020-08-20T00:00:00Z"
+  },
+  "_books/2020-12-08-a-closed-and-common-orbit.md": {
+    "date_finished": "2020-12-15T00:00:00Z",
+    "review_url": "/review/book/2021/07/01/a-closed-and-common-orbit/",
+    "authors": [
+      "Becky Chambers"
+    ],
+    "series_entry": "Book 2",
+    "year_published": 2016,
+    "date_started": "2020-12-08T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q43625060",
+    "series": "Wayfarers",
+    "format": {
+      "aisn": "B01HIXNAOY",
+      "narrators": [
+        "Patricia Rodriguez"
+      ],
+      "date_released": "2016-10-20T00:00:00Z",
+      "date_purchased": "2020-11-19T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "13 hours and 4 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hodder & Stoughton"
+      },
+      "year_released": 2016
+    },
+    "title": "A Closed and Common Orbit",
+    "rating": 3,
+    "date_published": "2016-10-20"
+  },
+  "_books/2020-12-16-the-song-of-achilles.md": {
+    "date_finished": "2020-12-18T00:00:00Z",
+    "review_url": "/review/book/2020/12/18/the-song-of-achilles/",
+    "authors": [
+      "Madeline Miller"
+    ],
+    "year_published": 2012,
+    "date_started": "2020-12-16T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q21189971",
+    "format": {
+      "aisn": "B008EKTQEO",
+      "narrators": [
+        "David Thorpe"
+      ],
+      "date_released": "2012-06-12T00:00:00Z",
+      "date_purchased": "2020-11-20T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "11 hrs and 31 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Isis Publishing Ltd"
+      },
+      "year_released": 2012
+    },
+    "title": "The Song of Achilles",
+    "rating": 5,
+    "date_published": "2012-04-12T00:00:00Z"
+  },
+  "_books/2020-12-18-bring-up-the-bodies.md": {
+    "date_finished": "2020-12-20T00:00:00Z",
+    "review_url": "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/",
+    "authors": [
+      "Hilary Mantel"
+    ],
+    "series_entry": "Book 2",
+    "year_published": 2012,
+    "date_started": "2020-12-18T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q3644822",
+    "series": "The Wolf Hall Trilogy",
+    "format": {
+      "aisn": "B0080E6RPU",
+      "narrators": [
+        "Simon Vance"
+      ],
+      "date_released": "2012-05-12T00:00:00Z",
+      "date_purchased": "2012-11-19T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "14 hours and 33 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Whole Story Audiobooks"
+      },
+      "year_released": 2012
+    },
+    "title": "Bring Up the Bodies",
+    "rating": 4,
+    "date_published": "2012-05-12T00:00:00Z"
+  },
+  "_books/2020-12-20-atomic-habits.md": {
+    "date_finished": "2020-12-22T00:00:00Z",
+    "review_url": "/review/book/2021/07/01/atomic-habits/",
+    "authors": [
+      "James Clear"
+    ],
+    "year_published": 2018,
+    "date_started": "2020-12-20T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q98178602",
+    "format": {
+      "aisn": "B07J1XQSNK",
+      "narrators": [
+        "James Clear"
+      ],
+      "date_released": "2018-10-18T00:00:00Z",
+      "date_purchased": "2020-12-20T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "5 hrs and 35 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Penguin Audio"
+      },
+      "year_released": 2018
+    },
+    "title": "Atomic Habits",
+    "rating": 3,
+    "date_published": "2018-06-18T00:00:00Z"
+  },
+  "_books/2020-12-22-david-attenboroughs-new-life-stories.md": {
+    "date_finished": "2020-12-23T00:00:00Z",
+    "review_url": "/review/book/2021/07/01/new-david-attenboroughs-new-life-stories/",
+    "authors": [
+      "David Attenborough"
+    ],
+    "year_published": 2018,
+    "date_started": "2020-12-22T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q114051028",
+    "format": {
+      "aisn": "B005HJBHR4",
+      "narrators": [
+        "David Attenborough"
+      ],
+      "date_released": "2017-08-11T00:00:00Z",
+      "date_purchased": "2020-12-21T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "3 hrs and 14 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "BBC Worldwide Ltd"
+      },
+      "year_released": 2017
+    },
+    "title": "David Attenborough's New Life Stories",
+    "rating": 5,
+    "date_published": "2017-08-11T00:00:00Z"
+  },
+  "_books/2020-12-23-quest-under-capricorn.md": {
+    "date_finished": "2020-12-23T00:00:00Z",
+    "review_url": "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/",
+    "authors": [
+      "David Attenborough"
+    ],
+    "year_published": 1963,
+    "date_started": "2020-12-23T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q114051049",
+    "format": {
+      "aisn": "B004F406HE",
+      "narrators": [
+        "David Attenborough"
+      ],
+      "date_released": "2008-04-15",
+      "date_purchased": "2020-12-23T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "2 hrs and 56 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "BBC Worldwide Ltd"
+      },
+      "year_released": 2008
+    },
+    "title": "Quest under Capricorn",
+    "rating": 5,
+    "date_published": "1963-01-01"
+  },
+  "_books/2020-12-24-quest-in-paradise.md": {
+    "date_finished": "2020-12-25T00:00:00Z",
+    "review_url": "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/",
+    "authors": [
+      "David Attenborough"
+    ],
+    "year_published": 1963,
+    "date_started": "2020-12-24T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q114051110",
+    "format": {
+      "aisn": "B004F406HE",
+      "narrators": [
+        "David Attenborough"
+      ],
+      "date_released": "2008-04-08T00:00:00Z",
+      "date_purchased": "2020-12-23T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "2 hrs and 44 mins",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "BBC Worldwide Ltd"
+      },
+      "year_released": 2008
+    },
+    "title": "Quest in Paradise",
+    "rating": 5,
+    "date_published": "1963-01-01T00:00:00Z"
+  },
+  "_books/2020-12-24-zoo-quest-for-a-dragon.md": {
+    "date_finished": "2020-12-24T00:00:00Z",
+    "review_url": "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/",
+    "authors": [
+      "David Attenborough"
+    ],
+    "year_published": 1957,
+    "date_started": "2020-12-24T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q114051065",
+    "format": {
+      "aisn": "B002SQ23UY",
+      "narrators": [
+        "David Attenborough"
+      ],
+      "date_released": "2008-04-08",
+      "date_purchased": "2020-12-23T00:00:00Z",
+      "version": "Abridged",
+      "runtime": "3 hours and 13 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "BBC Worldwide Ltd"
+      },
+      "year_released": 2008
+    },
+    "title": "Zoo Quest for a Dragon",
+    "rating": 5,
+    "date_published": "1957-12-01"
+  },
+  "_books/2020-12-25-the-book-of-trespass.md": {
+    "date_finished": "2020-12-26T00:00:00Z",
+    "review_url": "/review/book/2021/06/22/the-book-of-tresspass/",
+    "authors": [
+      "Nick Hayes"
+    ],
+    "date_started": "2020-12-25T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117479981",
+    "format": {
+      "aisn": {
+        "product": 1526621479,
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Nick Hayes"
+      ],
+      "date_released": "2020-09-10T00:00:00Z",
+      "date_purchased": "2020-12-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "12 hours and 19 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Bloomsbury Publishing Plc"
+      },
+      "year_released": 2020
+    },
+    "subtitle": "Crossing the Lines That Divide Us",
+    "title": "The Book of Trespass",
+    "rating": 4
+  },
+  "_books/2020-12-26-life-on-earth.md": {
+    "date_finished": "2020-12-28T00:00:00Z",
+    "review_url": "/review/book/2021/04/14/life-on-earth/",
+    "authors": [
+      "David Attenborough"
+    ],
+    "date_started": "2020-12-26T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117480025",
+    "format": {
+      "aisn": {
+        "product": "B07DY76BPC",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "David Attenborough"
+      ],
+      "date_released": "2018-09-20T00:00:00Z",
+      "date_purchased": "2020-12-23T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "12 hours and 26 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "HarperCollins Publishers Limited"
+      },
+      "year_released": 2018
+    },
+    "title": "Life on Earth",
+    "rating": 4,
+    "edition_iri": "https://www.wikidata.org/wiki/Q117480003"
+  },
+  "_books/2020-12-29-crashed.md": {
+    "title": "Crashed",
+    "subtitle": "How a Decade of Financial Crises Changed the World",
+    "authors": [
+      "Adam Tooze"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B07FPPX125",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Simon Vance",
+        "Adam Tooze"
+      ],
+      "date_released": "2018-08-02T00:00:00Z",
+      "date_purchased": "2020-12-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "25 hours and 27 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Penguin Books Ltd"
+      },
+      "year_released": 2018
+    },
+    "date_started": "2020-12-29T00:00:00Z",
+    "date_finished": "2021-01-10T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q80943751"
+  },
+  "_books/2020-12-29-the-peregrine.md": {
+    "title": "The Peregrine",
+    "authors": [
+      "J. A. Baker"
+    ],
+    "format": {
+      "aisn": {
+        "product": "0008388245",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "David Attenborough"
+      ],
+      "date_released": "2019-11-21T00:00:00Z",
+      "date_purchased": "2020-12-23T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "8 hours and 56 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "William Collins"
+      },
+      "year_released": 2019
+    },
+    "date_started": "2020-12-29T00:00:00Z",
+    "date_finished": "2020-12-31T00:00:00Z",
+    "rating": 5,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480103"
+  },
+  "_books/2021-01-10-october.md": {
+    "title": "October",
+    "subtitle": "The Story of the Russian Revolution",
+    "authors": [
+      "China Mieville"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B06XWGCN7S",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "John Banks"
+      ],
+      "date_released": "2017-05-09T00:00:00Z",
+      "date_purchased": "2020-12-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "11 hours and 37 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "year_released": 2017
+    },
+    "date_started": "2021-01-10T00:00:00Z",
+    "date_finished": "2021-01-20T00:00:00Z",
+    "rating": 3,
+    "work_iri": "https://www.wikidata.org/wiki/Q104093629"
+  },
+  "_books/2021-01-21-the-queens-gambit.md": {
+    "title": "The Queen's Gambit",
+    "authors": [
+      "Walter Tevis"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B07KX4TTTP",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Amy Landon"
+      ],
+      "date_released": "2018-12-11T00:00:00Z",
+      "date_purchased": "2021-01-10T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "11 hours and 50 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Blackstone Audio, Inc."
+      },
+      "year_released": 2018
+    },
+    "date_started": "2021-01-21T00:00:00Z",
+    "date_finished": "2021-01-25T00:00:00Z",
+    "rating": 5,
+    "work_iri": "https://www.wikidata.org/wiki/Q1115619"
+  },
+  "_books/2021-01-26-half-of-a-yellow-sun.md": {
+    "title": "Half of a Yellow Sun",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B01MSPM1QV",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Zainab Jah"
+      ],
+      "date_released": "2017-09-28T00:00:00Z",
+      "date_purchased": "2020-12-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "18 hours and 9 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "HarperCollins Publishers Limited"
+      },
+      "year_released": 2017
+    },
+    "date_started": "2021-01-26T00:00:00Z",
+    "date_finished": "2021-02-08T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q3235393"
+  },
+  "_books/2021-03-10-tweet-of-the-day.md": {
+    "title": "Tweet of the Day",
+    "subtitle": "A Year of British Birds",
+    "authors": [
+      "BBC Natural History Radio"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B07BFWVFQK",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Bill Oddie",
+        "Brett Westwood",
+        "Chris Packham",
+        "David Attenborough",
+        "John Aitchison",
+        "Kate Humble",
+        "Liz Bonnin",
+        "Martin Hughes-Games"
+      ],
+      "date_released": "2018-07-05T00:00:00Z",
+      "date_purchased": "2021-03-10T00:00:00Z",
+      "version": "Original recording",
+      "runtime": "6 hours and 50 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "BBC Digital Audio"
+      },
+      "year_released": 2018
+    },
+    "date_started": "2021-03-10T00:00:00Z",
+    "date_finished": "2021-03-21T00:00:00Z",
+    "rating": 4,
+    "edition_iri": "https://www.wikidata.org/wiki/Q114051262"
+  },
+  "_books/2021-03-21-consider-phlebas.md": {
+    "date_finished": "2021-03-23T00:00:00Z",
+    "authors": [
+      "Iain M. Banks"
+    ],
+    "series_entry": "Book 1",
+    "date_started": "2021-03-21T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q261728",
+    "series": "Culture Series",
+    "format": {
+      "aisn": {
+        "product": "B004EQUC4U",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "date_released": "2010-11-05T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "16 hours and 25 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2010
+    },
+    "title": "Consider Phlebas",
+    "rating": 4
+  },
+  "_books/2021-03-23-this-is-going-to-hurt.md": {
+    "title": "This Is Going to Hurt",
+    "subtitle": "Secret Diaries of a Junior Doctor",
+    "authors": [
+      "Adam Kay"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B071K6YYDN",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Adam Kay"
+      ],
+      "date_released": "2017-09-07T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "5 hours and 47 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Picador"
+      },
+      "year_released": 2017
+    },
+    "date_started": "2021-03-23T00:00:00Z",
+    "date_finished": "2021-03-25T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q54488606"
+  },
+  "_books/2021-03-25-the-player-of-games.md": {
+    "date_finished": "2021-03-28T00:00:00Z",
+    "authors": [
+      "Iain M. Banks"
+    ],
+    "series_entry": "Book 2",
+    "date_started": "2021-03-25T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q467139",
+    "series": "Culture Series",
+    "format": {
+      "aisn": {
+        "product": "B004EF2FXM",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "date_released": "2010-12-02T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "11 hours and 26 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2010
+    },
+    "title": "The Player of Games",
+    "rating": 4
+  },
+  "_books/2021-03-28-use-of-weapons.md": {
+    "date_finished": "2021-03-31T00:00:00Z",
+    "authors": [
+      "Iain M. Banks"
+    ],
+    "series_entry": "Book 3",
+    "date_started": "2021-03-28T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q339923",
+    "series": "Culture Series",
+    "format": {
+      "aisn": {
+        "product": "B007O0J9BU",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "date_released": "2012-04-05T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "13 hours and 28 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2012
+    },
+    "title": "Use of Weapons",
+    "rating": 4
+  },
+  "_books/2021-03-31-the-state-of-the-art.md": {
+    "date_finished": "2021-04-03T00:00:00Z",
+    "authors": [
+      "Iain M. Banks"
+    ],
+    "series_entry": "Book 4",
+    "date_started": "2021-03-31T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q30887961",
+    "series": "Culture Series",
+    "format": {
+      "aisn": {
+        "product": "B00HS4UEQQ",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "date_released": "2014-01-23T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "6 hours and 20 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2014
+    },
+    "title": "The State of the Art",
+    "rating": 4
+  },
+  "_books/2021-04-03-dawn.md": {
+    "date_finished": "2021-04-12T00:00:00Z",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "series_entry": "Book 1",
+    "date_started": "2021-04-03T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q9321397",
+    "series": "Lilith's Brood",
+    "format": {
+      "aisn": {
+        "product": "B00HZOL9PO",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Aldrich Barrett"
+      ],
+      "date_released": "2014-01-24T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "9 hours and 20 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "year_released": 2014
+    },
+    "title": "Dawn",
+    "rating": 4
+  },
+  "_books/2021-04-03-excession.md": {
+    "date_finished": "2021-04-08T00:00:00Z",
+    "authors": [
+      "Iain M. Banks"
+    ],
+    "series_entry": "Book 5",
+    "date_started": "2021-04-03T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q74362",
+    "series": "Culture Series",
+    "format": {
+      "aisn": {
+        "product": "B00BIPQV0Y",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "date_released": "2013-03-07T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "15 hours and 55 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2013
+    },
+    "title": "Excession",
+    "rating": 5
+  },
+  "_books/2021-04-10-the-red-kites-year.md": {
+    "date_finished": "2021-04-11T00:00:00Z",
+    "authors": [
+      "Ian Carter",
+      "Dan Powell"
+    ],
+    "year_published": 2019,
+    "date_started": "2021-04-10T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q114051689",
+    "series": "Pelagic Monographs",
+    "format": {
+      "type": "paperback",
+      "isbn": 1784272000,
+      "isbn13": "978-1784272005",
+      "dimensions": "15.72 x 1.4 x 23.55 cm",
+      "publisher": {
+        "name": "Pelagic Publishing"
+      },
+      "language": "English",
+      "pages": 176
+    },
+    "title": "The Red Kite's Year",
+    "rating": 5,
+    "date_published": "2019-04-08T00:00:00Z"
+  },
+  "_books/2021-04-12-ball-lightning.md": {
+    "title": "Ball Lightning",
+    "authors": [
+      "Cixin Liu"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B07BWNZ2CJ",
+        "membership": "B07BVZK3XQ"
+      },
+      "date_finished": "2021-04-26T00:00:00Z",
+      "narrators": [
+        "Bruno Roubicek"
+      ],
+      "date_released": "2018-08-17T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "12 hours and 51 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "W. F. Howes Ltd"
+      },
+      "year_released": 2018
+    },
+    "rating": 5,
+    "date_started": "2021-04-12T00:00:00Z",
+    "date_finished": "2021-06-13T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q15909011"
+  },
+  "_books/2021-04-12-the-red-kite.md": {
+    "title": "The Red Kite",
+    "authors": [
+      "Ian Carter",
+      "Dan Powell"
+    ],
+    "format": {
+      "type": "Hardcover",
+      "print_length": "245 pages",
+      "language": "English",
+      "publisher": {
+        "name": "Subbuteo Natural History Books, a division of C J WildBird Foods Ltd"
+      },
+      "publication_date": "2007-12-11T00:00:00Z",
+      "isbn10": 1905268033,
+      "isbn13": "978-1905268030",
+      "date_purchased": "2021-10-11T00:00:00Z"
+    },
+    "date_started": "2021-04-12T00:00:00Z",
+    "date_finished": "2021-06-13T00:00:00Z",
+    "rating": 5,
+    "work_iri": "https://www.wikidata.org/wiki/Q114051789"
+  },
+  "_books/2021-05-14-exercised.md": {
+    "title": "Exercised",
+    "subtitle": "The Science of Physical Activity, Rest and Health",
+    "authors": [
+      "Daniel Lieberman"
+    ],
+    "format": {
+      "aisn": {
+        "product": "0242370960",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Sean Runnette"
+      ],
+      "date_released": "2020-09-10T00:00:00Z",
+      "date_purchased": "2021-01-20T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "13 hours and 13 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Penguin Audio"
+      },
+      "year_released": 2020
+    },
+    "date_started": "2021-05-14T00:00:00Z",
+    "date_finished": "2021-05-29T00:00:00Z",
+    "rating": 5,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480240"
+  },
+  "_books/2021-05-29-project-hail-mary.md": {
+    "title": "Project Hail Mary",
+    "authors": [
+      "Andy Weir"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B08GB2RLKM",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Ray Porter"
+      ],
+      "date_released": "2021-05-04T00:00:00Z",
+      "date_purchased": "2021-05-29T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "16 hours and 10 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "year_released": 2020
+    },
+    "date_started": "2021-05-29T00:00:00Z",
+    "date_finished": "2021-05-31T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q106852836"
+  },
+  "_books/2021-06-04-the-plague-international-edition.md": {
+    "title": "The Plague: International Edition",
+    "authors": [
+      "Albert Camus"
+    ],
+    "format": {
+      "aisn": {
+        "product": 1705014453,
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "James Jenner"
+      ],
+      "date_released": "2020-10-29T00:00:00Z",
+      "date_purchased": "2021-04-22T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "10 hours and 52 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Recorded Books, Inc."
+      },
+      "year_released": 2020
+    },
+    "date_started": "2021-06-04T00:00:00Z",
+    "date_finished": "2021-06-11T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q320372"
+  },
+  "_books/2021-06-15-a-thousand-days-of-wonder.md": {
+    "title": "A Thousand Days of Wonder",
+    "subtitle": "A Scientist's Chronicle of His Daughter's Developing Mind",
+    "authors": [
+      "Charles Fernyhough"
+    ],
+    "format": {
+      "publication_date": "2010-05-04T00:00:00Z",
+      "dimensions": "14.17 x 1.8 x 20.93 cm",
+      "date_purchased": "2021-05-11T00:00:00Z",
+      "isbn10": 9781583333976,
+      "print_length": "272 pages",
+      "language": "English",
+      "isbn13": "978-1583333976",
+      "type": "Paperback",
+      "publisher": {
+        "name": "Avery Publishing Group"
+      }
+    },
+    "date_started": "2021-06-15T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q114051368"
+  },
+  "_books/2021-06-20-adulthood-rites.md": {
+    "date_finished": "2021-06-24T00:00:00Z",
+    "authors": [
+      "Octavia E. Butler"
+    ],
+    "series_entry": "Book 1",
+    "date_started": "2021-06-20T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q11889107",
+    "series": "Lilith's Brood",
+    "format": {
+      "aisn": {
+        "product": "B00I3K0SLU",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Aldrich Barrett"
+      ],
+      "date_released": "2014-01-30T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "10 hours and 12 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "year_released": 2014
+    },
+    "title": "Adulthood Rites",
+    "rating": 4
+  },
+  "_books/2021-06-24-red-mars.md": {
+    "title": "Red Mars",
+    "authors": [
+      "Kim Stanley Robinson"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B004FU9CYG",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Richard Ferrone"
+      ],
+      "date_released": "2008-04-04T00:00:00Z",
+      "date_purchased": "2021-06-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "23 hours and 51 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Recorded Books"
+      },
+      "year_released": 2008
+    },
+    "date_started": "2021-06-24T00:00:00Z",
+    "date_finished": "2021-07-15T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q3294969"
+  },
+  "_books/2021-08-08-mine.md": {
+    "title": "Mine!",
+    "subtitle": "How the Hidden Rules of Ownership Rule Our Lives",
+    "authors": [
+      "James Salzman",
+      "Michael A. Heller"
+    ],
+    "format": {
+      "aisn": "B08YRZBRGB",
+      "narrators": [
+        "Rene Ruiz"
+      ],
+      "date_released": "2021-03-16T00:00:00Z",
+      "date_purchased": "2021-07-29T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "11 hours and 13 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "W. F. Howes Ltd"
+      },
+      "year_released": 2021
+    },
+    "date_started": "2021-08-08T00:00:00Z",
+    "date_finished": "2021-07-29T00:00:00Z",
+    "rating": 3,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480255"
+  },
+  "_books/2021-08-19-2001.md": {
+    "date_finished": "2021-08-22T00:00:00Z",
+    "authors": [
+      "Arthur C. Clarke"
+    ],
+    "series_entry": "Book 1",
+    "date_started": "2021-08-19T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q835341",
+    "series": "Space Odyssey Series",
+    "format": {
+      "aisn": {
+        "product": "B002SQ1IXM",
+        "membership": "B004EW2292"
+      },
+      "narrators": [
+        "Dick Hill"
+      ],
+      "date_released": "2008-04-29T00:00:00Z",
+      "date_purchased": "2021-08-19T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "6 hours and 42 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Brilliance Audio"
+      },
+      "year_released": 2008
+    },
+    "title": 2001,
+    "rating": 4
+  },
+  "_books/2021-08-19-inversions.md": {
+    "date_finished": "2021-08-20T00:00:00Z",
+    "authors": [
+      "Iain M. Banks"
+    ],
+    "series_entry": "Book 5",
+    "date_started": "2021-08-19T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q666405",
+    "series": "Culture Series",
+    "format": {
+      "aisn": {
+        "product": "B00D48YF9C",
+        "membership": "B00CZGG08I"
+      },
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "date_released": "2013-06-03T00:00:00Z",
+      "date_purchased": "2021-03-21T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "11 hours and 26 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2013
+    },
+    "title": "Inversions",
+    "rating": 4
+  },
+  "_books/2021-08-19-the-undercover-economist.md": {
+    "title": "The Undercover Economist",
+    "authors": [
+      "Tim Harford"
+    ],
+    "format": {
+      "aisn": {
+        "product": "B002SQ5D4M",
+        "membership": "B004F2XCHW"
+      },
+      "narrators": [
+        "Cameron Stewart"
+      ],
+      "date_released": "2007-09-05T00:00:00Z",
+      "date_purchased": "2021-08-19T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "8 hours and 20 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2007
+    },
+    "date_started": "2021-08-19T00:00:00Z",
+    "date_finished": "2021-09-01T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q7771354"
+  },
+  "_books/2021-09-01-look-to-windward.md": {
+    "title": "Look to Windward",
+    "authors": [
+      "Iain M. Banks"
+    ],
+    "format": {
+      "aisn": {
+        "membership": "B00HRIMRO0"
+      },
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "date_released": "2014-01-23T00:00:00Z",
+      "date_purchased": "2021-08-20T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "12 hours and 11 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2014
+    },
+    "date_started": "2021-09-01T00:00:00Z",
+    "date_finished": "2021-09-05T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q884010"
+  },
+  "_books/2021-09-06-almost-human.md": {
+    "title": "Almost Human",
+    "subtitle": "The Astonishing Tale of Homo Naledi and the Discovery That Changed Our Human Story",
+    "authors": [
+      "Lee Berger",
+      "John Hawks"
+    ],
+    "format": {
+      "aisn": {
+        "membership": "B07L9F4CFG"
+      },
+      "narrators": [
+        "Donald Corren"
+      ],
+      "date_released": "2018-12-25T00:00:00Z",
+      "date_purchased": "2021-08-19T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "6 hours and 34 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Blackstone Publishing"
+      },
+      "year_released": 2018
+    },
+    "date_started": "2021-09-06T00:00:00Z",
+    "date_finished": "2021-09-13T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q117480269"
+  },
+  "_books/2021-09-13-stalingrad.md": {
+    "genre": "Literature & Fiction > Genre Fiction",
+    "date_finished": "2021-10-01T00:00:00Z",
+    "authors": [
+      "Vasily Grossman",
+      "Robert Chandler",
+      "Elizabeth Chandler - translator"
+    ],
+    "date_started": "2021-09-13T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q85803121",
+    "format": {
+      "aisn": {
+        "membership": "147358275X"
+      },
+      "release_date": "2020-05-07T00:00:00Z",
+      "narrators": [
+        "Elliot Levey",
+        "Leighton Pugh"
+      ],
+      "date_purchased": "2021-08-20T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "37 hours and 13 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Penguin Audio"
+      },
+      "year_released": 2020
+    },
+    "title": "Stalingrad",
+    "publisher_link": "https://www.audible.co.uk/search?searchProvider=Penguin+Audio+",
+    "rating": 4
+  },
+  "_books/2021-10-04-shutdown.md": {
+    "title": "Shutdown",
+    "authors": [
+      "Adam Tooze"
+    ],
+    "genre": "Money & Finance > Banks & Banking",
+    "format": {
+      "aisn": {
+        "membership": "0241508932"
+      },
+      "narrators": [
+        "Adam Tooze - introduction",
+        "Simon Vance"
+      ],
+      "date_released": "2021-09-07T00:00:00Z",
+      "date_purchased": "2021-09-25T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "12 hours and 37 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Penguin Audio"
+      },
+      "year_released": 2021
+    },
+    "date_started": "2021-10-04T00:00:00Z",
+    "date_finished": "2021-10-10T00:00:00Z",
+    "rating": 5,
+    "work_iri": "https://www.wikidata.org/wiki/Q108899582"
+  },
+  "_books/2021-10-11-the-mirror-and-the-light.md": {
+    "genre": "Literature & Fiction > Genre Fiction",
+    "date_finished": "2021-10-31T00:00:00Z",
+    "authors": [
+      "Hilary Mantel"
+    ],
+    "series_entry": "Book 3",
+    "date_started": "2021-10-11T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q7751674",
+    "series": "The Wolf Hall Trilogy",
+    "format": {
+      "aisn": {
+        "membership": "1528880005"
+      },
+      "narrators": [
+        "Ben Miles"
+      ],
+      "date_released": "2020-03-05T00:00:00Z",
+      "date_purchased": "2021-09-13T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "38 hours and 11 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "W. F. Howes Ltd"
+      },
+      "year_released": 2020
+    },
+    "title": "The Mirror and the Light",
+    "rating": 5
+  },
+  "_books/2021-10-31-never-let-me-go.md": {
+    "title": "Never Let Me Go",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "format": {
+      "aisn": {
+        "membership": "B00LCHY9AM"
+      },
+      "narrators": [
+        "Kerry Fox"
+      ],
+      "date_purchased": "2021-10-10T00:00:00Z",
+      "date_release": "2014-07-03T00:00:00Z",
+      "format": "Unabridged Audiobook",
+      "language": "English",
+      "runtime": "9 hours and 26 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Faber & Faber"
+      },
+      "year_released": 2014
+    },
+    "date_started": "2021-10-31T00:00:00Z",
+    "date_finished": "2021-11-01T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q951587"
+  },
+  "_books/2021-11-02-matter.md": {
+    "date_finished": "2021-11-23T00:00:00Z",
+    "authors": [
+      "Iain M. Banks"
+    ],
+    "series_entry": "Book 8",
+    "date_started": "2021-11-02T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q684818",
+    "series": "Culture Series",
+    "format": {
+      "aisn": {
+        "membership": "B004ER01OU"
+      },
+      "narrators": [
+        "Toby Longworth"
+      ],
+      "date_released": "2008-01-15T00:00:00Z",
+      "date_purchased": "2021-08-20T00:00:00Z",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "17 hours and 57 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "year_released": 2008
+    },
+    "title": "Matter",
+    "rating": 4
+  },
+  "_books/2021-11-04-the-peregrine.md": {
+    "title": "The Peregrine",
+    "authors": [
+      "J. A. Baker"
+    ],
+    "format": {
+      "aisn": {
+        "product": "0008388245",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "David Attenborough"
+      ],
+      "date_released": "2019-11-21T00:00:00Z",
+      "date_purchased": "2020-12-23T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "8 hours and 56 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "William Collins"
+      },
+      "year_released": 2019
+    },
+    "date_started": "2021-11-04T00:00:00Z",
+    "date_finished": "2021-11-09T00:00:00Z",
+    "rating": 5,
+    "work_iri": "http://www.wikidata.org/wiki/Q117480103"
+  },
+  "_books/2021-11-25-the-walkers-guide-to-outdoor-clues-signs.md": {
+    "title": "The Walker's Guide to Outdoor Clues & Signs",
+    "authors": [
+      "Tristan Gooley"
+    ],
+    "format": {
+      "publication_date": "2015-05-21T00:00:00Z",
+      "dimensions": "15 x 2.9 x 19.8 cm",
+      "date_purchased": "2021-08-27T00:00:00Z",
+      "isbn10": 1473621992,
+      "print_length": "448 pages",
+      "language": "English",
+      "isbn13": "978-1473621992",
+      "type": "Paperback",
+      "publisher": {
+        "name": "Sceptre"
+      }
+    },
+    "date_started": "2021-11-25T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q114051423"
+  },
+  "_books/2021-11-30-leviathan-falls.md": {
+    "date_finished": "2021-12-04T00:00:00Z",
+    "authors": [
+      "James S.A. Corey"
+    ],
+    "series_entry": "Book 9",
+    "date_started": "2021-11-30T00:00:00Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q107316509",
+    "series": "The Expanse",
+    "format": {
+      "aisn": {
+        "membership": "1980035962"
+      },
+      "genre": "Science Fiction & Fantasy > Science Fiction",
+      "release_date": "2021-11-30T00:00:00Z",
+      "narrators": [
+        "Jefferson Mays"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/51uLOQqYu3L._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/Leviathan-Falls-Audiobook/1980035962",
+      "version": "Unabridged",
+      "language": "English",
+      "runtime": "19 hours and 40 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Recorded Books, Inc."
+      },
+      "publisher_link": "https://www.audible.co.uk/search?searchProvider=Recorded+Books%2C+Inc."
+    },
+    "title": "Leviathan Falls",
+    "rating": 4
+  },
+  "_books/2021-12-08-entangled-life.md": {
+    "title": "Entangled Life",
+    "authors": [
+      "Merlin Sheldrake"
+    ],
+    "format": {
+      "type": "Audiobook",
+      "narrators": [
+        "Merlin Sheldrake"
+      ],
+      "aisn": {
+        "membership": "1980035962"
+      },
+      "runtime": "9 hours and 32 minutes",
+      "format": "Unabridged",
+      "publisher": {
+        "name": "Penguin Audio"
+      },
+      "language": "English"
+    },
+    "date_started": "2021-12-08T00:00:00Z",
+    "date_finished": "2022-01-06T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q98686638"
+  },
+  "_books/2021-12-22-kindred.md": {
+    "title": "Kindred",
+    "subtitle": "Neatherthal Life, Love, Death and Art",
+    "authors": [
+      "Rebecca Wragg Sykes"
+    ],
+    "format": {
+      "aisn": {
+        "product": "1472962141",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Rebecca Wragg Sykes"
+      ],
+      "date_released": "2020-08-25T00:00:00Z",
+      "date_purchased": "2021-12-20T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "16 hours and 26 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "year_released": 2020
+    },
+    "date_started": "2021-12-22T00:00:00Z",
+    "date_finished": "2021-03-08T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q107107590"
+  },
+  "_books/2021-12-26-blood-of-elves.md": {
+    "genre": "Science Fiction & Fantasy > Fantasy",
+    "date_finished": "2021-12-24T00:00:00Z",
+    "authors": [
+      "Andrzej Sapkowski"
+    ],
+    "series_entry": "Book 1",
+    "date_started": "2021-12-26T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q2652386",
+    "series": "The Witcher Saga",
+    "format": {
+      "aisn": {
+        "membership": "B00IDO9FRE"
+      },
+      "release_date": "2014-02-27T00:00:00Z",
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/41xrEwH-KgL._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/Blood-of-Elves-Audiobook/B00IDO9FRE",
+      "language": "English",
+      "runtime": "11 hours and 11 minutes",
+      "type": "Unabridged Audiobook",
+      "publisher": {
+        "name": "Orion Publishing Group",
+        "publisher_link": "https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group"
+      }
+    },
+    "title": "Blood of Elves",
+    "rating": 3
+  },
+  "_books/2021-12-27-time-of-contempt.md": {
+    "genre": "Science Fiction & Fantasy > Fantasy",
+    "date_finished": "2021-12-28T00:00:00Z",
+    "authors": [
+      "Andrzej Sapkowski"
+    ],
+    "series_entry": "Book 2",
+    "date_started": "2021-12-27T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q2045474",
+    "series": "The Witcher Saga",
+    "format": {
+      "aisn": {
+        "membership": "B00IT5XSM0"
+      },
+      "release_date": "2014-03-06T00:00:00Z",
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/51aIkHxVftL._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/Time-of-Contempt-Audiobook/B00IT5XSM0",
+      "language": "English",
+      "runtime": "12 hours and 13 minutes",
+      "type": "Unabridged Audiobook",
+      "publisher": {
+        "name": "Orion Publishing Group",
+        "publisher_link": "https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group"
+      }
+    },
+    "title": "Time of Contempt",
+    "rating": 3
+  },
+  "_books/2021-12-28-baptism-of-fire.md": {
+    "genre": "Science Fiction & Fantasy > Fantasy",
+    "date_finished": "2022-01-08T00:00:00Z",
+    "authors": [
+      "Andrzej Sapkowski"
+    ],
+    "series_entry": "Book 3",
+    "date_started": "2021-12-28T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q4240572",
+    "series": "The Witcher Saga",
+    "format": {
+      "aisn": {
+        "membership": "B00JF6BFBS"
+      },
+      "release_date": "2014-04-03T00:00:00Z",
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/51lpJJaSA2L._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/Baptism-of-Fire-Audiobook/B00JF6BFBS",
+      "language": "English",
+      "runtime": "12 hours and 15 minutes",
+      "type": "Unabridged Audiobook",
+      "publisher": {
+        "name": "Orion Publishing Group",
+        "publisher_link": "https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group"
+      }
+    },
+    "subtitle": "The Witcher, Book 3",
+    "title": "Baptism of Fire",
+    "rating": 2
+  },
+  "_books/2021-12-28-the-last-wish.md": {
+    "genre": "Science Fiction & Fantasy > Fantasy",
+    "date_finished": "2022-01-03T00:00:00Z",
+    "authors": [
+      "Andrzej Sapkowski"
+    ],
+    "date_started": "2021-12-28T00:00:00Z",
+    "work_iri": null,
+    "series": "The Witcher Saga",
+    "format": {
+      "aisn": {
+        "membership": "B00HWCA2VG"
+      },
+      "release_date": "2014-02-27T00:00:00Z",
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/61M1PUyk+ML._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/The-Last-Wish-Audiobook/B00HWCA2VG",
+      "language": "English",
+      "runtime": "10 hours and 27 minutes",
+      "type": "Unabridged Audiobook",
+      "publisher": {
+        "name": "Orion Publishing Group",
+        "publisher_link": "https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group"
+      }
+    },
+    "title": "The Last Wish",
+    "rating": 4
+  },
+  "_books/2022-01-04-sword-of-destiny.md": {
+    "genre": "Science Fiction & Fantasy > Fantasy",
+    "date_finished": "2022-01-06T00:00:00Z",
+    "authors": [
+      "Andrzej Sapkowski"
+    ],
+    "date_started": "2022-01-04T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "The Witcher Saga",
+    "format": {
+      "aisn": {
+        "membership": "B016VA8JNC"
+      },
+      "release_date": "2015-12-03T00:00:00Z",
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/51EziAFj+DL._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/Sword-of-Destiny-Audiobook/B016VA8JNC",
+      "language": "English",
+      "runtime": "12 hours and 57 minutes",
+      "type": "Unabridged Audiobook",
+      "publisher": {
+        "name": "Orion Publishing Group",
+        "publisher_link": "https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group"
+      }
+    },
+    "title": "Sword of Destiny",
+    "rating": 3
+  },
+  "_books/2022-01-09-the-tower-of-the-swallow.md": {
+    "genre": "Science Fiction & Fantasy > Fantasy",
+    "date_finished": "2022-01-16T00:00:00Z",
+    "authors": [
+      "Andrzej Sapkowski"
+    ],
+    "series_entry": "Book 4",
+    "date_started": "2022-01-09T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q4080260",
+    "series": "The Witcher Saga",
+    "format": {
+      "aisn": {
+        "membership": "B01B2325EC"
+      },
+      "release_date": "2016-05-19T00:00:00Z",
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/51CdPuwP78L._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/The-Tower-of-the-Swallow-Audiobook/B01B2325EC",
+      "language": "English",
+      "runtime": "16 hours and 46 minutes",
+      "type": "Unabridged Audiobook",
+      "publisher": {
+        "name": "Orion Publishing Group",
+        "publisher_link": "https://www.audible.co.uk/search?searchProvider=Orion+Publishing+Group"
+      }
+    },
+    "title": "The Tower of the Swallow",
+    "rating": 3
+  },
+  "_books/2022-01-16-the-lady-of-the-lake.md": {
+    "date_finished": "2022-01-25T00:00:00Z",
+    "authors": [
+      "Andrzej Sapkowski",
+      "David French - translator"
+    ],
+    "series_entry": "Book 5",
+    "metadata": {
+      "date_scraped": "2022-01-27T00:00:00Z"
+    },
+    "date_started": "2022-01-16T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q4113386",
+    "series": "The Witcher Saga",
+    "format": {
+      "aisn": {
+        "membership": "B01N3NNVAN"
+      },
+      "release_date": "2017-03-16T00:00:00Z",
+      "narrators": [
+        "Peter Kenny"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/51C58edKJUL._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/Lady-of-the-Lake-Audiobook/B01N3NNVAN",
+      "language": "English",
+      "runtime": "20 hours and 16 minutes",
+      "type": "Unabridged Audiobook",
+      "publisher": {
+        "name": "Orion"
+      }
+    },
+    "subtitle": "The Witcher, Book 5",
+    "title": "The Lady of the Lake",
+    "rating": 3
+  },
+  "_books/2022-01-29-river-town.md": {
+    "date_finished": "2022-02-19T00:00:00Z",
+    "authors": [
+      "Peter Hessler"
+    ],
+    "metadata": {
+      "date_scraped": "2022-01-27T00:00:00Z"
+    },
+    "date_started": "2022-01-29T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q18217160",
+    "format": {
+      "aisn": {
+        "membership": "B004FT977E"
+      },
+      "release_date": "2010-05-04",
+      "narrators": [
+        "Peter Berkrot"
+      ],
+      "image_url": "https://m.media-amazon.com/images/I/51af4h2mfoL._SL500_.jpg",
+      "url": "https://www.audible.co.uk/pd/River-Town-Audiobook/B004FT977E",
+      "language": "English",
+      "runtime": "14 hours and 36 minutes",
+      "type": "Unabridged Audiobook",
+      "publisher": {
+        "name": "Audible Studios"
+      }
+    },
+    "subtitle": "Two Years on the Yangtze",
+    "title": "River Town",
+    "rating": 3
+  },
+  "_books/2022-02-04-remote.md": {
+    "title": "Remote",
+    "subtitle": "Office Not Required",
+    "authors": [
+      "David Heinemeier Hansson",
+      "Jason Fried"
+    ],
+    "format": {
+      "publication_date": "2013-10-31T00:00:00Z",
+      "aisn": 91954673,
+      "dimensions": "13.5 x 1.9 x 21.6 cm",
+      "date_purchased": "2021-08-27T00:00:00Z",
+      "isbn10": 9780091954673,
+      "print_length": "448 pages",
+      "language": "English",
+      "isbn13": "978-0091954673",
+      "type": "Paperback",
+      "publisher": {
+        "name": "Vermilion"
+      }
+    },
+    "date_started": "2022-02-04T00:00:00Z",
+    "date_finished": "2022-02-07T00:00:00Z",
+    "rating": 5,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480305"
+  },
+  "_books/2022-02-08-land-of-big-numbers.md": {
+    "title": "Land of Big Numbers",
+    "authors": [
+      "Te-Ping Chen"
+    ],
+    "format": {
+      "publication_date": "2021-03-04T00:00:00Z",
+      "dimensions": "13.5 x 2.2 x 21.6 cm",
+      "date_purchased": "2021-05-18T00:00:00Z",
+      "isbn10": 1471190595,
+      "print_length": "256 pages",
+      "language": "English",
+      "isbn13": "978-1471190599",
+      "type": "Hardcover",
+      "publisher": {
+        "name": "Scribner UK"
+      }
+    },
+    "date_started": "2022-02-08T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117480313"
+  },
+  "_books/2022-02-19-klara-and-the-sun.md": {
+    "title": "Klara and the Sun",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "format": {
+      "aisn": {
+        "membership": "B08BPJHNCG"
+      },
+      "narrators": [
+        "Sura Siu"
+      ],
+      "date_purchased": "2021-12-19T00:00:00Z",
+      "date_release": "2021-03-02T00:00:00Z",
+      "format": "Unabridged Audiobook",
+      "language": "English",
+      "runtime": "10 hours and 16 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Faber & Faber"
+      },
+      "year_released": 2021
+    },
+    "date_started": "2022-02-19T00:00:00Z",
+    "date_finished": "2022-06-26T00:00:00Z",
+    "rating": 2,
+    "work_iri": "http://www.wikidata.org/wiki/Q105704813"
+  },
+  "_books/2022-02-24-watching-the-english.md": {
+    "title": "Watching the English",
+    "authors": [
+      "Kate Fox"
+    ],
+    "date_started": "2022-02-24T00:00:00Z",
+    "date_finished": "2022-06-11T00:00:00Z",
+    "rating": 3,
+    "work_iri": "https://www.wikidata.org/wiki/Q7973159"
+  },
+  "_books/2022-03-26-follow-the-money.md": {
+    "title": "Follow the Money",
+    "subtitle": "How Much Does Britain Cost?",
+    "authors": [
+      "Paul Johnson"
+    ],
+    "date_started": "2022-03-26T00:00:00Z",
+    "date_finished": "2023-03-31T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480545",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117570329"
+  },
+  "_books/2022-04-19-season-of-storms.md": {
+    "date_finished": "2022-04-21T00:00:00Z",
+    "authors": [
+      "Andrzej Sapkowski",
+      "David French - translator"
+    ],
+    "series_entry": "Book 6",
+    "date_started": "2022-04-19T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q15260619",
+    "series": "The Witcher Saga",
+    "format": {
+      "type": "Unabridged Audiobook",
+      "narrators": [
+        "Peter Kenny"
+      ]
+    },
+    "subtitle": "The Witcher, Book 6",
+    "title": "Season of Storms",
+    "rating": 4
+  },
+  "_books/2022-04-22-the-anthropocene-reviewed.md": {
+    "title": "The Anthropocene Reviewed",
+    "authors": [
+      "John Green"
+    ],
+    "date_started": "2022-04-22T00:00:00Z",
+    "date_finished": "2022-04-30T00:00:00Z",
+    "rating": 3,
+    "work_iri": "http://www.wikidata.org/wiki/Q107490750"
+  },
+  "_books/2022-05-02-surface-detail.md": {
+    "title": "Surface Detail",
+    "authors": [
+      "Ian M Banks"
+    ],
+    "date_started": "2022-05-02T00:00:00Z",
+    "date_finished": "2022-05-10T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q302026"
+  },
+  "_books/2022-05-10-the-red-virgin-and-the-vision-of-utopia.md": {
+    "title": "The Red Virgin and the Vision of Utopia",
+    "authors": [
+      "Bryan Talbot",
+      "Mary Talbot"
+    ],
+    "format": {
+      "type": "Hardcover",
+      "print_length": "144 pages",
+      "language": "English",
+      "publisher": {
+        "name": "Jonathan Cape"
+      },
+      "publication_date": "2016-05-05T00:00:00Z",
+      "dimensions": "16 x 2 x 22.3 cm",
+      "isbn10": 38831334,
+      "isbn13": "978-0224102346"
+    },
+    "date_started": "2022-05-10T00:00:00Z",
+    "date_finished": "2022-06-01T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480339"
+  },
+  "_books/2022-05-16-free-coming-of-age-at-the-end-of-history.md": {
+    "title": "Free: Coming of Age at the End of History",
+    "authors": [
+      "Lea Ypi"
+    ],
+    "date_started": "2022-05-16T00:00:00Z",
+    "date_finished": "2022-05-21T00:00:00Z",
+    "rating": 5,
+    "work_iri": "http://www.wikidata.org/wiki/Q110608207"
+  },
+  "_books/2022-05-21-oracle-bones.md": {
+    "date_finished": "2022-05-31T00:00:00Z",
+    "authors": [
+      "Peter Hessler"
+    ],
+    "metadata": {
+      "date_scraped": "2022-05-21"
+    },
+    "date_started": "2022-05-21T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117480335",
+    "format": {
+      "bookFormat": "Unabridged Audiobook",
+      "identifier": {
+        "membership": "B004FTAUE8"
+      },
+      "readBy": [
+        "Peter Berkrot"
+      ],
+      "url": "https://www.audible.co.uk/pd/Oracle-Bones-Audiobook/B004FTAUE8",
+      "duration": "PTH18M32",
+      "image": "https://m.media-amazon.com/images/I/51yZ3Z78fzL._SL500_.jpg",
+      "publisher": {
+        "name": "Audible Studios"
+      },
+      "releasedEvent": "2010-03-23",
+      "inLanguage": "English"
+    },
+    "subtitle": "A Journey Through Time in China",
+    "title": "Oracle Bones",
+    "rating": 3
+  },
+  "_books/2022-06-02-butler-to-the-world.md": {
+    "date_finished": "2022-06-03T00:00:00Z",
+    "authors": [
+      "Oliver Bullough"
+    ],
+    "metadata": {
+      "date_scraped": "2022-06-03"
+    },
+    "date_started": "2022-06-02T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q114397287",
+    "format": {
+      "bookFormat": "Unabridged Audiobook",
+      "identifier": {
+        "membership": "B09TMB36H6"
+      },
+      "readBy": [
+        "Oliver Bullough"
+      ],
+      "url": "https://www.audible.co.uk/pd/Butler-to-the-World-Audiobook/B09TMB36H6",
+      "duration": "PTH8M6",
+      "image": "https://m.media-amazon.com/images/I/41IuDt9ZD0L._SL500_.jpg",
+      "publisher": {
+        "name": "Hachette Audio UK"
+      },
+      "releasedEvent": "2022-03-10",
+      "inLanguage": "English"
+    },
+    "subtitle": "How Britain Became the Servant of Tycoons, Tax Dodgers, Kleptocrats and Criminals",
+    "title": "Butler to the World",
+    "rating": 5
+  },
+  "_books/2022-06-03-atoms-and-ashes.md": {
+    "title": "Atoms and Ashes",
+    "authors": [
+      "Serhii Plokhy"
+    ],
+    "date_started": "2022-06-03T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117480347"
+  },
+  "_books/2022-06-11-the-entrepreneurial-state.md": {
+    "title": "The Entrepreneurial State",
+    "authors": [
+      "Mariana Mazzucato"
+    ],
+    "date_started": "2022-06-11T00:00:00Z",
+    "date_finished": "2022-06-20T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q25345736"
+  },
+  "_books/2022-06-19-moneyland.md": {
+    "title": "Moneyland",
+    "authors": [
+      "Oliver Bullough"
+    ],
+    "date_started": "2022-06-19T00:00:00Z",
+    "date_finished": "2022-06-22T00:00:00Z",
+    "rating": 3,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480358"
+  },
+  "_books/2022-06-24-country-driving.md": {
+    "title": "Country Driving",
+    "authors": [
+      "Peter Hessler"
+    ],
+    "date_started": "2022-06-24T00:00:00Z",
+    "date_finished": "2022-07-04T00:00:00Z",
+    "rating": 3,
+    "work_iri": "https://www.wikidata.org/wiki/Q78496966"
+  },
+  "_books/2022-07-04-lavinia.md": {
+    "title": "Lavinia",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "date_started": "2022-07-04T00:00:00Z",
+    "date_finished": "2022-07-07T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q2811112"
+  },
+  "_books/2022-08-17-the-right-to-sex.md": {
+    "title": "The Right to Sex",
+    "authors": [
+      "Amia Srinivasan"
+    ],
+    "format": {
+      "type": "Paperback",
+      "print_length": "304 pages",
+      "language": "English",
+      "publisher": {
+        "name": "Bloomsbury Publishing"
+      },
+      "publication_date": "2022-05-26T00:00:00Z",
+      "dimensions": "19.8 x 2.1 x 12.8 cm",
+      "isbn10": 1526612542,
+      "isbn13": "978-1526612540"
+    },
+    "date_started": "2022-08-17T00:00:00Z",
+    "date_finished": "2022-09-04T00:00:00Z",
+    "rating": 5,
+    "work_iri": "https://www.wikidata.org/wiki/Q109967298"
+  },
+  "_books/2022-08-21-moon-witch-spider-king.md": {
+    "title": "Moon Witch, Spider King",
+    "authors": [
+      "Marlon James"
+    ],
+    "date_started": "2022-08-21T00:00:00Z",
+    "date_finished": "2022-10-23T00:00:00Z",
+    "rating": 3,
+    "work_iri": "https://www.wikidata.org/wiki/Q111954893"
+  },
+  "_books/2022-10-23-the-data-centric-revolution.md": {
+    "title": "The Data-centric Revolution",
+    "authors": [
+      "David McComb"
+    ],
+    "date_started": "2022-10-23T00:00:00Z",
+    "date_finished": "2022-12-25T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480397",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731242"
+  },
+  "_books/2022-11-05-a-memory-called-empire.md": {
+    "title": "A Memory Called Empire",
+    "authors": [
+      "Arkady Martine"
+    ],
+    "date_started": "2022-11-05T00:00:00Z",
+    "date_finished": "2022-11-28T00:00:00Z",
+    "rating": 4,
+    "work_iri": "http://www.wikidata.org/wiki/Q82566838",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122730942"
+  },
+  "_books/2022-12-05-hydrogen-sonata.md": {
+    "title": "Hydrogen Sonata",
+    "authors": [
+      "Ian M Banks"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q7741197",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123915790",
+    "date_started": "2022-12-05T00:00:00Z",
+    "date_finished": "2023-12-13T00:00:00Z",
+    "rating": 5
+  },
+  "_books/2022-12-15-ultra-processed-people.md": {
+    "title": "Ultra-Processed People",
+    "subtitle": "Why Do We All Eat Stuff That Isn`t Food… and Why Can`t We Stop?",
+    "authors": [
+      "Chris van Tulleken"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123915777",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123915783",
+    "date_started": "2022-12-15T00:00:00Z",
+    "date_finished": "2023-12-17T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2022-12-19-rebirding.md": {
+    "title": "Rebirding",
+    "subtitle": "Rewilding Britian and it's Birds",
+    "authors": [
+      "Benedict Macdonald"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123915755",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123915767",
+    "date_started": "2022-12-19T00:00:00Z",
+    "date_finished": "2023-12-26T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2022-12-22-children-of-memory.md": {
+    "title": "Children of Memory",
+    "authors": [
+      "Adrian Tchaikovsky"
+    ],
+    "date_started": "2022-12-22T00:00:00Z",
+    "date_finished": "2022-12-23T00:00:00Z",
+    "rating": 5,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480516",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731077"
+  },
+  "_books/2022-12-24-a-desolation-called-peace.md": {
+    "title": "A Desolation Called Peace",
+    "authors": [
+      "Arkady Martine"
+    ],
+    "date_started": "2022-12-24T00:00:00Z",
+    "date_finished": "2023-01-06T00:00:00Z",
+    "rating": 5,
+    "work_iri": "http://www.wikidata.org/wiki/Q105722561",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117571899"
+  },
+  "_books/2022-12-27-back-to-nature.md": {
+    "title": "Back to nature",
+    "subtitle": "How to love life - and save it",
+    "authors": [
+      "Chris Packham",
+      "Megan McCubbin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q124273504",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124273716",
+    "date_started": "2022-12-27T00:00:00Z",
+    "date_finished": "2024-01-02T00:00:00Z",
+    "rating": 2
+  },
+  "_books/2023-01-20-god-human-animal-machine.md": {
+    "title": "God, Human, Animal, Machine",
+    "authors": [
+      "Meghan O'Gieblyn"
+    ],
+    "date_started": "2023-01-20T00:00:00Z",
+    "date_finished": "2023-03-26T00:00:00Z",
+    "rating": 3,
+    "work_iri": "https://www.wikidata.org/wiki/Q117480535",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117571340"
+  },
+  "_books/2023-03-31-burn.md": {
+    "title": "Burn",
+    "authors": [
+      "Herman Pontzer"
+    ],
+    "date_started": "2023-03-31T00:00:00Z",
+    "date_finished": "2023-04-09T00:00:00Z",
+    "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q117478258",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117569148"
+  },
+  "_books/2023-03-31-fracture.md": {
+    "title": "Fracture",
+    "subtitle": "The collision between technology and democracy and how we fix it",
+    "authors": [
+      "Jerry Fishenden"
+    ],
+    "date_started": "2023-03-31T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117480560",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117565798"
+  },
+  "_books/2023-04-09-why-we-get-the-wrong-politicians.md": {
+    "title": "Why We Get The Wrong Politicians",
+    "authors": [
+      "Isabel Hardman"
+    ],
+    "date_started": "2023-04-09T00:00:00Z",
+    "date_finished": "2023-04-10T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q117480568",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117567368",
+    "rating": 4
+  },
+  "_books/2023-04-10-the-big-con.md": {
+    "title": "The Big Con",
+    "subtitle": "How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments and Warps Our Economies",
+    "authors": [
+      "Mariana Mazzucato",
+      "Rosie Collington"
+    ],
+    "date_started": "2023-04-10T00:00:00Z",
+    "date_finished": "2023-05-14T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q116872080",
+    "edition_iri": "https://www.wikidata.org/wiki/Q117572606",
+    "rating": 3
+  },
+  "_books/2023-05-14-a-wizard-of-earthsea.md": {
+    "title": "A Wizard of Earthsea",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q1771810",
+    "edition_iri": "https://www.wikidata.org/wiki/Q118551857",
+    "date_started": "2023-05-14T00:00:00Z",
+    "date_finished": "2023-06-04T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-05-14-why-politics-fails.md": {
+    "title": "Why Politics Fails",
+    "subtitle": "The Five Traps of the Modern World and How to Escape Them",
+    "authors": [
+      "Ben Ansell"
+    ],
+    "date_started": "2023-05-14T00:00:00Z",
+    "date_finished": "2023-05-29T00:00:00Z",
+    "work_iri": "https://www.wikidata.org/wiki/Q118550925",
+    "edition_iri": "https://www.wikidata.org/wiki/Q118551199",
+    "rating": 4
+  },
+  "_books/2023-06-04-the-tombs-of-atuan.md": {
+    "title": "The Tombs of Atuan",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q2070380",
+    "edition_iri": "https://www.wikidata.org/wiki/Q119057234",
+    "date_started": "2023-06-04T00:00:00Z",
+    "date_finished": "2023-06-09T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-06-09-the-farthest-shore.md": {
+    "title": "The Farthest Shore",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q2288175",
+    "edition_iri": "https://www.wikidata.org/wiki/Q119293018",
+    "date_started": "2023-06-09T00:00:00Z",
+    "date_finished": "2023-06-22T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-06-22-everyday-utopia.md": {
+    "title": "Everyday Utopia",
+    "subtitle": "In Praise of Radical Alternatives to the Traditional Family Home",
+    "authors": [
+      "Kristen Ghodsee"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q119976210",
+    "edition_iri": "https://www.wikidata.org/wiki/Q119976712",
+    "date_started": "2023-06-22T00:00:00Z",
+    "date_finished": "2023-07-03T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-07-03-how-to-be-animal.md": {
+    "title": "How to Be Animal",
+    "subtitle": "A New History of What It Means to Be Human",
+    "authors": [
+      "Melanie Challenger"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q120235408",
+    "edition_iri": "https://www.wikidata.org/wiki/Q120235440",
+    "date_started": "2023-07-03T00:00:00Z",
+    "date_finished": "2023-07-06T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-07-06-tehanu.md": {
+    "title": "Tehanu",
+    "subtitle": "The Earthsea Cycle, Book Four",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q2261855",
+    "edition_iri": "https://www.wikidata.org/wiki/Q120410559",
+    "date_started": "2023-07-06T00:00:00Z",
+    "date_finished": "2023-07-10T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-07-10-radical-help.md": {
+    "title": "Radical Help",
+    "subtitle": "How We Can Remake the Relationships Between Us and Revolutionise the Welfare State",
+    "authors": [
+      "Hilary Cottam"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q120728921",
+    "edition_iri": "https://www.wikidata.org/wiki/Q120728926",
+    "date_started": "2023-07-10T00:00:00Z",
+    "date_finished": "2023-07-19T00:00:00Z",
+    "rating": 2
+  },
+  "_books/2023-07-20-tales-from-earthsea.md": {
+    "title": "Tales from Earthsea",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q2499675",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122732562",
+    "date_started": "2023-07-20T00:00:00Z",
+    "date_finished": "2023-07-25T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-07-27-the-other-wind.md": {
+    "title": "The Other Wind",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q717326",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122732596",
+    "date_started": "2023-07-27T00:00:00Z",
+    "date_finished": "2023-08-03T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-08-01-feng-shui-modern.md": {
+    "title": "Feng Shui Modern",
+    "authors": [
+      "Cliff Tan"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q122070561",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122732065",
+    "date_started": "2023-08-01T00:00:00Z"
+  },
+  "_books/2023-08-03-migraine.md": {
+    "title": "Migraine",
+    "authors": [
+      "Oliver Sacks"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q15975187",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731321",
+    "date_started": "2023-08-03T00:00:00Z",
+    "date_finished": "2023-08-13T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-08-15-good-strategy-bad-strategy.md": {
+    "title": "Good Strategy/Bad Strategy",
+    "subtitle": "The difference and why it matters",
+    "authors": [
+      "Richard Rumelt"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q122070534",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731741",
+    "date_started": "2023-08-15T00:00:00Z",
+    "date_finished": "2023-08-26T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-09-05-the-human-condition-second-edition.md": {
+    "title": "The Human Condition (Second Edition)",
+    "authors": [
+      "Hannah Arendt"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q2006866",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122730893",
+    "date_started": "2023-09-05T00:00:00Z"
+  },
+  "_books/2023-09-08-the-secret-barrister.md": {
+    "title": "The Secret Barrister",
+    "subtitle": "Stories of the Law and How It's Broken",
+    "authors": [
+      "The Secret Barrister"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q54489094",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731298",
+    "date_started": "2023-09-08T00:00:00Z",
+    "date_finished": "2023-09-12T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-09-12-empireland.md": {
+    "title": "Empireland",
+    "subtitle": "How Imperialism Has Shaped Modern Britain",
+    "authors": [
+      "Sathnam Sanghera"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q121880088",
+    "edition_iri": "https://www.wikidata.org/wiki/Q121880100",
+    "date_started": "2023-09-12T00:00:00Z",
+    "date_finished": "2023-09-03T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-09-12-understanding-power.md": {
+    "title": "Understanding Power",
+    "subtitle": "The Indispensable Chomsky",
+    "authors": [
+      "Noam Chomsky",
+      "John Schoeffel - editor",
+      "Peter R. Mitchell - editor"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q16547846",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122705615",
+    "date_started": "2023-09-12T00:00:00Z",
+    "date_finished": "2023-09-19T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-09-19-homage-to-catalonia.md": {
+    "title": "Homage to Catalonia",
+    "authors": [
+      "George Orwell"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q514694",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122731856",
+    "date_started": "2023-09-19T00:00:00Z",
+    "date_finished": "2023-09-23T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-09-23-translation-state.md": {
+    "title": "Translation State",
+    "authors": [
+      "Ann Leckie"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q120482895",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122732022",
+    "date_started": "2023-09-23T00:00:00Z",
+    "date_finished": "2023-09-26T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2023-09-26-the-lost-rainforests-of-britain.md": {
+    "title": "The Lost Rainforests of Britain",
+    "authors": [
+      "Guy Shrubsole"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q122810966",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122810986",
+    "date_started": "2023-09-26T00:00:00Z",
+    "date_finished": "2023-09-27T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-09-27-feral.md": {
+    "title": "Feral",
+    "authors": [
+      "George Monbiot"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q48801122",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122912832",
+    "date_started": "2023-09-27T00:00:00Z",
+    "date_finished": "2023-09-29T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-09-27-green-and-prosperous-land.md": {
+    "title": "Green and Prosperous Land",
+    "authors": [
+      "Dieter Helm"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q122903068",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122912815",
+    "date_started": "2023-09-27T00:00:00Z",
+    "date_finished": "2023-10-03T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-10-03-regenesis.md": {
+    "title": "Regenesis",
+    "authors": [
+      "George Monbiot"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q122924535",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122924557",
+    "date_started": "2023-10-03T00:00:00Z",
+    "date_finished": "2023-10-06T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-10-05-trees-and-woodland-in-the-british-landscape.md": {
+    "title": "Trees and Woodland in the British landscape",
+    "authors": [
+      "Oliver Rackham"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q122998129",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122998144",
+    "date_started": "2023-10-05T00:00:00Z"
+  },
+  "_books/2023-10-06-nature-in-focus.md": {
+    "title": "Nature in focus",
+    "authors": [
+      "P. S. Crowson"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q122969865",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122998064",
+    "date_started": "2023-10-06T00:00:00Z",
+    "date_finished": "2023-10-09T00:00:00Z",
+    "rating": 2
+  },
+  "_books/2023-10-06-the-bbc-naturalist.md": {
+    "title": "The BBC Naturalist",
+    "authors": [
+      "Desmond Hawkins",
+      "Peter Scott",
+      "H. Gwynne Vevers",
+      "G. K. Yeates",
+      "Walter J. C. Murray",
+      "Earnest Neal",
+      "Humphrey Hewer",
+      "James Fisher",
+      "W. S. Bristowe",
+      "John Barlee",
+      "Walter Flesher",
+      "Ralph Whitlock",
+      "Douglas Wilson",
+      "Philip Brown",
+      "John Clegg",
+      "E. A. R. Ennion",
+      "Bruce Campbell",
+      "Leo Harrison Matthews",
+      "Desmond Hawkins",
+      "Maxwell Knight",
+      "Frances Pitt",
+      "Ralph Wightman",
+      "Field marshal Lord Alanbrooke"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q122961060",
+    "edition_iri": "https://www.wikidata.org/wiki/Q122961148",
+    "date_started": "2023-10-06T00:00:00Z",
+    "date_finished": "2023-10-06T00:01:00Z",
+    "rating": 3
+  },
+  "_books/2023-10-13-technofeudalism.md": {
+    "title": "Technofeudalism",
+    "subtitle": "What Killed Capitalism",
+    "authors": [
+      "Yanis Varoufakis"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123693041",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123693103",
+    "date_started": "2023-10-13T00:00:00Z",
+    "date_finished": "2023-10-18T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-10-19-journeys-in-the-wild.md": {
+    "title": "Journeys in the Wild",
+    "subtitle": "The Secret Life of a Cameraman",
+    "authors": [
+      "Gavin Thurston",
+      "Sir David Attenborough"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123916852",
+    "edition_iri": "https://www.wikidata.org/Q123916853",
+    "date_started": "2023-10-19T00:00:00Z",
+    "date_finished": "2023-10-24T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-10-24-material-world.md": {
+    "title": "Material World",
+    "authors": [
+      "Ed Conway"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123916842",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916845",
+    "date_started": "2023-10-24T00:00:00Z",
+    "date_finished": "2023-10-30T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-10-30-how-to-blow-up-a-pipeline.md": {
+    "title": "How to blow up a pipeline",
+    "authors": [
+      "Andreas Malm"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123478630",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916813",
+    "date_started": "2023-10-30T00:00:00Z",
+    "date_finished": "2023-10-31T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-10-31-reflections.md": {
+    "title": "Reflections",
+    "subtitle": "What wildlife needs and how to provide it",
+    "authors": [
+      "Dr. Mark Avery"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123916792",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916806",
+    "date_started": "2023-10-31T00:00:00Z",
+    "date_finished": "2023-11-03T00:00:00Z",
+    "rating": 5
+  },
+  "_books/2023-11-02-the-making-of-the-english-working-class.md": {
+    "title": "The Making of the English Working Class",
+    "authors": [
+      "E. P. Thompson"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q913804",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916822",
+    "date_started": "2023-11-02T00:00:00Z",
+    "date_finished": "2024-04-19T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-11-27-the-internet-con.md": {
+    "title": "The Internet Con",
+    "subtitle": "How to seize the means of computation",
+    "authors": [
+      "Cory Doctorow"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123916686",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916686",
+    "date_started": "2023-11-27T00:00:00Z",
+    "date_finished": "2023-11-28T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-11-28-invisible-women.md": {
+    "title": "Invisible Women",
+    "subtitle": "Exposing data bias in a world designed for men",
+    "authors": [
+      "Caroline Criado Perez"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q106771034",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916557",
+    "date_started": "2023-11-28T00:00:00Z",
+    "date_finished": "2023-12-02T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2023-12-05-these-burning-stars.md": {
+    "title": "These Burning Stars",
+    "authors": [
+      "Bethany Jacobs"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q123916482",
+    "edition_iri": "https://www.wikidata.org/wiki/Q123916512",
+    "date_started": "2023-12-05T00:00:00Z",
+    "date_finished": "2023-12-02T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-01-02-wilding.md": {
+    "title": "Wilding",
+    "subtitle": "The return of nature to a British far",
+    "authors": [
+      "Isabella Tree"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q124272968",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124273194",
+    "date_started": "2024-01-02T00:00:00Z",
+    "date_finished": "2024-01-09T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-01-09-cinema-speculation.md": {
+    "title": "Cinema Speculation",
+    "authors": [
+      "Quentin Tarintio"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q114948604",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124273861",
+    "date_started": "2024-01-09T00:00:00Z",
+    "date_finished": "2024-02-10T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-02-10-not-the-end-of-the-world.md": {
+    "title": "Not the end of the world",
+    "authors": [
+      "Hannah Richie"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q124274261",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124274349",
+    "date_started": "2024-02-10T00:00:00Z",
+    "date_finished": "2024-02-24T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-02-25-the-old-ways.md": {
+    "title": "The Old Ways",
+    "subtitle": "A journey on foot",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q104570068",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124823022",
+    "date_started": "2024-02-25T00:00:00Z",
+    "date_finished": "2024-03-05T00:00:00Z",
+    "rating": 5
+  },
+  "_books/2024-03-09-children-of-ash-and-elm.md": {
+    "title": "Children of Ash and Elm",
+    "subtitle": "A history of the Vikings",
+    "authors": [
+      "Neil Price"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q124822936",
+    "edition_iri": "https://www.wikidata.org/wiki/Q124822964",
+    "date_started": "2024-03-09T00:00:00Z",
+    "date_finished": "2024-03-24T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-03-24-team-topologies.md": {
+    "title": "Team Topologies",
+    "subtitle": " Organizing Business and Technology Teams for Fast Flow",
+    "authors": [
+      "Matthew Skelton"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-03-24T00:00:00Z",
+    "date_finished": "2024-05-31T00:00:00Z",
+    "rating": 5
+  },
+  "_books/2024-03-28-these-bodies-of-water.md": {
+    "title": "These Bodies of Water",
+    "authors": [
+      "Sabrina Mahfouz"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-03-28T00:00:00Z",
+    "date_finished": "2024-03-29T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-04-24-the-hidden-girl-and-other-stories.md": {
+    "title": "The Hidden Girl and Other Stories",
+    "authors": [
+      "Ken Liu"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-04-24T00:00:00Z",
+    "date_finished": "2024-05-11T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-04-27-we-should-all-be-feminists.md": {
+    "title": "We Should All Be Feminists",
+    "authors": [
+      "Chimamanda Ngozi Adichie"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-04-27T00:00:00Z",
+    "date_finished": "2024-04-27T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-05-06-every-man-against-himself-and-god-against-all.md": {
+    "title": "Every man against himself and god against all",
+    "authors": [
+      "Werner Herzog"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-05-06T00:00:00Z",
+    "date_finished": "2024-05-19T00:00:00Z",
+    "rating": 5
+  },
+  "_books/2024-05-23-call-for-the-dead.md": {
+    "title": "Call for the Dead",
+    "authors": [
+      "John le Carré"
+    ],
+    "work_iri": "http://www.wikidata.org/entity/Q652350",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-05-23T00:00:00Z",
+    "date_finished": "2024-05-25T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-05-25-a-murder-of-quality.md": {
+    "title": "A Murder of Quality",
+    "authors": [
+      "John le Carré"
+    ],
+    "work_iri": "http://www.wikidata.org/entity/Q1305005",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-05-25T00:00:00Z",
+    "date_finished": "2024-05-26T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-05-27-the-spy-who-came-in-from-the-cold.md": {
+    "title": "The Spy Who Came in from the Cold",
+    "authors": [
+      "John le Carré"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-05-27T00:00:00Z",
+    "date_finished": "2024-05-27T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-05-27-we-are-bellingcat.md": {
+    "title": "We Are Bellingcat",
+    "subtitle": "An Intelligence Agency for the People",
+    "authors": [
+      "Eliot Higgins"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-05-27T00:00:00Z",
+    "date_finished": "2024-05-31T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-06-06-the-silence-of-the-girls.md": {
+    "title": "The Silence of the Girls",
+    "authors": [
+      "Pat Barker"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-06-06T00:00:00Z",
+    "date_finished": "2024-06-07T00:00:00Z",
+    "rating": 5
+  },
+  "_books/2024-06-07-ancestors.md": {
+    "title": "Ancestors",
+    "subtitle": "The Prehistory of Britain in Seven Burials",
+    "authors": [
+      "Alice Roberts"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-06-07T00:00:00Z",
+    "date_finished": "2024-06-25T00:00:00Z",
+    "rating": 4,
+    "wikidata_potential_work_iris": [
+      "http://www.wikidata.org/entity/Q4880339",
+      "http://www.wikidata.org/entity/Q77216697",
+      "http://www.wikidata.org/entity/Q97362173",
+      "http://www.wikidata.org/entity/Q97362173"
+    ]
+  },
+  "_books/2024-06-07-the-looking-glass-war.md": {
+    "title": "The Looking Glass War",
+    "authors": [
+      "John le Carré"
+    ],
+    "work_iri": "http://www.wikidata.org/entity/Q268112",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-06-07T00:00:00Z",
+    "date_finished": "2024-06-20T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-06-26-imaginary-friend.md": {
+    "title": "Imaginary Friend",
+    "authors": [
+      "Stephen Chbosky"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-06-26T00:00:00Z",
+    "date_finished": "2024-07-05T00:00:00Z",
+    "rating": 1
+  },
+  "_books/2024-06-29-underland.md": {
+    "title": "Underland",
+    "authors": [
+      "Robert Macfarlane"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-06-29T00:00:00Z",
+    "date_finished": "2024-07-21T00:00:00Z",
+    "rating": 4,
+    "wikidata_potential_work_iris": [
+      "http://www.wikidata.org/entity/Q4726184",
+      "http://www.wikidata.org/entity/Q104565351"
+    ]
+  },
+  "_books/2024-07-12-failed-state.md": {
+    "title": "Failed State",
+    "subtitle": "Why Nothing Works and How We Fix It",
+    "authors": [
+      "Sam Freedman"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-07-12T00:00:00Z",
+    "date_finished": "2024-07-14T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-07-22-babel.md": {
+    "title": "Babel",
+    "subtitle": "Or the Necessity of Violence: An Arcane history of the Oxford Translators' Revolution",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-07-22T00:00:00Z",
+    "date_finished": "2024-08-02T00:00:00Z",
+    "rating": 5,
+    "wikidata_potential_work_iris": [
+      "http://www.wikidata.org/entity/Q77185131",
+      "http://www.wikidata.org/entity/Q77185802",
+      "http://www.wikidata.org/entity/Q125502267",
+      "http://www.wikidata.org/entity/Q125696601",
+      "http://www.wikidata.org/entity/Q125895152",
+      "http://www.wikidata.org/entity/Q126365839",
+      "http://www.wikidata.org/entity/Q126718833",
+      "http://www.wikidata.org/entity/Q128341963"
+    ]
+  },
+  "_books/2024-07-27-yellowface.md": {
+    "title": "Yellowface",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-07-27T00:00:00Z",
+    "date_finished": "2024-11-03T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-08-02-natives.md": {
+    "title": "Natives",
+    "subtitle": "Race and Class in the Ruins of Empire",
+    "authors": [
+      "Akala"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-02T00:00:00Z",
+    "date_finished": "2024-08-11T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-08-02-the-age-of-revolution.md": {
+    "title": "The Age of Revolution",
+    "subtitle": "Europe, 1789-1848 ",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-02T00:00:00Z"
+  },
+  "_books/2024-08-02-the-book-of-wilding.md": {
+    "title": "The Book of Wilding",
+    "authors": [
+      "Isabella Tree"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-02T00:00:00Z",
+    "date_finished": "2024-09-06T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-08-06-accelerate.md": {
+    "title": "Accelerate",
+    "subtitle": "The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations",
+    "authors": [
+      "Nicole Forsgren",
+      "Jez Humble",
+      "Gene Kim"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-06T00:00:00Z",
+    "date_finished": "2024-08-09T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-08-12-the-unaccountability-machine.md": {
+    "title": "The Unaccountability Machine",
+    "subtitle": "Why Big Systems Make Terrible Decisions - and How The World Lost its Mind",
+    "authors": [
+      "Dan Davies"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-12T00:00:00Z",
+    "date_finished": "2024-08-26T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-08-28-natures-ghosts.md": {
+    "title": "Nature's Ghosts",
+    "subtitle": "The world we lost and how to bring it back",
+    "authors": [
+      "Sophie Yeo"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-08-28T00:00:00Z",
+    "date_finished": "2024-09-18T00:00:00Z",
+    "rating": 5
+  },
+  "_books/2024-09-09-platformland.md": {
+    "title": "Platformland",
+    "authors": [
+      "Ricahrd Pope"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-09-09T00:00:00Z"
+  },
+  "_books/2024-09-15-lie-of-the-land.md": {
+    "title": "Lie of the Land",
+    "subtitle": "Who Really Cares for the Countryside?",
+    "authors": [
+      "Guy Shrubsole"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-09-15T00:00:00Z",
+    "date_finished": "2024-10-06T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-09-19-what-does-jeremy-think.md": {
+    "title": "What Does Jeremy Think?",
+    "subtitle": "Jeremy Heywood and the Making of Modern Britain",
+    "authors": [
+      "Suzanne Heywood"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-09-19T00:00:00Z",
+    "date_finished": "2024-09-25T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-09-26-clean-code.md": {
+    "title": "Clean Code",
+    "subtitle": "A Handbook of Agile Software Craftsmanship",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "work_iri": "http://www.wikidata.org/entity/Q109996684",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-09-26T00:00:00Z",
+    "date_finished": "2024-10-15T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-10-13-bartleby-the-scrivener.md": {
+    "title": "Bartleby, the Scrivener",
+    "authors": [
+      "Herman Melville"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-10-13T00:00:00Z",
+    "date_finished": "2024-10-13T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-10-15-clean-architecture.md": {
+    "title": "Clean Architecture",
+    "subtitle": "A Craftsman's Guide to Software Structure and Design",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "work_iri": "http://www.wikidata.org/entity/Q125055054",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-10-15T00:00:00Z",
+    "date_finished": "2024-10-27T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-10-17-we-are-free-to-change-the-world.md": {
+    "title": "We Are Free to Change the World",
+    "authors": [
+      "Lyndsey Stonebridge"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-10-17T00:00:00Z",
+    "date_finished": "2024-10-21T00:00:00Z",
+    "rating": 5
+  },
+  "_books/2024-10-21-the-women-of-troy.md": {
+    "title": "The Women of Troy",
+    "authors": [
+      "Pat Barker"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-10-21T00:00:00Z",
+    "date_finished": "2024-10-24T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-10-26-hunt-for-the-shadow-wolf.md": {
+    "title": "Hunt for the Shadow Wolf",
+    "authors": [
+      "Derek Gow"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-10-26T00:00:00Z",
+    "date_finished": "2024-11-02T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-11-04-clean-coder.md": {
+    "title": "Clean Coder",
+    "subtitle": "A Code of Conduct for Professional Programmer",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-11-04T00:00:00Z",
+    "date_finished": "2024-11-10T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-11-10-the-voyage-home.md": {
+    "title": "The Voyage Home",
+    "authors": [
+      "Pat Barker"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-11-10T00:00:00Z",
+    "date_finished": "2024-11-14T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-11-15-trials-of-life.md": {
+    "title": "Trials of Life",
+    "subtitle": "A Natural History of Animal Behaviour",
+    "authors": [
+      "David Attenborough"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-11-15T00:00:00Z",
+    "date_finished": "2024-12-08T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2024-11-15-unmasked.md": {
+    "title": "Unmasked",
+    "authors": [
+      "Ellie Middleton"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-11-15T00:00:00Z",
+    "date_finished": "2024-11-26T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-12-04-the-art-of-uncertainty.md": {
+    "title": "The Art of Uncertainty",
+    "subtitle": "How to Navigate Chance Ignorance, Rick and Luck",
+    "authors": [
+      "David Spiegelhalter"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-12-04T00:00:00Z",
+    "date_finished": "2025-01-06T00:00:00Z",
+    "rating": 4
+  },
+  "_books/2024-12-04-the-witchs-heart.md": {
+    "title": "The Witch's Heart",
+    "authors": [
+      "Genevieve Gornichec"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2024-12-04T00:00:00Z",
+    "date_finished": "2025-01-12T00:00:00Z",
+    "rating": 3
+  },
+  "_books/2025-01-14-all-systems-red.md": {
+    "date_finished": "2025-01-19T20:31:00.000Z",
+    "authors": [
+      "Martha Wells"
+    ],
+    "series_entry": "Book 1",
+    "date_started": "2025-01-14T00:12:00.000Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "The Murderbot Diaries",
+    "title": "All Systems Red",
+    "rating": 4,
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-01-19-artificial-condition.md": {
+    "date_finished": "2025-01-19T14:15:00.000Z",
+    "authors": [
+      "Martha Wells"
+    ],
+    "series_entry": "Book 2",
+    "date_started": "2025-01-19T00:56:00.000Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "The Murderbot Diaries",
+    "title": "Artificial Condition",
+    "rating": 4,
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-01-19-rogue-protocol.md": {
+    "date_finished": "2025-01-20T23:48:00.000Z",
+    "authors": [
+      "Martha Wells"
+    ],
+    "series_entry": "Book 3",
+    "date_started": "2025-01-19T23:48:00.000Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "The Murderbot Diaries",
+    "title": "Rogue Protocol",
+    "rating": 4,
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-01-20-exit-strategy.md": {
+    "date_finished": "2025-01-23T12:00:00.000Z",
+    "authors": [
+      "Martha Wells"
+    ],
+    "series_entry": "Book 4",
+    "date_started": "2025-01-20T23:51:00.000Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "The Murderbot Diaries",
+    "title": "Exit Strategy",
+    "rating": 4,
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-01-23-network-effect.md": {
+    "date_finished": "2025-01-30T21:36:00.000Z",
+    "authors": [
+      "Martha Wells"
+    ],
+    "series_entry": "Book 5",
+    "date_started": "2025-01-23T18:42:00.000Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "The Murderbot Diaries",
+    "title": "Network Effect",
+    "rating": 3,
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-02-07-fugitive-telemetry.md": {
+    "date_finished": "2025-02-07T18:00:00.000Z",
+    "authors": [
+      "Martha Wells"
+    ],
+    "series_entry": "Book 6",
+    "date_started": "2025-02-07T21:45:00.000Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "The Murderbot Diaries",
+    "title": "Fugitive Telemetry",
+    "rating": 3,
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-02-07-the-poppy-war.md": {
+    "date_finished": "2025-02-10T23:40:00.000Z",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "series_entry": "Book 1",
+    "date_started": "2025-02-07T18:04:00.000Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "Poppy War trilogy",
+    "title": "The Poppy War",
+    "rating": 5,
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-02-11-the-bear.md": {
+    "title": "The Bear",
+    "authors": [
+      "Andrew Krivak"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_finished": "2025-02-15T01:08:00.000Z",
+    "date_started": "2025-02-11T16:41:00.000Z",
+    "rating": 5,
+    "wikidata_potential_work_iris": [
+      "http://www.wikidata.org/entity/Q1593096",
+      "http://www.wikidata.org/entity/Q7545987",
+      "http://www.wikidata.org/entity/Q117383067"
+    ]
+  },
+  "_books/2025-02-12-an-elegant-puzzle.md": {
+    "title": "An Elegant Puzzle",
+    "subtitle": "Systems of Engineering Management",
+    "authors": [
+      "Will Larson"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_started": "2025-02-12T09:30:00.000Z",
+    "rating": 5,
+    "date_finished": "2025-04-23T19:41:00.000Z"
+  },
+  "_books/2025-02-20-feeding-britain.md": {
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "title": "Feeding Britain ",
+    "subtitle": "Our food problems and how to fix them",
+    "authors": [
+      "Tim Lang"
+    ],
+    "date_started": "2025-02-20T07:32:00.000Z",
+    "rating": 4,
+    "date_finished": "2025-03-07T11:30:00.000Z"
+  },
+  "_books/2025-03-12-system-collapse.md": {
+    "date_finished": "2025-03-12T08:07:00.000Z",
+    "authors": [
+      "Martha Wells"
+    ],
+    "series_entry": "Book 7",
+    "date_started": "2025-03-12T08:07:00.000Z",
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "series": "The Murderbot Diaries",
+    "title": "System Collapse",
+    "rating": 2,
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-03-16-the-age-of-surveillance-capitalism.md": {
+    "date_finished": "2025-03-23T11:30:00.000Z",
+    "authors": [
+      "Shoshana Zuboff"
+    ],
+    "date_started": "2025-03-16T00:00:00.000Z",
+    "work_iri": "http://www.wikidata.org/wiki/Q75804726",
+    "format": {
+      "aisn": {
+        "product": "1478947276",
+        "membership": "B07BVZK3XQ"
+      },
+      "narrators": [
+        "Nicol Zanzarella"
+      ],
+      "date_released": "2019-01-28T00:00:00Z",
+      "date_purchased": "2019-10-29T00:00:00Z",
+      "version": "Unabridged",
+      "runtime": "24 hours and 16 minutes",
+      "type": "Audiobook",
+      "publisher": {
+        "name": "Hachette Audio"
+      },
+      "year_released": 2019
+    },
+    "subtitle": "The Fight for a Human Future at the New Frontier of Power",
+    "title": "The Age of Surveillance Capitalism",
+    "rating": 5,
+    "edition_iri": "http://www.wikidata.org/wiki/"
+  },
+  "_books/2025-03-23-the-anxious-generation.md": {
+    "date_finished": "2025-03-28T22:00:00.000Z",
+    "date_started": "2025-03-23T19:23:00.000Z",
+    "title": "The Anxious Generation",
+    "authors": [
+      "Jonathan Haidt"
+    ],
+    "subtitle": "How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness ",
+    "rating": 3,
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/"
+  },
+  "_books/2025-03-30-careless-people.md": {
+    "title": "Careless People",
+    "subtitle": "A story of where I used to work",
+    "authors": [
+      "Sarah Wynn-Williams"
+    ],
+    "date_started": "2025-03-30T10:31:00.000Z",
+    "date_finished": "2025-04-03T09:32:00.000Z",
+    "rating": 5,
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "http://www.wikidata.org/entity/Q133305848"
+  },
+  "_books/2025-04-03-everything-is-tuberculosis.md": {
+    "title": "Everything Is Tuberculosis ",
+    "subtitle": "The History and Persistence of Our Deadliest Infection",
+    "authors": [
+      "John Green"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "date_finished": "2025-04-06T18:00:00.000Z",
+    "date_started": "2025-04-03T20:00:00.000Z",
+    "rating": 3
+  },
+  "_books/2025-04-06-abundance.md": {
+    "title": "Abundance",
+    "work_iri": "http://www.wikidata.org/entity/Q123269684",
+    "edition_iri": "https://www.wikidata.org/wiki/",
+    "authors": [
+      "Ezra Klein",
+      "Derek Thompson"
+    ],
+    "date_started": "2025-04-06T23:22:00.000Z",
+    "date_finished": "2025-04-11T12:50:00.000Z",
+    "rating": 4
+  },
+  "_books/2025-04-23-the-wager.md": {
+    "title": "The Wager",
+    "subtitle": "A Tale of Shipwreck, Mutiny and Murder",
+    "authors": [
+      "David Grann"
+    ],
+    "date_started": "2025-04-21T14:49:00.000Z",
+    "date_finsihed": "2025-04-23T13:09:00.000Z",
+    "rating": 4
+  },
+  "_books/2025-04-25-piranesi.md": {
+    "title": "Piranesi",
+    "authors": [
+      "Susanna Clarke"
+    ],
+    "work_iri": "http://www.wikidata.org/entity/Q125618921",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-04-25 09:00:00 UTC",
+    "date_finished": "2025-04-26 19:00:00 UTC",
+    "rating": 5
+  },
+  "_books/2025-04-26-i-who-have-never-known-men.md": {
+    "title": "I Who Have Never Known Men",
+    "authors": [
+      "Jacqueline Harpman"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-04-26 20:38:00 UTC",
+    "date_finished": "2025-04-27 10:47:00 UTC",
+    "rating": 5
+  },
+  "_books/2025-04-27-the-dragon-republic.md": {
+    "title": "The Dragon Republic",
+    "series": "The Poppy War Trilogy",
+    "series_entry": "2",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-04-27 15:25:00 UTC",
+    "date_finished": "2025-05-04 01:44:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-05-04-the-burning-god.md": {
+    "title": "The Burning God",
+    "series": "The Poppy War Trilogy",
+    "series_entry": "3",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-05-04 01:43:00 UTC",
+    "date_finished": "2025-05-08 23:05:00 UTC",
+    "rating": 2
+  },
+  "_books/2025-05-05-crack-up-captialism.md": {
+    "title": "Crack up captialism",
+    "authors": [
+      "Quinn Slobodian"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-05-05 16:35:00 UTC",
+    "date_finished": "2025-05-15 21:03:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-05-08-david-attenboroughs-life-stories.md": {
+    "title": "David Attenborough's Life Stories",
+    "authors": [
+      "David Attenborough"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-05-08 23:16:00 UTC",
+    "date_finished": "2025-05-10 17:40:00 UTC",
+    "rating": 5
+  },
+  "_books/2025-05-11-demography-a-very-short-introduction.md": {
+    "title": "Demography: A Very Short Introduction",
+    "series": "A Very Short Introduction",
+    "series_entry": " 565",
+    "authors": [
+      "Sarah Harper"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-05-11 11:40:00 UTC",
+    "date_finished": "2025-05-11 17:38:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-05-17-engineering-management-for-the-rest-of-us.md": {
+    "title": "Engineering Management for the Rest of Us",
+    "authors": [
+      "Sarah Drasner"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-05-17 13:26:00 UTC",
+    "date_finished": "2025-06-17 21:10:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-06-17-the-new-age-of-sexism.md": {
+    "title": "The New Age of Sexism",
+    "authors": [
+      "Laura Bates"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-06-17 21:12:00 UTC",
+    "date_finished": "2025-06-25 23:47:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-06-28-the-mercy-of-gods.md": {
+    "title": "The Mercy of Gods",
+    "series_entry": "",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-06-28 20:52:00 UTC",
+    "date_finished": "2025-07-03 17:51:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-07-06-economics-a-user-guide.md": {
+    "title": "Economics: A user guide",
+    "series": "A Pelican Book",
+    "authors": [
+      "Ha-Joon Chang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-07-06 16:11:00 UTC",
+    "date_finished": "2025-07-19 01:21:00 UTC",
+    "rating": 5
+  },
+  "_books/2025-07-20t11-20-00-000z-glorious-exploits.md": {
+    "title": "Glorious Exploits",
+    "authors": [
+      "Ferdia Lennon"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-07-20 11:20:00 UTC",
+    "date_finished": "2025-07-22 09:13:00 UTC",
+    "rating": 5
+  },
+  "_books/2025-07-22t13-08-00-000z-dark-matter.md": {
+    "title": "Dark Matter",
+    "authors": [
+      "Blake Crouch"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-07-22 13:08:00 UTC",
+    "date_finished": "2025-07-30 23:41:00 UTC",
+    "rating": 1
+  },
+  "_books/2025-08-05t19-42-00-000z-the-gone-away-world.md": {
+    "title": "The Gone-Away World",
+    "authors": [
+      "Nick Harkaway"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-08-05 19:42:00 UTC",
+    "date_finished": "2025-08-11 19:51:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-08-13t22-26-00-000z-a-place-of-greater-safety.md": {
+    "title": "A Place of Greater Safety",
+    "authors": [
+      "Hillary Mantel"
+    ],
+    "work_iri": "http://www.wikidata.org/entity/Q4658878",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-08-13 22:26:00 UTC",
+    "date_finished": "2025-09-13 12:04:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-08-31t09-04-00-000z-the-essays.md": {
+    "title": "The Essays",
+    "authors": [
+      "George Orwell"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-08-31 09:04:00 UTC",
+    "date_finished": "2025-09-14 00:25:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-09-07t09-14-00-000z-the-world-after-gaza.md": {
+    "title": "The World After Gaza",
+    "authors": [
+      "Pankaj Mishra"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-08-20 16:30:00 UTC",
+    "date_finished": "2025-09-10 22:32:00 UTC",
+    "rating": 5
+  },
+  "_books/2025-09-14t08-22-00-000z-live-suit.md": {
+    "title": "Livesuit",
+    "series": "Captive's War",
+    "series_entry": "0.5",
+    "authors": [
+      "James S. A. Corey"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-14 08:22:00 UTC",
+    "date_finished": "2025-09-14 10:44:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-09-14t10-46-00-000z-how-the-world-ran-out-of-everything-inside-the-global-supply-chain.md": {
+    "title": "How the World ran out of everything: Inside the global supply chain",
+    "authors": [
+      "Peter S. Goodman"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-14 10:46:00 UTC",
+    "date_finished": "2025-09-18 00:24:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-09-15t23-36-00-000z-one-day-everyone-will-have-always-been-against-this.md": {
+    "title": "One Day, Everyone Will Have Always Been Against This",
+    "series": "",
+    "authors": [
+      "Omar El Akkad"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-15 23:36:00 UTC",
+    "date_finished": "2025-09-19 23:57:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-09-18t23-21-00-000z-a-psalm-for-the-wild-built.md": {
+    "title": "A Psalm for the Wild Built",
+    "series": "Monk and Robot",
+    "series_entry": "1",
+    "authors": [
+      "Becky Chambers"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-18 23:21:00 UTC",
+    "date_finished": "2025-09-19 14:56:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-09-20t13-24-00-000z-breakneck-chinas-quest-to-engineer-the-future.md": {
+    "title": "Breakneck: China's Quest to Engineer the Future",
+    "series": "",
+    "authors": [
+      "Dan Wang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-20 13:24:00 UTC",
+    "date_finished": "2025-09-21 00:32:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-09-21t00-34-00-000z-the-left-hand-of-darkness.md": {
+    "title": "The Left Hand of Darkness",
+    "authors": [
+      "Ursula K. Le Guin"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-21 00:34:00 UTC",
+    "date_finished": "2025-09-23 00:21:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-09-26t09-40-00-000z-the-city-the-city.md": {
+    "title": "The City & The City",
+    "authors": [
+      "China Miéville"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-26 09:40:00 UTC",
+    "date_finished": "2025-09-27 22:58:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-09-27t23-29-00-000z-strange-stones-dispatches-from-east-and-west.md": {
+    "title": "Strange Stones: Dispatches from East and West",
+    "authors": [
+      "Peter Hessler"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-27 23:29:00 UTC",
+    "date_finished": "2025-10-02 00:12:00 UTC",
+    "rating": 2
+  },
+  "_books/2025-09-27t23-56-00-000z-the-woman-in-black.md": {
+    "title": "The Woman in Black",
+    "authors": [
+      "Susan Hill"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-27 23:56:00 UTC",
+    "date_finished": "2025-09-28 17:54:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-09-28t17-56-00-000z-human-acts.md": {
+    "title": "Human Acts",
+    "authors": [
+      "Hang Kang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-28 17:56:00 UTC",
+    "date_finished": "2025-10-12 23:03:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-10-05t00-08-00-000z-the-buried-giant.md": {
+    "title": "The Buried Giant",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-10-03 18:00:00 UTC",
+    "date_finished": "2025-10-06 23:32:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-10-08t00-27-00-000z-end-state-9-ways-society-is-broken-–-and-how-we-can-fix-it-book.md": {
+    "title": "End State: 9 Ways Society is Broken – and how We Can Fix it Book",
+    "authors": [
+      "James Plunkett"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-10-07 17:45:00 UTC",
+    "date_finished": "2025-10-12 16:26:00 UTC",
+    "rating": 5
+  },
+  "_books/2025-10-14t22-46-00-000z-helm.md": {
+    "title": "Helm",
+    "authors": [
+      "Sarah Hall"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-10-14 22:46:00 UTC",
+    "date_finished": "2025-10-25 01:59:00 UTC",
+    "rating": 4,
+    "wikidata_potential_work_iris": [
+      "http://www.wikidata.org/entity/Q3280661",
+      "http://www.wikidata.org/entity/Q3784704",
+      "http://www.wikidata.org/entity/Q19218587",
+      "http://www.wikidata.org/entity/Q51375824",
+      "http://www.wikidata.org/entity/Q34141222",
+      "http://www.wikidata.org/entity/Q77205792",
+      "http://www.wikidata.org/entity/Q101068143",
+      "http://www.wikidata.org/entity/Q122731581",
+      "http://www.wikidata.org/entity/Q122732285",
+      "http://www.wikidata.org/entity/Q129869566"
+    ]
+  },
+  "_books/2025-10-25t02-01-00-000z-the-future-of-truth.md": {
+    "title": "The Future of Truth",
+    "authors": [
+      "Werner Herzog"
+    ],
+    "review_url": "/review/book/2025/10/30/the-future-of-truth/",
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-10-25 02:01:00 UTC",
+    "date_finished": "2025-10-25 13:44:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-10-29t22-10-00-000z-normal-people.md": {
+    "title": "Normal People",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "review_url": "/review/book/2025/10/30/normal-people/",
+    "work_iri": "http://www.wikidata.org/entity/Q55360383",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-10-29 22:10:00 UTC",
+    "date_finished": "2025-10-30 22:23:00 UTC",
+    "rating": 5
+  },
+  "_books/2025-11-02t12-06-00-000z-how-to-survive-a-crisis-lessons-in-resilience-and-avoiding-disaster.md": {
+    "title": "How to Survive a Crisis: Lessons in Resilience and avoiding disaster",
+    "authors": [
+      "David Omand"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "review_url": "/review/book/2025/11/02/how-to-survive-a-crisis/",
+    "date_started": "2025-10-13 21:26:00 UTC",
+    "date_finished": "2025-11-02 12:22:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-11-09-life-and-fate.md": {
+    "title": "Life and Fate",
+    "authors": [
+      "Vasily Grossman"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "review_url": "/review/book/2025/11/09/life-and-fate/",
+    "date_started": "2025-10-14 21:39:00 UTC",
+    "date_finished": "2025-11-09 16:33:00 +0000",
+    "rating": 3
+  }
+}
