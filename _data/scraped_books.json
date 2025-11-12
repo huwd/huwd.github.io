@@ -3577,13 +3577,7 @@
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-06-07T00:00:00Z",
     "date_finished": "2024-06-25T00:00:00Z",
-    "rating": 4,
-    "wikidata_potential_work_iris": [
-      "http://www.wikidata.org/entity/Q4880339",
-      "http://www.wikidata.org/entity/Q77216697",
-      "http://www.wikidata.org/entity/Q97362173",
-      "http://www.wikidata.org/entity/Q97362173"
-    ]
+    "rating": 4
   },
   "_books/2024-06-07-the-looking-glass-war.md": {
     "title": "The Looking Glass War",
@@ -3612,15 +3606,11 @@
     "authors": [
       "Robert Macfarlane"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q104565351",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-06-29T00:00:00Z",
     "date_finished": "2024-07-21T00:00:00Z",
-    "rating": 4,
-    "wikidata_potential_work_iris": [
-      "http://www.wikidata.org/entity/Q4726184",
-      "http://www.wikidata.org/entity/Q104565351"
-    ]
+    "rating": 4
   },
   "_books/2024-07-12-failed-state.md": {
     "title": "Failed State",
@@ -3640,21 +3630,11 @@
     "authors": [
       "R. F. Kuang"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q114310172",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-07-22T00:00:00Z",
     "date_finished": "2024-08-02T00:00:00Z",
-    "rating": 5,
-    "wikidata_potential_work_iris": [
-      "http://www.wikidata.org/entity/Q77185131",
-      "http://www.wikidata.org/entity/Q77185802",
-      "http://www.wikidata.org/entity/Q125502267",
-      "http://www.wikidata.org/entity/Q125696601",
-      "http://www.wikidata.org/entity/Q125895152",
-      "http://www.wikidata.org/entity/Q126365839",
-      "http://www.wikidata.org/entity/Q126718833",
-      "http://www.wikidata.org/entity/Q128341963"
-    ]
+    "rating": 5
   },
   "_books/2024-07-27-yellowface.md": {
     "title": "Yellowface",
@@ -4008,12 +3988,7 @@
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_finished": "2025-02-15T01:08:00.000Z",
     "date_started": "2025-02-11T16:41:00.000Z",
-    "rating": 5,
-    "wikidata_potential_work_iris": [
-      "http://www.wikidata.org/entity/Q1593096",
-      "http://www.wikidata.org/entity/Q7545987",
-      "http://www.wikidata.org/entity/Q117383067"
-    ]
+    "rating": 5
   },
   "_books/2025-02-12-an-elegant-puzzle.md": {
     "title": "An Elegant Puzzle",
@@ -4478,23 +4453,11 @@
     "authors": [
       "Sarah Hall"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136765146",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-10-14 22:46:00 UTC",
     "date_finished": "2025-10-25 01:59:00 UTC",
-    "rating": 4,
-    "wikidata_potential_work_iris": [
-      "http://www.wikidata.org/entity/Q3280661",
-      "http://www.wikidata.org/entity/Q3784704",
-      "http://www.wikidata.org/entity/Q19218587",
-      "http://www.wikidata.org/entity/Q51375824",
-      "http://www.wikidata.org/entity/Q34141222",
-      "http://www.wikidata.org/entity/Q77205792",
-      "http://www.wikidata.org/entity/Q101068143",
-      "http://www.wikidata.org/entity/Q122731581",
-      "http://www.wikidata.org/entity/Q122732285",
-      "http://www.wikidata.org/entity/Q129869566"
-    ]
+    "rating": 4
   },
   "_books/2025-10-25t02-01-00-000z-the-future-of-truth.md": {
     "title": "The Future of Truth",

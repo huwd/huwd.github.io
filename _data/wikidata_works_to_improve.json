@@ -3146,6 +3146,47 @@
         "P941"
       ]
     },
+    "Q104565351": {
+      "labels": {
+        "en": "Underland"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P767",
+        "P156"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q114310172": {
+      "labels": {
+        "en": "Babel"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P144",
+        "P941"
+      ]
+    },
     "Q109996684": {
       "labels": {
         "en": "Clean Code"
@@ -3273,16 +3314,13 @@
         "en": "Glorious Exploits"
       },
       "Missing Mandatory": [
-        "P407",
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
         "P1680",
         "P767",
         "P155",
-        "P156",
-        "P571"
+        "P156"
       ],
       "Optional": [
         "P136",
@@ -3298,9 +3336,7 @@
       "labels": {
         "en": "Dark Matter"
       },
-      "Missing Mandatory": [
-        "P1476"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P1680",
         "P767",
@@ -3407,14 +3443,10 @@
         "en": "Breakneck: China's Quest to Engineer the Future"
       },
       "Missing Mandatory": [
-        "P1476",
         "P577",
-        "P50",
-        "P407",
         "P747"
       ],
       "Mandatory if applicable": [
-        "P1680",
         "P767",
         "P155",
         "P156",
@@ -3491,7 +3523,6 @@
         "en": "Helm"
       },
       "Missing Mandatory": [
-        "P1476",
         "P747"
       ],
       "Mandatory if applicable": [
