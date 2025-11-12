@@ -31,12 +31,12 @@ class CheckWikidataBookEntries
 
     available_items = wikidata_items.reject { |item| item.code != 200 }
 
-    available_item_details = available_items.map.with_index do |item, i|
+    available_item_details = available_items.map do |item|
       validation_against_schema(item.parsed_content, type)
-    end
+    end.compact
 
     return {
-      available: available_item_details.compact,
+      available: available_item_details.reduce({}, :merge),
     }
   end
 
