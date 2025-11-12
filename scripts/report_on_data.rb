@@ -1,4 +1,5 @@
 require 'json'
+require 'pry'
 require_relative './support/helpers'
 
 class DataReport
@@ -6,6 +7,11 @@ class DataReport
 
   def initialize
      @scraped_books = load_scraped_books
+     @wikidata_works_to_improve = load_wikidata_works_to_improve
+  end
+
+  def load_wikidata_works_to_improve
+    JSON.parse(File.read('_data/wikidata_works_to_improve.json'))
   end
 
   def books_missing_works
@@ -20,6 +26,11 @@ class DataReport
     end
   end
 
+  def parse_wikidata_works_missing_mandatory_except_edition
+    @wikidata_works_to_improve["available"]
+      .select { |_qid, v| (v["Missing Mandatory"] - ["P747"]).any? }
+  end
+
   def data_assembler
     @scraped_book_count = @scraped_books.count
     @missing_work_count = books_missing_works.count
@@ -27,6 +38,7 @@ class DataReport
     @missing_work_percentage = ((@missing_work_count.to_f / @scraped_book_count) * 100).round(2)
     @missing_edition_count = books_edition_works.count
     @missing_edition_percentage = ((@missing_edition_count.to_f / @scraped_book_count) * 100).round(2)
+    @wikidata_prioritised_todo_list  =parse_wikidata_works_missing_mandatory_except_edition
   end
 
   def report_presenter
@@ -36,6 +48,13 @@ class DataReport
     puts "Books missing Wikidata work IRIs: #{@missing_work_count} (#{@missing_work_percentage}%)"
     puts "  -> of which with potential matches #{@potential_work_match_count}"
     puts "Books missing Wikidata edition IRIs: #{@missing_edition_count} (#{@missing_edition_percentage}%)"
+    puts "======================================="
+    puts "Wikidata works needing improvement (missing mandatory properties except edition):"
+    puts "Total: #{@wikidata_prioritised_todo_list.count}"
+    @wikidata_prioritised_todo_list.each do |qid, details|
+      puts "- https://www.wikidata.org/wiki/#{qid} | #{details["labels"]["en"]}: Missing #{details['Missing Mandatory'].join(', ')}"
+    end
+    puts @wikidata_prioritised_todo_list.flat_map { |k, details| details['Missing Mandatory'] }.uniq
     puts "======================================="
   end
 end
