@@ -3268,6 +3268,78 @@
         "P941"
       ]
     },
+    "Q133222443": {
+      "labels": {
+        "en": "Glorious Exploits"
+      },
+      "Missing Mandatory": [
+        "P407",
+        "P577",
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q107920499": {
+      "labels": {
+        "en": "Dark Matter"
+      },
+      "Missing Mandatory": [
+        "P1476"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q1218360": {
+      "labels": {
+        "en": "The Gone-Away World"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
     "Q4658878": {
       "labels": {
         "en": "A Place of Greater Safety"
@@ -3283,6 +3355,176 @@
         "P571"
       ],
       "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q130727226": {
+      "labels": {
+        "en": "Livesuit"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q107583553": {
+      "labels": {
+        "en": "A Psalm for the Wild-Built"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q136335157": {
+      "labels": {
+        "en": "Breakneck: China's Quest to Engineer the Future"
+      },
+      "Missing Mandatory": [
+        "P1476",
+        "P577",
+        "P50",
+        "P407",
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q2008211": {
+      "labels": {
+        "en": "The Left Hand of Darkness"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767"
+      ],
+      "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q19363462": {
+      "labels": {
+        "en": "The Buried Giant"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P156"
+      ],
+      "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q19657306": {
+      "labels": {
+        "en": "Human Acts"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q136765146": {
+      "labels": {
+        "en": "Helm"
+      },
+      "Missing Mandatory": [
+        "P1476",
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q136765141": {
+      "labels": {
+        "en": "The Future of Truth"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156"
+      ],
+      "Optional": [
+        "P136",
         "P135",
         "P921",
         "P674",
@@ -3309,6 +3551,47 @@
         "P921",
         "P674",
         "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q136765133": {
+      "labels": {
+        "en": "How to Survive a Crisis: Lessons in Resilience and avoiding disaster"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P767",
+        "P155",
+        "P156"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q979609": {
+      "labels": {
+        "en": "Life and Fate"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P156"
+      ],
+      "Optional": [
+        "P135",
+        "P674",
         "P144",
         "P941"
       ]
