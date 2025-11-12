@@ -2,7 +2,7 @@
 title: Human Acts
 authors:
   - Hang Kang
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q19657306
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-09-28T17:56:00.000Z
 date_finished: 2025-10-12T23:03:00.000Z
