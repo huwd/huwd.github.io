@@ -4,7 +4,7 @@ authors:
 - James S.A. Corey
 series_entry: Book 9
 date_started: '2021-11-30T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q107316509
+work_iri: https://www.wikidata.org/wiki/Q107316509
 series: The Expanse
 format:
   aisn:
@@ -25,4 +25,3 @@ format:
 title: Leviathan Falls
 rating: 4
 ---
-

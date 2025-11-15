@@ -6,7 +6,7 @@ authors:
 series_entry: Book 1
 year_published: 2003
 date_started: '2020-06-14T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q2032398
+work_iri: https://www.wikidata.org/wiki/Q2032398
 series: MaddAddam Trilogy
 format:
   aisn: B004FTGCK4
@@ -24,4 +24,3 @@ format:
 title: Oryx and Crake
 rating: 5
 ---
-

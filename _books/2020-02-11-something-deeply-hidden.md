@@ -6,7 +6,7 @@ authors:
 full_title: 'Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime'
 year_published: 2019
 date_started: '2020-02-11T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q85802021
+work_iri: https://www.wikidata.org/wiki/Q85802021
 format:
   aisn: B07QTBYGBQ
   narrators:
@@ -24,4 +24,3 @@ title: Something Deeply Hidden
 rating: 4
 date_published: '2019-09-10T00:00:00Z'
 ---
-

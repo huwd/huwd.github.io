@@ -5,7 +5,7 @@ authors:
 - N. K. Jemisin
 year_published: 2020
 date_started: '2020-10-25T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q95075560
+work_iri: https://www.wikidata.org/wiki/Q95075560
 format:
   narrators:
   - Robin Miles
@@ -22,4 +22,3 @@ title: The City We Became
 rating: 4
 date_published: '2020-03-24T00:00:00Z'
 ---
-

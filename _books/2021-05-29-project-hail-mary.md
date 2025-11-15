@@ -19,6 +19,5 @@ format:
 date_started: '2021-05-29T00:00:00Z'
 date_finished: '2021-05-31T00:00:00Z'
 rating: 4
-work_iri: http://www.wikidata.org/wiki/Q106852836
+work_iri: https://www.wikidata.org/wiki/Q106852836
 ---
-

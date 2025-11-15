@@ -4,7 +4,7 @@ authors:
 - Iain M. Banks
 series_entry: Book 5
 date_started: '2021-08-19T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q666405
+work_iri: https://www.wikidata.org/wiki/Q666405
 series: Culture Series
 format:
   aisn:
@@ -23,4 +23,3 @@ format:
 title: Inversions
 rating: 4
 ---
-

@@ -5,7 +5,7 @@ authors:
 - Kazuo Ishiguro
 year_published: '1989'
 date_started: '2020-07-04T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q829934
+work_iri: https://www.wikidata.org/wiki/Q829934
 format:
   aisn: B008PTT3N8
   narrators:
@@ -23,4 +23,3 @@ title: The Remains of the Day
 rating: 4
 date_published: '1989-05-01'
 ---
-

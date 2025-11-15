@@ -5,7 +5,7 @@ authors:
 - Madeline Miller
 year_published: 2012
 date_started: '2020-12-16T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q21189971
+work_iri: https://www.wikidata.org/wiki/Q21189971
 format:
   aisn: B008EKTQEO
   narrators:
@@ -23,4 +23,3 @@ title: The Song of Achilles
 rating: 5
 date_published: '2012-04-12T00:00:00Z'
 ---
-

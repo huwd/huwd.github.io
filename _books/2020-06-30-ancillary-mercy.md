@@ -6,7 +6,7 @@ authors:
 series_entry: Book 3
 year_published: 2015
 date_started: '2020-06-30T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q18003141
+work_iri: https://www.wikidata.org/wiki/Q18003141
 series: The Imperial Radch series
 format:
   aisn: B014TE8M3E
@@ -25,4 +25,3 @@ title: Ancillary Mercy
 rating: 3
 date_published: '2015-10-08T00:00:00Z'
 ---
-

@@ -4,7 +4,7 @@ authors:
 - Iain M. Banks
 series_entry: Book 2
 date_started: '2021-03-25T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q467139
+work_iri: https://www.wikidata.org/wiki/Q467139
 series: Culture Series
 format:
   aisn:
@@ -23,4 +23,3 @@ format:
 title: The Player of Games
 rating: 4
 ---
-

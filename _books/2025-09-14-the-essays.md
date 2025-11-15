@@ -2,7 +2,7 @@
 title: The Essays
 authors:
   - George Orwell
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q136799804
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-08-31T09:04:00.000Z
 date_finished: 2025-09-14T00:25:00.000Z

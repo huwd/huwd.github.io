@@ -5,7 +5,7 @@ authors:
 - Matt Ruff
 year_published: 2016
 date_started: '2020-09-05T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q30608520
+work_iri: https://www.wikidata.org/wiki/Q30608520
 format:
   aisn: B07GNNDGPM
   narrators:
@@ -23,4 +23,3 @@ title: Lovecraft Country
 rating: 4
 date_published: '2016-02-16T00:00:00Z'
 ---
-

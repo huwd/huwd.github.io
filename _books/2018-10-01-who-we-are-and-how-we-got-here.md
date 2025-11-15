@@ -5,7 +5,7 @@ authors:
 - David Reich
 year_published: 2018
 date_started: '2018-10-01T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q54489223
+work_iri: https://www.wikidata.org/wiki/Q54489223
 format:
   aisn: B07DNH1BKS
   narrators:
@@ -23,4 +23,3 @@ title: Who We Are and How We Got Here
 rating: 5
 date_published: '2018-06-18T00:00:00Z'
 ---
-

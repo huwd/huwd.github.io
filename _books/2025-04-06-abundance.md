@@ -1,6 +1,6 @@
 ---
 title: Abundance
-work_iri: http://www.wikidata.org/entity/Q133503612
+work_iri: https://www.wikidata.org/entity/Q133503612
 edition_iri: https://www.wikidata.org/wiki/
 authors:
   - Ezra Klein

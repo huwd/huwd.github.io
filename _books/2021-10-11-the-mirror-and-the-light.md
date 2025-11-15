@@ -5,7 +5,7 @@ authors:
 - Hilary Mantel
 series_entry: Book 3
 date_started: '2021-10-11T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q7751674
+work_iri: https://www.wikidata.org/wiki/Q7751674
 series: The Wolf Hall Trilogy
 format:
   aisn:
@@ -23,4 +23,3 @@ format:
 title: The Mirror and the Light
 rating: 5
 ---
-

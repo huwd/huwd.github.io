@@ -19,6 +19,5 @@ format:
 date_started: '2022-02-19T00:00:00Z'
 date_finished: '2022-06-26T00:00:00Z'
 rating: 2
-work_iri: http://www.wikidata.org/wiki/Q105704813
+work_iri: https://www.wikidata.org/wiki/Q105704813
 ---
-

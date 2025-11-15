@@ -6,7 +6,7 @@ authors:
 series_entry: Book 1
 year_published: 2017
 date_started: '2020-06-30T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q29344605
+work_iri: https://www.wikidata.org/wiki/Q29344605
 series: The Interdependency
 format:
   aisn: B01L2PHDVA
@@ -25,4 +25,3 @@ title: The Collapsing Empire
 rating: 1
 date_published: '2017-03-21T00:00:00Z'
 ---
-

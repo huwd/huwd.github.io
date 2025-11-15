@@ -6,7 +6,7 @@ authors:
 series_entry: Book 2
 year_published: 2009
 date_started: '2020-08-25T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q4352956
+work_iri: https://www.wikidata.org/wiki/Q4352956
 series: MaddAddam Trilogy
 format:
   aisn: B004FTII2O
@@ -25,4 +25,3 @@ title: The Year of the Flood
 rating: 4
 date_published: '2009-09-07T00:00:00Z'
 ---
-

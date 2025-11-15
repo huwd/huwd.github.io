@@ -5,7 +5,7 @@ authors:
 - James Clear
 year_published: 2018
 date_started: '2020-12-20T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q98178602
+work_iri: https://www.wikidata.org/wiki/Q98178602
 format:
   aisn: B07J1XQSNK
   narrators:
@@ -23,4 +23,3 @@ title: Atomic Habits
 rating: 3
 date_published: '2018-06-18T00:00:00Z'
 ---
-

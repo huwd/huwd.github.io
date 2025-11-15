@@ -6,7 +6,7 @@ authors:
 series_entry: Book 2
 year_published: 2014
 date_started: '2020-06-29T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q17989172
+work_iri: https://www.wikidata.org/wiki/Q17989172
 series: The Imperial Radch series
 format:
   aisn: B00MH4EBC0
@@ -25,4 +25,3 @@ title: Ancillary Sword
 rating: 3
 date_published: '2014-09-07T00:00:00Z'
 ---
-

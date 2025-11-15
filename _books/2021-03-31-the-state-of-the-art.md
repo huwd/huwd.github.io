@@ -4,7 +4,7 @@ authors:
 - Iain M. Banks
 series_entry: Book 4
 date_started: '2021-03-31T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q30887961
+work_iri: https://www.wikidata.org/wiki/Q30887961
 series: Culture Series
 format:
   aisn:
@@ -23,4 +23,3 @@ format:
 title: The State of the Art
 rating: 4
 ---
-

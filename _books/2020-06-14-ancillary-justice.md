@@ -6,7 +6,7 @@ authors:
 series_entry: Book 1
 year_published: '2020-06-14T00:00:00Z'
 date_started: '2020-06-14T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q17001721
+work_iri: https://www.wikidata.org/wiki/Q17001721
 series: The Imperial Radch series
 format:
   aisn: B00LPNR9QE
@@ -25,4 +25,3 @@ title: Ancillary Justice
 rating: 4
 date_published: '2013-09-01T00:00:00Z'
 ---
-

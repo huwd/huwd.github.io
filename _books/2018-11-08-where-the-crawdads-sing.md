@@ -5,7 +5,7 @@ authors:
 - Delia Owens
 year_published: 2018
 date_started: '2018-11-08T00:00:00Z'
-work_iri: http://www.wikidata.org/wiki/Q65063529
+work_iri: https://www.wikidata.org/wiki/Q65063529
 format:
   narrators:
   - Cassandra Campbell
@@ -22,4 +22,3 @@ title: Where the Crawdads Sing
 rating: 3
 date_published: '2018-08-14T00:00:00Z'
 ---
-
