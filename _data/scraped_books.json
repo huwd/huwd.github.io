@@ -38,7 +38,7 @@
     ],
     "year_published": 2018,
     "date_started": "2018-10-01T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q54489223",
+    "work_iri": "https://www.wikidata.org/wiki/Q54489223",
     "format": {
       "aisn": "B07DNH1BKS",
       "narrators": [
@@ -67,7 +67,7 @@
     ],
     "year_published": 2018,
     "date_started": "2018-11-08T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q65063529",
+    "work_iri": "https://www.wikidata.org/wiki/Q65063529",
     "format": {
       "narrators": [
         "Cassandra Campbell"
@@ -122,7 +122,7 @@
     "full_title": "Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime",
     "year_published": 2019,
     "date_started": "2020-02-11T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q85802021",
+    "work_iri": "https://www.wikidata.org/wiki/Q85802021",
     "format": {
       "aisn": "B07QTBYGBQ",
       "narrators": [
@@ -181,7 +181,7 @@
     "series_entry": "Book 1",
     "year_published": 2009,
     "date_started": "2020-04-12T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q2657795",
+    "work_iri": "https://www.wikidata.org/wiki/Q2657795",
     "series": "The Wolf Hall Trilogy",
     "format": {
       "aisn": "B004FTXVEY",
@@ -272,7 +272,7 @@
     "series_entry": "Book 1",
     "year_published": "2020-06-14T00:00:00Z",
     "date_started": "2020-06-14T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q17001721",
+    "work_iri": "https://www.wikidata.org/wiki/Q17001721",
     "series": "The Imperial Radch series",
     "format": {
       "aisn": "B00LPNR9QE",
@@ -303,7 +303,7 @@
     "series_entry": "Book 1",
     "year_published": 2003,
     "date_started": "2020-06-14T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q2032398",
+    "work_iri": "https://www.wikidata.org/wiki/Q2032398",
     "series": "MaddAddam Trilogy",
     "format": {
       "aisn": "B004FTGCK4",
@@ -411,7 +411,7 @@
     "series_entry": "Book 2",
     "year_published": 2014,
     "date_started": "2020-06-29T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q17989172",
+    "work_iri": "https://www.wikidata.org/wiki/Q17989172",
     "series": "The Imperial Radch series",
     "format": {
       "aisn": "B00MH4EBC0",
@@ -442,7 +442,7 @@
     "series_entry": "Book 3",
     "year_published": 2015,
     "date_started": "2020-06-30T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q18003141",
+    "work_iri": "https://www.wikidata.org/wiki/Q18003141",
     "series": "The Imperial Radch series",
     "format": {
       "aisn": "B014TE8M3E",
@@ -473,7 +473,7 @@
     "series_entry": "Book 1",
     "year_published": 2017,
     "date_started": "2020-06-30T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q29344605",
+    "work_iri": "https://www.wikidata.org/wiki/Q29344605",
     "series": "The Interdependency",
     "format": {
       "aisn": "B01L2PHDVA",
@@ -503,7 +503,7 @@
     ],
     "year_published": "1989",
     "date_started": "2020-07-04T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q829934",
+    "work_iri": "https://www.wikidata.org/wiki/Q829934",
     "format": {
       "aisn": "B008PTT3N8",
       "narrators": [
@@ -622,7 +622,7 @@
     "series_entry": "Book 2",
     "year_published": 2009,
     "date_started": "2020-08-25T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q4352956",
+    "work_iri": "https://www.wikidata.org/wiki/Q4352956",
     "series": "MaddAddam Trilogy",
     "format": {
       "aisn": "B004FTII2O",
@@ -715,7 +715,7 @@
     ],
     "year_published": 2016,
     "date_started": "2020-09-05T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q30608520",
+    "work_iri": "https://www.wikidata.org/wiki/Q30608520",
     "format": {
       "aisn": "B07GNNDGPM",
       "narrators": [
@@ -746,7 +746,7 @@
     "year_published": 2015,
     "year_originally_published": 1972,
     "date_started": "2020-09-12T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q2447776",
+    "work_iri": "https://www.wikidata.org/wiki/Q2447776",
     "series": "Hanish Cycle",
     "format": {
       "type": "paperback",
@@ -788,7 +788,7 @@
     ],
     "year_published": 2020,
     "date_started": "2020-10-25T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q95075560",
+    "work_iri": "https://www.wikidata.org/wiki/Q95075560",
     "format": {
       "narrators": [
         "Robin Miles"
@@ -928,7 +928,7 @@
     ],
     "year_published": 2012,
     "date_started": "2020-12-16T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q21189971",
+    "work_iri": "https://www.wikidata.org/wiki/Q21189971",
     "format": {
       "aisn": "B008EKTQEO",
       "narrators": [
@@ -988,7 +988,7 @@
     ],
     "year_published": 2018,
     "date_started": "2020-12-20T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q98178602",
+    "work_iri": "https://www.wikidata.org/wiki/Q98178602",
     "format": {
       "aisn": "B07J1XQSNK",
       "narrators": [
@@ -1211,7 +1211,7 @@
     "date_started": "2020-12-29T00:00:00Z",
     "date_finished": "2021-01-10T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q80943751"
+    "work_iri": "https://www.wikidata.org/wiki/Q80943751"
   },
   "_books/2020-12-29-the-peregrine.md": {
     "title": "The Peregrine",
@@ -1324,7 +1324,7 @@
     "date_started": "2021-01-26T00:00:00Z",
     "date_finished": "2021-02-08T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q3235393"
+    "work_iri": "https://www.wikidata.org/wiki/Q3235393"
   },
   "_books/2021-03-10-tweet-of-the-day.md": {
     "title": "Tweet of the Day",
@@ -1360,6 +1360,7 @@
     "date_started": "2021-03-10T00:00:00Z",
     "date_finished": "2021-03-21T00:00:00Z",
     "rating": 4,
+    "work_iri": "https://www.wikidata.org/wiki/Q17063450",
     "edition_iri": "https://www.wikidata.org/wiki/Q114051262"
   },
   "_books/2021-03-21-consider-phlebas.md": {
@@ -1369,7 +1370,7 @@
     ],
     "series_entry": "Book 1",
     "date_started": "2021-03-21T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q261728",
+    "work_iri": "https://www.wikidata.org/wiki/Q261728",
     "series": "Culture Series",
     "format": {
       "aisn": {
@@ -1428,7 +1429,7 @@
     ],
     "series_entry": "Book 2",
     "date_started": "2021-03-25T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q467139",
+    "work_iri": "https://www.wikidata.org/wiki/Q467139",
     "series": "Culture Series",
     "format": {
       "aisn": {
@@ -1458,7 +1459,7 @@
     ],
     "series_entry": "Book 3",
     "date_started": "2021-03-28T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q339923",
+    "work_iri": "https://www.wikidata.org/wiki/Q339923",
     "series": "Culture Series",
     "format": {
       "aisn": {
@@ -1488,7 +1489,7 @@
     ],
     "series_entry": "Book 4",
     "date_started": "2021-03-31T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q30887961",
+    "work_iri": "https://www.wikidata.org/wiki/Q30887961",
     "series": "Culture Series",
     "format": {
       "aisn": {
@@ -1548,7 +1549,7 @@
     ],
     "series_entry": "Book 5",
     "date_started": "2021-04-03T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q74362",
+    "work_iri": "https://www.wikidata.org/wiki/Q74362",
     "series": "Culture Series",
     "format": {
       "aisn": {
@@ -1703,7 +1704,7 @@
     "date_started": "2021-05-29T00:00:00Z",
     "date_finished": "2021-05-31T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q106852836"
+    "work_iri": "https://www.wikidata.org/wiki/Q106852836"
   },
   "_books/2021-06-04-the-plague-international-edition.md": {
     "title": "The Plague: International Edition",
@@ -1762,7 +1763,7 @@
     ],
     "series_entry": "Book 1",
     "date_started": "2021-06-20T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q11889107",
+    "work_iri": "https://www.wikidata.org/wiki/Q11889107",
     "series": "Lilith's Brood",
     "format": {
       "aisn": {
@@ -1877,7 +1878,7 @@
     ],
     "series_entry": "Book 5",
     "date_started": "2021-08-19T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q666405",
+    "work_iri": "https://www.wikidata.org/wiki/Q666405",
     "series": "Culture Series",
     "format": {
       "aisn": {
@@ -1926,7 +1927,7 @@
     "date_started": "2021-08-19T00:00:00Z",
     "date_finished": "2021-09-01T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q7771354"
+    "work_iri": "https://www.wikidata.org/wiki/Q7771354"
   },
   "_books/2021-09-01-look-to-windward.md": {
     "title": "Look to Windward",
@@ -1982,7 +1983,7 @@
     "date_started": "2021-09-06T00:00:00Z",
     "date_finished": "2021-09-13T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q117480269"
+    "work_iri": "https://www.wikidata.org/wiki/Q117480269"
   },
   "_books/2021-09-13-stalingrad.md": {
     "genre": "Literature & Fiction > Genre Fiction",
@@ -2054,7 +2055,7 @@
     ],
     "series_entry": "Book 3",
     "date_started": "2021-10-11T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q7751674",
+    "work_iri": "https://www.wikidata.org/wiki/Q7751674",
     "series": "The Wolf Hall Trilogy",
     "format": {
       "aisn": {
@@ -2102,7 +2103,7 @@
     "date_started": "2021-10-31T00:00:00Z",
     "date_finished": "2021-11-01T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q951587"
+    "work_iri": "https://www.wikidata.org/wiki/Q951587"
   },
   "_books/2021-11-02-matter.md": {
     "date_finished": "2021-11-23T00:00:00Z",
@@ -2160,7 +2161,7 @@
     "date_started": "2021-11-04T00:00:00Z",
     "date_finished": "2021-11-09T00:00:00Z",
     "rating": 5,
-    "work_iri": "http://www.wikidata.org/wiki/Q117480103"
+    "work_iri": "https://www.wikidata.org/wiki/Q117480103"
   },
   "_books/2021-11-25-the-walkers-guide-to-outdoor-clues-signs.md": {
     "title": "The Walker's Guide to Outdoor Clues & Signs",
@@ -2190,7 +2191,7 @@
     ],
     "series_entry": "Book 9",
     "date_started": "2021-11-30T00:00:00Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q107316509",
+    "work_iri": "https://www.wikidata.org/wiki/Q107316509",
     "series": "The Expanse",
     "format": {
       "aisn": {
@@ -2370,7 +2371,8 @@
       "Andrzej Sapkowski"
     ],
     "date_started": "2021-12-28T00:00:00Z",
-    "work_iri": null,
+    "work_iri": "https://www.wikidata.org/wiki/Q2414756",
+    "edition_iri": "https://www.wikidata.org/wiki/",
     "series": "The Witcher Saga",
     "format": {
       "aisn": {
@@ -2400,7 +2402,7 @@
       "Andrzej Sapkowski"
     ],
     "date_started": "2022-01-04T00:00:00Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q2655197",
     "series": "The Witcher Saga",
     "format": {
       "aisn": {
@@ -2592,7 +2594,7 @@
     "date_started": "2022-02-19T00:00:00Z",
     "date_finished": "2022-06-26T00:00:00Z",
     "rating": 2,
-    "work_iri": "http://www.wikidata.org/wiki/Q105704813"
+    "work_iri": "https://www.wikidata.org/wiki/Q105704813"
   },
   "_books/2022-02-24-watching-the-english.md": {
     "title": "Watching the English",
@@ -2644,7 +2646,7 @@
     "date_started": "2022-04-22T00:00:00Z",
     "date_finished": "2022-04-30T00:00:00Z",
     "rating": 3,
-    "work_iri": "http://www.wikidata.org/wiki/Q107490750"
+    "work_iri": "https://www.wikidata.org/wiki/Q107490750"
   },
   "_books/2022-05-02-surface-detail.md": {
     "title": "Surface Detail",
@@ -2654,7 +2656,7 @@
     "date_started": "2022-05-02T00:00:00Z",
     "date_finished": "2022-05-10T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q302026"
+    "work_iri": "https://www.wikidata.org/wiki/Q302026"
   },
   "_books/2022-05-10-the-red-virgin-and-the-vision-of-utopia.md": {
     "title": "The Red Virgin and the Vision of Utopia",
@@ -2687,7 +2689,7 @@
     "date_started": "2022-05-16T00:00:00Z",
     "date_finished": "2022-05-21T00:00:00Z",
     "rating": 5,
-    "work_iri": "http://www.wikidata.org/wiki/Q110608207"
+    "work_iri": "https://www.wikidata.org/wiki/Q110608207"
   },
   "_books/2022-05-21-oracle-bones.md": {
     "date_finished": "2022-05-31T00:00:00Z",
@@ -2767,7 +2769,7 @@
     "date_started": "2022-06-11T00:00:00Z",
     "date_finished": "2022-06-20T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q25345736"
+    "work_iri": "https://www.wikidata.org/wiki/Q25345736"
   },
   "_books/2022-06-19-moneyland.md": {
     "title": "Moneyland",
@@ -2850,7 +2852,7 @@
     "date_started": "2022-11-05T00:00:00Z",
     "date_finished": "2022-11-28T00:00:00Z",
     "rating": 4,
-    "work_iri": "http://www.wikidata.org/wiki/Q82566838",
+    "work_iri": "https://www.wikidata.org/wiki/Q82566838",
     "edition_iri": "https://www.wikidata.org/wiki/Q122730942"
   },
   "_books/2022-12-05-hydrogen-sonata.md": {
@@ -2907,7 +2909,7 @@
     "date_started": "2022-12-24T00:00:00Z",
     "date_finished": "2023-01-06T00:00:00Z",
     "rating": 5,
-    "work_iri": "http://www.wikidata.org/wiki/Q105722561",
+    "work_iri": "https://www.wikidata.org/wiki/Q105722561",
     "edition_iri": "https://www.wikidata.org/wiki/Q117571899"
   },
   "_books/2022-12-27-back-to-nature.md": {
@@ -3457,11 +3459,11 @@
   },
   "_books/2024-03-24-team-topologies.md": {
     "title": "Team Topologies",
-    "subtitle": " Organizing Business and Technology Teams for Fast Flow",
+    "subtitle": "Organizing Business and Technology Teams for Fast Flow",
     "authors": [
       "Matthew Skelton"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800882",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-03-24T00:00:00Z",
     "date_finished": "2024-05-31T00:00:00Z",
@@ -3472,7 +3474,7 @@
     "authors": [
       "Sabrina Mahfouz"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800851",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-03-28T00:00:00Z",
     "date_finished": "2024-03-29T00:00:00Z",
@@ -3483,7 +3485,7 @@
     "authors": [
       "Ken Liu"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q135094551",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-04-24T00:00:00Z",
     "date_finished": "2024-05-11T00:00:00Z",
@@ -3494,7 +3496,7 @@
     "authors": [
       "Chimamanda Ngozi Adichie"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q22121056",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-04-27T00:00:00Z",
     "date_finished": "2024-04-27T00:00:00Z",
@@ -3505,7 +3507,7 @@
     "authors": [
       "Werner Herzog"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q122629035",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-05-06T00:00:00Z",
     "date_finished": "2024-05-19T00:00:00Z",
@@ -3516,7 +3518,7 @@
     "authors": [
       "John le Carré"
     ],
-    "work_iri": "http://www.wikidata.org/entity/Q652350",
+    "work_iri": "https://www.wikidata.org/wiki/Q652350",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-05-23T00:00:00Z",
     "date_finished": "2024-05-25T00:00:00Z",
@@ -3527,7 +3529,7 @@
     "authors": [
       "John le Carré"
     ],
-    "work_iri": "http://www.wikidata.org/entity/Q1305005",
+    "work_iri": "https://www.wikidata.org/wiki/Q1305005",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-05-25T00:00:00Z",
     "date_finished": "2024-05-26T00:00:00Z",
@@ -3538,7 +3540,7 @@
     "authors": [
       "John le Carré"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q468071",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-05-27T00:00:00Z",
     "date_finished": "2024-05-27T00:00:00Z",
@@ -3550,7 +3552,7 @@
     "authors": [
       "Eliot Higgins"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q111943284",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-05-27T00:00:00Z",
     "date_finished": "2024-05-31T00:00:00Z",
@@ -3561,7 +3563,7 @@
     "authors": [
       "Pat Barker"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q60746476",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-06-06T00:00:00Z",
     "date_finished": "2024-06-07T00:00:00Z",
@@ -3573,7 +3575,7 @@
     "authors": [
       "Alice Roberts"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800842",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-06-07T00:00:00Z",
     "date_finished": "2024-06-25T00:00:00Z",
@@ -3584,7 +3586,7 @@
     "authors": [
       "John le Carré"
     ],
-    "work_iri": "http://www.wikidata.org/entity/Q268112",
+    "work_iri": "https://www.wikidata.org/wiki/Q268112",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-06-07T00:00:00Z",
     "date_finished": "2024-06-20T00:00:00Z",
@@ -3595,7 +3597,7 @@
     "authors": [
       "Stephen Chbosky"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q96381975",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-06-26T00:00:00Z",
     "date_finished": "2024-07-05T00:00:00Z",
@@ -3618,7 +3620,7 @@
     "authors": [
       "Sam Freedman"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800834",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-07-12T00:00:00Z",
     "date_finished": "2024-07-14T00:00:00Z",
@@ -3641,7 +3643,7 @@
     "authors": [
       "R. F. Kuang"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q119803356",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-07-27T00:00:00Z",
     "date_finished": "2024-11-03T00:00:00Z",
@@ -3653,7 +3655,7 @@
     "authors": [
       "Akala"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q96395073",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-08-02T00:00:00Z",
     "date_finished": "2024-08-11T00:00:00Z",
@@ -3661,11 +3663,11 @@
   },
   "_books/2024-08-02-the-age-of-revolution.md": {
     "title": "The Age of Revolution",
-    "subtitle": "Europe, 1789-1848 ",
+    "subtitle": "Europe, 1789-1848",
     "authors": [
       "Eric Hobsbawm"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q7712866",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-08-02T00:00:00Z"
   },
@@ -3674,7 +3676,7 @@
     "authors": [
       "Isabella Tree"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800765",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-08-02T00:00:00Z",
     "date_finished": "2024-09-06T00:00:00Z",
@@ -3688,7 +3690,7 @@
       "Jez Humble",
       "Gene Kim"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q63190344",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-08-06T00:00:00Z",
     "date_finished": "2024-08-09T00:00:00Z",
@@ -3700,7 +3702,7 @@
     "authors": [
       "Dan Davies"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q132744314",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-08-12T00:00:00Z",
     "date_finished": "2024-08-26T00:00:00Z",
@@ -3712,7 +3714,7 @@
     "authors": [
       "Sophie Yeo"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800737",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-08-28T00:00:00Z",
     "date_finished": "2024-09-18T00:00:00Z",
@@ -3723,7 +3725,7 @@
     "authors": [
       "Ricahrd Pope"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800759",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-09-09T00:00:00Z"
   },
@@ -3733,7 +3735,7 @@
     "authors": [
       "Guy Shrubsole"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q86920675",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-09-15T00:00:00Z",
     "date_finished": "2024-10-06T00:00:00Z",
@@ -3745,7 +3747,7 @@
     "authors": [
       "Suzanne Heywood"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800726",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-09-19T00:00:00Z",
     "date_finished": "2024-09-25T00:00:00Z",
@@ -3757,7 +3759,7 @@
     "authors": [
       "Robert C. Martin"
     ],
-    "work_iri": "http://www.wikidata.org/entity/Q109996684",
+    "work_iri": "https://www.wikidata.org/wiki/Q109996684",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-09-26T00:00:00Z",
     "date_finished": "2024-10-15T00:00:00Z",
@@ -3768,7 +3770,7 @@
     "authors": [
       "Herman Melville"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q780407",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-10-13T00:00:00Z",
     "date_finished": "2024-10-13T00:00:00Z",
@@ -3780,7 +3782,7 @@
     "authors": [
       "Robert C. Martin"
     ],
-    "work_iri": "http://www.wikidata.org/entity/Q125055054",
+    "work_iri": "https://www.wikidata.org/wiki/Q125055054",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-10-15T00:00:00Z",
     "date_finished": "2024-10-27T00:00:00Z",
@@ -3791,7 +3793,7 @@
     "authors": [
       "Lyndsey Stonebridge"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136801141",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-10-17T00:00:00Z",
     "date_finished": "2024-10-21T00:00:00Z",
@@ -3802,7 +3804,7 @@
     "authors": [
       "Pat Barker"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800681",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-10-21T00:00:00Z",
     "date_finished": "2024-10-24T00:00:00Z",
@@ -3813,7 +3815,7 @@
     "authors": [
       "Derek Gow"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800773",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-10-26T00:00:00Z",
     "date_finished": "2024-11-02T00:00:00Z",
@@ -3825,7 +3827,7 @@
     "authors": [
       "Robert C. Martin"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800335",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-11-04T00:00:00Z",
     "date_finished": "2024-11-10T00:00:00Z",
@@ -3836,7 +3838,7 @@
     "authors": [
       "Pat Barker"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q132427126",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-11-10T00:00:00Z",
     "date_finished": "2024-11-14T00:00:00Z",
@@ -3848,7 +3850,7 @@
     "authors": [
       "David Attenborough"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800018",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-11-15T00:00:00Z",
     "date_finished": "2024-12-08T00:00:00Z",
@@ -3859,7 +3861,7 @@
     "authors": [
       "Ellie Middleton"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799885",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-11-15T00:00:00Z",
     "date_finished": "2024-11-26T00:00:00Z",
@@ -3871,7 +3873,7 @@
     "authors": [
       "David Spiegelhalter"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136769859",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-12-04T00:00:00Z",
     "date_finished": "2025-01-06T00:00:00Z",
@@ -3882,7 +3884,7 @@
     "authors": [
       "Genevieve Gornichec"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799596",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2024-12-04T00:00:00Z",
     "date_finished": "2025-01-12T00:00:00Z",
@@ -3895,7 +3897,7 @@
     ],
     "series_entry": "Book 1",
     "date_started": "2025-01-14T00:12:00.000Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q53828903",
     "series": "The Murderbot Diaries",
     "title": "All Systems Red",
     "rating": 4,
@@ -3908,7 +3910,7 @@
     ],
     "series_entry": "Book 2",
     "date_started": "2025-01-19T00:56:00.000Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q56065509",
     "series": "The Murderbot Diaries",
     "title": "Artificial Condition",
     "rating": 4,
@@ -3921,7 +3923,7 @@
     ],
     "series_entry": "Book 3",
     "date_started": "2025-01-19T23:48:00.000Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q63177761",
     "series": "The Murderbot Diaries",
     "title": "Rogue Protocol",
     "rating": 4,
@@ -3934,7 +3936,7 @@
     ],
     "series_entry": "Book 4",
     "date_started": "2025-01-20T23:51:00.000Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q63177967",
     "series": "The Murderbot Diaries",
     "title": "Exit Strategy",
     "rating": 4,
@@ -3947,7 +3949,7 @@
     ],
     "series_entry": "Book 5",
     "date_started": "2025-01-23T18:42:00.000Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q100540380",
     "series": "The Murderbot Diaries",
     "title": "Network Effect",
     "rating": 3,
@@ -3960,7 +3962,7 @@
     ],
     "series_entry": "Book 6",
     "date_started": "2025-02-07T21:45:00.000Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q107123470",
     "series": "The Murderbot Diaries",
     "title": "Fugitive Telemetry",
     "rating": 3,
@@ -3973,7 +3975,7 @@
     ],
     "series_entry": "Book 1",
     "date_started": "2025-02-07T18:04:00.000Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q56491386",
     "series": "Poppy War trilogy",
     "title": "The Poppy War",
     "rating": 5,
@@ -3984,7 +3986,7 @@
     "authors": [
       "Andrew Krivak"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799629",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_finished": "2025-02-15T01:08:00.000Z",
     "date_started": "2025-02-11T16:41:00.000Z",
@@ -3996,16 +3998,16 @@
     "authors": [
       "Will Larson"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799843",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_started": "2025-02-12T09:30:00.000Z",
     "rating": 5,
     "date_finished": "2025-04-23T19:41:00.000Z"
   },
   "_books/2025-02-20-feeding-britain.md": {
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799833",
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "title": "Feeding Britain ",
+    "title": "Feeding Britain",
     "subtitle": "Our food problems and how to fix them",
     "authors": [
       "Tim Lang"
@@ -4021,7 +4023,7 @@
     ],
     "series_entry": "Book 7",
     "date_started": "2025-03-12T08:07:00.000Z",
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q123521600",
     "series": "The Murderbot Diaries",
     "title": "System Collapse",
     "rating": 2,
@@ -4033,7 +4035,7 @@
       "Shoshana Zuboff"
     ],
     "date_started": "2025-03-16T00:00:00.000Z",
-    "work_iri": "http://www.wikidata.org/wiki/Q75804726",
+    "work_iri": "https://www.wikidata.org/wiki/Q75804726",
     "format": {
       "aisn": {
         "product": "1478947276",
@@ -4055,7 +4057,7 @@
     "subtitle": "The Fight for a Human Future at the New Frontier of Power",
     "title": "The Age of Surveillance Capitalism",
     "rating": 5,
-    "edition_iri": "http://www.wikidata.org/wiki/"
+    "edition_iri": "https://www.wikidata.org/wiki/"
   },
   "_books/2025-03-23-the-anxious-generation.md": {
     "date_finished": "2025-03-28T22:00:00.000Z",
@@ -4066,7 +4068,7 @@
     ],
     "subtitle": "How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness ",
     "rating": 3,
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q125804235",
     "edition_iri": "https://www.wikidata.org/wiki/"
   },
   "_books/2025-03-30-careless-people.md": {
@@ -4079,15 +4081,15 @@
     "date_finished": "2025-04-03T09:32:00.000Z",
     "rating": 5,
     "edition_iri": "https://www.wikidata.org/wiki/",
-    "work_iri": "http://www.wikidata.org/entity/Q133305848"
+    "work_iri": "https://www.wikidata.org/wiki/Q133305848"
   },
   "_books/2025-04-03-everything-is-tuberculosis.md": {
-    "title": "Everything Is Tuberculosis ",
+    "title": "Everything Is Tuberculosis",
     "subtitle": "The History and Persistence of Our Deadliest Infection",
     "authors": [
       "John Green"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/",
+    "work_iri": "https://www.wikidata.org/wiki/Q130612897",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "date_finished": "2025-04-06T18:00:00.000Z",
     "date_started": "2025-04-03T20:00:00.000Z",
@@ -4095,7 +4097,7 @@
   },
   "_books/2025-04-06-abundance.md": {
     "title": "Abundance",
-    "work_iri": "http://www.wikidata.org/entity/Q123269684",
+    "work_iri": "https://www.wikidata.org/wiki/Q133503612",
     "edition_iri": "https://www.wikidata.org/wiki/",
     "authors": [
       "Ezra Klein",
@@ -4111,6 +4113,8 @@
     "authors": [
       "David Grann"
     ],
+    "work_iri": "https://www.wikidata.org/wiki/Q118538158",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-04-21T14:49:00.000Z",
     "date_finsihed": "2025-04-23T13:09:00.000Z",
     "rating": 4
@@ -4120,7 +4124,7 @@
     "authors": [
       "Susanna Clarke"
     ],
-    "work_iri": "http://www.wikidata.org/entity/Q125618921",
+    "work_iri": "https://www.wikidata.org/wiki/Q99434216",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-04-25 09:00:00 UTC",
     "date_finished": "2025-04-26 19:00:00 UTC",
@@ -4131,7 +4135,7 @@
     "authors": [
       "Jacqueline Harpman"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q5979741",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-04-26 20:38:00 UTC",
     "date_finished": "2025-04-27 10:47:00 UTC",
@@ -4144,7 +4148,7 @@
     "authors": [
       "R. F. Kuang"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q109349567",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-04-27 15:25:00 UTC",
     "date_finished": "2025-05-04 01:44:00 UTC",
@@ -4157,7 +4161,7 @@
     "authors": [
       "R. F. Kuang"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q114088979",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-05-04 01:43:00 UTC",
     "date_finished": "2025-05-08 23:05:00 UTC",
@@ -4168,7 +4172,7 @@
     "authors": [
       "Quinn Slobodian"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q132180553",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-05-05 16:35:00 UTC",
     "date_finished": "2025-05-15 21:03:00 UTC",
@@ -4179,7 +4183,7 @@
     "authors": [
       "David Attenborough"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q5230908",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-05-08 23:16:00 UTC",
     "date_finished": "2025-05-10 17:40:00 UTC",
@@ -4188,11 +4192,11 @@
   "_books/2025-05-11-demography-a-very-short-introduction.md": {
     "title": "Demography: A Very Short Introduction",
     "series": "A Very Short Introduction",
-    "series_entry": " 565",
+    "series_entry": "Book 565",
     "authors": [
       "Sarah Harper"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799642",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-05-11 11:40:00 UTC",
     "date_finished": "2025-05-11 17:38:00 UTC",
@@ -4203,7 +4207,7 @@
     "authors": [
       "Sarah Drasner"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136800495",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-05-17 13:26:00 UTC",
     "date_finished": "2025-06-17 21:10:00 UTC",
@@ -4214,7 +4218,7 @@
     "authors": [
       "Laura Bates"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136470887",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-06-17 21:12:00 UTC",
     "date_finished": "2025-06-25 23:47:00 UTC",
@@ -4222,11 +4226,12 @@
   },
   "_books/2025-06-28-the-mercy-of-gods.md": {
     "title": "The Mercy of Gods",
-    "series_entry": "",
+    "series_entry": "Book 1",
+    "series": "Captive's War",
     "authors": [
       "James S. A. Corey"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q128801941",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-06-28 20:52:00 UTC",
     "date_finished": "2025-07-03 17:51:00 UTC",
@@ -4238,217 +4243,215 @@
     "authors": [
       "Ha-Joon Chang"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799652",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-07-06 16:11:00 UTC",
     "date_finished": "2025-07-19 01:21:00 UTC",
     "rating": 5
   },
-  "_books/2025-07-20t11-20-00-000z-glorious-exploits.md": {
+  "_books/2025-07-22-glorious-exploits.md": {
     "title": "Glorious Exploits",
     "authors": [
       "Ferdia Lennon"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q133222443",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-07-20 11:20:00 UTC",
     "date_finished": "2025-07-22 09:13:00 UTC",
     "rating": 5
   },
-  "_books/2025-07-22t13-08-00-000z-dark-matter.md": {
+  "_books/2025-07-30-dark-matter.md": {
     "title": "Dark Matter",
     "authors": [
       "Blake Crouch"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q107920499",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-07-22 13:08:00 UTC",
     "date_finished": "2025-07-30 23:41:00 UTC",
     "rating": 1
   },
-  "_books/2025-08-05t19-42-00-000z-the-gone-away-world.md": {
+  "_books/2025-08-11-the-gone-away-world.md": {
     "title": "The Gone-Away World",
     "authors": [
       "Nick Harkaway"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q1218360",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-08-05 19:42:00 UTC",
     "date_finished": "2025-08-11 19:51:00 UTC",
     "rating": 4
   },
-  "_books/2025-08-13t22-26-00-000z-a-place-of-greater-safety.md": {
-    "title": "A Place of Greater Safety",
-    "authors": [
-      "Hillary Mantel"
-    ],
-    "work_iri": "http://www.wikidata.org/entity/Q4658878",
-    "edition_iri": "https://www.wikidata.org/wiki/Q",
-    "date_started": "2025-08-13 22:26:00 UTC",
-    "date_finished": "2025-09-13 12:04:00 UTC",
-    "rating": 4
-  },
-  "_books/2025-08-31t09-04-00-000z-the-essays.md": {
-    "title": "The Essays",
-    "authors": [
-      "George Orwell"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
-    "edition_iri": "https://www.wikidata.org/wiki/Q",
-    "date_started": "2025-08-31 09:04:00 UTC",
-    "date_finished": "2025-09-14 00:25:00 UTC",
-    "rating": 3
-  },
-  "_books/2025-09-07t09-14-00-000z-the-world-after-gaza.md": {
+  "_books/2025-09-10-the-world-after-gaza.md": {
     "title": "The World After Gaza",
     "authors": [
       "Pankaj Mishra"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136334677",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-08-20 16:30:00 UTC",
     "date_finished": "2025-09-10 22:32:00 UTC",
     "rating": 5
   },
-  "_books/2025-09-14t08-22-00-000z-live-suit.md": {
+  "_books/2025-09-13-a-place-of-greater-safety.md": {
+    "title": "A Place of Greater Safety",
+    "authors": [
+      "Hillary Mantel"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q4658878",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-08-13 22:26:00 UTC",
+    "date_finished": "2025-09-13 12:04:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-09-14-livesuit.md": {
     "title": "Livesuit",
     "series": "Captive's War",
-    "series_entry": "0.5",
+    "series_entry": "Book 0.5",
     "authors": [
       "James S. A. Corey"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q130727226",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-09-14 08:22:00 UTC",
     "date_finished": "2025-09-14 10:44:00 UTC",
     "rating": 3
   },
-  "_books/2025-09-14t10-46-00-000z-how-the-world-ran-out-of-everything-inside-the-global-supply-chain.md": {
+  "_books/2025-09-14-the-essays.md": {
+    "title": "The Essays",
+    "authors": [
+      "George Orwell"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q136799804",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-08-31 09:04:00 UTC",
+    "date_finished": "2025-09-14 00:25:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-09-18-how-the-world-ran-out-of-everything-inside-the-global-supply-chain.md": {
     "title": "How the World ran out of everything: Inside the global supply chain",
     "authors": [
       "Peter S. Goodman"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799759",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-09-14 10:46:00 UTC",
     "date_finished": "2025-09-18 00:24:00 UTC",
     "rating": 4
   },
-  "_books/2025-09-15t23-36-00-000z-one-day-everyone-will-have-always-been-against-this.md": {
-    "title": "One Day, Everyone Will Have Always Been Against This",
-    "series": "",
-    "authors": [
-      "Omar El Akkad"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
-    "edition_iri": "https://www.wikidata.org/wiki/Q",
-    "date_started": "2025-09-15 23:36:00 UTC",
-    "date_finished": "2025-09-19 23:57:00 UTC",
-    "rating": 4
-  },
-  "_books/2025-09-18t23-21-00-000z-a-psalm-for-the-wild-built.md": {
+  "_books/2025-09-19-a-psalm-for-the-wild-built.md": {
     "title": "A Psalm for the Wild Built",
     "series": "Monk and Robot",
     "series_entry": "1",
     "authors": [
       "Becky Chambers"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q107583553",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-09-18 23:21:00 UTC",
     "date_finished": "2025-09-19 14:56:00 UTC",
     "rating": 4
   },
-  "_books/2025-09-20t13-24-00-000z-breakneck-chinas-quest-to-engineer-the-future.md": {
+  "_books/2025-09-19-one-day-everyone-will-have-always-been-against-this.md": {
+    "title": "One Day, Everyone Will Have Always Been Against This",
+    "authors": [
+      "Omar El Akkad"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q132923554",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-15 23:36:00 UTC",
+    "date_finished": "2025-09-19 23:57:00 UTC",
+    "rating": 4
+  },
+  "_books/2025-09-21-breakneck-chinas-quest-to-engineer-the-future.md": {
     "title": "Breakneck: China's Quest to Engineer the Future",
-    "series": "",
     "authors": [
       "Dan Wang"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136335157",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-09-20 13:24:00 UTC",
     "date_finished": "2025-09-21 00:32:00 UTC",
     "rating": 4
   },
-  "_books/2025-09-21t00-34-00-000z-the-left-hand-of-darkness.md": {
+  "_books/2025-09-23-the-left-hand-of-darkness.md": {
     "title": "The Left Hand of Darkness",
     "authors": [
       "Ursula K. Le Guin"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q2008211",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-09-21 00:34:00 UTC",
     "date_finished": "2025-09-23 00:21:00 UTC",
     "rating": 3
   },
-  "_books/2025-09-26t09-40-00-000z-the-city-the-city.md": {
+  "_books/2025-09-26-the-city-the-city.md": {
     "title": "The City & The City",
     "authors": [
       "China Miéville"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q3520291",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-09-26 09:40:00 UTC",
     "date_finished": "2025-09-27 22:58:00 UTC",
     "rating": 4
   },
-  "_books/2025-09-27t23-29-00-000z-strange-stones-dispatches-from-east-and-west.md": {
-    "title": "Strange Stones: Dispatches from East and West",
-    "authors": [
-      "Peter Hessler"
-    ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
-    "edition_iri": "https://www.wikidata.org/wiki/Q",
-    "date_started": "2025-09-27 23:29:00 UTC",
-    "date_finished": "2025-10-02 00:12:00 UTC",
-    "rating": 2
-  },
-  "_books/2025-09-27t23-56-00-000z-the-woman-in-black.md": {
+  "_books/2025-09-28-the-woman-in-black.md": {
     "title": "The Woman in Black",
     "authors": [
       "Susan Hill"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q3822155",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-09-27 23:56:00 UTC",
     "date_finished": "2025-09-28 17:54:00 UTC",
     "rating": 4
   },
-  "_books/2025-09-28t17-56-00-000z-human-acts.md": {
-    "title": "Human Acts",
+  "_books/2025-10-02-strange-stones-dispatches-from-east-and-west.md": {
+    "title": "Strange Stones: Dispatches from East and West",
     "authors": [
-      "Hang Kang"
+      "Peter Hessler"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136769833",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
-    "date_started": "2025-09-28 17:56:00 UTC",
-    "date_finished": "2025-10-12 23:03:00 UTC",
-    "rating": 3
+    "date_started": "2025-09-27 23:29:00 UTC",
+    "date_finished": "2025-10-02 00:12:00 UTC",
+    "rating": 2
   },
-  "_books/2025-10-05t00-08-00-000z-the-buried-giant.md": {
+  "_books/2025-10-05-the-buried-giant.md": {
     "title": "The Buried Giant",
     "authors": [
       "Kazuo Ishiguro"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q19363462",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-10-03 18:00:00 UTC",
     "date_finished": "2025-10-06 23:32:00 UTC",
     "rating": 4
   },
-  "_books/2025-10-08t00-27-00-000z-end-state-9-ways-society-is-broken-–-and-how-we-can-fix-it-book.md": {
+  "_books/2025-10-12-end-state-9-ways-society-is-broken-and-how-we-can-fix-it-book.md": {
     "title": "End State: 9 Ways Society is Broken – and how We Can Fix it Book",
     "authors": [
       "James Plunkett"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136799740",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-10-07 17:45:00 UTC",
     "date_finished": "2025-10-12 16:26:00 UTC",
     "rating": 5
   },
-  "_books/2025-10-14t22-46-00-000z-helm.md": {
+  "_books/2025-10-12-human-acts.md": {
+    "title": "Human Acts",
+    "authors": [
+      "Hang Kang"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q19657306",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-09-28 17:56:00 UTC",
+    "date_finished": "2025-10-12 23:03:00 UTC",
+    "rating": 3
+  },
+  "_books/2025-10-25-helm.md": {
     "title": "Helm",
     "authors": [
       "Sarah Hall"
@@ -4459,36 +4462,36 @@
     "date_finished": "2025-10-25 01:59:00 UTC",
     "rating": 4
   },
-  "_books/2025-10-25t02-01-00-000z-the-future-of-truth.md": {
+  "_books/2025-10-25-the-future-of-truth.md": {
     "title": "The Future of Truth",
     "authors": [
       "Werner Herzog"
     ],
     "review_url": "/review/book/2025/10/30/the-future-of-truth/",
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136765141",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-10-25 02:01:00 UTC",
     "date_finished": "2025-10-25 13:44:00 UTC",
     "rating": 4
   },
-  "_books/2025-10-29t22-10-00-000z-normal-people.md": {
+  "_books/2025-10-30-normal-people.md": {
     "title": "Normal People",
     "authors": [
       "Sally Rooney"
     ],
     "review_url": "/review/book/2025/10/30/normal-people/",
-    "work_iri": "http://www.wikidata.org/entity/Q55360383",
+    "work_iri": "https://www.wikidata.org/wiki/Q55360383",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "date_started": "2025-10-29 22:10:00 UTC",
     "date_finished": "2025-10-30 22:23:00 UTC",
     "rating": 5
   },
-  "_books/2025-11-02t12-06-00-000z-how-to-survive-a-crisis-lessons-in-resilience-and-avoiding-disaster.md": {
+  "_books/2025-11-02-how-to-survive-a-crisis-lessons-in-resilience-and-avoiding-disaster.md": {
     "title": "How to Survive a Crisis: Lessons in Resilience and avoiding disaster",
     "authors": [
       "David Omand"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q136765133",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "review_url": "/review/book/2025/11/02/how-to-survive-a-crisis/",
     "date_started": "2025-10-13 21:26:00 UTC",
@@ -4500,11 +4503,37 @@
     "authors": [
       "Vasily Grossman"
     ],
-    "work_iri": "https://www.wikidata.org/wiki/Q",
+    "work_iri": "https://www.wikidata.org/wiki/Q979609",
     "edition_iri": "https://www.wikidata.org/wiki/Q",
     "review_url": "/review/book/2025/11/09/life-and-fate/",
     "date_started": "2025-10-14 21:39:00 UTC",
     "date_finished": "2025-11-09 16:33:00 +0000",
     "rating": 3
+  },
+  "_books/2025-11-11-tinker-tailor-soldier-spy.md": {
+    "title": "The Honourable Schoolboy",
+    "series": "George Smiley series",
+    "series_entry": "Book 6",
+    "authors": [
+      "John Le Carré"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q1239133",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-11-11 10:00:00 +0000",
+    "date_finished": "2025-11-13 17:53:00 +0000",
+    "rating": 4
+  },
+  "_books/2025-11-xx-the-honourable-schoolboy.md": {
+    "title": "Tinker Tailor Soldier Spy",
+    "series": "George Smiley series",
+    "series_entry": "Book 5",
+    "authors": [
+      "John Le Carré"
+    ],
+    "work_iri": "https://www.wikidata.org/wiki/Q582811",
+    "edition_iri": "https://www.wikidata.org/wiki/Q",
+    "date_started": "2025-11-11 10:00:00 +0000",
+    "date_finished": "2025-11-13 17:53:00 +0000",
+    "rating": 4
   }
 }
