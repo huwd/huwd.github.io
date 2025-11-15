@@ -1,7 +1,7 @@
 ---
 title: Tinker Tailor Soldier Spy
 series: George Smiley series
-series_entry: "5"
+series_entry: Book 5
 authors:
   - John Le Carré
 work_iri: https://www.wikidata.org/wiki/Q582811

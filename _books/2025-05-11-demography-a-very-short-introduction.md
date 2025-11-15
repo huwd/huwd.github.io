@@ -1,7 +1,7 @@
 ---
 title: "Demography: A Very Short Introduction"
 series: A Very Short Introduction
-series_entry: " 565"
+series_entry: Book 565
 authors:
   - Sarah Harper
 work_iri: https://www.wikidata.org/wiki/Q136799642

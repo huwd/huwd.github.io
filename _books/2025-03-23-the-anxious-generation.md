@@ -6,6 +6,6 @@ authors:
   - Jonathan Haidt
 subtitle: 'How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness '
 rating: 3
-work_iri: https://www.wikidata.org/wiki/
+work_iri: https://www.wikidata.org/wiki/Q125804235
 edition_iri: https://www.wikidata.org/wiki/
 ---

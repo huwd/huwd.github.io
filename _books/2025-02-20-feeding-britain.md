@@ -1,7 +1,7 @@
 ---
-work_iri: https://www.wikidata.org/wiki/
+work_iri: https://www.wikidata.org/wiki/Q136799833
 edition_iri: https://www.wikidata.org/wiki/
-title: 'Feeding Britain '
+title: Feeding Britain
 subtitle: Our food problems and how to fix them
 authors:
   - Tim Lang
