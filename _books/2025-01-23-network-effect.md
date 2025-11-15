@@ -4,10 +4,9 @@ authors:
 - Martha Wells
 series_entry: Book 5
 date_started: '2025-01-23T18:42:00.000Z'
-work_iri: https://www.wikidata.org/wiki/
+work_iri: https://www.wikidata.org/wiki/Q100540380
 series: The Murderbot Diaries
 title: Network Effect
 rating: 3
 edition_iri: https://www.wikidata.org/wiki/
 ---
-

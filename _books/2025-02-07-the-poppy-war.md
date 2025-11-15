@@ -4,10 +4,9 @@ authors:
 - R. F. Kuang
 series_entry: Book 1
 date_started: '2025-02-07T18:04:00.000Z'
-work_iri: https://www.wikidata.org/wiki/
+work_iri: https://www.wikidata.org/wiki/Q56491386
 series: Poppy War trilogy
 title: The Poppy War
 rating: 5
 edition_iri: https://www.wikidata.org/wiki/
 ---
-

@@ -9,4 +9,3 @@ rating: 5
 edition_iri: https://www.wikidata.org/wiki/
 work_iri: http://www.wikidata.org/entity/Q133305848
 ---
-

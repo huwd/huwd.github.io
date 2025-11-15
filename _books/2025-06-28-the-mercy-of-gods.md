@@ -1,9 +1,10 @@
 ---
 title: The Mercy of Gods
-series_entry: ""
+series_entry: Book 1
+series: Captive's War
 authors:
   - James S. A. Corey
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q128801941
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-06-28T20:52:00.000Z
 date_finished: 2025-07-03T17:51:00.000Z
