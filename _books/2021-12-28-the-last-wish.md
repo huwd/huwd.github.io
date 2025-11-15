@@ -4,7 +4,8 @@ date_finished: '2022-01-03T00:00:00Z'
 authors:
 - Andrzej Sapkowski
 date_started: '2021-12-28T00:00:00Z'
-work_iri:
+work_iri: https://www.wikidata.org/wiki/Q2414756
+edition_iri: https://www.wikidata.org/wiki/
 series: The Witcher Saga
 format:
   aisn:
@@ -23,4 +24,3 @@ format:
 title: The Last Wish
 rating: 4
 ---
-

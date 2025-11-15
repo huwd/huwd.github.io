@@ -4,7 +4,7 @@ date_finished: '2022-01-06T00:00:00Z'
 authors:
 - Andrzej Sapkowski
 date_started: '2022-01-04T00:00:00Z'
-work_iri: https://www.wikidata.org/wiki/
+work_iri: https://www.wikidata.org/wiki/Q2655197
 series: The Witcher Saga
 format:
   aisn:
@@ -23,4 +23,3 @@ format:
 title: Sword of Destiny
 rating: 3
 ---
-

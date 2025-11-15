@@ -1,10 +1,9 @@
 ---
 title: The Age of Revolution
-subtitle: 'Europe, 1789-1848 '
+subtitle: 'Europe, 1789-1848'
 authors:
 - Eric Hobsbawm
-work_iri: https://www.wikidata.org/wiki/
+work_iri: https://www.wikidata.org/wiki/Q7712866
 edition_iri: https://www.wikidata.org/wiki/
 date_started: '2024-08-02T00:00:00Z'
 ---
-
