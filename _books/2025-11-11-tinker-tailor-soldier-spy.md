@@ -7,6 +7,6 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q1239133
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-11-11T10:00:00.000+00:00
-date_finished: 2025-11-13T17:53:00.000+00:00
-rating: 4
+date_finished: ""
+rating: ""
 ---
