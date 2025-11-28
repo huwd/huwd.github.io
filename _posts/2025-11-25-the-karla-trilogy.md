@@ -2,16 +2,15 @@
 layout: post
 title: "The Karla Trilogy "
 date: 2025-11-25T20:30:00.000+00:00
-categories:
-  - review, book
-version: 1
+categories: review book
+version: 1.0.0
 ---
 
 ## Tinker Tailor Soldier Spy, The Honourable Schoolboy and Smiley's People
 
 These books are not new, around fifty years old as I write, yet they feel unexpectedly fresh.
 
-There’s no obvious reason they should. This is a world of paper files, payphones and darkrooms where photographs bloom slowly from negatives. Nothing about that should feel contemporary.  
+There’s no obvious reason they should. This is a world of paper files, payphones and darkrooms where photographs bloom slowly from negatives. Nothing about that should feel contemporary.
 
 Yet something about these ghostly forces still resonates. Their work relies more on psychology and misdirection than on technology. The people behind it all are painfully, recognisably ordinary.
 
@@ -27,7 +26,7 @@ Great schemes and slow-burn machinations, patience and dazzling tradecraft, but 
 
 At the centre stands Smiley, whose inner and professional life shines on every page he appears. A review captured him better than I can:
 
-> a bit shabby, academic, basically loyal, and sceptical of the enthusiasms of his political masters.  
+> a bit shabby, academic, basically loyal, and sceptical of the enthusiasms of his political masters.
 > [The Guardian](https://www.theguardian.com/commentisfree/2011/sep/06/in-praise-of-george-smiley)
 
 A model of a public servant I find particularly compelling.

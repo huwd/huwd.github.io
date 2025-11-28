@@ -9,4 +9,5 @@ edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-11-16T23:05:00.000+00:00
 date_finished: 2025-11-24T17:03:00.000+00:00
 rating: 4
+review_url: "/review/book/2025/11/25/the-karla-trilogy/"
 ---
