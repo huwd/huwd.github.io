@@ -2,7 +2,7 @@
 title: The Only Good Indians
 authors:
   - Stephen Graham Jones
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q102079264
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-12-08T15:44:00.000+00:00
 date_finished: 2025-12-12T12:22:00.000+00:00

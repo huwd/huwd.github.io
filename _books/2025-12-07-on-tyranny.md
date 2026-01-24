@@ -2,7 +2,7 @@
 title: "On Tyranny: Twenty Lessons from the Twentieth Century"
 authors:
   - Timothy Snyder
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q96397405
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-12-07T22:21:00.000+00:00
 date_finished: 2025-12-08T12:50:00.000+00:00

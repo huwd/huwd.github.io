@@ -2,7 +2,7 @@
 title: Capitalist Realism
 authors:
   - Mark Fisher
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q25519071
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-12-23T18:22:00.000+00:00
 date_finished: 2025-12-26T08:31:00.000+00:00
