@@ -16,7 +16,7 @@ Here the situation was compounded by reading stories from someone I already knew
 
 But finishing this short collection reminded me how much there is to be found in persisting.
 
-Across seven stories — from _A Small Incident_ to _After Death_ — the collection builds a set of portraits that linger long after the specifics fade. Deeply humane figures pursue ordinary lives while skirting the edge of destitution. Reading it feels like moving room to room as a ghost, catching glimpses of lives mid-motion.
+Across seven stories - from _A Small Incident_ to _After Death_ - the collection builds a set of portraits that linger long after the specifics fade. Deeply humane figures pursue ordinary lives while skirting the edge of destitution. Reading it feels like moving room to room as a ghost, catching glimpses of lives mid-motion.
 There’s the awkwardness between master and servant who once played together as children. A destitute scholar whose trips to an inn chart a slow collapse. Two lovers whose hopes of forging a new path fade into regret. A mourned grandmother and an emptied life. A childhood night at the opera. A death.
 
 One hundred years later, translated across the world, these stories still pay off in images that feel sharper and stranger than most of what I’ve read in the last few years.
