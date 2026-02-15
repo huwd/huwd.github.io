@@ -1,5 +1,5 @@
 require 'yaml'
-require_relative '../../../wikidata_adaptor/lib/wikidata_adaptor'
+require 'wikidata_adaptor'
 
 module Helpers
   class UnknownInstanceType < StandardError; end
