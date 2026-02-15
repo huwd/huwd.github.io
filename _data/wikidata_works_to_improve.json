@@ -3121,9 +3121,7 @@
       "labels": {
         "en": "Team Topologies"
       },
-      "Missing Mandatory": [
-        "P577"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P1680",
         "P767",
@@ -3146,7 +3144,6 @@
         "en": "These Bodies of Water"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3212,11 +3209,9 @@
         "en": "Every Man for Himself and God against All: A Memoir"
       },
       "Missing Mandatory": [
-        "P1476",
         "P747"
       ],
       "Mandatory if applicable": [
-        "P1680",
         "P767",
         "P155",
         "P156",
@@ -3289,9 +3284,7 @@
       "labels": {
         "en": "We Are Bellingcat"
       },
-      "Missing Mandatory": [
-        "P1476"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P1680",
         "P767",
@@ -3314,7 +3307,6 @@
         "en": "The Silence of the Girls"
       },
       "Missing Mandatory": [
-        "P1476",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3339,7 +3331,6 @@
         "en": "Ancestors: The Prehistory of Britain in Seven Burials"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3403,7 +3394,6 @@
         "en": "Underland"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3424,7 +3414,6 @@
         "en": "Failed State"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3490,13 +3479,8 @@
       "labels": {
         "en": "Natives: Race and Class in the Ruins of Empire"
       },
-      "Missing Mandatory": [
-        "P1476",
-        "P407",
-        "P577"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
-        "P1680",
         "P767",
         "P155",
         "P156",
@@ -3537,7 +3521,6 @@
         "en": "The Book of Wilding"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3560,12 +3543,8 @@
       "labels": {
         "en": "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations"
       },
-      "Missing Mandatory": [
-        "P1476",
-        "P407"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
-        "P1680",
         "P767",
         "P155",
         "P156",
@@ -3608,7 +3587,6 @@
         "en": "Nature's Ghosts"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3632,7 +3610,6 @@
         "en": "Platformland"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3678,7 +3655,6 @@
         "en": "What Does Jeremy Think?"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3760,7 +3736,6 @@
         "en": "We Are Free to Change the World"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3784,7 +3759,6 @@
         "en": "The Women of Tory"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3809,7 +3783,6 @@
         "en": "Hunt for the Shadow Wolf"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3833,7 +3806,6 @@
         "en": "Clean Coder: A Code of Conduct for Professional Programmer"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3879,7 +3851,6 @@
         "en": "The Trials of Life: A Natural History of Animal Behaviour"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3903,7 +3874,6 @@
         "en": "Unmasked"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -3949,7 +3919,6 @@
         "en": "The Witch's Heart"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4119,7 +4088,6 @@
         "en": "The Bear"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4144,7 +4112,6 @@
         "en": "An Elegant Puzzle: Systems of Engineering Management"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4168,7 +4135,6 @@
         "en": "Feeding Britain: Our food problems and how to fix them"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4334,7 +4300,6 @@
         "en": "I Who Have Never Known Men"
       },
       "Missing Mandatory": [
-        "P1476",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4420,9 +4385,7 @@
       "labels": {
         "en": "Demography: A Very Short Introduction"
       },
-      "Missing Mandatory": [
-        "P577"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P1680",
         "P767",
@@ -4445,7 +4408,6 @@
         "en": "Engineering Management for the Rest of Us"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4510,7 +4472,6 @@
         "en": "Economics: A user guide"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4602,9 +4563,6 @@
         "en": "The World After Gaza"
       },
       "Missing Mandatory": [
-        "P1476",
-        "P577",
-        "P407",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4671,7 +4629,6 @@
         "en": "How the World ran out of everything"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4738,7 +4695,6 @@
         "en": "Breakneck: China's Quest to Engineer the Future"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4799,7 +4755,6 @@
         "en": "The Woman in Black"
       },
       "Missing Mandatory": [
-        "P1476",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4864,7 +4819,6 @@
         "en": "End State: 9 Ways Society is Broken – and how we can fix it"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -5069,7 +5023,6 @@
         "en": "Empire of AI"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -5200,7 +5153,6 @@
         "en": "Hayek's Bastards"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -5223,9 +5175,7 @@
       "labels": {
         "en": "Capitalist Realism: Is There No Alternative?"
       },
-      "Missing Mandatory": [
-        "P407"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P767",
         "P155",
@@ -5245,8 +5195,6 @@
         "en": "Classic Chinese Stories by Lu Xun"
       },
       "Missing Mandatory": [
-        "P407",
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -5271,7 +5219,6 @@
         "en": "V13 (book)"
       },
       "Missing Mandatory": [
-        "P577",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -5294,9 +5241,7 @@
       "labels": {
         "en": "The Seven Rules of Trust"
       },
-      "Missing Mandatory": [
-        "P407"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P767",
         "P155",
@@ -5317,9 +5262,7 @@
       "labels": {
         "en": "Intermezzo"
       },
-      "Missing Mandatory": [
-        "P1476"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P1680",
         "P767",
