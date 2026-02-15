@@ -106,9 +106,7 @@
       "labels": {
         "en": "Educated"
       },
-      "Missing Mandatory": [
-        "P747"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P767",
         "P155",
@@ -664,7 +662,6 @@
       ],
       "Optional": [
         "P135",
-        "P921",
         "P674",
         "P840",
         "P144",
@@ -1101,9 +1098,7 @@
       "labels": {
         "en": "Exercised: the Science of Physical Activity, Rest and Health"
       },
-      "Missing Mandatory": [
-        "P747"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P767",
         "P155",
@@ -1132,8 +1127,6 @@
       ],
       "Optional": [
         "P135",
-        "P921",
-        "P674",
         "P144",
         "P941"
       ]
@@ -1277,9 +1270,7 @@
       "labels": {
         "en": "The Undercover Economist"
       },
-      "Missing Mandatory": [
-        "P747"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P1680",
         "P767",
@@ -4200,9 +4191,7 @@
       "labels": {
         "en": "System Collapse"
       },
-      "Missing Mandatory": [
-        "P747"
-      ],
+      "Missing Mandatory": [],
       "Mandatory if applicable": [
         "P1680",
         "P767",
@@ -4726,7 +4715,6 @@
         "en": "One Day, Everyone Will Have Always Been Against This"
       },
       "Missing Mandatory": [
-        "P407",
         "P747"
       ],
       "Mandatory if applicable": [
@@ -4739,7 +4727,6 @@
       "Optional": [
         "P136",
         "P135",
-        "P921",
         "P674",
         "P840",
         "P144",
@@ -5055,6 +5042,294 @@
         "P135",
         "P674",
         "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q1231505": {
+      "labels": {
+        "en": "Smiley's People"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q134722215": {
+      "labels": {
+        "en": "Empire of AI"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q137271497": {
+      "labels": {
+        "en": "Pale Rider"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q96397405": {
+      "labels": {
+        "en": "On Tyranny: Twenty Lessons from the Twentieth Century"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q102079264": {
+      "labels": {
+        "en": "The Only Good Indians"
+      },
+      "Missing Mandatory": [
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q108063656": {
+      "labels": {
+        "en": "Slow Horses"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q107970380": {
+      "labels": {
+        "en": "The Employees"
+      },
+      "Missing Mandatory": [],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q137870129": {
+      "labels": {
+        "en": "Hayek's Bastards"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q25519071": {
+      "labels": {
+        "en": "Capitalist Realism: Is There No Alternative?"
+      },
+      "Missing Mandatory": [
+        "P407"
+      ],
+      "Mandatory if applicable": [
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q137870216": {
+      "labels": {
+        "en": "Classic Chinese Stories by Lu Xun"
+      },
+      "Missing Mandatory": [
+        "P407",
+        "P577",
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q124313440": {
+      "labels": {
+        "en": "V13 (book)"
+      },
+      "Missing Mandatory": [
+        "P577",
+        "P747"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q133840503": {
+      "labels": {
+        "en": "The Seven Rules of Trust"
+      },
+      "Missing Mandatory": [
+        "P407"
+      ],
+      "Mandatory if applicable": [
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P136",
+        "P135",
+        "P921",
+        "P674",
+        "P840",
+        "P144",
+        "P941"
+      ]
+    },
+    "Q131036665": {
+      "labels": {
+        "en": "Intermezzo"
+      },
+      "Missing Mandatory": [
+        "P1476"
+      ],
+      "Mandatory if applicable": [
+        "P1680",
+        "P767",
+        "P155",
+        "P156",
+        "P571"
+      ],
+      "Optional": [
+        "P135",
+        "P674",
         "P144",
         "P941"
       ]
