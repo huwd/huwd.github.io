@@ -347,6 +347,24 @@ class DataModel
           "P110" => "illustrator",
           "P872" => "printed by",
         }
+      },
+      "Q122731938" => {
+        "Mandatory" => {
+          "P31" => "instance of",
+          "P629" => "edition or translation of",
+          "P5749" => "aisn"
+        },
+        "Mandatory if different from work" => {
+          "P50" => "author",
+          "P1476" => "title",
+          "P577" => "publication date",
+          "P407" => "language of work or name",
+          "P2047" => "duration"
+        },
+        "Mandatory requires separate item" => {
+          "P123" => "publisher",
+          "P2438" => "narrator"
+        }
       }
     }
   end
