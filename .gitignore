@@ -6,3 +6,4 @@ vendor
 _data/draft/
 _drafts/
 .env
+.claude/
