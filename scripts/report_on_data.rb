@@ -1,5 +1,6 @@
 require 'json'
 require_relative './support/helpers'
+require_relative './support/data_model'
 
 class DataReport
   include Helpers
@@ -16,7 +17,7 @@ class DataReport
   end
 
   def books_edition_works
-    @books_missing_works ||= @scraped_books.reject do |book_key|
+    @books_edition_works ||= @scraped_books.reject do |book_key|
       complete_wikidata_iri?(@scraped_books[book_key]["edition_iri"])
     end
   end
@@ -24,6 +25,10 @@ class DataReport
   def parse_wikidata_works_missing_mandatory_except_edition
     @wikidata_works_to_improve["available"]
       .select { |_qid, v| (v["Missing Mandatory"] - ["P747"]).any? }
+  end
+
+  def work_property_to_label(property_id)
+    DataModel.new.work_types.values.map {|v| v["Mandatory"]}.reduce({}, :merge)[property_id]
   end
 
   def data_assembler
@@ -58,7 +63,10 @@ class DataReport
     puts "Wikidata works needing improvement (missing mandatory properties except edition):"
     puts "Total: #{@wikidata_prioritised_todo_list.count}"
     @wikidata_prioritised_todo_list.each do |qid, details|
-      puts "- https://www.wikidata.org/wiki/#{qid} | #{details["labels"]["en"]}: Missing #{details['Missing Mandatory'].join(', ')}"
+      missing_list = details['Missing Mandatory'].reject { |v| v == "P747" }
+                                                 .map { |prop_id| "#{prop_id} (#{work_property_to_label(prop_id)})" }
+                                                 .join(', ')
+      puts "- https://www.wikidata.org/wiki/#{qid} | #{details["labels"]["en"]}: Missing #{missing_list}"
     end
     puts "======================================="
     puts "List of properties needing attention:"
