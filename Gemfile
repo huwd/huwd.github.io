@@ -8,6 +8,10 @@ gem "jekyll"
 gem "csv"
 gem "base64"
 
+group :development do
+  gem "wikidata_adaptor"
+end
+
 group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
