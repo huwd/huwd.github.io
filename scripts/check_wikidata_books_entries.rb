@@ -75,7 +75,11 @@ class CheckWikidataBookEntries
     print
     iris.map.with_index do |iri, i|
       print "\rQuerying Wikidata #{type.capitalize} #{i + 1}/#{iris.count}"
-      wikidata_rest_client.get_item(iri)
+      result = with_exponential_backoff do
+        wikidata_rest_client.get_item(iri)
+      end
+      sleep(0.1) # Small delay to avoid rate limiting
+      result
     end
   end
 

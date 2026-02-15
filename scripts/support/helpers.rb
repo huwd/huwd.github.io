@@ -27,4 +27,28 @@ module Helpers
   def wikidata_rest_client
     WikidataAdaptor.rest_api
   end
+
+  # Executes a block with exponential backoff retry logic for rate limiting
+  # @param max_retries [Integer] Maximum number of retry attempts (default: 5)
+  # @param base_delay [Float] Initial delay in seconds (default: 1.0)
+  # @yield The block to execute with retry logic
+  # @return The result of the block execution
+  def with_exponential_backoff(max_retries: 5, base_delay: 1.0)
+    retries = 0
+
+    begin
+      yield
+    rescue RestClient::TooManyRequests, ApiAdaptor::HTTPTooManyRequests => e
+      if retries < max_retries
+        delay = base_delay * (2 ** retries)
+        retries += 1
+        print "\n⚠️  Rate limited. Retry #{retries}/#{max_retries} after #{delay.round(1)}s..."
+        sleep(delay)
+        retry
+      else
+        print "\n❌ Max retries (#{max_retries}) exceeded. Giving up.\n"
+        raise
+      end
+    end
+  end
 end
