@@ -10,9 +10,11 @@ When Fredric Jameson writes:
 
 > it is easier to imagine the end of the world than the end of capitalism
 
-I've generally considered this problem as a forward facing one, what political possibilities can we picture for today and for a future?
+You stand facing forward. What political possibilities can we picture for today and for a future?
 
-However, does the problem not extend to the past too? I suppose I must know that Neanderthal didn't exchange contracts on shellfish futures. That medieval serfs and lords had obligations not grounded in legal contracts or real estate brokered rents. That those worlds were a long way from the modern economy and legal system of today. But can I picture and describe the transition points? Do I know how this modern world came about, and what it might say for any great sociological change?
+But here I started to consider the other end. How easy is it to imagine how this modern economy and era came to start?
+
+I suppose I must know that Neanderthal didn't exchange contracts on shellfish futures. That medieval serfs and lords had obligations not grounded in legal contracts or real estate brokered rents. That those worlds were a long way from the modern economy and legal system of today. But can I picture and describe the transition points? Do I know how this modern world came about, and what it might say for any great sociological change?
 
 That's the picture Hobsbawm helpfully provides here. In the introduction he describes:
 
