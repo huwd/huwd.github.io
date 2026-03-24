@@ -7,11 +7,11 @@
     {
       "title": "Reading",
       "url": "/reading/2026/"
+    },
+    {
+      "title": "Projects",
+      "url": "/projects/"
     }
   ],
-  "book_years": [
-    "2026",
-    "2025",
-    "2024"
-  ]
+  "book_years": ["2026", "2025", "2024"]
 }
