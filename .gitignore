@@ -6,4 +6,13 @@ vendor
 _data/draft/
 _drafts/
 .env
-.claude/
+.claude/*
+!.claude/agents/
+.claude/agents/*
+!.claude/agents/coordinator.md
+!.claude/agents/copy-editor.md
+!.claude/agents/fact-scanner.md
+!.claude/agents/book-verifier.md
+!.claude/agents/fact-checker.md
+!.claude/agents/amender.md
+.tmp/
