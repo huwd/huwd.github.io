@@ -3,7 +3,7 @@ layout: post
 title: "The Age of Revolution: Europe 1789–1848"
 date: 2026-02-01T11:40:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 When Fredric Jameson writes:
@@ -27,7 +27,7 @@ culminates in something "decisive". A sudden conquest of a new kind of society w
 
 I started the book expecting something valuable, but a dry slog to push myself through. Not true, the opening pages begin a breathtaking style that continues throughout. The opening paragraphs are a litany of the words invented in this period that survive into modern daily speech. They are words I can't really imagine not having, whole professions, philosophies, lenses onto the world. To imagine a time when Journalism is new is curious. To have "nationality", "scientist", "railway", "industry", "factory", "ideology" also crop up in a 50 year period suggests a dizzying lifetime to have lived through.
 
-Hobsbawn places this moment as so total a change, few of us would recognise European societies before the 1780s. We take a tour, not through palaces and halls of power, but the (unenviable) lives of majorities. Their lives, their bodies, their worlds made small by their circumstances.
+Hobsbawm places this moment as so total a change, few of us would recognise European societies before the 1780s. We take a tour, not through palaces and halls of power, but the (unenviable) lives of majorities. Their lives, their bodies, their worlds made small by their circumstances.
 
 The setup drives home that a departure of almost absurd scale occurred here. Requiring a coherent description as to why it came about and took such forceful root. The description we get is a dual piston engine of change. An economic revolution in Britain's Industrial centres, and a Political one from the French revolution.
 
