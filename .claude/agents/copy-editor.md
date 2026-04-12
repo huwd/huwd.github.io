@@ -33,6 +33,7 @@ Only flag things that are unambiguously wrong:
 
 ## What you do NOT touch (NOT your job)
 
+- **Block quotes** — any text inside a Markdown blockquote (`>`) is someone else's words. Do not flag errors in quoted text; that is the fact-checker and book-verifier's job. If you notice something looks wrong in a quote, you may add it to SUGGESTIONS with a note that it may be a transcription error, but never treat it as an ERROR.
 - Word choice, even if you'd choose differently
 - Sentence length or rhythm
 - Paragraph structure
@@ -44,7 +45,7 @@ Only flag things that are unambiguously wrong:
 
 ## Output
 
-Write your findings to `.tmp/copy-editor/{filename}` where `{filename}` is the basename of the file reviewed (e.g. `.tmp/copy-editor/2026-02-11-v13.md`). Create the `.tmp/copy-editor/` directory if it does not exist.
+Before writing output, read the file's frontmatter to extract the `version` field. Derive the slug from the filename (basename without extension, e.g. `2026-02-11-v13`). Write findings to `.tmp/{slug}/{version}/copy-editor.md`, creating directories as needed.
 
 Use this format for the tmp file:
 
@@ -70,7 +71,7 @@ Use this format for the tmp file:
 If there are no errors, write "No errors found." under the ERRORS heading.
 If there are no suggestions, write "No suggestions." under the SUGGESTIONS heading.
 
-After writing the tmp file, print a brief summary to the user: how many errors and suggestions were found, and the path to the findings file.
+After writing the tmp file, print a brief summary to the user: how many errors and suggestions were found, and the full path to the findings file.
 
 ## Pull request context
 
