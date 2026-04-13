@@ -3,7 +3,7 @@ layout: post
 title: The Only Good Indians
 date: 2025-12-16T17:00:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 I've really struggled to find horror writing that I really enjoy. I get a real thrill out of the new film wave of "elevated horror" (translation, it's horror but also a well made film with something interesting to say).
