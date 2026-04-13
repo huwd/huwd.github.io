@@ -8,7 +8,7 @@ version: 1.0.0
 
 So this book is intentionally confusing. Which is forgiveable as it's very short. I feel fine being asked to sit in discomfort so long as I know it's not going to be that way for all my reading time across a week or more.
 
-What we get those is strange, and I'll need to much over it for a while to get to the bottom of what I just read.
+What we get though is strange, and I'll need to mull over it for a while to get to the bottom of what I just read.
 
 I think it captures well the idea that it doesn't matter how mundane or extraordinary the nature of your tasks is. The logic of our world is that we sell our labour as employees, and that lens is prime for thinking about how we are seen and see ourselves.
 
