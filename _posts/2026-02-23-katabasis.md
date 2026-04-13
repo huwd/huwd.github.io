@@ -3,7 +3,7 @@ layout: post
 title: Katabasis
 date: 2026-02-23T19:00:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 I enjoyed this, but not as much as Kuang's other books.
