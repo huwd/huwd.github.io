@@ -3,7 +3,7 @@ layout: post
 title: The Seven Rules of Trust
 date: 2026-02-11T22:32:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 A short book, and one that felt homey.
