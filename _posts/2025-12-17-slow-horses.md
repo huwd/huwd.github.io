@@ -3,7 +3,7 @@ layout: post
 title: Slow Horses
 date: 2025-12-17T23:52:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 I'd enjoyed the le Carré books earlier in the year. The core of those I read were from a deeply analogue world. I wondered, could you do similar after the digital cut off? Or would it be like horror films, that have to invent a reason why our wonder devices stop working right before the claustrophobia creeps in.
