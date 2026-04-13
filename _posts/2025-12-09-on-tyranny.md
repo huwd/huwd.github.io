@@ -3,7 +3,7 @@ layout: post
 title: On Tyranny
 date: 2025-12-09T17:00:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 Published in the run up to Donald Trump's first term, this is a short pamphlet looking at "America's turn towards authoritarianism". It draws historical lessons from the 20th century to try and give a playbook to Americans.
