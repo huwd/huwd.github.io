@@ -6,7 +6,7 @@ categories: review book
 version: 1.0.0
 ---
 
-A few pages into this book took me back to the late 2000s
+A few pages into this book took me back to the late 2000s.
 
 Its tone, its references, the debate at its core immediately transported me back. It took me a while to dispel the nostalgia of the debate and try to peer more earnestly at the book.
 
