@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empires of AI
+title: Empire of AI
 date: 2025-12-05T16:15:00.000+00:00
 categories: review book
 version: 1.0.0
@@ -14,7 +14,7 @@ But reader of the future, let me try to convince you that in this moment the sto
 
 Within that range of uncertainty you can lean towards optimism or skepticism. For whether the technology works now, or ever will. For its impact on the economy. For its place in history when we describe the lives lived around it.
 
-From where I sit, I see 2025 as a year of extraordinary bets on those outcomes. Reading *Empires of AI* feels timely at a moment before the odds feel reliably set, and the outcome very much unsettled.
+From where I sit, I see 2025 as a year of extraordinary bets on those outcomes. Reading *Empire of AI* feels timely at a moment before the odds feel reliably set, and the outcome very much unsettled.
 
 Debate rages, and feels incessantly future tense. So Karen Hao's tour through recent history and the present tense feels refreshingly tangible.
 
@@ -36,7 +36,7 @@ This [stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot), this 
 
 For those of us not in the driving seat of these technologies, we're in an interregnum before we know how this turns out. We can waste it speculating about the future, or we can more closely examine the present. What does this technology do right now? Who are the people behind it? What are their incentives? Do they feel like people we'd believe as we see a history of their decisions?
 
-*Empires of AI* takes us on a meticulous and illuminating tour of this recent past and present. Deep into the companies producing it. Its figureheads are brought down from high pedestals and press release hype to a human level.
+*Empire of AI* takes us on a meticulous and illuminating tour of this recent past and present. Deep into the companies producing it. Its figureheads are brought down from high pedestals and press release hype to a human level.
 
 After spending hours with these people, their organisations, and tracing their decisions step by step, I find myself deeply unconvinced of their thesis. Both that the limited "demo" we get today could grow and scale to a point where something truly intelligent emerges. A sentient symphony out of cawing echoes.
 
@@ -44,6 +44,6 @@ What seems a more likely take on this moment is that Californian Silicon Valley 
 
 In the meantime, the train must continue. Hype fueling it. The stock market climbs, and in an attempt to prove it's worth something today it's forcibly thrust into every possible tool with little invitation from users.
 
-*Empires of AI* is a great guide to this moment and how we got here. One that cuts through a lot of the noise to look at some uncomfortable truths on which the entire house of cards is built. It has reinforced my doubts that the sunny uplands are just around the corner.
+*Empire of AI* is a great guide to this moment and how we got here. One that cuts through a lot of the noise to look at some uncomfortable truths on which the entire house of cards is built. It has reinforced my doubts that the sunny uplands are just around the corner.
 
 Whether I'm wrong about that, time will tell.
