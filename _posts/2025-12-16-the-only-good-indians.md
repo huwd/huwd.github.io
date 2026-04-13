@@ -10,6 +10,6 @@ I've really struggled to find horror writing that I really enjoy. I get a real t
 
 I think it's fair to say I didn't find Ari Aster in this book, but I'm not sure that's what it set out to be.
 
-The setting brought me a world I've not really come across before, which I enjoyed. The structure left me reeling a bit as we jump between time and protagonists. I wasn't sure when it wanted me to be confused and realise something slowly, or when I'd just missed a beat. Also a surprisingly amount of time given to basketball.
+The setting brought me a world I've not really come across before, which I enjoyed. The structure left me reeling a bit as we jump between time and protagonists. I wasn't sure when it wanted me to be confused and realise something slowly, or when I'd just missed a beat. Also a surprising amount of time given to basketball.
 
 An interesting read but I'm still looking for a written horror I can rave about.
