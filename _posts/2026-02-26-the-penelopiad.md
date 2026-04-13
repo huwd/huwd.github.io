@@ -3,7 +3,7 @@ layout: post
 title: The Penelopiad
 date: 2026-02-26T19:00:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 Reading around Greek myth as an adult feels like going back to somewhere I spent a youthful summer. Not that I ever really did read much of it when I was younger, but the stories have always been around. There's a familiarity and nostalgia to them.
