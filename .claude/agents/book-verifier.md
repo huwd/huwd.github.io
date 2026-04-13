@@ -36,26 +36,63 @@ When searching for a quote, always search for the exact phrase in quotation mark
 
 Note that translations may vary — if a quote is translated, different editions may render it differently. Flag this where relevant.
 
-## Local EPUB verification
+## Calibre library verification
 
-If the user provides a local EPUB file path, also search it directly.
+Before falling back to asking the user, always attempt to retrieve the EPUB from the Calibre library.
 
-An EPUB is a zip archive. To search it:
+Credentials and host are in environment variables — never hardcode them:
 
 ```bash
-unzip -o "{epub_path}" -d /tmp/epub-verify/
+CALIBRE_HOST   # base URL, no trailing slash, e.g. https://books.example.com
+CALIBRE_APP_USER
+CALIBRE_APP_PASSWORD
+```
+
+**Step 1 — Search OPDS for the book:**
+
+```bash
+curl -s -u "$CALIBRE_APP_USER:$CALIBRE_APP_PASSWORD" \
+  "${CALIBRE_HOST}/opds/search/{title}+{author}"
+```
+
+Parse the XML response for an entry with:
+```xml
+<link rel="http://opds-spec.org/acquisition" href="/opds/download/{id}/epub/" type="application/epub+zip"/>
+```
+
+Try exact title + author first. If no results, try title only.
+
+**Step 2 — Download the EPUB:**
+
+```bash
+curl -s -u "$CALIBRE_APP_USER:$CALIBRE_APP_PASSWORD" \
+  "${CALIBRE_HOST}/opds/download/{id}/epub/" \
+  -o /tmp/epub-verify/book.epub
+```
+
+**Step 3 — Search the EPUB:**
+
+An EPUB is a zip archive:
+
+```bash
+unzip -o /tmp/epub-verify/book.epub -d /tmp/epub-verify/
 grep -r "{search_phrase}" /tmp/epub-verify/ --include="*.xhtml" --include="*.html" -l
 grep -r "{search_phrase}" /tmp/epub-verify/ --include="*.xhtml" --include="*.html" -A 3 -B 3
 ```
 
-Use a distinctive phrase of 4–6 words from the quote to search. If the quote is in a non-English language or a translation, try key terms.
+Use a distinctive phrase of 4–6 words from the quote. If the quote is in a non-English language or a translation, try key terms.
 
 If found: note the file and surrounding context. If not found: try variant phrasings before concluding it is absent.
 
-Clean up after searching:
+**Step 4 — Clean up:**
+
 ```bash
 rm -rf /tmp/epub-verify/
 ```
+
+If the book is not found in the Calibre library (no acquisition link returned), or if no EPUB format is available, fall through to web verification. Note "not in library" in the output.
+
+If the user provides an explicit local EPUB path, use that directly at Step 3, skipping Steps 1–2.
 
 ## Confidence ratings
 
