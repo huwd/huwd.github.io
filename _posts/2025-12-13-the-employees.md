@@ -3,7 +3,7 @@ layout: post
 title: The Employees
 date: 2025-12-13T17:00:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 So this book is intentionally confusing. Which is forgiveable as it's very short. I feel fine being asked to sit in discomfort so long as I know it's not going to be that way for all my reading time across a week or more.
