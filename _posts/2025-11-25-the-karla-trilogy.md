@@ -6,7 +6,7 @@ categories: review book
 version: 1.0.0
 ---
 
-## Tinker Tailor Soldier Spy, The Honourable Schoolboy and Smiley's People
+## Tinker, Tailor, Soldier, Spy, The Honourable Schoolboy and Smiley's People
 
 These books are not new, around fifty years old as I write, yet they feel unexpectedly fresh.
 
