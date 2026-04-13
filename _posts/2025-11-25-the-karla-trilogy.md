@@ -3,7 +3,7 @@ layout: post
 title: The Karla Trilogy
 date: 2025-11-25T20:30:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 ## Tinker, Tailor, Soldier, Spy, The Honourable Schoolboy and Smiley's People
