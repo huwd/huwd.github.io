@@ -3,7 +3,7 @@ layout: post
 title: Empire of AI
 date: 2025-12-05T16:15:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 I wonder what it'll be like to read this post, or Karen Hao's book, at a later time.
