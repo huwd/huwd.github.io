@@ -14,10 +14,10 @@ In some ways, this made it a nice read but not an earthshaking one for me.
 
 Though I suspect it's because he's preaching to the converted.
 
-Along the way it was nice to hear something of the project's history, more of it's community and it's relentless focus on being "an encyclopedia".
+Along the way it was nice to hear something of the project's history, more of its community and its relentless focus on being "an encyclopedia".
 
-I remember my sixth form history teacher warning us "not to trust Wikipeida, read the books, its inaccuarate and could be written by anyone". I suspect until shortly before he'd have been right about that. From then, until now however it's a beacon of trust and reliabiltiy.
+I remember my sixth form history teacher warning us "not to trust Wikipedia, read the books, it's inaccurate and could be written by anyone". I suspect until shortly before he'd have been right about that. From then, until now however it's a beacon of trust and reliability.
 
-Now, as the AI LLM tools emerge (that would have never been possible without Wikipeida), I feel like I'd be the guy saying "don't trust the LLM, click through to the wikipedia page and read that to verify".
+Now, as the AI LLM tools emerge (that would have never been possible without Wikipedia), I feel like I'd be the guy saying "don't trust the LLM, click through to the wikipedia page and read that to verify".
 
 Hopefully that statement stands the test of time a bit better.
