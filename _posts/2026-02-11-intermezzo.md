@@ -3,7 +3,7 @@ layout: post
 title: Intermezzo
 date: 2026-02-11T22:54:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 Damn you Rooney,
