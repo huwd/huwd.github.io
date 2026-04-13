@@ -8,9 +8,9 @@ version: 1.0.0
 
 Published in the run up to Donald Trump's first term, this is a short pamphlet looking at "America's turn towards authoritarianism". It draws historical lessons from the 20th century to try and give a playbook to Americans.
 
-It's this American centrism was a source of both fascination and alienation for me. I found my milage and interest varied between lessons. What currently ails US politics doesn't analogise seamlessly to the UK.
+It's this American centrism that was a source of both fascination and alienation for me. I found my mileage and interest varied between lessons. What currently ails US politics doesn't analogise seamlessly to the UK.
 
-A few chapters particular resonated with me:
+A few chapters particularly resonated with me:
 
 ## Lesson 2 - Defend Institutions
 
@@ -26,7 +26,7 @@ I found myself thinking the "breaking news consumer handbooks" the WNYC show *On
 
 Singular, horrific tragedies occur, and a drive for security is real in those moments. However we pass too much law in the wake or those moments that would have provoked a general grimace the day before.
 
-This ratchet effect drives one way, and there not an obvious countervailing moment where we could relax. So we ever expect the terrorist threat to relax to the point post 9/11 changed can be reset?
+This ratchet effect drives one way, and there's not an obvious countervailing moment where we could relax. So do we ever expect the terrorist threat to relax to the point post 9/11 changes can be reset?
 
 ## Lesson 14 - Establish a private life
 
@@ -42,4 +42,4 @@ But the numbers putting it all out there exceeds the numbers making it. This des
 
 I struggle with this regularly. My impulse is always to record, capture, document, share. However even as I type these words I wonder who you are reading them. Or how you may wish to use them against me in futures I can't yet imagine.
 
-I suspect many could find similar resonances in this books lessons, even if the whole glitters less than it's parts.
+I suspect many could find similar resonances in this book's lessons, even if the whole glitters less than its parts.
