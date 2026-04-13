@@ -51,15 +51,39 @@ A file is considered **fully reviewed** at a given version if all five agents ar
 
 ## Running the pipeline
 
-Run the following agents in order against the chosen file. Between each step, read the output and confirm it looks reasonable before proceeding to the next.
+Before running any agents, create the review branch:
+
+```bash
+git checkout -b fix/{slug}-editorial-review
+```
+
+Run the following agents in order against the chosen file. Between each step, read the output and confirm it looks reasonable before proceeding to the next. Commit source file changes after each stage that modifies the file, following the commit standards below.
 
 ### Step 1 — Copy-editor
 Invoke the **copy-editor** agent on the file. It will write findings to `.tmp/{slug}/{version}/copy-editor.md`.
 
 ### Step 2 — Amender
-If the copy-editor found any ERRORS, invoke the **amender** agent. It will apply corrections and bump the patch version. After the amender runs, re-read the frontmatter to get the updated version number — use this new version for all subsequent tmp paths.
+If the copy-editor found any ERRORS, invoke the **amender** agent. It will apply corrections and bump the patch version.
 
-If the copy-editor found no errors, skip this step.
+After the amender runs, commit the source file immediately:
+
+```bash
+# Write message to temp file to avoid heredoc issues
+cat > /tmp/commit-msg.txt << 'MSGEOF'
+fix({slug}): apply copy-editor corrections
+
+{one line per correction, wrapped at 72 chars}
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+MSGEOF
+git add {file path}
+git commit -F /tmp/commit-msg.txt
+```
+
+Subject line must be ≤ 50 characters, imperative mood, no trailing period.
+Re-read the frontmatter to get the updated version number — use this new version for all subsequent tmp paths.
+
+If the copy-editor found no errors, skip this step (no commit needed).
 
 ### Step 3 — Fact-scanner
 Invoke the **fact-scanner** agent on the file. It will write a claims table to `.tmp/{slug}/{version}/fact-scanner.md`.
@@ -71,6 +95,22 @@ Invoke the **book-verifier** agent. If the user provided an EPUB path, pass it t
 
 ### Step 5 — Fact-checker
 Invoke the **fact-checker** agent. It will consume the fact-scanner and book-verifier outputs and write its report to `.tmp/{slug}/{version}/fact-checker.md`.
+
+If the fact-checker identifies corrections to apply to the source file (e.g. wrong author name, incorrect quote), apply them now and commit:
+
+```bash
+cat > /tmp/commit-msg.txt << 'MSGEOF'
+fix({slug}): apply fact-checker corrections
+
+{one line per correction, wrapped at 72 chars}
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+MSGEOF
+git add {file path}
+git commit -F /tmp/commit-msg.txt
+```
+
+If the fact-checker found no corrections, no commit is needed at this step.
 
 ## Reviewing the output
 
@@ -99,46 +139,32 @@ Ask the user: "Shall I open a pull request for these changes?"
 
 If the user agrees:
 
-1. Check that a branch exists for this review. If not, create one:
-   ```bash
-   git checkout -b fix/{slug}-editorial-review
-   ```
-   If a branch already exists (from a prior session), check it out.
-
-2. Stage and commit any uncommitted changes to the source file:
-   ```bash
-   git add {file path}
-   git commit -m "fix({slug}): editorial review pass (v{old} → v{new})"
-   ```
-
-3. Push the branch:
+1. The branch was created at the start of the pipeline and commits were made per-stage. Simply push:
    ```bash
    git push -u origin fix/{slug}-editorial-review
    ```
 
-4. Open a PR using `gh pr create`. Write a description that summarises what the pipeline found and changed:
-
+2. Open a PR using `gh pr create`:
    ```bash
-   gh pr create --title "fix({slug}): editorial review" --body "$(cat <<'EOF'
+   gh pr create --base main --title "fix: editorial review — {slug}" --body "$(cat <<'EOF'
    ## Editorial review: {title}
 
-   Automated pipeline pass using copy-editor, fact-scanner, book-verifier, and fact-checker agents.
+   ### Copy-editor
+   {N errors corrected / No errors found}
+   {bullet list of corrections}
 
-   ### Changes
-   {bullet list of corrections made}
-
-   ### Fact-check results
+   ### Fact-check
    {brief summary of claims checked and verdicts}
+   {flag any CONTRADICTED claims or open items}
 
-   ### Open items
-   {anything flagged that the author should consider — or "None" if clean}
+   Version bump: {old} → {new}
 
-   🤖 Editorial pipeline via Claude Code agents
+   🤖 Generated with [Claude Code](https://claude.com/claude-code)
    EOF
    )"
    ```
 
-5. Return the PR URL to the user.
+3. Return the PR URL to the user.
 
 ## Updating state
 
