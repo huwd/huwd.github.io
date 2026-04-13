@@ -3,7 +3,7 @@ layout: post
 title: Hayek's Bastards
 date: 2025-12-23T19:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 I'd read Crack-Up Capitalism earlier in 2025 and felt like returning to Quinn's books.
