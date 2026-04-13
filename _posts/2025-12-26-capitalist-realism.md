@@ -3,7 +3,7 @@ layout: post
 title: Capitalist Realism
 date: 2025-12-27T22:43:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 A few pages into this book took me back to the late 2000s.
