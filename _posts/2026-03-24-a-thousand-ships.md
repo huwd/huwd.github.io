@@ -3,7 +3,7 @@ layout: post
 title: A Thousand Ships
 date: 2026-03-24T19:00:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 Alright... turns out you can have too much of a good thing.
