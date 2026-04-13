@@ -21,9 +21,9 @@ There were striking scenes - in Stalingrad, physics institutes, everyday homes.
 The size of the cast and my poor grasp of Russian naming conventions made for a book to wade through at times.
 
 Between the tightening walls of history, Grossman focuses conspicuously on the domestic, small and interpersonal moments.
-Perhaps this is truer to most experience of them. World-historic events glimpsed from a kitchen table or a window up the street
+Perhaps this is truer to most experience of them. World-historic events glimpsed from a kitchen table or a window up the street.
 
 Small kindnesses and care appear myriad, and despite their times.
 The cruelties - the ghettos, political prisons, anti-semitism, brutalities of war, opportunism, treatment of women - a mix; product of their times but often remaining a choice of those who carry it out.
 
-I think Grossman must have had a faith of those human acts, even when the larger organising principles and moral character of it's supporters fail around them.
+I think Grossman must have had a faith of those human acts, even when the larger organising principles and moral character of its supporters fail around them.
