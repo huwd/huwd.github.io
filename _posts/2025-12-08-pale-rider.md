@@ -3,7 +3,7 @@ layout: post
 title: Pale Rider
 date: 2025-12-08T17:00:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 A deeply frustrating book, for the sole reason of its publication date.
