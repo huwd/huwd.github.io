@@ -133,7 +133,9 @@ After all agents have run, read the tmp files and produce a consolidated summary
 {Any open items — e.g. claims that could not be verified}
 ```
 
-Ask the user: "Shall I open a pull request for these changes?"
+If no changes were made to the source file (no copy errors, no fact-checker corrections), **do not open a PR**. Update the state registry and tell the user the post was clean. Skip the pull request section entirely.
+
+Otherwise, ask the user: "Shall I open a pull request for these changes?"
 
 ## Opening the pull request
 
