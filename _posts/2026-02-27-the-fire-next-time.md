@@ -3,7 +3,7 @@ layout: post
 title: The Fire Next Time
 date: 2026-02-26T19:00:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 I don't know James Baldwin, other than as an eloquent voice and an American writer.
