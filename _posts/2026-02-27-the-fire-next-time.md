@@ -14,13 +14,13 @@ But it is instantly recognisable as a precursor. I can see now that Ta-Nehisi Co
 
 Partly in format, but also in how these books speak to white people about race.
 
-> They are, in effect, still trapped in a history which they do not understand; and until they understand it, they cannot be released from it. They have had to believe for so many years, and for innumerable reasons, that black men are inferior to white men
+> They are, in effect, still trapped in a history which they do not understand; and until they understand it, they cannot be released from it. They have had to believe for many years, and for innumerable reasons, that black men are inferior to white men
 
 To be trapped in a history which you do not understand feels like a curse of mythic and ancient proportions.
 
 I find it difficult not to admire the unreasonable magnanimity of believing your oppressors can be better, that they are tragic in their mistake, and that they lose something of themselves as they take from others. He says:
 
-> Whoever debases another debases themselves
+> Whoever debases others is debasing himself
 
 There's an unflinching humanism in the writing. He asks for a coming together, but with those who might want to kill you. I wonder what America might have been if more solidarity had been extended on the basis of common means and not common race. As he puts it, the liberation of one is the liberation of the other.
 
