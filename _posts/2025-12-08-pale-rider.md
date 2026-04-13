@@ -6,9 +6,9 @@ categories: review book
 version: 1.0.0
 ---
 
-A deeply frustrating book, for the sole reason of it's publication date.
+A deeply frustrating book, for the sole reason of its publication date.
 
-Laura Spinney first published Pale Rider in 2017, just before the centinery of the 1918-1920 influenza pandemic.
+Laura Spinney first published Pale Rider in 2017, just before the centenary of the 1918-1920 influenza pandemic.
 
 The book cited the flu as an unrecognised contributor to global history, overshadowed by the world wars but with potential to be just as significant. One not memorialised in art, poetry or literature in a curious conspiracy of silence.
 
@@ -18,7 +18,7 @@ The book weaves history, sociology, politics, medical and scientific knowledge t
 
 My frustrations are purely born of what would happen a mere three years after the book is published and the COVID pandemic arrived.
 
-So many of the issue discussed in the book were daily talking points for two year of our lives after. So many things that felt like us living in a unique global moment turn out to be repetition of mistakes of our great grandparents.
+So many of the issues discussed in the book were daily talking points for two years of our lives after. So many things that felt like us living in a unique global moment turn out to be repetition of mistakes of our great grandparents.
 
 We see policymakers across the world debate school closures, the shadow of post viral fatigue syndromes, effective quarantines in places like Australia, then a rush to reopen inviting the disease in. We see misinformation, scientific disillusionment, vaccine skepticism borne out of both ignorance and legitimate fears of what the powerful have previously claimed were gifts.
 
