@@ -3,7 +3,7 @@ layout: post
 title: Life and Fate
 date: 2025-11-09T20:36:00.000+00:00
 categories: review book
-version: 1.0.0
+version: 1.0.1
 ---
 
 I have a growing sense of urgency to understand the totalitarian.
