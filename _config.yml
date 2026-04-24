@@ -27,6 +27,10 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 
+# Publish dotfile directories (Jekyll excludes them by default)
+include:
+  - .well-known
+
 # Customisation
 name: Huw Diprose
 signature: Huw
