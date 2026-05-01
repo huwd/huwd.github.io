@@ -3,7 +3,7 @@ layout: post
 title: Designing Freedom
 date: 2026-05-01T19:00:00.000+01:00
 categories: review book
-version: 1.0.1
+version: 1.0.2
 ---
 
 Ok so not strictly a book... I listened to the Massy lectures here.
@@ -29,7 +29,7 @@ As for why, I'm reasonably convinced about his grounding the need in Ashby's law
 
 That the number of possible states in a system is its variety, and if factors to control that variety do not exceed that number of states a surplus is inherently unregulated. That to control variety, you need variety.
 
-In trying to think this through I'm drawn beyond the department store analogies beer gives us, to my own bread and butter. A system not adequately tested, linted, statically analysed, dynamically stretched - where its variety is not wrapped in a greater variety of regulating checks leaves an ungoverned space.
+In trying to think this through I'm drawn beyond the department store analogies Beer gives us, to my own bread and butter. A system not adequately tested, linted, statically analysed, dynamically stretched - where its variety is not wrapped in a greater variety of regulating checks leaves an ungoverned space.
 
 And like Beer's take on Ashby's law, we know that sometimes that's just a reality of Agile delivery. We don't pursue 100% code coverage, because those last % points are just of less value than the other things you can do. Sometimes you leave some variety unabsorbed to focus on variety in other areas.
 
