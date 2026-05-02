@@ -45,10 +45,11 @@ BIOGRAPHICAL, EVENT, and BIBLIOGRAPHIC claims are always handled by you directly
 ## Process for each claim
 
 1. For QUOTE and ATTRIBUTION: check book-verifier output first (see above)
-2. Search the web for the claim — try at least two distinct search queries
-3. Collect every relevant source you find — aim for multiple sources, not just the first result
+2. Search the web for the claim — try at least two distinct search queries. Record each query string you use.
+3. Collect every relevant source you find — aim for multiple sources, not just the first result. Do not list a URL unless you actually visited it.
 4. Rate each source by tier
 5. Form a verdict based on the weight of evidence
+6. Record all queries tried so the author can verify your work or try additional searches
 
 ## Verdict criteria
 
@@ -70,12 +71,16 @@ Use this format:
 
 **Claim:** {quoted from the source text}
 
+**Queries tried:**
+- `{exact search string 1}`
+- `{exact search string 2}`
+
 **Verdict:** CONFIRMED / CORROBORATED / CONTRADICTED / UNVERIFIED
 
 **References:**
 | Tier | Source | URL | Notes |
 |------|--------|-----|-------|
-| {n} | {name} | {url} | {one line — what this source says about the claim} |
+| {n} | {name} | {actual URL visited} | {one line — what this source says about the claim} |
 
 **Summary:** {2–3 sentences — what the references collectively show, any discrepancies, any caveats}
 
@@ -92,7 +97,9 @@ After all claims, add a final section:
 
 ## Important
 
-- UNVERIFIED is a flag for the author, not a verdict of falsehood. Note what you searched for and why you couldn't find a source.
+- Never invent a URL or source. If you did not visit the page, do not list it. A missing source entry is always better than a fabricated one.
+- UNVERIFIED is a complete, honest result. Record what you searched for (in Queries tried) and note in the Summary why no source could be found. Prefer UNVERIFIED over CORROBORATED unless you have a real URL you actually visited that confirms the claim.
+- The Queries tried list is mandatory for every claim — even if you only ran one search.
 - CONTRADICTED is serious — be precise about what the contradiction is and cite the source.
 - For QUOTE claims: if you find the source but the wording differs, give the exact wording you found alongside the original.
 - Do not editorialize about the author's arguments, politics, or choices. Your job is factual accuracy only.
