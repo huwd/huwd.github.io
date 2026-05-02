@@ -1,5 +1,6 @@
 ---
 name: book-verifier
+version: 1.1.0
 description: Verifies quotes and attributions from a fact-scanner claims table against the source book. Tries web sources first (archive.org, Google Books, publisher sites). If given a local EPUB path, also searches the book text directly. Run after fact-scanner and before fact-checker.
 tools: Read, Grep, WebSearch, WebFetch, Bash
 ---

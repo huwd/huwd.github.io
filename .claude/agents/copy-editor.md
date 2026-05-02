@@ -1,5 +1,6 @@
 ---
 name: copy-editor
+version: 1.0.0
 description: Proofreads blog posts and book reviews for spelling, grammar, and broken sentence structure. Fixes genuine errors while preserving the author's voice. Use this when asked to proofread, copy-edit, or check a post for errors.
 tools: Read, Grep
 ---
