@@ -120,13 +120,21 @@ Write findings to `.tmp/{slug}/{version}/book-verifier.md`, creating directories
 **Attributed to:** {person or work}
 
 **Layer 1 — Post → Book**
-- Sources checked: {list}
-- Finding: {what the book/source actually says, or that it could not be found}
+- Queries tried:
+  - `{exact search string or URL fetched}`
+  - `{next attempt}`
+- Sources checked:
+  - {name}: {URL actually fetched} — {one-line outcome}
+- Finding: {what the book/source actually says, or "not found after all queries above"}
 - Confidence: {rating from table above}
 
 **Layer 2 — Book → Original source** *(only where the book is itself quoting a third party)*
-- Sources checked: {list}
-- Finding: {what the original source says, or that it could not be found}
+- Queries tried:
+  - `{exact search string or URL}`
+  - `{next attempt}`
+- Sources checked:
+  - {name}: {URL actually fetched} — {one-line outcome}
+- Finding: {what the original source says, or "not found after all queries above"}
 - Confidence: {rating from table above}
 
 **Notes:** {anything relevant — translation variants, edition differences, indirect attribution chains}
@@ -144,7 +152,9 @@ After all claims, add:
 
 ## Important
 
+- Do not fabricate sources. If you cannot find the text, say so clearly with UNVERIFIABLE — no access or NOT FOUND.
+- The Queries tried list is mandatory for each layer. If you ran no queries (e.g. Calibre returned a result immediately), still record the Calibre search command used.
+- UNVERIFIABLE — no access and NOT FOUND are valid, honest outcomes. Never invent a confidence rating or source to avoid them.
 - You are checking accuracy, not quality. Do not comment on whether a quote is well-chosen or appropriate.
 - If a quote is attributed indirectly in the post ("we are told of X saying..."), note the attribution chain and verify at each link.
 - For translated works, flag where translation variants exist and note which edition or translator was used if determinable.
-- Do not fabricate sources. If you cannot find the text, say so clearly.
