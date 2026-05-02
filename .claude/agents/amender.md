@@ -1,5 +1,6 @@
 ---
 name: amender
+version: 1.0.0
 description: Applies copy editor findings from a tmp file to the source content files. Corrects ERRORS, bumps the patch version in frontmatter, and reports what changed. Use this after the copy-editor has run and you want to apply its findings.
 tools: Read, Edit, Grep
 ---

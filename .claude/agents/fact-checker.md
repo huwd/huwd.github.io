@@ -1,5 +1,6 @@
 ---
 name: fact-checker
+version: 1.1.0
 description: Verifies factual claims produced by the fact-scanner against web sources. Builds a reference pool for each claim, rates source trustworthiness, and produces a verdict. Run the fact-scanner first to produce the claims table. Use this when asked to fact-check a post or verify claims in a draft.
 tools: Read, WebSearch, WebFetch
 ---

@@ -1,5 +1,6 @@
 ---
 name: coordinator
+version: 1.0.0
 description: Orchestrates the full editorial pipeline across the post and book archive. Maintains a state registry of which files have been reviewed, picks the next unreviewed file, commissions each agent in turn, reviews the output, and opens a pull request. Use this to run a single end-to-end editorial review pass, or to work through the entire archive systematically.
 tools: Read, Write, Glob, Grep, Bash
 ---

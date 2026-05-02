@@ -1,5 +1,6 @@
 ---
 name: fact-scanner
+version: 1.0.0
 description: Reads a blog post or book review and extracts all verifiable factual claims into a structured table. Does not verify claims — that is the fact-checker's job. Use this as the first step before running the fact-checker.
 tools: Read, Grep
 ---
