@@ -37,12 +37,17 @@ signature: Huw
 
 # Folders
 collections:
+  reviews:
+    output: true
+    permalink: /review/book/:year/:month/:day/:title/
+  blogs:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
   weeknotes:
     output: true
     permalink: /weeknotes/:path/
   books:
-    output: false   # you probably don’t want individual book pages
-
+    output: false
 
 permalink: pretty
 

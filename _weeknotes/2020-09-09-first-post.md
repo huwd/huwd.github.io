@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: weeknote
 title:  "First Post!"
 date:   2020-09-09 15:00:00 +0100
 categories: post

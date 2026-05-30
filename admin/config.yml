@@ -14,13 +14,13 @@ public_folder: /public
 collections:
   - name: "reviews"
     label: "Reviews"
-    folder: "_posts/"
+    folder: "_reviews/"
     preview_path: "/review/book/{{year}}/{{month}}/{{day}}/{{title}}"
     description: "Review of a books I have read"
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'review' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Categories', name: 'categories', widget: 'list', default: ["review, book"] }

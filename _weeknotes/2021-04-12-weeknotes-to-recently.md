@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: weeknote
 title:  "From Weeknotes to Recently"
 date:   2021-04-12 00:08:40 +0100
 categories: weeknotes
