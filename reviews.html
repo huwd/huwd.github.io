@@ -4,8 +4,8 @@ title: Things I've reviewed
 ---
 
 <ul>
-  {% assign reviews = site.posts | where_exp: 'post', 'post.categories[0] == "review"' %}
-  {% for post in reviews  %}
+  {% assign reviews = site.reviews | sort: 'date' | reverse %}
+  {% for post in reviews %}
   <li>
     <a class="title" href="{{ site.baseurl }}{{ post.url }}">
       {{ post.title }}
