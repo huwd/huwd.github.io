@@ -7,7 +7,8 @@ permalink: /blog/
 <h1>Blog</h1>
 
 <ul>
-  {% assign blog_posts = site.blogs | sort: 'date' | reverse %}
+  {% assign blog_posts = "" | split: "" %}
+  {% if site.blogs %}{% assign blog_posts = site.blogs | sort: 'date' | reverse %}{% endif %}
   {% if blog_posts.size == 0 %}
     <li>Nothing here yet — watch this space.</li>
   {% else %}
