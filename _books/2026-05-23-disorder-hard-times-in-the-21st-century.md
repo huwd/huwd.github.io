@@ -7,4 +7,5 @@ edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-05-07T19:25:17.856+01:00
 date_finished: 2026-05-23T00:38:29.116+01:00
 rating: 4
+review_url: /review/book/2026/05/31/disorder/
 ---
