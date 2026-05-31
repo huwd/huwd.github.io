@@ -7,5 +7,4 @@ edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-05-23T15:40:46.803+01:00
 date_finished: 2026-05-25T01:46:44.420+01:00
 rating: 3
-review_url: /review/book/2026/05/31/an-artist-of-the-floating-world/
 ---
