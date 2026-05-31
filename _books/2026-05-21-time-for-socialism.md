@@ -5,4 +5,6 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q111178031
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-05-21T22:50:12.850+01:00
+date_finished: 2026-05-25T14:49:53.000+01:00
+rating: 3
 ---
