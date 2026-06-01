@@ -1,4 +1,5 @@
 ---
+date_finished: '2020-12-20T00:00:00Z'
 review_url: "/review/book/2020/12/21/wolf-hall-and-bring-up-the-bodies/"
 authors:
 - Hilary Mantel

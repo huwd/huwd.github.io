@@ -12,7 +12,7 @@ title: Reading
   {% for book in year.items %}
   <li>
     {% if book.date_finished %}
-    <a class="title" href="{{ site.baseurl }}{{ book.url }}">
+    <a class="title" href="{{ site.baseurl }}{{ book.review_url | default: book.url }}">
       {{ book.title }}
     </a>
     {% else %}

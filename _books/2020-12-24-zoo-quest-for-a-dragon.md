@@ -1,4 +1,5 @@
 ---
+date_finished: '2020-12-24T00:00:00Z'
 review_url: "/review/book/2021/01/31/quest-under-capricorn-in-paradise-for-a-dragon/"
 authors:
 - David Attenborough
