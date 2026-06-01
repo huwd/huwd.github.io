@@ -4,8 +4,10 @@ title: Things I've reviewed
 ---
 
 <ul>
-  {% assign reviews = site.reviews | sort: 'date' | reverse %}
-  {% for post in reviews %}
+  {% assign book_reviews = site.books | where_exp: 'book', 'book.date_finished' %}
+  {% assign multi_reviews = site.reviews | sort: 'date' | reverse %}
+  {% assign all_reviews = book_reviews | concat: multi_reviews | sort: 'date' | reverse %}
+  {% for post in all_reviews %}
   <li>
     <a class="title" href="{{ site.baseurl }}{{ post.url }}">
       {{ post.title }}
