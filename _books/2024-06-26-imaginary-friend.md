@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-07-05T00:00:00Z'
 title: Imaginary Friend
 authors:
 - Stephen Chbosky

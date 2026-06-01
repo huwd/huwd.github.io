@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-05-10T00:00:00Z'
 title: Surface Detail
 authors:
 - Ian M Banks

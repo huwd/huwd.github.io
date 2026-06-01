@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-10-30T00:00:00Z'
 title: Material World
 authors:
 - Ed Conway

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-10-12T23:03:00.000Z
 title: Human Acts
 authors:
   - Hang Kang

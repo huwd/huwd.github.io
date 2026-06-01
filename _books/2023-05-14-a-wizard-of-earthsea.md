@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-06-04T00:00:00Z'
 title: A Wizard of Earthsea
 authors:
 - Ursula K. Le Guin

@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-07-25T00:00:00Z'
 title: Tales from Earthsea
 authors:
 - Ursula K. Le Guin

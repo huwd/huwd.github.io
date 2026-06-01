@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-04-11T12:50:00.000Z'
 title: Abundance
 work_iri: https://www.wikidata.org/wiki/Q133503612
 edition_iri: https://www.wikidata.org/wiki/

@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-10-15T00:00:00Z'
 title: Clean Code
 subtitle: A Handbook of Agile Software Craftsmanship
 authors:

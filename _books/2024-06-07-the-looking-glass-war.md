@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-06-20T00:00:00Z'
 title: The Looking Glass War
 authors:
 - John le Carré

@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-08-03T00:00:00Z'
 title: The Other Wind
 authors:
 - Ursula K. Le Guin

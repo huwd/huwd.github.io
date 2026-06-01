@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-10-06T23:32:00.000Z
 title: The Buried Giant
 authors:
   - Kazuo Ishiguro

@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-04-10T00:00:00Z'
 title: Why We Get The Wrong Politicians
 authors:
 - Isabel Hardman

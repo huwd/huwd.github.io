@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-11-10T00:00:00Z'
 title: Clean Coder
 subtitle: A Code of Conduct for Professional Programmer
 authors:

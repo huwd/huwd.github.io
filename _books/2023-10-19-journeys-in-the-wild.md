@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-10-24T00:00:00Z'
 title: Journeys in the Wild
 subtitle: The Secret Life of a Cameraman
 authors:

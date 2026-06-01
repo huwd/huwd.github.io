@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-10-13T00:00:00Z'
 title: Bartleby, the Scrivener
 authors:
 - Herman Melville

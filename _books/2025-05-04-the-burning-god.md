@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-05-08T23:05:00.000Z
 title: The Burning God
 series: The Poppy War Trilogy
 series_entry: "3"

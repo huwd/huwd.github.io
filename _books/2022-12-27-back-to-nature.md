@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-01-02T00:00:00Z'
 title: Back to nature
 subtitle: How to love life - and save it
 authors:

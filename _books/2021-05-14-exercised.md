@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-05-29T00:00:00Z'
 title: Exercised
 subtitle: The Science of Physical Activity, Rest and Health
 authors:

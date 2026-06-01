@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-04-06T18:00:00.000Z'
 title: 'Everything Is Tuberculosis'
 subtitle: The History and Persistence of Our Deadliest Infection
 authors:

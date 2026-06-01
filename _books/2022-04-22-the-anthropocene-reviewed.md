@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-04-30T00:00:00Z'
 title: The Anthropocene Reviewed
 authors:
 - John Green

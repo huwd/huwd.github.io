@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-05-14T00:00:00Z'
 title: The Big Con
 subtitle: How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments
   and Warps Our Economies

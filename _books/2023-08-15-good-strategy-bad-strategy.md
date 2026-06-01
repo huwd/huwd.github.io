@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-08-26T00:00:00Z'
 title: Good Strategy/Bad Strategy
 subtitle: The difference and why it matters
 authors:

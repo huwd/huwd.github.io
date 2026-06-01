@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-10-06T00:01:00Z'
 title: The BBC Naturalist
 authors:
 - Desmond Hawkins

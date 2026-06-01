@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-06-07T00:00:00Z'
 title: The Silence of the Girls
 authors:
 - Pat Barker

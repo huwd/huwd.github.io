@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-09-04T00:00:00Z'
 title: The Right to Sex
 authors:
 - Amia Srinivasan

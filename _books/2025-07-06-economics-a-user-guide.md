@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-07-19T01:21:00.000Z
 title: "Economics: A user guide"
 series: A Pelican Book
 authors:

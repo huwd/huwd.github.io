@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-18T00:24:00.000Z
 title: "How the World ran out of everything: Inside the global supply chain"
 authors:
   - Peter S. Goodman

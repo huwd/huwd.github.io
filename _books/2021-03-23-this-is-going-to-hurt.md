@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-03-25T00:00:00Z'
 title: This Is Going to Hurt
 subtitle: Secret Diaries of a Junior Doctor
 authors:

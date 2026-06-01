@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-08-09T00:00:00Z'
 title: Accelerate
 subtitle: 'The Science of Lean Software and Devops: Building and Scaling High Performing
   Technology Organizations'

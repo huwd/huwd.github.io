@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-07-06T00:00:00Z'
 title: How to Be Animal
 subtitle: A New History of What It Means to Be Human
 authors:

@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-07-03T00:00:00Z'
 title: Everyday Utopia
 subtitle: In Praise of Radical Alternatives to the Traditional Family Home
 authors:

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-10-02T00:12:00.000Z
 title: "Strange Stones: Dispatches from East and West"
 authors:
   - Peter Hessler

@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-10-31T00:00:00Z'
 title: How to blow up a pipeline
 authors:
 - Andreas Malm

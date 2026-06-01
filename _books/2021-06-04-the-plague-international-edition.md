@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-06-11T00:00:00Z'
 title: 'The Plague: International Edition'
 authors:
 - Albert Camus

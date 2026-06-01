@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-05-26T00:00:00Z'
 title: A Murder of Quality
 authors:
 - John le Carré

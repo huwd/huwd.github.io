@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-10-27T00:00:00Z'
 title: Clean Architecture
 subtitle: A Craftsman's Guide to Software Structure and Design
 authors:

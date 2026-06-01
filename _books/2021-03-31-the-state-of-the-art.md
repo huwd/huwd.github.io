@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-04-03T00:00:00Z'
 authors:
 - Iain M. Banks
 series_entry: Book 4

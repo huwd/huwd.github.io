@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-01-12T00:00:00Z'
 title: The Witch's Heart
 authors:
 - Genevieve Gornichec

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-23T00:21:00.000Z
 title: The Left Hand of Darkness
 authors:
   - Ursula K. Le Guin

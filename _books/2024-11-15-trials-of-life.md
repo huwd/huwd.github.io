@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-12-08T00:00:00Z'
 title: Trials of Life
 subtitle: A Natural History of Animal Behaviour
 authors:

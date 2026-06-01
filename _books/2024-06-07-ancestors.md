@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-06-25T00:00:00Z'
 title: Ancestors
 subtitle: The Prehistory of Britain in Seven Burials
 authors:

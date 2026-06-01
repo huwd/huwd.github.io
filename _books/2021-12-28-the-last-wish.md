@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-01-03T00:00:00Z'
 genre: Science Fiction & Fantasy > Fantasy
 authors:
 - Andrzej Sapkowski

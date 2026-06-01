@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-01-19T20:31:00.000Z'
 authors:
 - Martha Wells
 series_entry: Book 1

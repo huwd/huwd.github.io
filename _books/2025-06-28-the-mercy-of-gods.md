@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-07-03T17:51:00.000Z
 title: The Mercy of Gods
 series_entry: Book 1
 series: Captive's War

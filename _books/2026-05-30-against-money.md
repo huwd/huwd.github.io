@@ -1,4 +1,5 @@
 ---
+date_finished: 2026-05-30T19:22:24.000+01:00
 title: "Against Money"
 authors:
   - J. W. Mason

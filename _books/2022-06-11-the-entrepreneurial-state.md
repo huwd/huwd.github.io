@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-06-20T00:00:00Z'
 title: The Entrepreneurial State
 authors:
 - Mariana Mazzucato

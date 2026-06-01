@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-10-18T00:00:00Z'
 title: Technofeudalism
 subtitle: What Killed Capitalism
 authors:

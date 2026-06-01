@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-12-25T00:00:00Z'
 title: The Data-centric Revolution
 authors:
 - David McComb

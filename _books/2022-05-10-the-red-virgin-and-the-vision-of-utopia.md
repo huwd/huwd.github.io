@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-06-01T00:00:00Z'
 title: The Red Virgin and the Vision of Utopia
 authors:
 - Bryan Talbot

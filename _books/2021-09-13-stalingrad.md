@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-10-01T00:00:00Z'
 genre: Literature & Fiction > Genre Fiction
 authors:
 - Vasily Grossman

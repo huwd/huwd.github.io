@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-05-10T17:40:00.000Z
 title: David Attenborough's Life Stories
 authors:
   - David Attenborough

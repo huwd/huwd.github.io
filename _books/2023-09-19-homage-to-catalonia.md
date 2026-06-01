@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-09-23T00:00:00Z'
 title: Homage to Catalonia
 authors:
 - George Orwell

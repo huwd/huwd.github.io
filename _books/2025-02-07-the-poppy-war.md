@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-02-10T23:40:00.000Z'
 authors:
 - R. F. Kuang
 series_entry: Book 1

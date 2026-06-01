@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-12-02T00:00:00Z'
 title: Invisible Women
 subtitle: Exposing data bias in a world designed for men
 authors:

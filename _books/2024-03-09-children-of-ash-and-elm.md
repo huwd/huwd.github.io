@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-03-24T00:00:00Z'
 title: Children of Ash and Elm
 subtitle: A history of the Vikings
 authors:

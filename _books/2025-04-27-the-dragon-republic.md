@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-05-04T01:44:00.000Z
 title: The Dragon Republic
 series: The Poppy War Trilogy
 series_entry: "2"

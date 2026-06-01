@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-11-02T00:00:00Z'
 title: Hunt for the Shadow Wolf
 authors:
 - Derek Gow

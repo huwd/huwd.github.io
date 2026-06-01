@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-05-29T00:00:00Z'
 title: Why Politics Fails
 subtitle: The Five Traps of the Modern World and How to Escape Them
 authors:

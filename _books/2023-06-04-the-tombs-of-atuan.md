@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-06-09T00:00:00Z'
 title: The Tombs of Atuan
 authors:
 - Ursula K. Le Guin

@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-09-01T00:00:00Z'
 title: The Undercover Economist
 authors:
 - Tim Harford

@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-01-06T00:00:00Z'
 title: The Art of Uncertainty
 subtitle: How to Navigate Chance Ignorance, Rick and Luck
 authors:

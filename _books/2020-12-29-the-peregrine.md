@@ -1,4 +1,5 @@
 ---
+date_finished: '2020-12-31T00:00:00Z'
 title: The Peregrine
 authors:
 - J. A. Baker

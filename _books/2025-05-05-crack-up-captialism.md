@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-05-15T21:03:00.000Z
 title: Crack up captialism
 authors:
   - Quinn Slobodian

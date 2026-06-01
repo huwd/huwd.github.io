@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-06-24T00:00:00Z'
 authors:
 - Octavia E. Butler
 series_entry: Book 1
