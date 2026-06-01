@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  {% assign relative_url = page.redirect.to | remove: site.url %}
+  <meta http-equiv="refresh" content="0; url={{ relative_url }}">
+  <link rel="canonical" href="{{ page.redirect.to }}">
+  <title>Redirecting…</title>
+</head>
+<body>
+  <p><a href="{{ relative_url }}">Redirecting…</a></p>
+</body>
+</html>
