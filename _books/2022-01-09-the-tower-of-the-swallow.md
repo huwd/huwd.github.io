@@ -1,6 +1,5 @@
 ---
 genre: Science Fiction & Fantasy > Fantasy
-date_finished: '2022-01-16T00:00:00Z'
 authors:
 - Andrzej Sapkowski
 series_entry: Book 4

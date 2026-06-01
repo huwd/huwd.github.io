@@ -1,5 +1,4 @@
 ---
-date_finished: '2021-12-04T00:00:00Z'
 authors:
 - James S.A. Corey
 series_entry: Book 9

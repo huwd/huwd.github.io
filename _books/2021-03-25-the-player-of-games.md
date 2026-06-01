@@ -1,5 +1,4 @@
 ---
-date_finished: '2021-03-28T00:00:00Z'
 authors:
 - Iain M. Banks
 series_entry: Book 2

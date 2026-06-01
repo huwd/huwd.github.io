@@ -1,6 +1,5 @@
 ---
 genre: Literature & Fiction > Genre Fiction
-date_finished: '2021-10-01T00:00:00Z'
 authors:
 - Vasily Grossman
 - Robert Chandler

@@ -1,5 +1,4 @@
 ---
-date_finished: '2025-03-28T22:00:00.000Z'
 date_started: '2025-03-23T19:23:00.000Z'
 title: The Anxious Generation
 authors:

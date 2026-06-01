@@ -14,7 +14,6 @@ format:
   isbn10: 38831334
   isbn13: 978-0224102346
 date_started: '2022-05-10T00:00:00Z'
-date_finished: '2022-06-01T00:00:00Z'
 rating: 4
 work_iri: https://www.wikidata.org/wiki/Q117480339
 ---

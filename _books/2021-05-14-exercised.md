@@ -18,7 +18,6 @@ format:
     name: Penguin Audio
   year_released: 2020
 date_started: '2021-05-14T00:00:00Z'
-date_finished: '2021-05-29T00:00:00Z'
 rating: 5
 work_iri: https://www.wikidata.org/wiki/Q117480240
 ---

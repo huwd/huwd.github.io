@@ -17,7 +17,6 @@ format:
     name: William Collins
   year_released: 2019
 date_started: '2020-12-29T00:00:00Z'
-date_finished: '2020-12-31T00:00:00Z'
 rating: 5
 work_iri: https://www.wikidata.org/wiki/Q117480103
 ---

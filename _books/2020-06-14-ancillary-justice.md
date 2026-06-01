@@ -1,6 +1,5 @@
 ---
-date_finished: '2020-06-29T00:00:00Z'
-review_url: "/review/book/2020/11/06/ancillary-justice/"
+layout: book
 authors:
 - Ann Leckie
 series_entry: Book 1
@@ -24,4 +23,17 @@ format:
 title: Ancillary Justice
 rating: 4
 date_published: '2013-09-01T00:00:00Z'
+date: 2020-11-07
+# date finished
+date_finished: 2020-06-29T00:00:00Z
+categories: review book
+version: 1.0.0
 ---
+
+I enjoy seeing well trod topics done well in Sci Fi, but there is a special joy in finding something new.
+
+Here there are both. Machine's escaping their use as tools into something more disobediently alive. Done well.
+
+But this story is really about multitudes in a way I'd never considered. What does distributed intelligence mean? How does it parts interact? Is it immortal? How does it feel when cut off from it's conscious self?
+
+These are new ideas to me, well explored here.

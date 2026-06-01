@@ -25,7 +25,6 @@ format:
     name: BBC Digital Audio
   year_released: 2018
 date_started: '2021-03-10T00:00:00Z'
-date_finished: '2021-03-21T00:00:00Z'
 rating: 4
 work_iri: https://www.wikidata.org/wiki/Q17063450
 edition_iri: https://www.wikidata.org/wiki/Q114051262

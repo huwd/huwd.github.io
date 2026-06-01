@@ -1,5 +1,4 @@
 ---
-date_finished: '2025-02-07T18:00:00.000Z'
 authors:
 - Martha Wells
 series_entry: Book 6

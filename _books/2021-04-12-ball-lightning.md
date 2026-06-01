@@ -19,7 +19,6 @@ format:
   year_released: 2018
 rating: 5
 date_started: '2021-04-12T00:00:00Z'
-date_finished: '2021-06-13T00:00:00Z'
 work_iri: https://www.wikidata.org/wiki/Q15909011
 ---
 
