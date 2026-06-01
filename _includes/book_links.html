@@ -8,7 +8,7 @@
 <p>
   After "{{ book.title }}" I read:
   {% if next_post.date_finished %}
-  <a href="{{ site.baseurl }}{{ next_post.url }}">
+  <a href="{{ site.baseurl }}{{ next_post.review_url | default: next_post.url }}">
     {{ next_post.title }}
   </a>
   {% else %}
@@ -25,7 +25,7 @@
 <p>
   Before "{{ book.title }}" I read:
   {% if previous_post.date_finished %}
-  <a href="{{ site.baseurl }}{{ previous_post.url }}">
+  <a href="{{ site.baseurl }}{{ previous_post.review_url | default: previous_post.url }}">
     {{ previous_post.title }}
   </a>
   {% else %}
