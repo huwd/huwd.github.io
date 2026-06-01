@@ -1,5 +1,5 @@
 ---
-title: Recoding America  Why Government Is Failing in the Digital Age and How We Can Do Better
+title: "Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better"
 authors:
   - Jennifer Pahlka
 work_iri: https://www.wikidata.org/wiki/Q
