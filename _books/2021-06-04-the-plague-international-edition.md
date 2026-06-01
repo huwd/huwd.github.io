@@ -17,7 +17,6 @@ format:
     name: Recorded Books, Inc.
   year_released: 2020
 date_started: '2021-06-04T00:00:00Z'
-date_finished: '2021-06-11T00:00:00Z'
 rating: 4
 work_iri: https://www.wikidata.org/wiki/Q320372
 ---

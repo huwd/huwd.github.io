@@ -19,7 +19,6 @@ format:
     name: Blackstone Publishing
   year_released: 2018
 date_started: '2021-09-06T00:00:00Z'
-date_finished: '2021-09-13T00:00:00Z'
 rating: 4
 work_iri: https://www.wikidata.org/wiki/Q117480269
 ---

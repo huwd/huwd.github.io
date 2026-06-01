@@ -1,5 +1,4 @@
 ---
-date_finished: '2020-12-23T00:00:00Z'
 review_url: "/review/book/2021/07/01/new-david-attenboroughs-new-life-stories/"
 authors:
 - David Attenborough

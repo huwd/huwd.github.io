@@ -1,5 +1,4 @@
 ---
-date_finished: '2020-11-25T00:00:00Z'
 review_url: "/review/book/2021/04/28/persepolis-I-and-II/"
 authors:
 - Marjane Satrapi

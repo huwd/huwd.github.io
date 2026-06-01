@@ -13,7 +13,6 @@ format:
   isbn10: 1526612542
   isbn13: 978-1526612540
 date_started: '2022-08-17T00:00:00Z'
-date_finished: '2022-09-04T00:00:00Z'
 rating: 5
 work_iri: https://www.wikidata.org/wiki/Q109967298
 ---

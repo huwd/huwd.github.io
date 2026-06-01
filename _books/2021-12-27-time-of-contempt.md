@@ -1,6 +1,5 @@
 ---
 genre: Science Fiction & Fantasy > Fantasy
-date_finished: '2021-12-28T00:00:00Z'
 authors:
 - Andrzej Sapkowski
 series_entry: Book 2

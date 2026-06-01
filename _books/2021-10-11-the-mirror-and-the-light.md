@@ -1,6 +1,5 @@
 ---
 genre: Literature & Fiction > Genre Fiction
-date_finished: '2021-10-31T00:00:00Z'
 authors:
 - Hilary Mantel
 series_entry: Book 3

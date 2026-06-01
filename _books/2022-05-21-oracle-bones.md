@@ -1,5 +1,4 @@
 ---
-date_finished: '2022-05-31T00:00:00Z'
 authors:
 - Peter Hessler
 metadata:

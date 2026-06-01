@@ -18,7 +18,6 @@ format:
     name: Picador
   year_released: 2017
 date_started: '2021-03-23T00:00:00Z'
-date_finished: '2021-03-25T00:00:00Z'
 rating: 4
 work_iri: https://www.wikidata.org/wiki/Q54488606
 ---

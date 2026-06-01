@@ -5,6 +5,5 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q136799759
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-09-14T10:46:00.000Z
-date_finished: 2025-09-18T00:24:00.000Z
 rating: 4
 ---

@@ -5,6 +5,5 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q119803356
 edition_iri: https://www.wikidata.org/wiki/
 date_started: '2024-07-27T00:00:00Z'
-date_finished: '2024-11-03T00:00:00Z'
 rating: 3
 ---

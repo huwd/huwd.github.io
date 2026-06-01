@@ -1,5 +1,4 @@
 ---
-date_finished: '2022-01-25T00:00:00Z'
 authors:
 - Andrzej Sapkowski
 - David French - translator

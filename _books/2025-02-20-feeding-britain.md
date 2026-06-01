@@ -7,5 +7,4 @@ authors:
   - Tim Lang
 date_started: '2025-02-20T07:32:00.000Z'
 rating: 4
-date_finished: '2025-03-07T11:30:00.000Z'
 ---

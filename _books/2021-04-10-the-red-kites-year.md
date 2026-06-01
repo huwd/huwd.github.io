@@ -1,5 +1,4 @@
 ---
-date_finished: '2021-04-11T00:00:00Z'
 authors:
 - Ian Carter
 - Dan Powell

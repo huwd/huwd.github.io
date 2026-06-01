@@ -9,6 +9,5 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q63190344
 edition_iri: https://www.wikidata.org/wiki/
 date_started: '2024-08-06T00:00:00Z'
-date_finished: '2024-08-09T00:00:00Z'
 rating: 4
 ---

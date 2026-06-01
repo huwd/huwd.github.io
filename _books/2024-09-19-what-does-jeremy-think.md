@@ -6,6 +6,5 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q136800726
 edition_iri: https://www.wikidata.org/wiki/
 date_started: '2024-09-19T00:00:00Z'
-date_finished: '2024-09-25T00:00:00Z'
 rating: 3
 ---
