@@ -47,10 +47,19 @@ collections:
     output: true
     permalink: /weeknotes/:path/
   books:
-    output: false
+    output: true
+    permalink: /review/book/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: book
 
 permalink: pretty
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
