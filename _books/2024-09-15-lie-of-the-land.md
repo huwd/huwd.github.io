@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-10-06T00:00:00Z'
 title: Lie of the Land
 subtitle: Who Really Cares for the Countryside?
 authors:

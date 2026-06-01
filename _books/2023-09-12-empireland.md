@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-09-03T00:00:00Z'
 title: Empireland
 subtitle: How Imperialism Has Shaped Modern Britain
 authors:

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-05-11T17:38:00.000Z
 title: "Demography: A Very Short Introduction"
 series: A Very Short Introduction
 series_entry: Book 565

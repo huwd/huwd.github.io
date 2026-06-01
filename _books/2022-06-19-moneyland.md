@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-06-22T00:00:00Z'
 title: Moneyland
 authors:
 - Oliver Bullough

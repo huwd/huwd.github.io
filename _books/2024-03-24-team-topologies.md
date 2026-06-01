@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-05-31T00:00:00Z'
 title: Team Topologies
 subtitle: Organizing Business and Technology Teams for Fast Flow
 authors:

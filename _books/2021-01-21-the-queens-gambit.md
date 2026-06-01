@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-01-25T00:00:00Z'
 title: The Queen's Gambit
 authors:
 - Walter Tevis

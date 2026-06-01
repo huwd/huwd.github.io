@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-10-24T00:00:00Z'
 title: The Women of Troy
 authors:
 - Pat Barker

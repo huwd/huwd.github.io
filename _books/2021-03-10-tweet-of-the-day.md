@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-03-21T00:00:00Z'
 title: Tweet of the Day
 subtitle: A Year of British Birds
 authors:

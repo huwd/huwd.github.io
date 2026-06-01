@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-11-28T00:00:00Z'
 title: A Memory Called Empire
 authors:
 - Arkady Martine

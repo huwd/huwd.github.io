@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-03-31T00:00:00Z'
 title: Follow the Money
 subtitle: How Much Does Britain Cost?
 authors:

@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-12-17T00:00:00Z'
 title: Ultra-Processed People
 subtitle: Why Do We All Eat Stuff That Isn`t Food… and Why Can`t We Stop?
 authors:

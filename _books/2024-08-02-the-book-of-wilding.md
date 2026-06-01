@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-09-06T00:00:00Z'
 title: The Book of Wilding
 authors:
   - Isabella Tree

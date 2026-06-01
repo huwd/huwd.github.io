@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-04-19T00:00:00Z'
 title: The Making of the English Working Class
 authors:
 - E. P. Thompson

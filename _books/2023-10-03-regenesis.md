@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-10-06T00:00:00Z'
 title: Regenesis
 authors:
 - George Monbiot

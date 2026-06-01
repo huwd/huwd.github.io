@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-13T12:04:00.000Z
 title: A Place of Greater Safety
 authors:
   - Hillary Mantel

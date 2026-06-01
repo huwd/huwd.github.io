@@ -1,4 +1,4 @@
-{% assign finished_books = site.books | where_exp: 'book', 'book.date_started != nil' | sort: "date" %}
+{% assign finished_books = site.books | where_exp: 'book', 'book.date_finished != nil' | sort: "date_finished" %}
 
 {% for book in finished_books %}
 {% if book.url == page.url %}

@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-05-19T00:00:00Z'
 title: Every man against himself and god against all
 authors:
 - Werner Herzog

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-10-12T16:26:00.000Z
 title: "End State: 9 Ways Society is Broken – and how We Can Fix it Book"
 authors:
   - James Plunkett

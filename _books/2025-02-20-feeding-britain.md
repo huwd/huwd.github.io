@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-03-07T11:30:00.000Z'
 work_iri: https://www.wikidata.org/wiki/Q136799833
 edition_iri: https://www.wikidata.org/wiki/
 title: Feeding Britain

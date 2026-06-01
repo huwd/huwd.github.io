@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-12-26T00:00:00Z'
 title: Rebirding
 subtitle: Rewilding Britian and it's Birds
 authors:

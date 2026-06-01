@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-11-01T00:00:00Z'
 title: Never Let Me Go
 authors:
 - Kazuo Ishiguro

@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-12-02T00:00:00Z'
 title: These Burning Stars
 authors:
 - Bethany Jacobs

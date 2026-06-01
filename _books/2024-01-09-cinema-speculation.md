@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-02-10T00:00:00Z'
 title: Cinema Speculation
 authors:
 - Quentin Tarintio

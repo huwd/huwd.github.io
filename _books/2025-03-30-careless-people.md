@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-04-03T09:32:00.000Z'
 title: Careless People
 subtitle: A story of where I used to work
 authors:

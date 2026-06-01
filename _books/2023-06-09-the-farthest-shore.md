@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-06-22T00:00:00Z'
 title: The Farthest Shore
 authors:
 - Ursula K. Le Guin

@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-04-27T00:00:00Z'
 title: We Should All Be Feminists
 authors:
 - Chimamanda Ngozi Adichie

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-21T00:32:00.000Z
 title: "Breakneck: China's Quest to Engineer the Future"
 authors:
   - Dan Wang

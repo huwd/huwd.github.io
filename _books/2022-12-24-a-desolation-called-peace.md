@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-01-06T00:00:00Z'
 title: A Desolation Called Peace
 authors:
 - Arkady Martine

@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-07-14T00:00:00Z'
 title: Failed State
 subtitle: Why Nothing Works and How We Fix It
 authors:

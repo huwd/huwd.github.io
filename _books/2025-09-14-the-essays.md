@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-14T00:25:00.000Z
 title: The Essays
 authors:
   - George Orwell

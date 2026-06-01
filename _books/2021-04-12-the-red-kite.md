@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-06-13T00:00:00Z'
 title: The Red Kite
 authors:
 - Ian Carter

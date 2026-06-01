@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-05-11T00:00:00Z'
 title: The Hidden Girl and Other Stories
 authors:
   - Ken Liu

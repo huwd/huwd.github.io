@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-06-25T23:47:00.000Z
 title: The New Age of Sexism
 authors:
   - Laura Bates

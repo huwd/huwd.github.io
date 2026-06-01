@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-19T23:57:00.000Z
 title: One Day, Everyone Will Have Always Been Against This
 authors:
   - Omar El Akkad

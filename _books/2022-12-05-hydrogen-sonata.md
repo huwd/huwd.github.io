@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-12-13T00:00:00Z'
 title: Hydrogen Sonata
 authors:
 - Ian M Banks

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-10T22:32:00.000Z
 title: The World After Gaza
 authors:
   - Pankaj Mishra

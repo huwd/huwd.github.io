@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-09-25T00:00:00Z'
 title: What Does Jeremy Think?
 subtitle: Jeremy Heywood and the Making of Modern Britain
 authors:

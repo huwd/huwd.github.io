@@ -1,4 +1,5 @@
 ---
+date_finished: 2026-04-12T23:45:00.000+01:00
 title: "Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better"
 authors:
   - Jennifer Pahlka

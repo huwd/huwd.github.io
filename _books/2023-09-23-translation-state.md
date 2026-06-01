@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-09-26T00:00:00Z'
 title: Translation State
 authors:
 - Ann Leckie

@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-03-26T00:00:00Z'
 title: God, Human, Animal, Machine
 authors:
 - Meghan O'Gieblyn

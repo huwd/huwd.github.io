@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-11-28T00:00:00Z'
 title: The Internet Con
 subtitle: How to seize the means of computation
 authors:

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-28T17:54:00.000Z
 title: The Woman in Black
 authors:
   - Susan Hill

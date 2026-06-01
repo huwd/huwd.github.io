@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-08-26T00:00:00Z'
 title: The Unaccountability Machine
 subtitle: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind
 authors:

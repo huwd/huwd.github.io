@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-09-27T22:58:00.000Z
 title: The City & The City
 authors:
   - China Miéville

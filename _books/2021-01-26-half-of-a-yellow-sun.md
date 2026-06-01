@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-02-08T00:00:00Z'
 title: Half of a Yellow Sun
 authors:
 - Chimamanda Ngozi Adichie

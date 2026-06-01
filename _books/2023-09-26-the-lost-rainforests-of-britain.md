@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-09-27T00:00:00Z'
 title: The Lost Rainforests of Britain
 authors:
 - Guy Shrubsole

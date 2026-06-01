@@ -1,4 +1,5 @@
 ---
+date_finished: '2025-03-23T11:30:00.000Z'
 authors:
 - Shoshana Zuboff
 date_started: '2025-03-16T00:00:00.000Z'

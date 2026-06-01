@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-05-27T00:00:00Z'
 title: The Spy Who Came in from the Cold
 authors:
 - John le Carré

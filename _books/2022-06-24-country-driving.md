@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-07-04T00:00:00Z'
 title: Country Driving
 authors:
 - Peter Hessler

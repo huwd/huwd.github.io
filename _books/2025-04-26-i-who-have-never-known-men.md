@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-04-27T10:47:00.000Z
 title: I Who Have Never Known Men
 authors:
   - Jacqueline Harpman

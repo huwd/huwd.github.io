@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-09-13T00:00:00Z'
 title: Almost Human
 subtitle: The Astonishing Tale of Homo Naledi and the Discovery That Changed Our Human
   Story

@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-06-17T21:10:00.000Z
 title: Engineering Management for the Rest of Us
 authors:
   - Sarah Drasner

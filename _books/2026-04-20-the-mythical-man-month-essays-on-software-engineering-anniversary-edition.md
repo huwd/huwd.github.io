@@ -1,4 +1,5 @@
 ---
+date_finished: 2026-04-20T13:37:00.000Z
 title: "The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition"
 authors:
   - Frederick P. Brooks

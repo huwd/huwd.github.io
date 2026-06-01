@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-06-11T00:00:00Z'
 title: Watching the English
 authors:
 - Kate Fox

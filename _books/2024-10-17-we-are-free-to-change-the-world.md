@@ -1,4 +1,5 @@
 ---
+date_finished: '2024-10-21T00:00:00Z'
 title: We Are Free to Change the World
 authors:
 - Lyndsey Stonebridge

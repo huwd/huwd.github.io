@@ -1,4 +1,5 @@
 ---
+date_finished: '2022-01-06T00:00:00Z'
 title: Entangled Life
 authors:
 - Merlin Sheldrake

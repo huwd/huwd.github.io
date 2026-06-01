@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-09-19T00:00:00Z'
 title: Understanding Power
 subtitle: The Indispensable Chomsky
 authors:

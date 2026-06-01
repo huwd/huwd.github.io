@@ -1,4 +1,5 @@
 ---
+date_finished: 2025-07-30T23:41:00.000Z
 title: Dark Matter
 authors:
   - Blake Crouch

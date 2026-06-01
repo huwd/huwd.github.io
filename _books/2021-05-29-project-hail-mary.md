@@ -1,4 +1,5 @@
 ---
+date_finished: '2021-05-31T00:00:00Z'
 title: Project Hail Mary
 authors:
 - Andy Weir

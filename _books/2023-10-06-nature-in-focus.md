@@ -1,4 +1,5 @@
 ---
+date_finished: '2023-10-09T00:00:00Z'
 title: Nature in focus
 authors:
 - P. S. Crowson
