@@ -1,10 +1,9 @@
 {% comment %}
   Sets review_link to the review URL for include.book, or nil if no review exists.
-  Checks single-book reviews (content present) and multi-book reviews (books_reviewed list).
+  Checks single-book reviews (has_review flag) and multi-book reviews (books_reviewed list).
 {% endcomment %}
 {% assign review_link = nil %}
-{% assign book_content = include.book.content | strip %}
-{% if book_content != "" %}
+{% if include.book.has_review %}
   {% assign review_link = include.book.url %}
 {% else %}
   {% for review in site.reviews %}
