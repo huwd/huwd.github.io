@@ -7,9 +7,11 @@
 {% endif %}
 
 {% for target_url in match_urls %}
+{% assign outer_index = forloop.index0 %}
 {% for book in finished_books %}
 {% if book.url == target_url %}
 
+{% if outer_index > 0 %}<hr>{% endif %}
 <div class="book-nav-group">
 {% if forloop.index0 > 0 %}
 {% assign previous_index = forloop.index0 | minus: 1 %}
