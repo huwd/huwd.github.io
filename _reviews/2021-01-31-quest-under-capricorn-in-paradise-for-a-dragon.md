@@ -3,6 +3,7 @@ layout: review
 title: Quest under capricorn, Zoo quest for a dragon and Quest in paradise
 date: 2021-01-31 23:58:00 +0100
 categories: review book
+anchor_book: /review/book/2020/12/24/quest-in-paradise/
 version: 1.0.0
 ---
 
