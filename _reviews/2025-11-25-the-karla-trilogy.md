@@ -3,7 +3,7 @@ layout: review
 title: The Karla Trilogy
 date: 2025-11-25T20:30:00.000+00:00
 categories: review book
-books:
+books_reviewed:
   - /review/book/2025/11/13/the-honourable-schoolboy/
   - /review/book/2025/11/11/tinker-tailor-soldier-spy/
   - /review/book/2025/11/16/smileys-people/
