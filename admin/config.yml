@@ -22,7 +22,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'review' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD', date_format: 'YYYY-MM-DD', time_format: false }
       - { label: 'Categories', name: 'categories', widget: 'hidden', default: 'review book' }
       - { label: 'Books Reviewed', name: 'books_reviewed', widget: 'list', hint: 'URLs of _books/ entries covered by this review, e.g. /review/book/2020/04/12/wolf-hall/' }
       - { label: 'Version', name: 'version', widget: 'string', default: '1.0.0' }
@@ -56,7 +56,7 @@ collections:
       - { label: "Date Started", name: "date_started", widget: "datetime" }
       - { label: "Date Finished", name: "date_finished", widget: "datetime", required: false }
       - { label: "Rating", name: "rating", widget: "number", required: false }
-      - { label: "Publish Date", name: "date", widget: "datetime", hint: "Controls the URL — set to date finished" }
+      - { label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, hint: "Controls the URL — set to date finished" }
       - { label: "Categories", name: "categories", widget: "hidden", default: "review book" }
       - { label: "Version", name: "version", widget: "string", default: "1.0.0" }
       - { label: "Redirect From", name: "redirect_from", widget: "list", required: false, hint: "Old URLs that should redirect here" }
