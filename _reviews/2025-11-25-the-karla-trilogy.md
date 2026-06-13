@@ -3,6 +3,7 @@ layout: review
 title: The Karla Trilogy
 date: 2025-11-25T20:30:00.000+00:00
 categories: review book
+anchor_book: /review/book/2025/11/16/smileys-people/
 version: 1.0.1
 ---
 
