@@ -10,22 +10,6 @@
 {% for book in finished_books %}
 {% if book.url == target_url %}
 
-{% assign next_post = finished_books[forloop.index] %}
-{% if next_post %}
-<p>
-  After "{{ book.title }}" I read:
-  {% if next_post.date_finished != nil %}
-  <a href="{{ site.baseurl }}{{ next_post.review_url | default: next_post.url }}">
-    {{ next_post.title }}
-  </a>
-  {% else %}
-  {{ next_post.title }}
-  {% endif %}
-</p>
-{% else %}
-<p><em>This is the most recent book I've recorded finishing.</em></p>
-{% endif %}
-
 {% if forloop.index0 > 0 %}
 {% assign previous_index = forloop.index0 | minus: 1 %}
 {% assign previous_post = finished_books[previous_index] %}
@@ -41,6 +25,22 @@
 </p>
 {% else %}
 <p><em>This is the first book on my reading log.</em></p>
+{% endif %}
+
+{% assign next_post = finished_books[forloop.index] %}
+{% if next_post %}
+<p>
+  After "{{ book.title }}" I read:
+  {% if next_post.date_finished != nil %}
+  <a href="{{ site.baseurl }}{{ next_post.review_url | default: next_post.url }}">
+    {{ next_post.title }}
+  </a>
+  {% else %}
+  {{ next_post.title }}
+  {% endif %}
+</p>
+{% else %}
+<p><em>This is the most recent book I've recorded finishing.</em></p>
 {% endif %}
 
 {% endif %}
