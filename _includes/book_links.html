@@ -1,8 +1,14 @@
 {% assign finished_books = site.books | where_exp: 'book', 'book.date_finished != nil' | sort: "date_finished" %}
-{% assign match_url = page.anchor_book | default: page.url %}
 
+{% if page.books %}
+  {% assign match_urls = page.books %}
+{% else %}
+  {% assign match_urls = page.url | split: "," %}
+{% endif %}
+
+{% for target_url in match_urls %}
 {% for book in finished_books %}
-{% if book.url == match_url %}
+{% if book.url == target_url %}
 
 {% assign next_post = finished_books[forloop.index] %}
 {% if next_post %}
@@ -38,4 +44,5 @@
 {% endif %}
 
 {% endif %}
+{% endfor %}
 {% endfor %}

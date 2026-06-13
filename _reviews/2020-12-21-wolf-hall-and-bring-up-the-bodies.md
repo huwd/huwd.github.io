@@ -3,7 +3,9 @@ layout: review
 title: Wolf Hall and Bring up the bodies
 date: 2020-12-21 20:00:00 +0100
 categories: review book
-anchor_book: /review/book/2020/12/18/bring-up-the-bodies/
+books:
+  - /review/book/2020/04/12/wolf-hall/
+  - /review/book/2020/12/18/bring-up-the-bodies/
 version: 1.0.0
 ---
 

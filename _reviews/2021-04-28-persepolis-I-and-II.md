@@ -3,7 +3,8 @@ layout: review
 title: Persepolis I & II
 date: 2021-04-28 12:55:00 +0100
 categories: review book
-anchor_book: /review/book/2020/11/24/persepolis-i-ii/
+books:
+  - /review/book/2020/11/24/persepolis-i-ii/
 version: 1.1.0
 ---
 
