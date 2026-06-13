@@ -10,9 +10,10 @@ title: Reading
 <h2 id="{{ year.name }}">{{ year.name }}</h2>
 <ul>
   {% for book in year.items %}
+  {% include book_review_url.html book=book %}
   <li>
-    {% if book.date_finished != nil %}
-    <a class="title" href="{{ site.baseurl }}{{ book.review_url | default: book.url }}">
+    {% if review_link %}
+    <a class="title" href="{{ site.baseurl }}{{ review_link }}">
       {{ book.title }}
     </a>
     {% else %}
