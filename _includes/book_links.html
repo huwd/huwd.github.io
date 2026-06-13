@@ -10,6 +10,7 @@
 {% for book in finished_books %}
 {% if book.url == target_url %}
 
+<div class="book-nav-group">
 {% if forloop.index0 > 0 %}
 {% assign previous_index = forloop.index0 | minus: 1 %}
 {% assign previous_post = finished_books[previous_index] %}
@@ -42,6 +43,7 @@
 {% else %}
 <p><em>This is the most recent book I've recorded finishing.</em></p>
 {% endif %}
+</div>
 
 {% endif %}
 {% endfor %}
