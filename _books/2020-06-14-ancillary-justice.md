@@ -23,7 +23,7 @@ format:
 title: Ancillary Justice
 rating: 4
 date_published: '2013-09-01T00:00:00Z'
-date: 2020-11-07
+date: 2020-11-07 00:11:00 +0100
 # date finished
 date_finished: 2020-06-29T00:00:00Z
 categories: review book
