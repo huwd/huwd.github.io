@@ -24,6 +24,7 @@ seo:
 locale: en_GB
 
 baseurl: ""
+timezone: UTC
 # Build settings
 markdown: kramdown
 
