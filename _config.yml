@@ -39,7 +39,7 @@ signature: Huw
 collections:
   reviews:
     output: true
-    permalink: /review/book/:year/:month/:day/:title/
+    permalink: /review/:year/:month/:day/:title/
   blogs:
     output: true
     permalink: /blog/:year/:month/:day/:title/
