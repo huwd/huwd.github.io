@@ -23,7 +23,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'review' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Categories', name: 'categories', widget: 'list', default: ["review", "book"] }
+      - { label: 'Categories', name: 'categories', widget: 'hidden', default: 'review book' }
       - { label: 'Books Reviewed', name: 'books_reviewed', widget: 'list', hint: 'URLs of _books/ entries covered by this review, e.g. /review/book/2020/04/12/wolf-hall/' }
       - { label: 'Version', name: 'version', widget: 'string', default: '1.0.0' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
