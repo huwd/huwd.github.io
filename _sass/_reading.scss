@@ -2,10 +2,11 @@
   p {
     margin-bottom: 0.25rem;
   }
+}
 
-  & + .book-nav-group {
-    margin-top: 1.5rem;
-  }
+.book-nav-group + hr,
+hr + .book-nav-group {
+  margin-top: 2rem;
 }
 
 .book-nav {
