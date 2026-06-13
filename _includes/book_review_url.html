@@ -3,7 +3,8 @@
   Checks single-book reviews (content present) and multi-book reviews (books_reviewed list).
 {% endcomment %}
 {% assign review_link = nil %}
-{% if include.book.content != "" %}
+{% assign book_content = include.book.content | strip %}
+{% if book_content != "" %}
   {% assign review_link = include.book.url %}
 {% else %}
   {% for review in site.reviews %}
