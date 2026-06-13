@@ -23,7 +23,7 @@ format:
 title: Ancillary Mercy
 rating: 3
 date_published: '2015-10-08T00:00:00Z'
-date: 2020-11-07
+date: 2020-11-07 00:15:00 +0100
 # date finished
 date_finished: 2020-07-04T00:00:00Z
 categories: review book

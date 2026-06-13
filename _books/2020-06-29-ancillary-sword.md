@@ -23,7 +23,7 @@ format:
 title: Ancillary Sword
 rating: 3
 date_published: '2014-09-07T00:00:00Z'
-date: 2020-11-07
+date: 2020-11-07 00:17:00 +0100
 # date finished
 date_finished: 2020-06-30T00:00:00Z
 categories: review book
