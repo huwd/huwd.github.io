@@ -3,7 +3,7 @@ layout: review
 title: David Attenborough's New Life Stories
 date: 2021-07-01 21:51:00 +0100
 categories: review book
-books:
+books_reviewed:
   - /review/book/2020/12/22/david-attenboroughs-new-life-stories/
 version: 1.0.0
 ---
