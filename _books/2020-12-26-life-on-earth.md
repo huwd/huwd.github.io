@@ -1,17 +1,17 @@
 ---
 layout: book
 authors:
-- David Attenborough
-date_started: '2020-12-26T00:00:00Z'
+  - David Attenborough
+date_started: "2020-12-26T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q117480025
 format:
   aisn:
     product: B07DY76BPC
     membership: B07BVZK3XQ
   narrators:
-  - David Attenborough
-  date_released: '2018-09-20T00:00:00Z'
-  date_purchased: '2020-12-23T00:00:00Z'
+    - David Attenborough
+  date_released: "2018-09-20T00:00:00Z"
+  date_purchased: "2020-12-23T00:00:00Z"
   version: Unabridged
   runtime: 12 hours and 26 minutes
   type: Audiobook
@@ -22,7 +22,6 @@ title: Life on Earth
 rating: 4
 edition_iri: https://www.wikidata.org/wiki/Q117480003
 date: 2021-04-14
-# date finished
 date_finished: 2020-12-28T00:00:00Z
 categories: review book
 version: 1.0.1

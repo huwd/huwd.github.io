@@ -1,10 +1,10 @@
 ---
-date_finished: '2024-10-21T00:00:00Z'
+date_finished: "2024-10-21T00:00:00Z"
 title: We Are Free to Change the World
 authors:
-- Lyndsey Stonebridge
+  - Lyndsey Stonebridge
 work_iri: https://www.wikidata.org/wiki/Q136801141
 edition_iri: https://www.wikidata.org/wiki/
-date_started: '2024-10-17T00:00:00Z'
+date_started: "2024-10-17T00:00:00Z"
 rating: 5
 ---

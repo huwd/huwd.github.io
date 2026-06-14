@@ -8,7 +8,6 @@ edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-10-13T21:26:00.000Z
 rating: 4
 date: 2025-11-02
-# date finished
 date_finished: 2025-11-02 23:03:00 +0000
 categories: review book
 version: 1.0.1
@@ -65,7 +64,7 @@ High severity, with massive impact on life, systems or property.
 Breakdowns at a systemic level, or a cascade of failures that exceeds the capacity to respond.
 Disaster may have long term consequences felt for years afterwards.
 
- Not all disaster is mitigable however:
+Not all disaster is mitigable however:
 
 > ...crisis can flip the other way, sliding into disaster. Some situations cannot be pulled back, and all that can be attempted is to reduce the harm being done.
 

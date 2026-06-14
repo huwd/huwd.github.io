@@ -1,16 +1,16 @@
 ---
 layout: book
 authors:
-- Matt Ruff
+  - Matt Ruff
 year_published: 2016
-date_started: '2020-09-05T00:00:00Z'
+date_started: "2020-09-05T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q30608520
 format:
   aisn: B07GNNDGPM
   narrators:
-  - Kevin Kenerly
-  date_released: '2019-02-07T00:00:00Z'
-  date_purchased: '2020-08-17T00:00:00Z'
+    - Kevin Kenerly
+  date_released: "2019-02-07T00:00:00Z"
+  date_purchased: "2020-08-17T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 12 hours and 13 minutes
@@ -20,9 +20,8 @@ format:
   year_released: 2019
 title: Lovecraft Country
 rating: 4
-date_published: '2016-02-16T00:00:00Z'
+date_published: "2016-02-16T00:00:00Z"
 date: 2020-09-10
-# date finished
 date_finished: 2020-09-08T00:00:00Z
 categories: review book
 version: 1.0.0

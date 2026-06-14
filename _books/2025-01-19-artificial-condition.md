@@ -1,9 +1,9 @@
 ---
-date_finished: '2025-01-19T14:15:00.000Z'
+date_finished: "2025-01-19T14:15:00.000Z"
 authors:
-- Martha Wells
+  - Martha Wells
 series_entry: Book 2
-date_started: '2025-01-19T00:56:00.000Z'
+date_started: "2025-01-19T00:56:00.000Z"
 work_iri: https://www.wikidata.org/wiki/Q56065509
 series: The Murderbot Diaries
 title: Artificial Condition

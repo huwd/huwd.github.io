@@ -8,7 +8,6 @@ edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-12-07T22:21:00.000+00:00
 rating: 3
 date: 2025-12-09
-# date finished
 date_finished: 2025-12-08T12:50:00.000+00:00
 categories: review book
 version: 1.0.1
@@ -30,7 +29,7 @@ Following institutional support, but seemingly more relevant to the broader ecos
 
 ## Lesson 17 - Be calm when the unthinkable arrives.
 
-I found myself thinking the "breaking news consumer handbooks" the WNYC show *On the Media* used to run. An attempt to critique an often alarming and opportunistic media response to spectacular tragedy. An attempt to tease out the patterns of our responses, both accidental and predatory. To steel ourselves against kneejerk cries of something must be done and afford reflection from a colder light of day.
+I found myself thinking the "breaking news consumer handbooks" the WNYC show _On the Media_ used to run. An attempt to critique an often alarming and opportunistic media response to spectacular tragedy. An attempt to tease out the patterns of our responses, both accidental and predatory. To steel ourselves against kneejerk cries of something must be done and afford reflection from a colder light of day.
 
 Singular, horrific tragedies occur, and a drive for security is real in those moments. However we pass too much law in the wake or those moments that would have provoked a general grimace the day before.
 

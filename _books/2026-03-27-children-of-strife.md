@@ -10,7 +10,6 @@ edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-03-27T14:58:00.000+00:00
 rating: 5
 date: 2026-05-01
-# date finished
 date_finished: 2026-03-31T22:18:00.000+01:00
 categories: review book
 version: 1.1.0

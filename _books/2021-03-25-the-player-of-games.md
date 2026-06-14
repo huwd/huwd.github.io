@@ -1,9 +1,9 @@
 ---
-date_finished: '2021-03-28T00:00:00Z'
+date_finished: "2021-03-28T00:00:00Z"
 authors:
-- Iain M. Banks
+  - Iain M. Banks
 series_entry: Book 2
-date_started: '2021-03-25T00:00:00Z'
+date_started: "2021-03-25T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q467139
 series: Culture Series
 format:
@@ -11,9 +11,9 @@ format:
     product: B004EF2FXM
     membership: B07BVZK3XQ
   narrators:
-  - Peter Kenny
-  date_released: '2010-12-02T00:00:00Z'
-  date_purchased: '2021-03-21T00:00:00Z'
+    - Peter Kenny
+  date_released: "2010-12-02T00:00:00Z"
+  date_purchased: "2021-03-21T00:00:00Z"
   version: Unabridged
   runtime: 11 hours and 26 minutes
   type: Audiobook

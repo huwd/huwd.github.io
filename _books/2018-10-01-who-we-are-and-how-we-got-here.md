@@ -1,16 +1,16 @@
 ---
 layout: book
 authors:
-- David Reich
+  - David Reich
 year_published: 2018
-date_started: '2018-10-01T00:00:00Z'
+date_started: "2018-10-01T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q54489223
 format:
   aisn: B07DNH1BKS
   narrators:
-  - John Lescault
-  date_released: '2018-06-18T00:00:00Z'
-  date_purchased: '2018-09-18T00:00:00Z'
+    - John Lescault
+  date_released: "2018-06-18T00:00:00Z"
+  date_purchased: "2018-09-18T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 10 hrs and 50 mins
@@ -20,9 +20,8 @@ format:
   year_released: 2018
 title: Who We Are and How We Got Here
 rating: 5
-date_published: '2018-06-18T00:00:00Z'
+date_published: "2018-06-18T00:00:00Z"
 date: 2021-04-28
-# date finished
 date_finished: 2020-12-28T00:00:00Z
 categories: review book
 version: 1.0.0
@@ -104,8 +103,8 @@ At the end of his book review "Ghosts in the Genome" [John Hawks][5] acknowledge
 
 One of the most thought provoking books I read in 2020, I look forward to seeing where this all takes us, what discoveries we make and how the rest of us respond.
 
-[1]:  https://en.wikipedia.org/wiki/Who_We_Are_and_How_We_Got_Here#Reception
+[1]: https://en.wikipedia.org/wiki/Who_We_Are_and_How_We_Got_Here#Reception
 [3]: https://www.buzzfeednews.com/article/bfopinion/race-genetics-david-reich
 [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7087058/
-[5]:  https://www.wsj.com/articles/who-we-are-and-how-we-got-here-review-ghosts-in-the-genome-1523399111
-[6]:  https://blogs.sciencemag.org/books/2018/04/17/who-we-are-and-how-we-got-here/
+[5]: https://www.wsj.com/articles/who-we-are-and-how-we-got-here-review-ghosts-in-the-genome-1523399111
+[6]: https://blogs.sciencemag.org/books/2018/04/17/who-we-are-and-how-we-got-here/

@@ -1,16 +1,16 @@
 ---
 layout: book
 authors:
-- James Clear
+  - James Clear
 year_published: 2018
-date_started: '2020-12-20T00:00:00Z'
+date_started: "2020-12-20T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q98178602
 format:
   aisn: B07J1XQSNK
   narrators:
-  - James Clear
-  date_released: '2018-10-18T00:00:00Z'
-  date_purchased: '2020-12-20T00:00:00Z'
+    - James Clear
+  date_released: "2018-10-18T00:00:00Z"
+  date_purchased: "2020-12-20T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 5 hrs and 35 mins
@@ -20,9 +20,8 @@ format:
   year_released: 2018
 title: Atomic Habits
 rating: 3
-date_published: '2018-06-18T00:00:00Z'
+date_published: "2018-06-18T00:00:00Z"
 date: 2021-07-01
-# date finished
 date_finished: 2020-12-22T00:00:00Z
 categories: review book
 version: 1.0.0

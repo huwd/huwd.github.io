@@ -1,16 +1,16 @@
 ---
 layout: book
 authors:
-- Kazuo Ishiguro
-year_published: '1989'
-date_started: '2020-07-04T00:00:00Z'
+  - Kazuo Ishiguro
+year_published: "1989"
+date_started: "2020-07-04T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q829934
 format:
   aisn: B008PTT3N8
   narrators:
-  - Dominic West
-  date_released: '2012-09-06T00:00:00Z'
-  date_purchased: '2020-06-30T00:00:00Z'
+    - Dominic West
+  date_released: "2012-09-06T00:00:00Z"
+  date_purchased: "2020-06-30T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 7 hours and 5 minutes
@@ -20,9 +20,8 @@ format:
   year_released: 2012
 title: The Remains of the Day
 rating: 4
-date_published: '1989-05-01'
+date_published: "1989-05-01"
 date: 2020-11-14
-# date finished
 date_finished: 2020-07-05T00:00:00Z
 categories: review book
 version: 1.0.0

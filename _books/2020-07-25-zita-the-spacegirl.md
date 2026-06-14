@@ -1,10 +1,10 @@
 ---
 layout: book
 authors:
-- Ben Hatke
+  - Ben Hatke
 series_entry: Book 1
 year_published: 2011
-date_started: '2020-07-25T00:00:00Z'
+date_started: "2020-07-25T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q117479850
 series: Zita the Spacegirl
 format:
@@ -16,12 +16,11 @@ format:
     name: First Second
   language: English
   pages: 192
-  date_purchased: '2020-06-16T00:00:00Z'
+  date_purchased: "2020-06-16T00:00:00Z"
 title: Zita the Spacegirl
 rating: 5
-date_published: '2011-02-04T00:00:00Z'
+date_published: "2011-02-04T00:00:00Z"
 date: 2020-09-29
-# date finished
 date_finished: 2020-07-25T00:00:00Z
 categories: review book
 version: 1.0.0

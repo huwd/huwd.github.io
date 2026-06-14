@@ -1,18 +1,18 @@
 ---
-date_finished: '2021-12-28T00:00:00Z'
+date_finished: "2021-12-28T00:00:00Z"
 genre: Science Fiction & Fantasy > Fantasy
 authors:
-- Andrzej Sapkowski
+  - Andrzej Sapkowski
 series_entry: Book 2
-date_started: '2021-12-27T00:00:00Z'
+date_started: "2021-12-27T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q2045474
 series: The Witcher Saga
 format:
   aisn:
     membership: B00IT5XSM0
-  release_date: '2014-03-06T00:00:00Z'
+  release_date: "2014-03-06T00:00:00Z"
   narrators:
-  - Peter Kenny
+    - Peter Kenny
   image_url: https://m.media-amazon.com/images/I/51aIkHxVftL._SL500_.jpg
   url: https://www.audible.co.uk/pd/Time-of-Contempt-Audiobook/B00IT5XSM0
   language: English
@@ -24,4 +24,3 @@ format:
 title: Time of Contempt
 rating: 3
 ---
-

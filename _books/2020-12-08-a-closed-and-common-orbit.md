@@ -1,18 +1,18 @@
 ---
 layout: book
 authors:
-- Becky Chambers
+  - Becky Chambers
 series_entry: Book 2
 year_published: 2016
-date_started: '2020-12-08T00:00:00Z'
+date_started: "2020-12-08T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q43625060
 series: Wayfarers
 format:
   aisn: B01HIXNAOY
   narrators:
-  - Patricia Rodriguez
-  date_released: '2016-10-20T00:00:00Z'
-  date_purchased: '2020-11-19T00:00:00Z'
+    - Patricia Rodriguez
+  date_released: "2016-10-20T00:00:00Z"
+  date_purchased: "2020-11-19T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 13 hours and 4 minutes
@@ -22,9 +22,8 @@ format:
   year_released: 2016
 title: A Closed and Common Orbit
 rating: 3
-date_published: '2016-10-20'
+date_published: "2016-10-20"
 date: 2021-07-01
-# date finished
 date_finished: 2020-12-15T00:00:00Z
 categories: review book
 version: 1.0.0

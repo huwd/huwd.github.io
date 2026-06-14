@@ -1,11 +1,11 @@
 ---
-date_finished: '2024-05-31T00:00:00Z'
+date_finished: "2024-05-31T00:00:00Z"
 title: We Are Bellingcat
 subtitle: An Intelligence Agency for the People
 authors:
-- Eliot Higgins
+  - Eliot Higgins
 work_iri: https://www.wikidata.org/wiki/Q111943284
 edition_iri: https://www.wikidata.org/wiki/
-date_started: '2024-05-27T00:00:00Z'
+date_started: "2024-05-27T00:00:00Z"
 rating: 3
 ---

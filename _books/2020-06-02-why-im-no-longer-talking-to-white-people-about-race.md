@@ -1,16 +1,16 @@
 ---
 layout: book
 authors:
-- Reni Eddo-Lodge
+  - Reni Eddo-Lodge
 year_published: 2017
-date_started: '2020-06-02T00:00:00Z'
+date_started: "2020-06-02T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q39050412
 format:
   aisn: B06XGLP7NP
   narrators:
-  - Reni Eddo-Lodge
-  date_released: '2017-06-01T00:00:00Z'
-  date_purchased: '2020-06-02T00:00:00Z'
+    - Reni Eddo-Lodge
+  date_released: "2017-06-01T00:00:00Z"
+  date_purchased: "2020-06-02T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 5 hours and 53 minutes
@@ -20,9 +20,8 @@ format:
   year_released: 2017
 title: Why I'm No Longer Talking to White People About Race
 rating: 5
-date_published: '2017-07-01T00:00:00Z'
+date_published: "2017-07-01T00:00:00Z"
 date: 2021-01-31
-# date finished
 date_finished: 2020-06-30T00:00:00Z
 categories: review book
 version: 1.0.0

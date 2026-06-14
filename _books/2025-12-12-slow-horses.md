@@ -10,7 +10,6 @@ rating: 4
 date: 2025-12-17
 redirect_from:
   - /review/book/2025/12/17/slow-horse/
-# date finished
 date_finished: 2025-12-16T11:55:00.000+00:00
 categories: review book
 version: 1.0.1

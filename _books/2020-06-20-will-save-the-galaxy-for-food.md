@@ -1,18 +1,18 @@
 ---
 layout: book
 authors:
-- Yahtzee Croshaw
+  - Yahtzee Croshaw
 series_entry: Book 1
 year_published: 2017
-date_started: '2020-06-20T00:00:00Z'
+date_started: "2020-06-20T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q29832540
 series: Jacques McKeown
 format:
   aisn: B06WLGX93W
   narrators:
-  - Yahtzee Croshaw
-  date_released: '2017-02-14T00:00:00Z'
-  date_purchased: '2020-06-20T00:00:00Z'
+    - Yahtzee Croshaw
+  date_released: "2017-02-14T00:00:00Z"
+  date_purchased: "2020-06-20T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 10 hours and 20 minutes
@@ -22,9 +22,8 @@ format:
   year_released: 2017
 title: Will Save the Galaxy for Food
 rating: 3
-date_published: '2017-02-23T00:00:00Z'
+date_published: "2017-02-23T00:00:00Z"
 date: 2020-12-08
-# date finished
 date_finished: 2020-07-25T00:00:00Z
 categories: review book
 version: 1.0.0

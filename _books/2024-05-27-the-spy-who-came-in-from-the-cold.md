@@ -1,10 +1,10 @@
 ---
-date_finished: '2024-05-27T00:00:00Z'
+date_finished: "2024-05-27T00:00:00Z"
 title: The Spy Who Came in from the Cold
 authors:
-- John le Carré
+  - John le Carré
 work_iri: https://www.wikidata.org/wiki/Q468071
 edition_iri: https://www.wikidata.org/wiki/
-date_started: '2024-05-27T00:00:00Z'
+date_started: "2024-05-27T00:00:00Z"
 rating: 4
 ---

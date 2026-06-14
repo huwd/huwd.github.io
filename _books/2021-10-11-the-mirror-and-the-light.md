@@ -1,19 +1,19 @@
 ---
-date_finished: '2021-10-31T00:00:00Z'
+date_finished: "2021-10-31T00:00:00Z"
 genre: Literature & Fiction > Genre Fiction
 authors:
-- Hilary Mantel
+  - Hilary Mantel
 series_entry: Book 3
-date_started: '2021-10-11T00:00:00Z'
+date_started: "2021-10-11T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q7751674
 series: The Wolf Hall Trilogy
 format:
   aisn:
-    membership: '1528880005'
+    membership: "1528880005"
   narrators:
-  - Ben Miles
-  date_released: '2020-03-05T00:00:00Z'
-  date_purchased: '2021-09-13T00:00:00Z'
+    - Ben Miles
+  date_released: "2020-03-05T00:00:00Z"
+  date_purchased: "2021-09-13T00:00:00Z"
   version: Unabridged
   runtime: 38 hours and 11 minutes
   type: Audiobook

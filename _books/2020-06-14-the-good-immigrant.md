@@ -1,22 +1,6 @@
 ---
 layout: book
 authors:
-- Nikesh Shukla
-- Varaidzo
-- Chimene Suleyman
-- Vera Chok
-- Daniel York Loh
-- Himesh Patel
-- Nish Kumar
-- Reni Eddo-Lodge
-- Wei Ming Kam
-- Darren Chetty
-year_published: 2016
-date_started: '2020-06-14T00:00:00Z'
-work_iri: https://www.wikidata.org/wiki/Q96075523
-format:
-  aisn: B071CQ77S3
-  narrators:
   - Nikesh Shukla
   - Varaidzo
   - Chimene Suleyman
@@ -27,8 +11,24 @@ format:
   - Reni Eddo-Lodge
   - Wei Ming Kam
   - Darren Chetty
-  date_released: '2017-05-04T00:00:00Z'
-  date_purchased: '2020-06-14T00:00:00Z'
+year_published: 2016
+date_started: "2020-06-14T00:00:00Z"
+work_iri: https://www.wikidata.org/wiki/Q96075523
+format:
+  aisn: B071CQ77S3
+  narrators:
+    - Nikesh Shukla
+    - Varaidzo
+    - Chimene Suleyman
+    - Vera Chok
+    - Daniel York Loh
+    - Himesh Patel
+    - Nish Kumar
+    - Reni Eddo-Lodge
+    - Wei Ming Kam
+    - Darren Chetty
+  date_released: "2017-05-04T00:00:00Z"
+  date_purchased: "2020-06-14T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 7 hours
@@ -38,9 +38,8 @@ format:
   year_released: 2017
 title: The Good Immigrant
 rating: 5
-date_published: '2016-09-22T00:00:00Z'
+date_published: "2016-09-22T00:00:00Z"
 date: 2020-12-21
-# date finished
 date_finished: 2020-08-17T00:00:00Z
 categories: review book
 version: 1.0.0

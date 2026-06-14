@@ -8,7 +8,6 @@ edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-10-29T22:10:00.000Z
 rating: 5
 date: 2025-10-30
-# date finished
 date_finished: 2025-10-30 22:58:00 +0000
 categories: review book
 version: 1.0.1
@@ -20,6 +19,7 @@ There isn’t much in these stories I recognise from my own life at this age.
 Yet the story leaves me with a strong sense of nostalgia.
 
 Late in the book, a character says:
+
 > “It’s funny the decisions you make because you like someone, he says, and then your whole life is different. **I think we’re at that weird age where life can change a lot from small decisions.**”
 
 I have been at an age when my life changed a lot from small decisions.

@@ -8,7 +8,6 @@ edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2025-10-25T02:01:00.000Z
 rating: 4
 date: 2025-10-30
-# date finished
 date_finished: 2025-10-25T13:44:00.000Z
 categories: review book
 version: 1.0.1
@@ -31,6 +30,7 @@ Just to a kind of grumpy sniff at those who reach for the real.
 Herzog returns to tell us that in an age of ever-easier fabrication, a reach back to Vérité brings no truth.
 Only 'accountant's truth'; he seeks an 'ecstatic truth'.
 In his 1999 manifesto, he described this as:
+
 > “There are deeper strata of truth in cinema, and there is such a thing as poetic, ecstatic truth. It is mysterious and elusive, and can be reached only through fabrication and imagination and stylization.”
 
 He wants something that goes beyond a mere retelling of events into something that resonates more deeply.

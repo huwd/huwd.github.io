@@ -1,17 +1,17 @@
 ---
-date_finished: '2025-03-23T11:30:00.000Z'
+date_finished: "2025-03-23T11:30:00.000Z"
 authors:
-- Shoshana Zuboff
-date_started: '2025-03-16T00:00:00.000Z'
+  - Shoshana Zuboff
+date_started: "2025-03-16T00:00:00.000Z"
 work_iri: https://www.wikidata.org/wiki/Q75804726
 format:
   aisn:
-    product: '1478947276'
+    product: "1478947276"
     membership: B07BVZK3XQ
   narrators:
-  - Nicol Zanzarella
-  date_released: '2019-01-28T00:00:00Z'
-  date_purchased: '2019-10-29T00:00:00Z'
+    - Nicol Zanzarella
+  date_released: "2019-01-28T00:00:00Z"
+  date_purchased: "2019-10-29T00:00:00Z"
   version: Unabridged
   runtime: 24 hours and 16 minutes
   type: Audiobook

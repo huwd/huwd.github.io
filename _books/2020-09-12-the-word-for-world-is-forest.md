@@ -1,11 +1,11 @@
 ---
 layout: book
 authors:
-- Ursula K. Le Guin
+  - Ursula K. Le Guin
 series_entry: Book 3
 year_published: 2015
 year_originally_published: 1972
-date_started: '2020-09-12T00:00:00Z'
+date_started: "2020-09-12T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q2447776
 series: Hanish Cycle
 format:
@@ -19,7 +19,6 @@ format:
 title: The Word for World is Forest
 rating: 4
 date: 2020-09-15
-# date finished
 date_finished: 2020-09-15 12:35:00 +0100
 categories: review book
 version: 1.0.0

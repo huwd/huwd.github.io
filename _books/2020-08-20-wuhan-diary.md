@@ -1,18 +1,18 @@
 ---
 layout: book
 authors:
-- Fang Fang
-- Michael Berry (translator)
-full_title: 'Wuhan Diary: Dispatches from the Original Epicenter'
+  - Fang Fang
+  - Michael Berry (translator)
+full_title: "Wuhan Diary: Dispatches from the Original Epicenter"
 year_published: 2020
-date_started: '2020-08-20T00:00:00Z'
+date_started: "2020-08-20T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q91452788
 format:
   aisn: B087RQ8LYP
   narrators:
-  - Emily Woo Zeller
-  date_released: '2020-05-26T00:00:00Z'
-  date_purchased: '2020-08-18T00:00:00Z'
+    - Emily Woo Zeller
+  date_released: "2020-05-26T00:00:00Z"
+  date_purchased: "2020-08-18T00:00:00Z"
   version: Unabridged
   language: English
   runtime: 14 hours and 7 minutes
@@ -22,9 +22,8 @@ format:
   year_released: 2020
 title: Wuhan Diary
 rating: 4
-date_published: '2020-05-26T00:00:00Z'
+date_published: "2020-05-26T00:00:00Z"
 date: 2020-10-18
-# date finished
 date_finished: 2020-08-29T00:00:00Z
 categories: review book
 version: 1.0.0

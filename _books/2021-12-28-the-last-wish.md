@@ -1,18 +1,18 @@
 ---
-date_finished: '2022-01-03T00:00:00Z'
+date_finished: "2022-01-03T00:00:00Z"
 genre: Science Fiction & Fantasy > Fantasy
 authors:
-- Andrzej Sapkowski
-date_started: '2021-12-28T00:00:00Z'
+  - Andrzej Sapkowski
+date_started: "2021-12-28T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q2414756
 edition_iri: https://www.wikidata.org/wiki/
 series: The Witcher Saga
 format:
   aisn:
     membership: B00HWCA2VG
-  release_date: '2014-02-27T00:00:00Z'
+  release_date: "2014-02-27T00:00:00Z"
   narrators:
-  - Peter Kenny
+    - Peter Kenny
   image_url: https://m.media-amazon.com/images/I/61M1PUyk+ML._SL500_.jpg
   url: https://www.audible.co.uk/pd/The-Last-Wish-Audiobook/B00HWCA2VG
   language: English
