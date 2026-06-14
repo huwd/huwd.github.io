@@ -3,7 +3,7 @@ layout: book
 title: Designing Freedom
 authors:
   - Stafford Beer
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q124832831
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-04-08T22:24:00.000+01:00
 rating: 5
