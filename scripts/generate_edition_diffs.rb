@@ -26,7 +26,7 @@ class EditionDiffGenerator
     "Q1279564"  => "anthology",
   }.freeze
 
-  def run(title_filter = nil)
+  def run(title_filter = nil, skip_existing: false)
     books          = load_stored_books
     narrator_cache = load_cache('_data/narrator_qids.json')
     hardcover_ids  = load_cache(HARDCOVER_IDS_PATH)
@@ -45,13 +45,19 @@ class EditionDiffGenerator
     matcher = EditionMatcher.new
     sparql  = WikidataSparql.new
 
-    results = { create: [], link: [], review: [], no_op: [] }
+    results = { create: [], link: [], frontmatter_only: [], review: [], no_op: [] }
 
     targets.each_with_index do |(file, fm), idx|
       title    = fm['title'].to_s
       authors  = Array(fm['authors'])
       work_qid = fm['work_iri'].to_s.split('/').last
       slug     = File.basename(file, '.md')
+
+      if skip_existing && File.exist?(File.join(OUTPUT_DIR, "#{slug}.json"))
+        print "  [#{idx + 1}/#{targets.size}] #{title} ... "
+        puts "skip (diff exists)"
+        next
+      end
 
       print "  [#{idx + 1}/#{targets.size}] #{title} ... "
 
@@ -78,7 +84,7 @@ class EditionDiffGenerator
       abs_record = abs.find(main_title(title), authors: authors)
       hc_record  = hc.find(main_title(title),  authors: authors)
 
-      # Capture Hardcover IDs as a side-effect (for future fast querying)
+      # Capture Hardcover IDs immediately (not just at end-of-run)
       if hc_record
         hardcover_ids[slug] = {
           'work_id'      => hc_record.work.hardcover_id,
@@ -86,6 +92,7 @@ class EditionDiffGenerator
           'edition_id'   => hc_record.edition_id,
           'user_book_id' => hc_record.user_book_id,
         }.compact
+        save_hardcover_ids({ slug => hardcover_ids[slug] })
       end
 
       # Determine edition type
@@ -99,10 +106,25 @@ class EditionDiffGenerator
       # Search Wikidata for an existing edition
       edition_match = matcher.find(asin: asin, isbn13: isbn13, work_qid: work_qid)
 
-      if edition_match
-        puts "link (#{edition_match.match_method})"
-        write_diff(slug, link_diff(file, fm, work_qid, edition_match))
-        results[:link] << title
+      # Only link an existing edition if the format matches what was consumed.
+      # A p629_link print edition must not override confirmed audiobook detection —
+      # it would write the wrong edition_iri. The print P747 link is handled separately.
+      right_type_match = edition_match &&
+        (!is_audiobook || edition_match.p31 == AUDIOBOOK_QID)
+
+      if right_type_match
+        p747_exists = sparql.query("SELECT * WHERE { wd:#{work_qid} wdt:P747 wd:#{edition_match.qid} }").any?
+        sleep(0.3)
+
+        if p747_exists
+          puts "frontmatter_only (#{edition_match.match_method})"
+          write_diff(slug, frontmatter_only_diff(file, fm, work_qid, edition_match))
+          results[:frontmatter_only] << title
+        else
+          puts "link (#{edition_match.match_method})"
+          write_diff(slug, link_diff(file, fm, work_qid, edition_match))
+          results[:link] << title
+        end
       elsif is_audiobook
         puts "create_edition [audiobook]"
         write_diff(slug, create_audiobook_diff(file, fm, work_qid, abs_record, hc_record, narrator_cache))
@@ -118,7 +140,6 @@ class EditionDiffGenerator
       end
     end
 
-    save_hardcover_ids(hardcover_ids)
     print_summary(results)
   end
 
@@ -247,6 +268,28 @@ class EditionDiffGenerator
     }
   end
 
+  def frontmatter_only_diff(file, fm, work_qid, match)
+    {
+      'book_file'           => file,
+      'book_title'          => fm['title'].to_s,
+      'book_authors'        => Array(fm['authors']),
+      'work_iri'            => fm['work_iri'],
+      'work_qid'            => work_qid,
+      'action'              => 'frontmatter_only',
+      'edition_type'        => p31_to_type(match.p31),
+      'wikidata_state'      => 'complete',
+      'item_id'             => match.qid,
+      'item_url'            => match.url,
+      'match_method'        => match.match_method.to_s,
+      'proposed_statements' => [],
+      'unfillable'          => [],
+      'prerequisites'       => [],
+      'confidence'          => 'high',
+      'review_flags'        => [],
+      'sources_used'        => [],
+    }
+  end
+
   def link_diff(file, fm, work_qid, match)
     {
       'book_file'           => file,
@@ -372,8 +415,14 @@ class EditionDiffGenerator
     puts "EDITION DIFF SUMMARY"
     puts "#{'=' * 70}\n"
 
+    unless results[:frontmatter_only].empty?
+      puts "\nWikidata complete — write frontmatter only (#{results[:frontmatter_only].size})"
+      puts sep
+      results[:frontmatter_only].each { |t| puts "  ✓ #{t}" }
+    end
+
     unless results[:link].empty?
-      puts "\nFound on Wikidata — link only (#{results[:link].size})"
+      puts "\nFound on Wikidata — needs P747 + frontmatter (#{results[:link].size})"
       puts sep
       results[:link].each { |t| puts "  ✓ #{t}" }
     end
@@ -396,5 +445,6 @@ class EditionDiffGenerator
 end
 
 # ── Entry point ───────────────────────────────────────────────────────────────
-filter = ARGV.first
-EditionDiffGenerator.new.run(filter)
+skip    = ARGV.delete("--skip-existing")
+filter  = ARGV.first
+EditionDiffGenerator.new.run(filter, skip_existing: !!skip)
