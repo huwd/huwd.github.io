@@ -1,0 +1,32 @@
+{
+  "book_file": "_books/2026-04-30-china-the-bubble-that-never-pops.md",
+  "book_title": "China - The bubble that never pops",
+  "book_authors": [
+    "Thomas Orlik"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Thomas Orlik",
+      "qid": null,
+      "status": "needs_creation"
+    }
+  ],
+  "confidence": "medium",
+  "review_flags": [
+    "3 candidates: Q29520 (China), Q20898938 (China), Q37229573 (China)",
+    "Author 'Thomas Orlik' not found in Wikidata — node must be created first"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs",
+    "hardcover"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "book_file": "_books/2026-02-27-vibe-coding.md",
+  "book_title": "Vibe Coding",
+  "book_authors": [
+    "Steve Yegge",
+    "Gene Kim"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Steve Yegge",
+      "qid": null,
+      "status": "needs_creation"
+    },
+    {
+      "type": "author_node",
+      "name": "Gene Kim",
+      "qid": "Q5531290",
+      "status": "found"
+    }
+  ],
+  "confidence": "medium",
+  "review_flags": [
+    "3 candidates: Q133150082 (vibe coding), Q134595374 (vibe coding), Q138975275 (Vibe Coding Aesthetic)",
+    "Author 'Steve Yegge' not found in Wikidata — node must be created first"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs",
+    "hardcover"
+  ]
+}

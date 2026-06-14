@@ -20,6 +20,11 @@ module Helpers
     JSON.parse(File.read('_data/wikidata_works_to_improve.json'))
   end
 
+  # Strip subtitle (anything after " : ", " — ", " – ", " - ") for shorter search queries.
+  def main_title(title)
+    title.to_s.split(/\s*[:\-–—]\s*/).first.strip
+  end
+
   # Treat only Q followed by digits as complete, e.g. https://www.wikidata.org/wiki/Q55360383
   def complete_wikidata_iri?(iri)
     iri.is_a?(String) && iri.strip.match?(%r{\Ahttps?://(?:www\.)?wikidata\.org/(?:wiki|entity)/Q\d+\z}i)

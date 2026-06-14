@@ -177,11 +177,6 @@ class WikidataMatcher
     intersection.to_f / union
   end
 
-  # Strip subtitle (anything after " : " or " - ") for a shorter search query.
-  def main_title(title)
-    title.split(/\s*[:\-–—]\s*/).first.strip
-  end
-
   def load_author_cache(path)
     return {} unless File.exist?(path)
     JSON.parse(File.read(path))
