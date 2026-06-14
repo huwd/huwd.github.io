@@ -16,3 +16,4 @@ _drafts/
 !.claude/agents/fact-checker.md
 !.claude/agents/amender.md
 .tmp/
+scripts/support/wikidata_sync.rb
