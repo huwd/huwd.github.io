@@ -4,7 +4,7 @@ title: Vibe Coding
 authors:
   - Steve Yegge
   - Gene Kim
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q140205870
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-02-27T13:11:00.000+00:00
 rating: 2
