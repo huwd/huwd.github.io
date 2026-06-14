@@ -3,7 +3,7 @@ layout: book
 title: "Disorder: Hard Times in the 21st Century"
 authors:
   - Helen Thompson
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q140206032
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-05-07T19:25:17.856+01:00
 rating: 4

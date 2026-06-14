@@ -28,7 +28,9 @@ class WikidataWriter
     qid = r.parsed_content['id']
     FrontmatterUpdater.new(dry_run: false).update_work_iri(data['book_file'], qid)
     FileUtils.rm(accepted_path(slug))
+    url = "https://www.wikidata.org/wiki/#{qid}"
     puts "✓ Created #{qid} — work_iri written to #{data['book_file']}"
+    puts "  #{url}"
     qid
   end
 
@@ -54,6 +56,7 @@ class WikidataWriter
 
     FileUtils.rm(accepted_path(slug))
     puts "✓ Patched #{item_id}"
+    puts "  https://www.wikidata.org/wiki/#{item_id}"
   end
 
   private
