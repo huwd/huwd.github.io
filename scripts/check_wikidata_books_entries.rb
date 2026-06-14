@@ -3,7 +3,7 @@ require 'httparty'
 require 'yaml'
 require 'pry'
 require_relative './support/helpers'
-require_relative './data_model'
+require_relative './support/data_model'
 
 class Skippable
   def works
