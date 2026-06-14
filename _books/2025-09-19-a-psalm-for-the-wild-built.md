@@ -1,6 +1,6 @@
 ---
 date_finished: 2025-09-19T14:56:00.000Z
-title: A Psalm for the Wild Built
+title: A Psalm for the Wild-Built
 series: Monk and Robot
 series_entry: "1"
 authors:

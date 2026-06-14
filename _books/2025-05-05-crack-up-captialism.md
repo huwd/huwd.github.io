@@ -1,6 +1,6 @@
 ---
 date_finished: 2025-05-15T21:03:00.000Z
-title: Crack up captialism
+title: Crack-Up Capitalism
 authors:
   - Quinn Slobodian
 work_iri: https://www.wikidata.org/wiki/Q132180553
