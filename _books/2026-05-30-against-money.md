@@ -4,7 +4,7 @@ title: "Against Money"
 authors:
   - J. W. Mason
   - Arjun Jayadev
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q140196082
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-05-25T14:54:57.000+01:00
 rating: 5

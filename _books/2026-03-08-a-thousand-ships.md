@@ -4,7 +4,7 @@ title: A Thousand Ships
 series_entry: ""
 authors:
   - Natalie Haynes
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q107174399
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-03-08T23:33:00.000+00:00
 rating: 3
