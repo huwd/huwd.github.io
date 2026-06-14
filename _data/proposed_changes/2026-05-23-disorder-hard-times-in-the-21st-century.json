@@ -1,0 +1,32 @@
+{
+  "book_file": "_books/2026-05-23-disorder-hard-times-in-the-21st-century.md",
+  "book_title": "Disorder: Hard Times in the 21st Century",
+  "book_authors": [
+    "Helen Thompson"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Helen Thompson",
+      "qid": null,
+      "status": "needs_creation"
+    }
+  ],
+  "confidence": "medium",
+  "review_flags": [
+    "2 candidates: Q3710155 (Disorder), Q5808496 (Disorder)",
+    "Author 'Helen Thompson' not found in Wikidata — node must be created first"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs",
+    "hardcover"
+  ]
+}

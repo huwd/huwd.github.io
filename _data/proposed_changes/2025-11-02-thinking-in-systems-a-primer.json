@@ -1,0 +1,40 @@
+{
+  "book_file": "_books/2025-11-02-thinking-in-systems-a-primer.md",
+  "book_title": "Thinking in Systems: A Primer",
+  "book_authors": [
+    "Donella H. Meadows",
+    "Dana Wright"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Donella H. Meadows",
+      "qid": null,
+      "status": "needs_creation"
+    },
+    {
+      "type": "author_node",
+      "name": "Dana Wright",
+      "qid": null,
+      "status": "needs_creation"
+    }
+  ],
+  "confidence": "medium",
+  "review_flags": [
+    "4 candidates: Q139924016 (Thinking in Systems), Q111945826 (Thinking In Systems: A Primer), Q113496690 (Thinking in Systems: A Primer), Q139924021 (Thinking in systems: a primer)",
+    "Author 'Donella H. Meadows' not found in Wikidata — node must be created first",
+    "Author 'Dana Wright' not found in Wikidata — node must be created first"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs",
+    "hardcover"
+  ]
+}
