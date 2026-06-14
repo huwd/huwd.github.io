@@ -2,6 +2,7 @@ require 'json'
 require 'fileutils'
 require_relative 'helpers'
 require_relative 'frontmatter_updater'
+require_relative 'wikidata_sparql'
 
 class WikidataWriter
   include Helpers
@@ -92,6 +93,17 @@ class WikidataWriter
     edition_qid
   end
 
+  def frontmatter_only!(slug)
+    data = load_accepted(slug, ACCEPTED_EDITION_DIR)
+    raise "Expected frontmatter_only, got #{data['action']}" unless data['action'] == 'frontmatter_only'
+
+    edition_qid = data.fetch('edition_qid')
+    FrontmatterUpdater.new(dry_run: false).update_edition_iri(data['book_file'], edition_qid)
+    FileUtils.rm(accepted_path(slug, ACCEPTED_EDITION_DIR))
+    puts "✓ Written edition_iri #{edition_qid} → #{data['book_file']}"
+    puts "  #{WIKIDATA_BASE}#{edition_qid}"
+  end
+
   def link_edition!(slug)
     data = load_accepted(slug, ACCEPTED_EDITION_DIR)
     raise "Expected link_edition, got #{data['action']}" unless data['action'] == 'link_edition'
@@ -109,6 +121,12 @@ class WikidataWriter
   private
 
   def add_p747_to_work(work_qid, edition_qid, summary)
+    existing = sparql.query("SELECT * WHERE { wd:#{work_qid} wdt:P747 wd:#{edition_qid} }")
+    if existing.any?
+      puts "  = P747 → #{edition_qid} already set on #{work_qid}, skipping"
+      return
+    end
+
     payload = {
       statement: {
         property: { id: 'P747' },
@@ -163,5 +181,9 @@ class WikidataWriter
 
   def api
     @api ||= wikidata_rest_client
+  end
+
+  def sparql
+    @sparql ||= WikidataSparql.new
   end
 end
