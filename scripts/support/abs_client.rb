@@ -7,13 +7,14 @@ ABSRecord = Struct.new(
   :abs_id,
   :title,
   :subtitle,
-  :authors,         # Array<String>
-  :narrators,       # Array<String>
+  :authors,           # Array<String>
+  :narrators,         # Array<String>
   :publisher,
-  :published_date,  # Date or nil (note: ABS field is named publishedYear but contains full ISO date)
+  :published_date,    # Date or nil (note: ABS field is named publishedYear but contains full ISO date)
   :asin,
-  :genres,          # Array<String> — colon-delimited category paths from Audible
-  :series,          # Array<String>
+  :duration_seconds,  # Integer or nil — media.duration from ABS
+  :genres,            # Array<String> — colon-delimited category paths from Audible
+  :series,            # Array<String>
   keyword_init: true
 )
 
@@ -63,16 +64,17 @@ class ABSClient
   def parse_item(item)
     meta = item.dig("libraryItem", "media", "metadata")
     ABSRecord.new(
-      abs_id:         item.dig("libraryItem", "id"),
-      title:          meta["title"],
-      subtitle:       meta["subtitle"],
-      authors:        Array(meta["authors"]).map { |a| a["name"] },
-      narrators:      Array(meta["narrators"]),
-      publisher:      meta["publisher"],
-      published_date: parse_date(meta["publishedYear"]),
-      asin:           meta["asin"],
-      genres:         Array(meta["genres"]),
-      series:         Array(meta["series"]).filter_map { |s| s["name"] }
+      abs_id:           item.dig("libraryItem", "id"),
+      title:            meta["title"],
+      subtitle:         meta["subtitle"],
+      authors:          Array(meta["authors"]).map { |a| a["name"] },
+      narrators:        Array(meta["narrators"]),
+      publisher:        meta["publisher"],
+      published_date:   parse_date(meta["publishedYear"]),
+      asin:             meta["asin"],
+      duration_seconds: item.dig("libraryItem", "media", "duration")&.to_i,
+      genres:           Array(meta["genres"]),
+      series:           Array(meta["series"]).filter_map { |s| s["name"] }
     )
   end
 

@@ -1,3 +1,17 @@
+# Pipeline coverage notes (items marked † require a future pass):
+#
+# P123 (publisher) — required for editions; needs publisher QID resolution.
+#   A separate publisher_qids.json cache and minimum-viable publisher node spec
+#   (P31=Q2085381, P1476, P571) is required before P123 can be written.
+#   The publisher name is captured in edition diffs as an unfillable note.
+#
+# P291 (place of publication) — required for print editions; not available from
+#   Hardcover. Captured in edition diffs as an unfillable note; add manually
+#   from ISBN/publisher data if known.
+#
+# Hardcover IDs — not a Wikidata property yet; cached locally in
+#   _data/hardcover_ids.json for future fast querying.
+
 class DataModel
   def work_types
     {

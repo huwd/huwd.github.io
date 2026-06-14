@@ -12,13 +12,25 @@ class FrontmatterUpdater
   # Write a work_iri back to the book's frontmatter.
   # Returns :updated, :already_set, or :no_match.
   def update_work_iri(file, qid)
+    update_iri(file, 'work_iri', qid)
+  end
+
+  # Write an edition_iri back to the book's frontmatter.
+  # Returns :updated, :already_set, or :no_match.
+  def update_edition_iri(file, qid)
+    update_iri(file, 'edition_iri', qid)
+  end
+
+  private
+
+  def update_iri(file, field, qid)
     content = File.read(file)
     new_iri  = "#{WIKIDATA_BASE}#{qid}"
 
-    return :already_set if content.match?(/^work_iri:\s*#{Regexp.escape(new_iri)}\s*$/)
+    return :already_set if content.match?(/^#{field}:\s*#{Regexp.escape(new_iri)}\s*$/)
 
     updated = content.sub(
-      /^(work_iri:\s*).*$/,
+      /^(#{field}:\s*).*$/,
       "\\1#{new_iri}"
     )
 

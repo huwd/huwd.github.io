@@ -6,11 +6,15 @@ require_relative 'frontmatter_updater'
 class WikidataWriter
   include Helpers
 
-  ACCEPTED_DIR = "_data/accepted_changes"
-  CALENDAR_MODEL = "http://www.wikidata.org/entity/Q1985727"
+  ACCEPTED_DIR         = "_data/accepted_changes"
+  ACCEPTED_EDITION_DIR = "_data/accepted_edition_changes"
+  CALENDAR_MODEL       = "http://www.wikidata.org/entity/Q1985727"
+  WIKIDATA_BASE        = "https://www.wikidata.org/wiki/"
+
+  # ── Works ──────────────────────────────────────────────────────────────────
 
   def create!(slug)
-    data = load_accepted(slug)
+    data = load_accepted(slug, ACCEPTED_DIR)
     raise "Expected create_work, got #{data['action']}" unless data['action'] == 'create_work'
 
     payload = {
@@ -27,15 +31,14 @@ class WikidataWriter
 
     qid = r.parsed_content['id']
     FrontmatterUpdater.new(dry_run: false).update_work_iri(data['book_file'], qid)
-    FileUtils.rm(accepted_path(slug))
-    url = "https://www.wikidata.org/wiki/#{qid}"
+    FileUtils.rm(accepted_path(slug, ACCEPTED_DIR))
     puts "✓ Created #{qid} — work_iri written to #{data['book_file']}"
-    puts "  #{url}"
+    puts "  #{WIKIDATA_BASE}#{qid}"
     qid
   end
 
   def update!(slug)
-    data = load_accepted(slug)
+    data = load_accepted(slug, ACCEPTED_DIR)
     raise "Expected patch_work, got #{data['action']}" unless data['action'] == 'patch_work'
 
     item_id = data.fetch('item_id')
@@ -54,21 +57,78 @@ class WikidataWriter
       puts "  + #{stmt['property']} added to #{item_id}"
     end
 
-    FileUtils.rm(accepted_path(slug))
+    FileUtils.rm(accepted_path(slug, ACCEPTED_DIR))
     puts "✓ Patched #{item_id}"
-    puts "  https://www.wikidata.org/wiki/#{item_id}"
+    puts "  #{WIKIDATA_BASE}#{item_id}"
+  end
+
+  # ── Editions ───────────────────────────────────────────────────────────────
+
+  def create_edition!(slug)
+    data = load_accepted(slug, ACCEPTED_EDITION_DIR)
+    raise "Expected create_edition, got #{data['action']}" unless data['action'] == 'create_edition'
+
+    payload = {
+      item: {
+        labels:       { en: data.fetch('label_en') },
+        descriptions: { en: data.fetch('description_en') },
+        statements:   build_statements(data.fetch('statements'))
+      },
+      comment: data.fetch('edit_summary')
+    }
+
+    r = api.post_item(payload)
+    raise "Wikidata API error #{r.code}: #{r.body}" unless r.code.to_i == 201
+
+    edition_qid = r.parsed_content['id']
+    updater = FrontmatterUpdater.new(dry_run: false)
+    updater.update_edition_iri(data['book_file'], edition_qid)
+
+    add_p747_to_work(data.fetch('work_qid'), edition_qid, data.fetch('edit_summary'))
+
+    FileUtils.rm(accepted_path(slug, ACCEPTED_EDITION_DIR))
+    puts "✓ Created edition #{edition_qid} — edition_iri written to #{data['book_file']}"
+    puts "  #{WIKIDATA_BASE}#{edition_qid}"
+    edition_qid
+  end
+
+  def link_edition!(slug)
+    data = load_accepted(slug, ACCEPTED_EDITION_DIR)
+    raise "Expected link_edition, got #{data['action']}" unless data['action'] == 'link_edition'
+
+    edition_qid = data.fetch('edition_qid')
+    FrontmatterUpdater.new(dry_run: false).update_edition_iri(data['book_file'], edition_qid)
+
+    add_p747_to_work(data.fetch('work_qid'), edition_qid, data.fetch('edit_summary'))
+
+    FileUtils.rm(accepted_path(slug, ACCEPTED_EDITION_DIR))
+    puts "✓ Linked edition #{edition_qid} — edition_iri written to #{data['book_file']}"
+    puts "  #{WIKIDATA_BASE}#{edition_qid}"
   end
 
   private
 
-  def load_accepted(slug)
-    path = accepted_path(slug)
+  def add_p747_to_work(work_qid, edition_qid, summary)
+    payload = {
+      statement: {
+        property: { id: 'P747' },
+        value:    { type: 'value', content: edition_qid }
+      },
+      comment: summary
+    }
+    r = api.post_item_statement(work_qid, payload)
+    raise "Failed to add P747 to #{work_qid}: #{r.code} #{r.body}" unless r.code.to_i == 201
+    puts "  + P747 → #{edition_qid} added to #{work_qid}"
+  end
+
+  def load_accepted(slug, dir)
+    path = accepted_path(slug, dir)
     raise "No accepted change for '#{slug}' — expected #{path}" unless File.exist?(path)
     JSON.parse(File.read(path))
   end
 
-  def accepted_path(slug)
-    File.join(ACCEPTED_DIR, "#{slug}.json")
+  def accepted_path(slug, dir)
+    File.join(dir, "#{slug}.json")
   end
 
   def build_statements(stmts)
@@ -81,7 +141,7 @@ class WikidataWriter
 
   def build_value_content(stmt)
     case stmt['value_type']
-    when 'qid'
+    when 'qid', 'string'
       stmt['value']
     when 'monolingual_text'
       stmt['value']
@@ -90,6 +150,11 @@ class WikidataWriter
         time:          stmt['value'],
         precision:     stmt.fetch('precision'),
         calendarmodel: CALENDAR_MODEL
+      }
+    when 'quantity'
+      {
+        amount: "+#{stmt['value']}",
+        unit:   "http://www.wikidata.org/entity/#{stmt.fetch('unit')}"
       }
     else
       raise "Unknown value_type '#{stmt['value_type']}' in statement #{stmt.inspect}"
