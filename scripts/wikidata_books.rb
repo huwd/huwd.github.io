@@ -5,4 +5,8 @@ module WikidataBooks
   def self.works
     WikidataWriter.new
   end
+
+  def self.editions
+    WikidataWriter.new
+  end
 end

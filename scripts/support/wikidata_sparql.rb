@@ -34,6 +34,57 @@ class WikidataSparql
     SPARQL
   end
 
+  # Find edition items by ASIN (P5749). Returns raw bindings.
+  def edition_by_asin(asin)
+    query(<<~SPARQL)
+      SELECT ?item ?p31 ?p629 WHERE {
+        ?item wdt:P5749 "#{asin}" .
+        OPTIONAL { ?item wdt:P31 ?p31 }
+        OPTIONAL { ?item wdt:P629 ?p629 }
+      } LIMIT 5
+    SPARQL
+  end
+
+  # Find edition items by ISBN-13 (P212). Returns raw bindings.
+  def edition_by_isbn13(isbn13)
+    query(<<~SPARQL)
+      SELECT ?item ?p31 ?p629 WHERE {
+        ?item wdt:P212 "#{isbn13}" .
+        OPTIONAL { ?item wdt:P31 ?p31 }
+        OPTIONAL { ?item wdt:P629 ?p629 }
+      } LIMIT 5
+    SPARQL
+  end
+
+  # Find edition items linked to a work via P629. Returns raw bindings.
+  def editions_of_work(work_qid)
+    query(<<~SPARQL)
+      SELECT ?item ?p31 WHERE {
+        VALUES ?work { wd:#{work_qid} }
+        ?item wdt:P629 ?work .
+        OPTIONAL { ?item wdt:P31 ?p31 }
+      } LIMIT 10
+    SPARQL
+  end
+
+  # Fetch P31 (instance type) and P407 (language) for a single work item.
+  # Returns [p31_qid, p407_qid] — either may be nil.
+  def work_type_and_language(work_qid)
+    results = query(<<~SPARQL)
+      SELECT ?p31 ?p407 WHERE {
+        VALUES ?work { wd:#{work_qid} }
+        OPTIONAL { ?work wdt:P31 ?p31 }
+        OPTIONAL { ?work wdt:P407 ?p407 }
+      } LIMIT 1
+    SPARQL
+    return [nil, nil] if results.empty?
+    r = results.first
+    [
+      r.dig('p31',  'value')&.split('/')&.last,
+      r.dig('p407', 'value')&.split('/')&.last
+    ]
+  end
+
   # Search Wikidata entities via the MediaWiki wbsearchentities API.
   # Returns Array of { "id", "label", "description", "match" } hashes.
   def search_entities(query, limit: 10, type: "item", language: "en")
