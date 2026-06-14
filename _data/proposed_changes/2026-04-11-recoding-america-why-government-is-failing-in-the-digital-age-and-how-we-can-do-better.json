@@ -40,6 +40,15 @@
       "note": null
     },
     {
+      "property": "P50",
+      "property_label": "author",
+      "value": "Q6178697",
+      "value_type": "qid",
+      "source": "author_cache",
+      "confidence": "high",
+      "note": "Jennifer Pahlka"
+    },
+    {
       "property": "P407",
       "property_label": "language",
       "value": "Q1860",
@@ -51,11 +60,6 @@
   ],
   "unfillable": [
     {
-      "property": "P50",
-      "label": "author",
-      "reason": "no source available"
-    },
-    {
       "property": "P747",
       "label": "has edition or translation",
       "reason": "no source available"
@@ -66,8 +70,8 @@
     {
       "type": "author_node",
       "name": "Jennifer Pahlka",
-      "qid": null,
-      "status": "needs_creation"
+      "qid": "Q6178697",
+      "status": "found"
     },
     {
       "type": "edition_node",
@@ -76,10 +80,8 @@
       "status": "needs_creation"
     }
   ],
-  "confidence": "low",
-  "review_flags": [
-    "Author 'Jennifer Pahlka' not found in Wikidata — node must be created first"
-  ],
+  "confidence": "medium",
+  "review_flags": [],
   "sources_used": [
     "wikidata",
     "abs",

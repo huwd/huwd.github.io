@@ -50,6 +50,15 @@
       "note": "Quinn Slobodian"
     },
     {
+      "property": "P50",
+      "property_label": "author",
+      "value": "Q116938175",
+      "value_type": "qid",
+      "source": "author_cache",
+      "confidence": "high",
+      "note": "Ben Tarnoff"
+    },
+    {
       "property": "P407",
       "property_label": "language",
       "value": "Q1860",
@@ -77,8 +86,8 @@
     {
       "type": "author_node",
       "name": "Ben Tarnoff",
-      "qid": null,
-      "status": "needs_creation"
+      "qid": "Q116938175",
+      "status": "found"
     },
     {
       "type": "edition_node",
@@ -87,10 +96,8 @@
       "status": "needs_creation"
     }
   ],
-  "confidence": "low",
-  "review_flags": [
-    "Author 'Ben Tarnoff' not found in Wikidata — node must be created first"
-  ],
+  "confidence": "medium",
+  "review_flags": [],
   "sources_used": [
     "wikidata",
     "abs"
