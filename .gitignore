@@ -4,6 +4,9 @@ _site
 .jekyll-metadata
 vendor
 _data/draft/
+_data/proposed_edition_changes/
+_data/narrator_qids.json
+_data/hardcover_ids.json
 _drafts/
 .env
 .claude/*
