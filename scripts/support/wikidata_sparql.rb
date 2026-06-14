@@ -110,20 +110,33 @@ class WikidataSparql
     JSON.parse(response.body)["search"] || []
   end
 
-  def query(sparql)
+  TransientError = Class.new(StandardError)
+
+  def query(sparql, retries: 3, backoff: 10)
     uri = URI(SPARQL_ENDPOINT)
     uri.query = URI.encode_www_form(query: sparql, format: "json")
 
-    response = Net::HTTP.start(uri.host, uri.port, use_ssl: true) do |http|
-      req = Net::HTTP::Get.new(uri)
-      req["Accept"] = "application/sparql-results+json"
-      req["User-Agent"] = user_agent
-      http.request(req)
+    attempts = 0
+    begin
+      attempts += 1
+      response = Net::HTTP.start(uri.host, uri.port, use_ssl: true, read_timeout: 30) do |http|
+        req = Net::HTTP::Get.new(uri)
+        req["Accept"] = "application/sparql-results+json"
+        req["User-Agent"] = user_agent
+        http.request(req)
+      end
+
+      raise TransientError, "HTTP #{response.code}" if %w[502 503 429].include?(response.code)
+      raise "SPARQL error #{response.code}: #{response.body[0, 200]}" unless response.is_a?(Net::HTTPSuccess)
+
+      JSON.parse(response.body).dig("results", "bindings") || []
+    rescue TransientError, Net::ReadTimeout => e
+      raise if attempts > retries
+      delay = backoff * attempts
+      warn "  SPARQL #{e.message} — retry #{attempts}/#{retries} after #{delay}s"
+      sleep(delay)
+      retry
     end
-
-    raise "SPARQL error #{response.code}: #{response.body[0, 200]}" unless response.is_a?(Net::HTTPSuccess)
-
-    JSON.parse(response.body).dig("results", "bindings") || []
   end
 
   private
