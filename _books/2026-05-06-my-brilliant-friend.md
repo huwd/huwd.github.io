@@ -5,7 +5,7 @@ series: Neapolitan Novels
 series_entry: "1"
 authors:
   - Elena Ferrante
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q22263533
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: 2026-04-24T23:34:00.000+01:00
 rating: 5

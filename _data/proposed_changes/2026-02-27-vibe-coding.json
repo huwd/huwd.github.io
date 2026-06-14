@@ -5,32 +5,99 @@
     "Steve Yegge",
     "Gene Kim"
   ],
-  "action": "review",
-  "wikidata_state": "ambiguous",
+  "action": "create_work",
+  "wikidata_state": "not_found",
   "item_id": null,
   "item_url": null,
-  "proposed_statements": [],
-  "unfillable": [],
+  "proposed_statements": [
+    {
+      "property": "P31",
+      "property_label": "instance of",
+      "value": "Q47461344",
+      "value_type": "qid",
+      "source": "inferred",
+      "confidence": "medium",
+      "note": "default 'written work' — set more specific type if known (e.g. Q725377 nonfiction, Q8261 novel)"
+    },
+    {
+      "property": "P1476",
+      "property_label": "title",
+      "value": {
+        "text": "Vibe Coding",
+        "language": "en"
+      },
+      "value_type": "monolingual_text",
+      "source": "frontmatter",
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "property": "P577",
+      "property_label": "publication date",
+      "value": "2025-10-02",
+      "value_type": "time",
+      "source": "hardcover",
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "property": "P50",
+      "property_label": "author",
+      "value": "Q7614378",
+      "value_type": "qid",
+      "source": "author_cache",
+      "confidence": "high",
+      "note": "Steve Yegge"
+    },
+    {
+      "property": "P50",
+      "property_label": "author",
+      "value": "Q5531290",
+      "value_type": "qid",
+      "source": "author_cache",
+      "confidence": "high",
+      "note": "Gene Kim"
+    },
+    {
+      "property": "P407",
+      "property_label": "language",
+      "value": "Q1860",
+      "value_type": "qid",
+      "source": "inferred",
+      "confidence": "high",
+      "note": "assumed English — verify if different"
+    }
+  ],
+  "unfillable": [
+    {
+      "property": "P747",
+      "label": "has edition or translation",
+      "reason": "no source available"
+    }
+  ],
   "conflicts": [],
   "prerequisites": [
     {
       "type": "author_node",
       "name": "Steve Yegge",
-      "qid": null,
-      "status": "needs_creation"
+      "qid": "Q7614378",
+      "status": "found"
     },
     {
       "type": "author_node",
       "name": "Gene Kim",
       "qid": "Q5531290",
       "status": "found"
+    },
+    {
+      "type": "edition_node",
+      "name": "edition of Vibe Coding",
+      "qid": null,
+      "status": "needs_creation"
     }
   ],
   "confidence": "medium",
-  "review_flags": [
-    "3 candidates: Q133150082 (vibe coding), Q134595374 (vibe coding), Q138975275 (Vibe Coding Aesthetic)",
-    "Author 'Steve Yegge' not found in Wikidata — node must be created first"
-  ],
+  "review_flags": [],
   "sources_used": [
     "wikidata",
     "abs",

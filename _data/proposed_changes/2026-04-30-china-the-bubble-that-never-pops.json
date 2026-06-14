@@ -4,26 +4,84 @@
   "book_authors": [
     "Thomas Orlik"
   ],
-  "action": "review",
-  "wikidata_state": "ambiguous",
+  "action": "create_work",
+  "wikidata_state": "not_found",
   "item_id": null,
   "item_url": null,
-  "proposed_statements": [],
-  "unfillable": [],
+  "proposed_statements": [
+    {
+      "property": "P31",
+      "property_label": "instance of",
+      "value": "Q47461344",
+      "value_type": "qid",
+      "source": "inferred",
+      "confidence": "medium",
+      "note": "default 'written work' — set more specific type if known (e.g. Q725377 nonfiction, Q8261 novel)"
+    },
+    {
+      "property": "P1476",
+      "property_label": "title",
+      "value": {
+        "text": "China - The bubble that never pops",
+        "language": "en"
+      },
+      "value_type": "monolingual_text",
+      "source": "frontmatter",
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "property": "P577",
+      "property_label": "publication date",
+      "value": "2020-01-01",
+      "value_type": "time",
+      "source": "hardcover",
+      "confidence": "high",
+      "note": null
+    },
+    {
+      "property": "P50",
+      "property_label": "author",
+      "value": "Q112488586",
+      "value_type": "qid",
+      "source": "author_cache",
+      "confidence": "high",
+      "note": "Thomas Orlik"
+    },
+    {
+      "property": "P407",
+      "property_label": "language",
+      "value": "Q1860",
+      "value_type": "qid",
+      "source": "inferred",
+      "confidence": "high",
+      "note": "assumed English — verify if different"
+    }
+  ],
+  "unfillable": [
+    {
+      "property": "P747",
+      "label": "has edition or translation",
+      "reason": "no source available"
+    }
+  ],
   "conflicts": [],
   "prerequisites": [
     {
       "type": "author_node",
       "name": "Thomas Orlik",
+      "qid": "Q112488586",
+      "status": "found"
+    },
+    {
+      "type": "edition_node",
+      "name": "edition of China - The bubble that never pops",
       "qid": null,
       "status": "needs_creation"
     }
   ],
   "confidence": "medium",
-  "review_flags": [
-    "3 candidates: Q29520 (China), Q20898938 (China), Q37229573 (China)",
-    "Author 'Thomas Orlik' not found in Wikidata — node must be created first"
-  ],
+  "review_flags": [],
   "sources_used": [
     "wikidata",
     "abs",
