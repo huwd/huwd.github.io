@@ -8,5 +8,5 @@ work_iri: https://www.wikidata.org/wiki/Q123521600
 series: The Murderbot Diaries
 title: System Collapse
 rating: 2
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q137646807
 ---

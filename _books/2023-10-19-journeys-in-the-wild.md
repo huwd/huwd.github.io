@@ -6,7 +6,7 @@ authors:
   - Gavin Thurston
   - Sir David Attenborough
 work_iri: https://www.wikidata.org/wiki/Q123916852
-edition_iri: https://www.wikidata.org/Q123916853
+edition_iri: https://www.wikidata.org/wiki/Q123916853
 date_started: "2023-10-19T00:00:00Z"
 rating: 4
 ---
