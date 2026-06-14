@@ -1,4 +1,5 @@
 require 'yaml'
+require 'dotenv/load'
 require 'wikidata_adaptor'
 
 module Helpers
@@ -11,7 +12,7 @@ module Helpers
   def load_stored_books
     Dir.glob("_books/*.md").each_with_object({}) do |file, acc|
       frontmatter = File.read(file)[/\A---\s*\n(.*?)\n---/m, 1]
-      acc[file] = YAML.safe_load(frontmatter || "", permitted_classes: [Time], aliases: true) || {}
+      acc[file] = YAML.safe_load(frontmatter || "", permitted_classes: [Time, Date], aliases: true) || {}
     end
   end
 
@@ -25,7 +26,10 @@ module Helpers
   end
 
   def wikidata_rest_client
-    WikidataAdaptor.rest_api
+    WikidataAdaptor::RestApi.new(
+      WikidataAdaptor.rest_endpoint,
+      bearer_token: ENV.fetch("WIKIDATA_ACCESS_TOKEN")
+    )
   end
 
   # Executes a block with exponential backoff retry logic for rate limiting

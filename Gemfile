@@ -10,6 +10,7 @@ gem "base64"
 
 group :development do
   gem "wikidata_adaptor"
+  gem "dotenv"
 end
 
 group :jekyll_plugins do
