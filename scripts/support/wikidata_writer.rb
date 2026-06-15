@@ -69,23 +69,17 @@ class WikidataWriter
     data = load_accepted(slug, ACCEPTED_EDITION_DIR)
     raise "Expected create_edition, got #{data['action']}" unless data['action'] == 'create_edition'
 
-    payload = {
-      item: {
-        labels:       { en: data.fetch('label_en') },
-        descriptions: { en: data.fetch('description_en') },
-        statements:   build_statements(data.fetch('statements'))
-      },
-      comment: data.fetch('edit_summary')
-    }
+    label       = data['label_en']       || data.fetch('book_title')
+    description = data['description_en'] || edition_description(data)
+    stmts_key   = data.key?('statements') ? 'statements' : 'proposed_statements'
+    summary     = data['edit_summary']   || edition_summary(data)
 
-    r = api.post_item(payload)
-    raise "Wikidata API error #{r.code}: #{r.body}" unless r.code.to_i == 201
-
-    edition_qid = r.parsed_content['id']
+    statements = build_statements(data.fetch(stmts_key))
+    edition_qid = post_item_with_dedup(label, description, statements, summary, data)
     updater = FrontmatterUpdater.new(dry_run: false)
     updater.update_edition_iri(data['book_file'], edition_qid)
 
-    add_p747_to_work(data.fetch('work_qid'), edition_qid, data.fetch('edit_summary'))
+    add_p747_to_work(data.fetch('work_qid'), edition_qid, summary)
 
     FileUtils.rm(accepted_path(slug, ACCEPTED_EDITION_DIR))
     puts "✓ Created edition #{edition_qid} — edition_iri written to #{data['book_file']}"
@@ -119,6 +113,48 @@ class WikidataWriter
   end
 
   private
+
+  def post_item_with_dedup(label, description, statements, summary, data)
+    try_post = lambda do |desc|
+      payload = {
+        item: {
+          labels:       { en: label },
+          descriptions: { en: desc },
+          statements:   statements
+        },
+        comment: summary
+      }
+      r = with_exponential_backoff(max_retries: 5, base_delay: 2.0) { api.post_item(payload) }
+      raise "Wikidata API error #{r.code}: #{r.body}" unless r.code.to_i == 201
+      r.parsed_content['id']
+    end
+
+    begin
+      try_post.call(description)
+    rescue => e
+      raise unless e.message.include?('item-label-description-duplicate')
+
+      stmts    = data['proposed_statements'] || data['statements'] || []
+      narrator = stmts.find { |s| s['property'] == 'P2438' }
+      suffix   = narrator ? narrator['note'] : label
+      new_desc = "#{description} (#{suffix})"
+      warn "  ⚠ Duplicate label+description — retrying with #{new_desc.inspect}"
+      try_post.call(new_desc)
+    end
+  end
+
+  def edition_description(data)
+    case data['edition_type']
+    when 'audiobook' then 'audiobook'
+    when 'print'     then 'print edition'
+    else                  'edition'
+    end
+  end
+
+  def edition_summary(data)
+    authors = Array(data['book_authors']).first(2).join(', ')
+    "Create #{data['edition_type']} edition of #{data['book_title']} (#{authors})"
+  end
 
   def add_p747_to_work(work_qid, edition_qid, summary)
     existing = sparql.query("SELECT * WHERE { wd:#{work_qid} wdt:P747 wd:#{edition_qid} }")
