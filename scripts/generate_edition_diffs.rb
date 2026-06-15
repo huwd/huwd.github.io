@@ -279,6 +279,7 @@ class EditionDiffGenerator
       'edition_type'        => p31_to_type(match.p31),
       'wikidata_state'      => 'complete',
       'item_id'             => match.qid,
+      'edition_qid'         => match.qid,
       'item_url'            => match.url,
       'match_method'        => match.match_method.to_s,
       'proposed_statements' => [],
