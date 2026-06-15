@@ -9,13 +9,15 @@ date_started: "2020-09-12T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q2447776
 series: Hanish Cycle
 format:
-  type: paperback
-  isbn: 1473205786
-  isbn13: 9781473205789
+  type: Audiobook
+  aisn:
+    product: B00305CHQM
+  narrators:
+    - Kevin Pariseau
   publisher:
-    name: Gateway
+    name: Audible Studios
+  date_released: "2009-12-07T00:00:00Z"
   language: English
-  pages: 128
 title: The Word for World is Forest
 rating: 4
 date: 2020-09-15
