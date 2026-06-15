@@ -4,7 +4,7 @@ title: Pale Rider
 authors:
   - Laura Spinney
 work_iri: https://www.wikidata.org/wiki/Q137271497
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237260
 date_started: 2025-12-05T08:19:00.000+00:00
 rating: 4
 date: 2025-12-08

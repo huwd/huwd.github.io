@@ -5,7 +5,7 @@ authors:
   - Donella H. Meadows
   - Dana Wright
 work_iri: https://www.wikidata.org/wiki/Q111945826
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237255
 date_started: 2025-10-26T23:45:00.000Z
 rating: 3
 date: 2026-05-01

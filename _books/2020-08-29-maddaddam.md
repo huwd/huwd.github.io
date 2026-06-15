@@ -6,6 +6,7 @@ series_entry: Book 3
 year_published: 2013
 date_started: "2020-08-29T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q16204596
+edition_iri: https://www.wikidata.org/wiki/Q140236413
 series: MaddAddam Trilogy
 format:
   aisn: B00JV4CBY4

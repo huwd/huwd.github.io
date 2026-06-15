@@ -5,6 +5,7 @@ authors:
 year_published: 2018
 date_started: "2018-10-01T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q54489223
+edition_iri: https://www.wikidata.org/wiki/Q140236257
 format:
   aisn: B07DNH1BKS
   narrators:
@@ -26,7 +27,6 @@ date_finished: 2020-12-28T00:00:00Z
 categories: review book
 version: 1.0.0
 ---
-
 A book of two halves.
 
 ## A New Tool
@@ -108,3 +108,4 @@ One of the most thought provoking books I read in 2020, I look forward to seeing
 [4]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7087058/
 [5]: https://www.wsj.com/articles/who-we-are-and-how-we-got-here-review-ghosts-in-the-genome-1523399111
 [6]: https://blogs.sciencemag.org/books/2018/04/17/who-we-are-and-how-we-got-here/
+

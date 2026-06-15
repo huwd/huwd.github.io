@@ -6,6 +6,7 @@ authors:
 series_entry: Book 3
 date_started: "2021-10-11T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q7751674
+edition_iri: https://www.wikidata.org/wiki/Q140237118
 series: The Wolf Hall Trilogy
 format:
   aisn:

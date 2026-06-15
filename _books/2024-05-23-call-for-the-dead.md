@@ -4,7 +4,7 @@ title: Call for the Dead
 authors:
   - John le Carré
 work_iri: https://www.wikidata.org/wiki/Q652350
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237165
 date_started: "2024-05-23T00:00:00Z"
 rating: 4
 ---

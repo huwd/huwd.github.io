@@ -6,7 +6,7 @@ series_entry: "2"
 authors:
   - R. F. Kuang
 work_iri: https://www.wikidata.org/wiki/Q109349567
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237224
 date_started: 2025-04-27T15:25:00.000Z
 rating: 3
 ---

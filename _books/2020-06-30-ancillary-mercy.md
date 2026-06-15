@@ -6,6 +6,7 @@ series_entry: Book 3
 year_published: 2015
 date_started: "2020-06-30T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q18003141
+edition_iri: https://www.wikidata.org/wiki/Q140236372
 series: The Imperial Radch series
 format:
   aisn: B014TE8M3E
@@ -28,7 +29,6 @@ date_finished: 2020-07-04T00:00:00Z
 categories: review book
 version: 1.0.0
 ---
-
 A satisfying end to an enjoyable trilogy.
 It pays off the long running themes and sees loose threads well tied before we go.
 
@@ -40,3 +40,4 @@ Her chameleon vocal skills bring an impressive range of these characters to life
 A fantastic performance when i think of these characters it's her voice in who speaks for them.
 
 All three make for a fun, thought provoking read.
+

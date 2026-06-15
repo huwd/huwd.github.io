@@ -21,5 +21,5 @@ format:
 subtitle: The Fight for a Human Future at the New Frontier of Power
 title: The Age of Surveillance Capitalism
 rating: 5
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237204
 ---

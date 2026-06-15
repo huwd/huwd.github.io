@@ -4,7 +4,7 @@ title: Imaginary Friend
 authors:
   - Stephen Chbosky
 work_iri: https://www.wikidata.org/wiki/Q96381975
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237173
 date_started: "2024-06-26T00:00:00Z"
 rating: 1
 ---

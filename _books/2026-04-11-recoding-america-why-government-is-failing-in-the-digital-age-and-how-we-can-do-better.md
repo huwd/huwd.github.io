@@ -4,7 +4,7 @@ title: "Recoding America: Why Government Is Failing in the Digital Age and How W
 authors:
   - Jennifer Pahlka
 work_iri: https://www.wikidata.org/wiki/Q140205988
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237277
 date_started: 2026-04-11T17:47:00.000+01:00
 rating: 5
 ---

@@ -6,6 +6,7 @@ authors:
 year_published: 1957
 date_started: "2020-12-24T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q114051065
+edition_iri: https://www.wikidata.org/wiki/Q140236456
 format:
   aisn: B002SQ23UY
   narrators:

@@ -5,6 +5,7 @@ authors:
 series_entry: Book 9
 date_started: "2021-11-30T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q107316509
+edition_iri: https://www.wikidata.org/wiki/Q140237132
 series: The Expanse
 format:
   aisn:

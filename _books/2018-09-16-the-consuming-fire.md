@@ -6,6 +6,7 @@ series_entry: Book 2
 year_published: 2018
 date_started: "2018-09-16T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q60749168
+edition_iri: https://www.wikidata.org/wiki/Q140236230
 series: The Interdependency
 format:
   aisn: B07HNM8X4Y
@@ -28,7 +29,6 @@ date_finished: 2020-08-16T00:00:00Z
 categories: review book
 version: 1.0.0
 ---
-
 A continuation of the last. A marginal improvement for our central character.
 
 I liked the way it approached ancestral memory. How might we feel about those who came before if we could see more of their lives? If we could know their thoughts?
@@ -36,3 +36,4 @@ I liked the way it approached ancestral memory. How might we feel about those wh
 But... still kinda meh.
 
 Not sure I'll read the third.
+

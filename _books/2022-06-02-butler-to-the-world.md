@@ -6,6 +6,7 @@ metadata:
   date_scraped: "2022-06-03"
 date_started: "2022-06-02T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q114397287
+edition_iri: https://www.wikidata.org/wiki/Q140237141
 format:
   bookFormat: Unabridged Audiobook
   identifier:

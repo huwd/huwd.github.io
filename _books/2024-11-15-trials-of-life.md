@@ -5,7 +5,7 @@ subtitle: A Natural History of Animal Behaviour
 authors:
   - David Attenborough
 work_iri: https://www.wikidata.org/wiki/Q136800018
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237190
 date_started: "2024-11-15T00:00:00Z"
 rating: 3
 ---

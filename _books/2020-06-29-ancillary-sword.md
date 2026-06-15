@@ -6,6 +6,7 @@ series_entry: Book 2
 year_published: 2014
 date_started: "2020-06-29T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q17989172
+edition_iri: https://www.wikidata.org/wiki/Q140236369
 series: The Imperial Radch series
 format:
   aisn: B00MH4EBC0
@@ -28,7 +29,6 @@ date_finished: 2020-06-30T00:00:00Z
 categories: review book
 version: 1.0.0
 ---
-
 There's a tonal shift here, that I struggled with at times.
 Like taking the swashbuckling adventures of the initial book and then tracking them into more of a desk job in the second.
 
@@ -37,3 +37,4 @@ Our character's personalities seemed adrift from how I'd understood them before.
 However it broadened the universe, raised the stakes and drew me along.
 
 An enjoyable read.
+

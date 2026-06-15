@@ -5,6 +5,7 @@ authors:
 year_published: 2020
 date_started: "2020-12-02T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q117479942
+edition_iri: https://www.wikidata.org/wiki/Q140236419
 format:
   aisn: B084VTZZTB
   narrators:

@@ -7,6 +7,7 @@ year_published: 2015
 year_originally_published: 1972
 date_started: "2020-09-12T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q2447776
+edition_iri: https://www.wikidata.org/wiki/Q140236416
 series: Hanish Cycle
 format:
   type: Audiobook

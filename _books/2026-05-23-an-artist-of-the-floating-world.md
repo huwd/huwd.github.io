@@ -4,7 +4,7 @@ title: An Artist of the Floating World
 authors:
   - Kazuo Ishiguro
 work_iri: https://www.wikidata.org/wiki/Q4003685
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237280
 date_started: 2026-05-23T15:40:46.803+01:00
 rating: 3
 date: 2026-05-31T00:00:00.000+01:00

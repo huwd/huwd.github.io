@@ -8,5 +8,5 @@ work_iri: https://www.wikidata.org/wiki/Q107123470
 series: The Murderbot Diaries
 title: Fugitive Telemetry
 rating: 3
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237199
 ---

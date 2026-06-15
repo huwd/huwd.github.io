@@ -5,7 +5,7 @@ subtitle: Who Really Cares for the Countryside?
 authors:
   - Guy Shrubsole
 work_iri: https://www.wikidata.org/wiki/Q86920675
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237182
 date_started: "2024-09-15T00:00:00Z"
 rating: 4
 ---

@@ -4,7 +4,7 @@ title: China - The bubble that never pops
 authors:
   - Thomas Orlik
 work_iri: https://www.wikidata.org/wiki/Q140206017
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237279
 date_started: 2026-04-25T17:30:00.000Z
 rating: 3
 date: 2026-05-01

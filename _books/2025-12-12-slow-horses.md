@@ -4,7 +4,7 @@ title: Slow Horses
 authors:
   - Mick Herron
 work_iri: https://www.wikidata.org/wiki/Q108063656
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237263
 date_started: 2025-12-12T23:15:00.000+00:00
 rating: 4
 date: 2025-12-17

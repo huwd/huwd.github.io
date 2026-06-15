@@ -5,7 +5,7 @@ series_entry: ""
 authors:
   - Natalie Haynes
 work_iri: https://www.wikidata.org/wiki/Q107174399
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237273
 date_started: 2026-03-08T23:33:00.000+00:00
 rating: 3
 date: 2026-03-24

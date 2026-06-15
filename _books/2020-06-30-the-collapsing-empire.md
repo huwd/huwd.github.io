@@ -6,6 +6,7 @@ series_entry: Book 1
 year_published: 2017
 date_started: "2020-06-30T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q29344605
+edition_iri: https://www.wikidata.org/wiki/Q140236373
 series: The Interdependency
 format:
   aisn: B01L2PHDVA
@@ -28,7 +29,6 @@ date_finished: 2020-08-11T00:00:00Z
 categories: review book
 version: 1.0.0
 ---
-
 An intriguing premise.
 
 A disaster creeping forward, unseen to many, realised by a few. Slow to start, but sudden when it comes.
@@ -42,3 +42,4 @@ This book stands in contrast to much of the great fiction I've read this summer.
 I bought this and the next book at the same time as they were on sale.
 
 I might carry on, but I'm not blown away.
+

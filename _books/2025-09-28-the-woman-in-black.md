@@ -4,7 +4,7 @@ title: The Woman in Black
 authors:
   - Susan Hill
 work_iri: https://www.wikidata.org/wiki/Q3822155
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237247
 date_started: 2025-09-27T23:56:00.000Z
 rating: 4
 ---

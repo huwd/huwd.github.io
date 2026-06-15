@@ -6,6 +6,7 @@ metadata:
   date_scraped: "2022-01-27T00:00:00Z"
 date_started: "2022-01-29T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q18217160
+edition_iri: https://www.wikidata.org/wiki/Q140237135
 format:
   aisn:
     membership: B004FT977E

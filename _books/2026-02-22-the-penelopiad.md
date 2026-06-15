@@ -4,7 +4,7 @@ title: The Penelopiad
 authors:
   - Margaret Atwood
 work_iri: https://www.wikidata.org/wiki/Q4356519
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237270
 date_started: 2026-02-22T23:34:00.000+00:00
 rating: 3
 date: 2026-02-26

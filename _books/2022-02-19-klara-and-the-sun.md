@@ -20,4 +20,5 @@ format:
 date_started: "2022-02-19T00:00:00Z"
 rating: 2
 work_iri: https://www.wikidata.org/wiki/Q105704813
+edition_iri: https://www.wikidata.org/wiki/Q140237136
 ---
