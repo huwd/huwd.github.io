@@ -5,7 +5,7 @@ authors:
   - Steve Yegge
   - Gene Kim
 work_iri: https://www.wikidata.org/wiki/Q140205870
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237271
 date_started: 2026-02-27T13:11:00.000+00:00
 rating: 2
 date: 2026-05-01

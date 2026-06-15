@@ -5,6 +5,7 @@ authors:
 series_entry: Book 5
 date_started: "2021-04-03T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q74362
+edition_iri: https://www.wikidata.org/wiki/Q140237106
 series: Culture Series
 format:
   aisn:

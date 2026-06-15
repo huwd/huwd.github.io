@@ -6,6 +6,7 @@ authors:
 year_published: 1963
 date_started: "2020-12-23T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q114051049
+edition_iri: https://www.wikidata.org/wiki/Q140236453
 format:
   aisn: B004F406HE
   narrators:

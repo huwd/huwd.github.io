@@ -6,6 +6,7 @@ series_entry: Book 2
 year_published: 2009
 date_started: "2020-08-25T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q4352956
+edition_iri: https://www.wikidata.org/wiki/Q140236411
 series: MaddAddam Trilogy
 format:
   aisn: B004FTII2O

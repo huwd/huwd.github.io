@@ -5,7 +5,7 @@ series_entry: Book 6
 authors:
   - John le Carré
 work_iri: https://www.wikidata.org/wiki/Q1239133
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237256
 date_started: 2025-11-11T10:00:00.000+00:00
 date_finished: 2025-11-16T23:07:00.000+00:00
 rating: 3

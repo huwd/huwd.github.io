@@ -6,7 +6,7 @@ series: Captive's War
 authors:
   - James S. A. Corey
 work_iri: https://www.wikidata.org/wiki/Q128801941
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237233
 date_started: 2025-06-28T20:52:00.000Z
 rating: 4
 ---

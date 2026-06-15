@@ -19,4 +19,5 @@ format:
 date_started: "2021-09-01T00:00:00Z"
 rating: 4
 work_iri: https://www.wikidata.org/wiki/Q884010
+edition_iri: https://www.wikidata.org/wiki/Q140237115
 ---

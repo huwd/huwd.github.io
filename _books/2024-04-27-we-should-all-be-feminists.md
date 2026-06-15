@@ -4,7 +4,7 @@ title: We Should All Be Feminists
 authors:
 - Chimamanda Ngozi Adichie
 work_iri: https://www.wikidata.org/wiki/Q22121056
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237164
 date_started: '2024-04-27T00:00:00Z'
 rating: 4
 ---

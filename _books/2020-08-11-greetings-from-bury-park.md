@@ -6,6 +6,7 @@ year_published: 2019
 year_originally_published: 2008
 date_started: "2020-08-11T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q117479841
+edition_iri: https://www.wikidata.org/wiki/Q140236376
 format:
   aisn: B07TS4ZDLL
   narrators:
@@ -28,9 +29,9 @@ date_finished: 2020-08-18T00:00:00Z
 categories: review book
 version: 1.0.0
 ---
-
 I was interested in the backdrop to this book, having moved to a similar part of the world.
 
 I found what I was looking for, and along the way got a moving story of a mans relationship to his father, his family and his identity.
 
 Funny, moving, pleasantly sentimental, I enjoyed the book.
+

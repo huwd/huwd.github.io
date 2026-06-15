@@ -4,7 +4,7 @@ title: The Fire Next Time
 authors:
   - James Baldwin
 work_iri: https://www.wikidata.org/wiki/Q16385696
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237269
 date_started: 2026-02-22T23:30:00.000+00:00
 rating: 4
 date: 2026-02-26

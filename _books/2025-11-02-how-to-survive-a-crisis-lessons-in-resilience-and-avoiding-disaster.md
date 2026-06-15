@@ -4,7 +4,7 @@ title: "How to Survive a Crisis: Lessons in Resilience and avoiding disaster"
 authors:
   - David Omand
 work_iri: https://www.wikidata.org/wiki/Q136765133
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237254
 date_started: 2025-10-13T21:26:00.000Z
 rating: 4
 date: 2025-11-02

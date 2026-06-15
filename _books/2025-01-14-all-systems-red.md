@@ -8,5 +8,5 @@ work_iri: https://www.wikidata.org/wiki/Q53828903
 series: The Murderbot Diaries
 title: All Systems Red
 rating: 4
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237194
 ---

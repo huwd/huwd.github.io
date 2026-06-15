@@ -20,4 +20,5 @@ format:
 date_started: "2021-05-29T00:00:00Z"
 rating: 4
 work_iri: https://www.wikidata.org/wiki/Q106852836
+edition_iri: https://www.wikidata.org/wiki/Q140237108
 ---

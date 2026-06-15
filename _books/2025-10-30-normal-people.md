@@ -4,7 +4,7 @@ title: Normal People
 authors:
   - Sally Rooney
 work_iri: https://www.wikidata.org/wiki/Q55360383
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237253
 date_started: 2025-10-29T22:10:00.000Z
 rating: 5
 date: 2025-10-30

@@ -8,5 +8,5 @@ work_iri: https://www.wikidata.org/wiki/Q56065509
 series: The Murderbot Diaries
 title: Artificial Condition
 rating: 4
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237195
 ---

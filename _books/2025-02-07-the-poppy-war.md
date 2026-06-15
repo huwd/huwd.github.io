@@ -8,5 +8,5 @@ work_iri: https://www.wikidata.org/wiki/Q56491386
 series: Poppy War trilogy
 title: The Poppy War
 rating: 5
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237200
 ---

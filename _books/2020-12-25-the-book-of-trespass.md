@@ -4,6 +4,7 @@ authors:
   - Nick Hayes
 date_started: "2020-12-25T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q117479981
+edition_iri: https://www.wikidata.org/wiki/Q140236457
 format:
   aisn:
     product: 1526621479

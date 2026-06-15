@@ -4,7 +4,7 @@ title: The Future of Truth
 authors:
   - Werner Herzog
 work_iri: https://www.wikidata.org/wiki/Q136765141
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237252
 date_started: 2025-10-25T02:01:00.000Z
 rating: 4
 date: 2025-10-30

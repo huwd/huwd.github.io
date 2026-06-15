@@ -5,7 +5,7 @@ subtitle: Why Big Systems Make Terrible Decisions - and How The World Lost its M
 authors:
   - Dan Davies
 work_iri: https://www.wikidata.org/wiki/Q132744314
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237181
 date_started: "2024-08-12T00:00:00Z"
 rating: 4
 ---

@@ -4,7 +4,7 @@ title: Hunt for the Shadow Wolf
 authors:
   - Derek Gow
 work_iri: https://www.wikidata.org/wiki/Q136800773
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237187
 date_started: "2024-10-26T00:00:00Z"
 rating: 3
 ---

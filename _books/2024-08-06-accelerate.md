@@ -9,7 +9,7 @@ authors:
   - Jez Humble
   - Gene Kim
 work_iri: https://www.wikidata.org/wiki/Q63190344
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237180
 date_started: "2024-08-06T00:00:00Z"
 rating: 4
 ---

@@ -7,6 +7,7 @@ series_entry: Book 2
 year_published: 2012
 date_started: "2020-12-18T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q3644822
+edition_iri: https://www.wikidata.org/wiki/Q140236449
 series: The Wolf Hall Trilogy
 format:
   aisn: B0080E6RPU

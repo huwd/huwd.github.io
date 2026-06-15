@@ -6,6 +6,7 @@ full_title: Vesper Flights
 year_published: 2020
 date_started: "2020-08-28T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q117479865
+edition_iri: https://www.wikidata.org/wiki/Q140236412
 format:
   aisn: B083QKYKGF
   narrators:

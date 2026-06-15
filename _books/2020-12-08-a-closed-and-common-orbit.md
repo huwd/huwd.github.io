@@ -6,6 +6,7 @@ series_entry: Book 2
 year_published: 2016
 date_started: "2020-12-08T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q43625060
+edition_iri: https://www.wikidata.org/wiki/Q140236446
 series: Wayfarers
 format:
   aisn: B01HIXNAOY

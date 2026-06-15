@@ -8,5 +8,5 @@ work_iri: https://www.wikidata.org/wiki/Q63177967
 series: The Murderbot Diaries
 title: Exit Strategy
 rating: 4
-edition_iri: https://www.wikidata.org/wiki/
+edition_iri: https://www.wikidata.org/wiki/Q140237197
 ---

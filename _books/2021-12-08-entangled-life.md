@@ -17,4 +17,5 @@ format:
 date_started: "2021-12-08T00:00:00Z"
 rating: 4
 work_iri: https://www.wikidata.org/wiki/Q98686638
+edition_iri: https://www.wikidata.org/wiki/Q140237133
 ---

@@ -5,6 +5,7 @@ authors:
 series_entry: Book 1
 date_started: "2021-06-20T00:00:00Z"
 work_iri: https://www.wikidata.org/wiki/Q11889107
+edition_iri: https://www.wikidata.org/wiki/Q140237109
 series: Lilith's Brood
 format:
   aisn:

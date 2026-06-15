@@ -6,7 +6,7 @@ series_entry: "1"
 authors:
   - Becky Chambers
 work_iri: https://www.wikidata.org/wiki/Q107583553
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237242
 date_started: 2025-09-18T23:21:00.000Z
 rating: 4
 ---

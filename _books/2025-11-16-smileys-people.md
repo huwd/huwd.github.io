@@ -5,7 +5,7 @@ series_entry: "3"
 authors:
   - John le Carré
 work_iri: https://www.wikidata.org/wiki/Q1231505
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237258
 date_started: 2025-11-16T23:05:00.000+00:00
 date_finished: 2025-11-24T17:03:00.000+00:00
 rating: 4
