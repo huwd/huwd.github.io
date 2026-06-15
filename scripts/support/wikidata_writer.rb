@@ -97,7 +97,7 @@ class WikidataWriter
     data = load_accepted(slug, ACCEPTED_EDITION_DIR)
     raise "Expected frontmatter_only, got #{data['action']}" unless data['action'] == 'frontmatter_only'
 
-    edition_qid = data.fetch('edition_qid')
+    edition_qid = data['edition_qid'] || data.fetch('item_id')
     FrontmatterUpdater.new(dry_run: false).update_edition_iri(data['book_file'], edition_qid)
     FileUtils.rm(accepted_path(slug, ACCEPTED_EDITION_DIR))
     puts "✓ Written edition_iri #{edition_qid} → #{data['book_file']}"
