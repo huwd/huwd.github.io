@@ -29,10 +29,13 @@ class FrontmatterUpdater
 
     return :already_set if content.match?(/^#{field}:\s*#{Regexp.escape(new_iri)}\s*$/)
 
-    updated = content.sub(
-      /^(#{field}:\s*).*$/,
-      "\\1#{new_iri}"
-    )
+    # Replace existing field if present
+    updated = content.sub(/^(#{field}:\s*).*$/, "\\1#{new_iri}")
+
+    # Insert after work_iri if field not present
+    if updated == content
+      updated = content.sub(/^(work_iri:[^\n]*)/) { "#{$1}\n#{field}: #{new_iri}" }
+    end
 
     return :no_match if updated == content
 
