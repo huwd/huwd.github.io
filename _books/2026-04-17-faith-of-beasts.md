@@ -6,7 +6,16 @@ series: Captive's War
 authors:
   - James S. A. Corey
 work_iri: https://www.wikidata.org/wiki/Q133888769
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237469
+format:
+  type: Audiobook
+  aisn:
+    product: B0FBCFCBG1
+  narrators:
+    - Jefferson Mays
+  publisher:
+    name: Recorded Books
+  date_released: "2026-04-14T00:00:00Z"
 date_started: 2026-04-17T00:37:00.000Z
 rating: 3
 date: 2026-05-01
