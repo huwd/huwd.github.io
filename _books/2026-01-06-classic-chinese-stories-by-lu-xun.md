@@ -4,7 +4,16 @@ title: Classic Chinese Stories by Lu Xun
 authors:
   - Lu Xun
 work_iri: https://www.wikidata.org/wiki/Q137870216
-edition_iri: https://www.wikidata.org/wiki/Q
+edition_iri: https://www.wikidata.org/wiki/Q140237658
+format:
+  type: Audiobook
+  aisn:
+    product: B00CBXCLRE
+  narrators:
+    - Martin Jarvis
+  publisher:
+    name: The Lindsay Players
+  date_released: "2013-04-15T00:00:00Z"
 date_started: 2026-01-06T23:03:00.000+00:00
 rating: 5
 date: 2026-01-11
