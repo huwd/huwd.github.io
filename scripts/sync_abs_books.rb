@@ -20,6 +20,17 @@ require_relative 'support/abs_client'
 #   bundle exec ruby scripts/sync_abs_books.rb --finished-since 2025-01-01
 #   bundle exec ruby scripts/sync_abs_books.rb --finished --write
 
+# Books to skip even if ABS marks them finished and they have no _books/ entry.
+# Add ABS titles here when a match already exists under a different title,
+# or when you deliberately don't want a stub created.
+IGNORE = [
+  "Every Man for Himself and God Against All",  # in _books/ as "Every man against himself..."
+  "The Hydrogen Sonata",                         # in _books/ as "Hydrogen Sonata"
+  "The Lie of the Land",                         # in _books/ as "Lie of the Land"
+  "The Clean Coder",                             # in _books/ as "Clean Coder"
+  "The Trials of Life",                          # in _books/ as "Trials of Life"
+].freeze
+
 class AbsBookSync
   include Helpers
 
@@ -56,10 +67,12 @@ class AbsBookSync
 
   def gather_candidates(existing_norm)
     candidates = []
+    ignore_norm = IGNORE.map { |t| normalize_title(t) }.to_set
 
     puts "Checking in-progress items..."
     @abs.in_progress.each do |item|
       next if existing_norm.include?(normalize_title(item.record.title))
+      next if ignore_norm.include?(normalize_title(item.record.title))
       candidates << { kind: :in_progress, item: item }
     end
 
@@ -68,6 +81,7 @@ class AbsBookSync
       puts "Checking items finished since #{date_str}..."
       @abs.finished_since(@cutoff).each do |item|
         next if existing_norm.include?(normalize_title(item.record.title))
+        next if ignore_norm.include?(normalize_title(item.record.title))
         candidates << { kind: :finished, item: item }
       end
     end
