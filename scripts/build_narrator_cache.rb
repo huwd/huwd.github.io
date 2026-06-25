@@ -52,7 +52,7 @@ puts "  #{names_to_resolve.size} to resolve"
 
 puts "\nPhase 1: exact label SPARQL for #{names_to_resolve.size} names..."
 
-label_values = names_to_resolve.map { |n| "\"#{n.gsub('"', '\\"')}\"@en" }.join(" ")
+label_values = names_to_resolve.map { |n| "\"#{n.gsub('\\', '\\\\').gsub('"', '\\"')}\"@en" }.join(" ")
 
 exact_results = sparql.query(<<~SPARQL)
   SELECT ?item ?name ?itemDescription WHERE {
