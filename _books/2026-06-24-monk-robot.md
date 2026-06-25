@@ -1,22 +1,22 @@
 ---
 layout: book
-title: Taiwan Travelogue
+title: Monk & Robot
 authors:
-- Yang Shuang-Zi
+- Becky Chambers
 work_iri: https://www.wikidata.org/wiki/Q
 edition_iri: https://www.wikidata.org/wiki/Q
-date_started: '2026-05-30T18:22:54Z'
-date_finished: '2026-06-20T19:46:49Z'
 categories: book
 published: false
 version: 1.0.0
+series: 'Monk & Robot #2'
+date_started: '2026-06-24T07:15:51Z'
 format:
-  asin: B0F15GNLJJ
+  asin: B09K9SX49X
   narrators:
-  - Sarah Skaer
-  runtime: 10 hours and 12 minutes
+  - Em Grosland
+  runtime: 3 hours and 53 minutes
   publisher:
-    name: Tantor Media
+    name: Macmillan Audio
   type: Audiobook
 ---
 

@@ -1,22 +1,22 @@
 ---
 layout: book
-title: Taiwan Travelogue
+title: 'Orwell: The Essays'
 authors:
-- Yang Shuang-Zi
+- George Orwell
 work_iri: https://www.wikidata.org/wiki/Q
 edition_iri: https://www.wikidata.org/wiki/Q
-date_started: '2026-05-30T18:22:54Z'
-date_finished: '2026-06-20T19:46:49Z'
 categories: book
 published: false
 version: 1.0.0
+date_started: '2025-08-31T08:04:25Z'
+date_finished: '2025-09-13T23:23:49Z'
 format:
-  asin: B0F15GNLJJ
+  asin: B09Q3N9KFG
   narrators:
-  - Sarah Skaer
-  runtime: 10 hours and 12 minutes
+  - Peter Noble
+  runtime: 10 hours and 45 minutes
   publisher:
-    name: Tantor Media
+    name: SNR Audio
   type: Audiobook
 ---
 
