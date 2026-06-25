@@ -20,15 +20,18 @@ require_relative 'support/abs_client'
 #   bundle exec ruby scripts/sync_abs_books.rb --finished-since 2025-01-01
 #   bundle exec ruby scripts/sync_abs_books.rb --finished --write
 
-# Books to skip even if ABS marks them finished and they have no _books/ entry.
-# Add ABS titles here when a match already exists under a different title,
-# or when you deliberately don't want a stub created.
-IGNORE = [
-  "Every Man for Himself and God Against All",  # in _books/ as "Every man against himself..."
-  "The Hydrogen Sonata",                         # in _books/ as "Hydrogen Sonata"
-  "The Lie of the Land",                         # in _books/ as "Lie of the Land"
-  "The Clean Coder",                             # in _books/ as "Clean Coder"
-  "The Trials of Life",                          # in _books/ as "Trials of Life"
+# ABS item IDs to skip even if marked finished and absent from _books/.
+# Use IDs rather than titles so this list doesn't expose reading history in source.
+# To find an ID: bundle exec ruby scripts/sync_abs_books.rb --finished --write
+# and check the ABS web UI, or use the search endpoint.
+IGNORE_IDS = %w[
+  941621d6-6406-4619-882c-5647bd1a1000
+  80333a8b-29ef-4639-81ee-53d3da0d6e35
+  d96b5947-b5cb-4544-ba24-2cfc7b1d4d3e
+  04664ff3-fa36-4151-9363-d52b45badad3
+  06591b95-84f4-4be1-b74a-a165cae53a89
+  08d30cb0-e80a-4a24-b591-099649d1b06d
+  d20af765-e9c0-4ef9-bd0b-b89e0ce012fb
 ].freeze
 
 class AbsBookSync
@@ -67,12 +70,11 @@ class AbsBookSync
 
   def gather_candidates(existing_norm)
     candidates = []
-    ignore_norm = IGNORE.map { |t| normalize_title(t) }.to_set
 
     puts "Checking in-progress items..."
     @abs.in_progress.each do |item|
       next if existing_norm.include?(normalize_title(item.record.title))
-      next if ignore_norm.include?(normalize_title(item.record.title))
+      next if IGNORE_IDS.include?(item.record.abs_id)
       candidates << { kind: :in_progress, item: item }
     end
 
@@ -81,7 +83,7 @@ class AbsBookSync
       puts "Checking items finished since #{date_str}..."
       @abs.finished_since(@cutoff).each do |item|
         next if existing_norm.include?(normalize_title(item.record.title))
-        next if ignore_norm.include?(normalize_title(item.record.title))
+        next if IGNORE_IDS.include?(item.record.abs_id)
         candidates << { kind: :finished, item: item }
       end
     end
