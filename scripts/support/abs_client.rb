@@ -26,6 +26,13 @@ ABSInProgressItem = Struct.new(
   keyword_init: true
 )
 
+ABSFinishedItem = Struct.new(
+  :record,       # ABSRecord
+  :started_at,   # Time or nil
+  :finished_at,  # Time
+  keyword_init: true
+)
+
 class ABSClient
   def initialize
     # ABS_TOKEN_FILE env var contains the JWT directly (not a file path — naming quirk)
@@ -48,6 +55,23 @@ class ABSClient
     items.filter_map { |item| parse_in_progress_item(item) }
   end
 
+  # Returns all items finished at or after cutoff_time, sorted by finished_at asc.
+  # Uses /api/me for batch progress (1 call) + /api/libraries/:id/items (paginated).
+  def finished_since(cutoff_time)
+    cutoff_ms  = cutoff_time.to_time.utc.to_i * 1000
+    prog_index = all_progress.select { |p| p["isFinished"] && p["finishedAt"] && p["finishedAt"] > cutoff_ms }
+                              .each_with_object({}) { |p, h| h[p["libraryItemId"]] = p }
+    return [] if prog_index.empty?
+
+    item_index = all_library_items.each_with_object({}) { |i, h| h[i["id"]] = i }
+
+    prog_index.filter_map do |item_id, prog|
+      item = item_index[item_id]
+      next unless item
+      parse_finished_item(item, prog)
+    end.sort_by(&:finished_at)
+  end
+
   # Search the ABS library and return all hits that pass author filtering.
   # Returns nil when nothing matches, an ABSRecord when confident.
   def find(title, authors: [])
@@ -67,6 +91,61 @@ class ABSClient
   end
 
   private
+
+  def all_progress
+    uri = URI("#{@base}/api/me")
+    res = get(uri)
+    JSON.parse(res.body).fetch("mediaProgress", [])
+  end
+
+  def all_library_items
+    items = []
+    page  = 0
+    loop do
+      uri = URI("#{@base}/api/libraries/#{@lib_id}/items?limit=500&page=#{page}")
+      data = JSON.parse(get(uri).body)
+      items.concat(data["results"])
+      break if items.size >= data["total"]
+      page += 1
+    end
+    items
+  end
+
+  def parse_finished_item(item, prog)
+    meta   = item.dig("media", "metadata") || {}
+    record = parse_library_item(item, meta)
+    ABSFinishedItem.new(
+      record:      record,
+      started_at:  ms_to_time(prog["startedAt"]),
+      finished_at: ms_to_time(prog["finishedAt"])
+    )
+  end
+
+  def parse_library_item(item, meta)
+    ABSRecord.new(
+      abs_id:           item["id"],
+      title:            meta["title"],
+      subtitle:         meta["subtitle"],
+      authors:          split_names(meta["authorName"]),
+      narrators:        split_names(meta["narratorName"]),
+      publisher:        meta["publisher"],
+      published_date:   parse_date(meta["publishedYear"] || meta["publishedDate"]),
+      asin:             meta["asin"],
+      duration_seconds: item.dig("media", "duration")&.to_i,
+      genres:           Array(meta["genres"]),
+      series:           meta["seriesName"].to_s.strip.empty? ? [] : [meta["seriesName"].strip]
+    )
+  end
+
+  def get(uri)
+    res = Net::HTTP.start(uri.host, uri.port) do |http|
+      req = Net::HTTP::Get.new(uri)
+      req["Authorization"] = "Bearer #{@token}"
+      http.request(req)
+    end
+    raise "ABS error #{res.code}: #{res.body[0, 200]}" unless res.is_a?(Net::HTTPSuccess)
+    res
+  end
 
   def search(query, limit: 5)
     uri = URI("#{@base}/api/libraries/#{@lib_id}/search")
