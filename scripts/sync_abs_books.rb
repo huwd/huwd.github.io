@@ -20,6 +20,13 @@ require_relative 'support/abs_client'
 #   bundle exec ruby scripts/sync_abs_books.rb --finished-since 2025-01-01
 #   bundle exec ruby scripts/sync_abs_books.rb --finished --write
 
+# Finish dates whose entire batch should be skipped — e.g. Audible cleanup
+# imports that ABS stamped with a synthetic date rather than the real listen date.
+IGNORE_FINISH_DATES = %w[
+  2025-03-31
+  2025-04-05
+].freeze
+
 # ABS item IDs to skip even if marked finished and absent from _books/.
 # Use IDs rather than titles so this list doesn't expose reading history in source.
 # To find an ID: bundle exec ruby scripts/sync_abs_books.rb --finished --write
@@ -32,6 +39,16 @@ IGNORE_IDS = %w[
   06591b95-84f4-4be1-b74a-a165cae53a89
   08d30cb0-e80a-4a24-b591-099649d1b06d
   d20af765-e9c0-4ef9-bd0b-b89e0ce012fb
+  2964a24b-18cc-4590-bd03-6bf9704940b3
+  2480c2ed-1542-4751-84d2-8294154c5019
+  fb018cd6-7ce5-4cea-b30e-5aab67fff751
+  e3b53627-8b30-4c66-a73d-9adf626a87c2
+  8ac980e9-1aaa-4c98-8d01-00b40f55028a
+  d749ec57-6b09-4b75-a4b6-dd618b095212
+  0a6a77e3-913a-43c2-99cb-13e44ee78e44
+  846a3ebd-fc69-4b10-8fe6-186cedaffb12
+  bdb37a2e-12b8-490f-b3a8-df2e4932d167
+  00370f03-8e03-4ab5-bdda-4384ecb01f69
 ].freeze
 
 class AbsBookSync
@@ -50,25 +67,37 @@ class AbsBookSync
     existing      = load_stored_books
     existing_norm = build_existing_norm(existing)
 
-    candidates = gather_candidates(existing_norm)
+    finished_items = []
+    if @include_finished
+      date_str = @cutoff.strftime("%Y-%m-%d")
+      puts "Fetching items finished since #{date_str}..."
+      finished_items = @abs.finished_since(@cutoff)
+    end
 
-    if candidates.empty?
-      puts "Nothing to create — all ABS books are already in _books/."
+    candidates = gather_candidates(existing_norm, finished_items)
+    patches    = @include_finished ? gather_patches(existing, finished_items) : []
+
+    if candidates.empty? && patches.empty?
+      puts "Nothing to do — all ABS books are already in _books/."
       return
     end
 
-    puts "#{candidates.size} stub(s) to create:\n\n"
-    candidates.each { |c| process(c) }
-    puts "\nRe-run with --write to create the files." unless @write
+    unless candidates.empty?
+      puts "#{candidates.size} stub(s) to create:\n\n"
+      candidates.each { |c| process(c) }
+      puts "\nRe-run with --write to create the files." unless @write
+    end
+
+    unless patches.empty?
+      puts "\n#{patches.size} stub(s) to patch with date_finished:\n\n"
+      patches.each { |p| apply_patch(p) }
+      puts "\nRe-run with --write to apply patches." unless @write
+    end
   end
 
   private
 
-  def gather_candidates
-    raise ArgumentError, "gather_candidates requires existing_norm arg"
-  end
-
-  def gather_candidates(existing_norm)
+  def gather_candidates(existing_norm, finished_items)
     candidates = []
 
     puts "Checking in-progress items..."
@@ -79,16 +108,31 @@ class AbsBookSync
     end
 
     if @include_finished
-      date_str = @cutoff.strftime("%Y-%m-%d")
-      puts "Checking items finished since #{date_str}..."
-      @abs.finished_since(@cutoff).each do |item|
+      finished_items.each do |item|
         next if existing_norm.include?(normalize_title(item.record.title))
         next if IGNORE_IDS.include?(item.record.abs_id)
+        next if IGNORE_FINISH_DATES.include?(item.finished_at.utc.strftime("%Y-%m-%d"))
         candidates << { kind: :finished, item: item }
       end
     end
 
     candidates
+  end
+
+  def gather_patches(existing, finished_items)
+    finished_by_title = finished_items.each_with_object({}) do |item, h|
+      h[normalize_title(item.record.title)] = item
+    end
+
+    existing.filter_map do |path, fm|
+      next if fm["date_finished"]
+      next unless fm["date_started"] && fm["title"]
+
+      abs_item = finished_by_title[normalize_title(fm["title"])]
+      next unless abs_item
+
+      { path: path, title: fm["title"], item: abs_item }
+    end
   end
 
   def process(candidate)
@@ -157,6 +201,26 @@ class AbsBookSync
     end
 
     "---\n#{YAML.dump(fm).sub(/\A---\n/, '')}---\n\n"
+  end
+
+  def apply_patch(patch)
+    path         = patch[:path]
+    title        = patch[:title]
+    item         = patch[:item]
+    finished_iso = item.finished_at.utc.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    puts "  [now finished #{item.finished_at.strftime('%Y-%m-%d')}] #{title}"
+    puts "      → #{path}"
+
+    if @write
+      content = File.read(path)
+      content = content.sub(/(date_started: '.*?'\n)/, "\\1date_finished: '#{finished_iso}'\n")
+      File.write(path, content)
+      puts "      patched"
+    else
+      puts "      [dry run]"
+    end
+    puts
   end
 
   def build_existing_norm(existing)
