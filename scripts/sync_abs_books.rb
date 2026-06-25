@@ -182,7 +182,6 @@ class AbsBookSync
       "work_iri"    => "https://www.wikidata.org/wiki/Q",
       "edition_iri" => "https://www.wikidata.org/wiki/Q",
       "categories"  => "book",
-      "published"   => false,
       "version"     => "1.0.0",
     }
 
