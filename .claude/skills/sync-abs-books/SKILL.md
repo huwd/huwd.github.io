@@ -1,6 +1,6 @@
 ---
 name: sync-abs-books
-description: Runs the deterministic Audiobookshelf sync script against _books/, sanity-checks the resulting stub files and patches, commits them, and offers to open a PR. Use when asked to sync, reconcile, or pull in recently read or in-progress books from Audiobookshelf.
+description: Runs the deterministic Audiobookshelf sync script against _books/, sanity-checks the resulting stub files and patches, prompts for a rating on any newly finished book, plays back a summary, commits, and offers to open a PR. Use when asked to sync, reconcile, or pull in recently read or in-progress books from Audiobookshelf.
 ---
 
 # Sync ABS Books
@@ -82,7 +82,36 @@ and re-verify, rather than manually hand-patching the frontmatter.
 For every **new** stub, open it and re-check title, authors, dates, and the
 `format` block look complete and plausible.
 
-## Step 5 — Commit
+## Step 5 — Rate newly finished books
+
+A finished book must never sit in `_books/` without a `rating`. Check every
+stub this run touched — new or patched — for a `date_finished` field:
+
+- No `date_finished` → still in progress. Skip it; no rating needed yet.
+- `date_finished` present and `rating` already set → skip it.
+- `date_finished` present and `rating` missing → ask the user for a rating
+  (1-5) before moving on. A patch can turn a stub from in-progress to
+  finished, so this applies to patched stubs too, not just new ones.
+
+Insert `rating: N` directly after `date_started` (before `date_finished`),
+matching the ordering used elsewhere in `_books/`. If the user genuinely
+doesn't have a rating yet, don't force it — but call that out explicitly in
+the playback (Step 6) and again before offering the PR (Step 8), so it isn't
+committed silently unrated.
+
+## Step 6 — Playback
+
+Before committing, summarize what this run is about to add or change so the
+user can review it in one place:
+
+- **New stubs**: title, author(s), date started, date finished (if any),
+  rating (if collected).
+- **Patches**: title and which field(s) changed (e.g. `date_finished`
+  backfilled, `rating` added).
+
+Keep it short — a bullet list is enough.
+
+## Step 7 — Commit
 
 Split into logical commits per the repo's commit standards:
 
@@ -94,7 +123,7 @@ Split into logical commits per the repo's commit standards:
 
 Stage files explicitly by name — never `git add -A`/`git add .`.
 
-## Step 6 — Offer a PR
+## Step 8 — Offer a PR
 
 Ask the user: "Shall I open a pull request for these changes?"
 
