@@ -213,8 +213,9 @@ class AbsBookSync
 
     if @write
       content = File.read(path)
-      content = content.sub(/(date_started: '.*?'\n)/, "\\1date_finished: '#{finished_iso}'\n")
-      File.write(path, content)
+      patched = content.sub(/(date_started: (['"]).*?\2\n)/, "\\1date_finished: '#{finished_iso}'\n")
+      raise "date_started line not found in #{path} — patch not applied" if patched == content
+      File.write(path, patched)
       puts "      patched"
     else
       puts "      [dry run]"
