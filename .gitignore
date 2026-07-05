@@ -18,5 +18,8 @@ _drafts/
 !.claude/agents/book-verifier.md
 !.claude/agents/fact-checker.md
 !.claude/agents/amender.md
+!.claude/skills/
+.claude/skills/*
+!.claude/skills/sync-abs-books/
 .tmp/
 scripts/support/wikidata_sync.rb
