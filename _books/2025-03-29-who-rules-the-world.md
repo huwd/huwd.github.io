@@ -3,7 +3,7 @@ layout: book
 title: Who Rules the World?
 authors:
 - Noam Chomsky
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q86247233
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: '2025-03-29T10:27:16Z'
 categories: book
