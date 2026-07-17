@@ -6,6 +6,8 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: '2025-12-03T18:32:01Z'
+rating: 2
+date_finished: '2026-07-10T21:51:48Z'
 categories: book
 published: false
 version: 1.0.0
