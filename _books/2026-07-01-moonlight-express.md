@@ -3,7 +3,7 @@ layout: book
 title: Moonlight Express
 authors:
   - Monisha Rajesh
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q140601414
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0

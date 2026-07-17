@@ -5,7 +5,7 @@ authors:
   - Marina Nitze
   - Matthew Weaver
   - Mikey Dickerson
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q140600868
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0

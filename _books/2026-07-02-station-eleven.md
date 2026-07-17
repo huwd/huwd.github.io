@@ -3,7 +3,7 @@ layout: book
 title: Station Eleven
 authors:
   - Emily St. John Mandel
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q20645702
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0

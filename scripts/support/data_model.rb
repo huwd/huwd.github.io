@@ -138,7 +138,7 @@ class DataModel
           "P941" => "inspired by"
         }
       },
-      "Q725377" => {
+      "Q20540385" => {
         "Mandatory" => {
           "P31" => "instance of",
           "P1476" => "title",

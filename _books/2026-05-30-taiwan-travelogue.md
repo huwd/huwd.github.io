@@ -3,7 +3,7 @@ layout: book
 title: Taiwan Travelogue
 authors:
   - Yang Shuang-Zi
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q134810743
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: "2026-05-30T18:22:54Z"
 date_finished: "2026-06-20T19:46:49Z"

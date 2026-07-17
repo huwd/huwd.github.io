@@ -4,7 +4,7 @@ title: Tomorrow Is Yesterday
 authors:
 - Hussein Agha
 - Robert Malley
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q140601327
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: '2025-11-02T12:21:10Z'
 categories: book

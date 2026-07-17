@@ -3,7 +3,7 @@ layout: book
 title: 'Orwell: The Essays'
 authors:
 - George Orwell
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q136799804
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0
