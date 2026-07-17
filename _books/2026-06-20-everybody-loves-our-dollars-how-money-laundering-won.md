@@ -3,7 +3,7 @@ layout: book
 title: Everybody Loves Our Dollars - How Money Laundering Won
 authors:
   - Oliver Bullough
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q140600865
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0

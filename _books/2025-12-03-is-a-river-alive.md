@@ -3,7 +3,7 @@ layout: book
 title: Is a River Alive?
 authors:
 - Robert Macfarlane
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q140601077
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: '2025-12-03T18:32:01Z'
 rating: 2

@@ -3,7 +3,7 @@ layout: book
 title: A Prayer for the Crown-Shy
 authors:
   - Becky Chambers
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q113317364
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0
