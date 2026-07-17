@@ -1,0 +1,31 @@
+{
+  "book_file": "_books/2026-07-01-by-the-sea.md",
+  "book_title": "By the Sea",
+  "book_authors": [
+    "Abdulrazak Gurnah"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Abdulrazak Gurnah",
+      "qid": null,
+      "status": "unresolved"
+    }
+  ],
+  "confidence": "low",
+  "review_flags": [
+    "9 candidates: Q112011026 (By the Sea), Q17986183 (By the Sea), Q947297 (By the Sea), Q49221884 (By the Sea), Q101030675 (By the Sea), Q18889585 (By the Sea), Q20480883 (By the Sea), Q108829372 (By the Sea), Q18346866 (By the Sea)",
+    "Author 'Abdulrazak Gurnah' not in author cache — search Wikidata before writing P50"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs"
+  ]
+}

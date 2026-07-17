@@ -1,0 +1,32 @@
+{
+  "book_file": "_books/2026-05-31-staying-power-the-history-of-black-people-in-britain.md",
+  "book_title": "Staying Power: The History of Black People in Britain",
+  "book_authors": [
+    "Peter Fryer"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Peter Fryer",
+      "qid": null,
+      "status": "unresolved"
+    }
+  ],
+  "confidence": "low",
+  "review_flags": [
+    "6 candidates: Q75969623 (Staying Power), Q3968769 (Staying Power), Q1049192 (Staying Power), Q20653231 (Staying Power), Q16879007 (Staying Power), Q140581231 (Staying Power)",
+    "Author 'Peter Fryer' not in author cache — search Wikidata before writing P50"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs",
+    "hardcover"
+  ]
+}

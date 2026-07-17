@@ -1,0 +1,31 @@
+{
+  "book_file": "_books/2025-03-29-who-rules-the-world.md",
+  "book_title": "Who Rules the World?",
+  "book_authors": [
+    "Noam Chomsky"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Noam Chomsky",
+      "qid": "Q9049",
+      "status": "found"
+    }
+  ],
+  "confidence": "low",
+  "review_flags": [
+    "2 candidates: Q86247233 (Who Rules the World?), Q129351000 (Who Rules the World?)"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs",
+    "hardcover"
+  ]
+}

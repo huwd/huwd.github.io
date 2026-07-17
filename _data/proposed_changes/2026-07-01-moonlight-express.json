@@ -1,0 +1,31 @@
+{
+  "book_file": "_books/2026-07-01-moonlight-express.md",
+  "book_title": "Moonlight Express",
+  "book_authors": [
+    "Monisha Rajesh"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Monisha Rajesh",
+      "qid": null,
+      "status": "unresolved"
+    }
+  ],
+  "confidence": "low",
+  "review_flags": [
+    "2 candidates: Q6907840 (Moonlight Express), Q106988083 (Moonlight Express)",
+    "Author 'Monisha Rajesh' not in author cache — search Wikidata before writing P50"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "book_file": "_books/2026-07-02-station-eleven.md",
+  "book_title": "Station Eleven",
+  "book_authors": [
+    "Emily St. John Mandel"
+  ],
+  "action": "review",
+  "wikidata_state": "ambiguous",
+  "item_id": null,
+  "item_url": null,
+  "proposed_statements": [],
+  "unfillable": [],
+  "conflicts": [],
+  "prerequisites": [
+    {
+      "type": "author_node",
+      "name": "Emily St. John Mandel",
+      "qid": null,
+      "status": "unresolved"
+    }
+  ],
+  "confidence": "low",
+  "review_flags": [
+    "10 candidates: Q116173079 (Station Eleven), Q116173063 (Station Eleven), Q116173176 (Station Eleven), Q116173276 (Station Eleven), Q116173059 (Station Eleven), Q116173115 (Station Eleven), Q116173095 (Station Eleven), Q116173157 (Station Eleven), Q116173089 (Station Eleven), Q116173061 (Station Eleven)",
+    "Author 'Emily St. John Mandel' not in author cache — search Wikidata before writing P50"
+  ],
+  "sources_used": [
+    "wikidata",
+    "abs",
+    "hardcover"
+  ]
+}
