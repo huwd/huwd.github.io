@@ -129,7 +129,7 @@ class RecordArbitrator
     proposed, unfill = build_proposed(book, abs, hardcover, wikidata, action)
     conflicts        = find_conflicts(proposed, wikidata)
     confidence       = compute_confidence(action, proposed, prereqs, conflicts)
-    flags            = build_flags(wikidata, prereqs, conflicts)
+    flags            = build_flags(wikidata, prereqs, conflicts, proposed)
 
     ChangeDiff.new(
       book_file:           book.file,
@@ -222,7 +222,7 @@ class RecordArbitrator
         property: "P31", property_label: "instance of",
         value: DEFAULT_WORK_TYPE, value_type: :qid,
         source: :inferred, confidence: :medium,
-        note: "default 'written work' — set more specific type if known (e.g. Q725377 nonfiction, Q8261 novel)"
+        note: "default 'written work' — set more specific type if known (e.g. Q20540385 non-fiction, Q8261 novel)"
       )]
 
     when "P1476"
@@ -270,18 +270,21 @@ class RecordArbitrator
   end
 
   def best_date(abs, hardcover)
-    # Hardcover edition date is the most reliable (full ISO date from the specific read edition)
-    if (d = hardcover&.edition&.release_date)
-      return [d, :hardcover, :high]
-    end
-    # Hardcover work date as second option
+    # P577 on a work item should be the work's original publication date — Hardcover's
+    # work-level release_date is the only source that actually represents that. Edition
+    # (and ABS, which is edition-only) dates reflect the specific consumed edition and
+    # can differ substantially from the work's first publication (e.g. a 2026 audiobook
+    # of a 1975 book) — only used as a fallback, flagged for manual verification.
     if (d = hardcover&.work&.release_date)
+      return [d, :hardcover_work, :high]
+    end
+    if (d = hardcover&.edition&.release_date)
       return [d, :hardcover, :medium]
     end
-    # ABS: publishedYear field may be a full date or year-only (we parse it to Date in ABSClient)
+    # ABS: publishedYear field may be a full date or year-only (we parse it to Date in ABSClient).
+    # Always edition-level (ABS only knows about the specific audiobook) — never :high.
     if (d = abs&.published_date)
-      year_only = d.month == 1 && d.day == 1
-      return [d.to_s, :abs, year_only ? :medium : :high]
+      return [d.to_s, :abs, :medium]
     end
     nil
   end
@@ -319,7 +322,7 @@ class RecordArbitrator
     proposed.empty? ? :low : :high
   end
 
-  def build_flags(wikidata, prereqs, conflicts)
+  def build_flags(wikidata, prereqs, conflicts, proposed = [])
     flags = []
 
     flags << wikidata.note if wikidata.note
@@ -334,6 +337,10 @@ class RecordArbitrator
     end
 
     flags << "P747 (has edition) requires an edition node to be created first" if wikidata.missing_mandatory&.include?("P747")
+
+    if (p577 = proposed.find { |s| s.property == "P577" }) && p577.source != :hardcover_work
+      flags << "P577 date is sourced from the consumed edition (#{p577.source}), not the work's original publication — verify against an external source (e.g. first-edition print date) before writing to the work item"
+    end
 
     flags
   end

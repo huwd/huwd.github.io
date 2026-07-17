@@ -16,7 +16,7 @@ class WikidataSparql
   # P31 values we recognise as book-related — correct work types, deprecated Q571,
   # and edition types (included so author-first search surfaces everything linked to them).
   BOOK_INSTANCE_QIDS = %w[
-    Q47461344 Q7725634 Q35760 Q725377 Q8261
+    Q47461344 Q7725634 Q35760 Q20540385 Q8261
     Q571
     Q3331189 Q122731938 Q1224889
   ].freeze
