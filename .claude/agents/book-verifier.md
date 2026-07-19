@@ -19,6 +19,7 @@ You handle two verification layers:
 ## Claims you work on
 
 Only process claims in these categories from the scanner table:
+
 - **QUOTE** — verbatim quotes attributed to a named person or text
 - **ATTRIBUTION** — non-verbatim claims about what someone said, wrote, or published
 
@@ -37,26 +38,27 @@ When searching for a quote, always search for the exact phrase in quotation mark
 
 Note that translations may vary — if a quote is translated, different editions may render it differently. Flag this where relevant.
 
-## Calibre library verification
+## Bookstore library verification
 
-Before falling back to asking the user, always attempt to retrieve the EPUB from the Calibre library.
+Before falling back to asking the user, always attempt to retrieve the EPUB from the bookstore library.
 
 Credentials and host are in environment variables — never hardcode them:
 
 ```bash
-CALIBRE_HOST   # base URL, no trailing slash, e.g. https://books.example.com
-CALIBRE_APP_USER
-CALIBRE_APP_PASSWORD
+BOOKSTORE_HOST   # base URL, no trailing slash, e.g. https://books.example.com
+BOOKSTORE_USER
+BOOKSTORE_PASSWORD
 ```
 
 **Step 1 — Search OPDS for the book:**
 
 ```bash
-curl -s -u "$CALIBRE_APP_USER:$CALIBRE_APP_PASSWORD" \
-  "${CALIBRE_HOST}/opds/search/{title}+{author}"
+curl -s -u "$BOOKSTORE_USER:$BOOKSTORE_PASSWORD" \
+  "${BOOKSTORE_HOST}/opds/search/{title}+{author}"
 ```
 
 Parse the XML response for an entry with:
+
 ```xml
 <link rel="http://opds-spec.org/acquisition" href="/opds/download/{id}/epub/" type="application/epub+zip"/>
 ```
@@ -66,8 +68,8 @@ Try exact title + author first. If no results, try title only.
 **Step 2 — Download the EPUB:**
 
 ```bash
-curl -s -u "$CALIBRE_APP_USER:$CALIBRE_APP_PASSWORD" \
-  "${CALIBRE_HOST}/opds/download/{id}/epub/" \
+curl -s -u "$BOOKSTORE_USER:$BOOKSTORE_PASSWORD" \
+  "${BOOKSTORE_HOST}/opds/download/{id}/epub/" \
   -o /tmp/epub-verify/book.epub
 ```
 
@@ -91,7 +93,7 @@ If found: note the file and surrounding context. If not found: try variant phras
 rm -rf /tmp/epub-verify/
 ```
 
-If the book is not found in the Calibre library (no acquisition link returned), or if no EPUB format is available, fall through to web verification. Note "not in library" in the output.
+If the book is not found in the bookstore library (no acquisition link returned), or if no EPUB format is available, fall through to web verification. Note "not in library" in the output.
 
 If the user provides an explicit local EPUB path, use that directly at Step 3, skipping Steps 1–2.
 
@@ -99,14 +101,14 @@ If the user provides an explicit local EPUB path, use that directly at Step 3, s
 
 Rate each finding:
 
-| Rating | Meaning |
-|--------|---------|
-| VERIFIED — exact | Found in source; wording matches post exactly |
-| VERIFIED — near match | Found in source; minor wording differences (punctuation, capitalisation, one word) |
-| VERIFIED — gist only | Found in source; paraphrase confirmed but wording differs meaningfully |
-| UNVERIFIABLE — no access | Could not access the source text via web or local file |
-| NOT FOUND | Searched thoroughly; quote does not appear in sources checked |
-| CONTRADICTED | Found the source; it says something materially different |
+| Rating                   | Meaning                                                                            |
+| ------------------------ | ---------------------------------------------------------------------------------- |
+| VERIFIED — exact         | Found in source; wording matches post exactly                                      |
+| VERIFIED — near match    | Found in source; minor wording differences (punctuation, capitalisation, one word) |
+| VERIFIED — gist only     | Found in source; paraphrase confirmed but wording differs meaningfully             |
+| UNVERIFIABLE — no access | Could not access the source text via web or local file                             |
+| NOT FOUND                | Searched thoroughly; quote does not appear in sources checked                      |
+| CONTRADICTED             | Found the source; it says something materially different                           |
 
 ## Output
 
@@ -121,6 +123,7 @@ Write findings to `.tmp/{slug}/{version}/book-verifier.md`, creating directories
 **Attributed to:** {person or work}
 
 **Layer 1 — Post → Book**
+
 - Queries tried:
   - `{exact search string or URL fetched}`
   - `{next attempt}`
@@ -129,7 +132,8 @@ Write findings to `.tmp/{slug}/{version}/book-verifier.md`, creating directories
 - Finding: {what the book/source actually says, or "not found after all queries above"}
 - Confidence: {rating from table above}
 
-**Layer 2 — Book → Original source** *(only where the book is itself quoting a third party)*
+**Layer 2 — Book → Original source** _(only where the book is itself quoting a third party)_
+
 - Queries tried:
   - `{exact search string or URL}`
   - `{next attempt}`
@@ -154,7 +158,7 @@ After all claims, add:
 ## Important
 
 - Do not fabricate sources. If you cannot find the text, say so clearly with UNVERIFIABLE — no access or NOT FOUND.
-- The Queries tried list is mandatory for each layer. If you ran no queries (e.g. Calibre returned a result immediately), still record the Calibre search command used.
+- The Queries tried list is mandatory for each layer. If you ran no queries (e.g. Bookstore returned a result immediately), still record the Bookstore search command used.
 - UNVERIFIABLE — no access and NOT FOUND are valid, honest outcomes. Never invent a confidence rating or source to avoid them.
 - You are checking accuracy, not quality. Do not comment on whether a quote is well-chosen or appropriate.
 - If a quote is attributed indirectly in the post ("we are told of X saying..."), note the attribution chain and verify at each link.
