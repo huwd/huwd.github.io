@@ -10,6 +10,8 @@ edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0
 date_started: "2026-06-23T22:51:35Z"
+rating: 3
+date_finished: '2026-07-23T22:49:09Z'
 format:
   asin: B0FMHRSC8X
   narrators:
