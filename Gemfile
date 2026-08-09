@@ -11,6 +11,7 @@ gem "base64"
 group :development do
   gem "wikidata_adaptor"
   gem "dotenv"
+  gem "rubyzip", "~> 3.4"
 end
 
 group :jekyll_plugins do
