@@ -21,5 +21,6 @@ _drafts/
 !.claude/skills/
 .claude/skills/*
 !.claude/skills/sync-abs-books/
+!.claude/skills/extract-bibliographies/
 .tmp/
 scripts/support/wikidata_sync.rb
