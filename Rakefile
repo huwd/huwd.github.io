@@ -39,6 +39,27 @@ namespace :bridgetown do
   end
 end
 
+# `bin/bridgetown dev`/`start` looks for a Rake task named exactly
+# "frontend:watcher" (bridgetown-core's own bridgetown_tasks.rake defines
+# one, via `Bridgetown.load_tasks` - which we don't call here, for the
+# same Gemfile-split reason as above) and silently does nothing if it
+# can't find one - no error, just a dev server serving
+# MISSING_ESBUILD_ASSET forever. This is that task, shelling out rather
+# than requiring bridgetown-core, so it works from this shared Rakefile
+# either way. Matches bridgetown-core's own signature/sidecar behaviour:
+# non-blocking (spawn + return) when invoked as a sidecar by the dev
+# server, blocking otherwise (e.g. a bare `rake frontend:watcher`).
+namespace :frontend do
+  task :watcher, [:sidecar] do |_, args|
+    if args[:sidecar] == true
+      Process.detach(Process.spawn('npm run esbuild-dev'))
+      sleep 3
+    else
+      sh 'npm run esbuild-dev'
+    end
+  end
+end
+
 desc 'Upgrade Decap CMS: fetches latest from npm, cross-verifies against unpkg, updates SRI hash'
 task :upgrade_decap do
   # Fetch latest version metadata from npm registry (canonical source)
