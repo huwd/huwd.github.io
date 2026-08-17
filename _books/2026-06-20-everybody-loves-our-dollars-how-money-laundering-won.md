@@ -6,7 +6,7 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q140600865
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
-version: 1.0.0
+version: 1.0.1
 date_started: "2026-06-20T19:55:38Z"
 date: 2026-07-19
 date_finished: "2026-06-23T22:45:12Z"
@@ -29,10 +29,10 @@ The topic meanders and turns in unexpected directions, but I've learned to trust
 
 I think he'd be a good dinner guest.
 
-This time we're talking Money Laundering, taken piece by piece to build a rich and counterintuitive picture.
+This time we're talking money laundering, taken piece by piece to build a rich and counterintuitive picture.
 He paints a plausible and compelling picture, starting from a few interesting questions:
 
-In a time of enormous consumer digital payments, how can demand for cash be at an all time high?
+In a time of enormous consumer digital payments, how can demand for cash be at an all-time high?
 And why does that demand all seem to be for the largest possible bills, and not the lowly £5?
 
 Does this mean folks are sticking cash under the beds? That markets are moving stacks of £50 in exchange for fruit and crafts?
@@ -44,20 +44,20 @@ Next, he turns to the assurance and compliance industry that was built to stop m
 
 Quoting Stafford Beer's line that "A system is what it does", he points to a range of evidence that the industry doesn't appear to do much to stop the global laundering of money.
 Instead it seems to do a reasonable job of ensuring that no bank can be hit with the high fines states will impose.
-As a result banking has indeed become a much harder place to launder money, but at the cost of catching a wide range of bystanders when it debanks people "beyond it's risk appetite".
+As a result banking has indeed become a much harder place to launder money, but at the cost of catching a wide range of bystanders when it debanks people "beyond its risk appetite".
 This seems to often amount to "suspicious sounding names" or sending money to "the wrong part of the world".
 Further, the book points out that money laundering also has myriad other places to go.
 As he says, the collective cost of these compliance teams at banks is larger than the UN estimates of the cost to end global hunger.
 
-The rest of the book continues this trend, we look at the state level - how international pressure against this global sin, often means punitive policing for small nations and looking the other way for powerful ones.
+The rest of the book continues this trend, we look at the state level — how international pressure against this global sin, often means punitive policing for small nations and looking the other way for powerful ones.
 
 We learn about how value circulates for all sorts of illicit goods, and how one of the best models to understand what's going on is the early Medici wool trade that birthed the banking industry.
 
 From there to explain why Bicester Village is such a popular shopping destination, apparently the only trainline in the UK with station announcements in Mandarin Chinese.
 
-The question of this book is that what if a range of actors, many genuine and well meaning, worked in the name of preventing a recognisable global harm.
+The question of this book is what if a range of actors, many genuine and well-meaning, worked in the name of preventing a recognisable global harm.
 Succeed in their narrow slices, but often at the expense of the whole, whilst also making life harder for many things deemed outside the scope of money laundering.
-But when you have an evil everyone agrees on, it's easy to be singleminded and overlook the harms of prevention.
+But when you have an evil everyone agrees on, it's easy to be single-minded and overlook the harms of prevention.
 
 One of the provocative conclusions is, what if we did less?
 
