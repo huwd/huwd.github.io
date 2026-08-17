@@ -1,0 +1,8 @@
+<nav class="book-nav">
+  <ul>
+    <% site.data.navigation.book_years.each do |book_year| %>
+      <li><a<% if book_year == year %> class="active"<% end %> href="/reading/<%= book_year %>"><%= book_year %></a></li>
+    <% end %>
+    <li><a href="/reading#2023">older</a></li>
+  </ul>
+</nav>

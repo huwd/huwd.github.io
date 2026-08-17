@@ -1,0 +1,42 @@
+<%
+match_urls = data.books_reviewed || [resource.relative_url]
+%>
+<% match_urls.each_with_index do |target_url, outer_index| %>
+  <% book = finished_books.find { |b| b.relative_url == target_url } %>
+  <% next unless book %>
+  <% index = finished_books.index(book) %>
+  <% if outer_index > 0 %><hr><% end %>
+  <div class="book-nav-group">
+    <% previous_book = index > 0 ? finished_books[index - 1] : nil %>
+    <% if previous_book %>
+    <p>
+      Before "<%= book.data.title %>" I read:
+      <% if previous_book.data.has_review %>
+      <a href="<%= previous_book.relative_url %>">
+        <%= previous_book.data.title %>
+      </a>
+      <% else %>
+      <%= previous_book.data.title %>
+      <% end %>
+    </p>
+    <% else %>
+    <p><em>This is the first book on my reading log.</em></p>
+    <% end %>
+
+    <% next_book = finished_books[index + 1] %>
+    <% if next_book %>
+    <p>
+      After "<%= book.data.title %>" I read:
+      <% if next_book.data.has_review %>
+      <a href="<%= next_book.relative_url %>">
+        <%= next_book.data.title %>
+      </a>
+      <% else %>
+      <%= next_book.data.title %>
+      <% end %>
+    </p>
+    <% else %>
+    <p><em>This is the most recent book I've recorded finishing.</em></p>
+    <% end %>
+  </div>
+<% end %>
