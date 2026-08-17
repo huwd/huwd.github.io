@@ -1,0 +1,31 @@
+<% books_this_year = finished_books.reverse.select { |book| time_for(book.data.date_finished).year.to_s == year } %>
+<% if books_this_year.any? %>
+<ul>
+  <% books_this_year.each do |book| %>
+  <% link = review_link_for(book) %>
+  <li>
+    <% if link %>
+    <a class="title" href="<%= link %>">
+      <%= book.data.title %>
+    </a>
+    <% else %>
+    <div class="title">
+      <%= book.data.title %>
+    </div>
+    <% end %>
+    <div class="authors">
+      <%= Array(book.data.authors).join(", ") %>
+    </div>
+    <time datetime="<%= time_for(book.data.date_finished).xmlschema %>">
+      <%= time_for(book.data.date_finished).strftime("%Y-%m-%d") %>
+    </time>
+    <div class="rating">
+      <%= "★" * book.data.rating.to_i if book.data.rating %>
+    </div>
+  </li>
+  <% end %>
+</ul>
+<span>(<%= books_this_year.size %> books total)</span>
+<% else %>
+<p>So far, I've not read anything in <%= year %></p>
+<% end %>

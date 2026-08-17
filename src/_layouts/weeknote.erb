@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1><%= data.title %></h1>
+  <%= yield %>
+  <span class="meta">
+    <time datetime="<%= time_for(data.date).xmlschema %>"><%= time_for(data.date).strftime("%B %-d, %Y") %></time>
+    <% if site.metadata.signature %> | <%= site.metadata.signature %> <% end %>
+  </span>
+</article>

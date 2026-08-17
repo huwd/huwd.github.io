@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1><%= data.title %></h1>
+
+  <% if data.date_finished %>
+  <%= yield %>
+  <span class="meta">
+    Read:
+    <% if data.date_started %>
+      <time datetime="<%= time_for(data.date_started).xmlschema %>"><%= time_for(data.date_started).strftime("%-d %B %Y") %></time>
+    <% end %>
+    <% if data.date_finished %>
+      –
+      <time datetime="<%= time_for(data.date_finished).xmlschema %>"><%= time_for(data.date_finished).strftime("%-d %B %Y") %></time>
+    <% end %>
+    <br>
+    Reviewed:
+    <time datetime="<%= time_for(data.date).xmlschema %>"><%= time_for(data.date).strftime("%-d %B %Y") %></time>
+    <% if site.metadata.signature %> | <%= site.metadata.signature %> <% end %>
+  </span>
+  <% else %>
+  <p class="meta">
+    Read:
+    <% if data.date_started %>
+      <time datetime="<%= time_for(data.date_started).xmlschema %>"><%= time_for(data.date_started).strftime("%-d %B %Y") %></time>
+    <% end %>
+    <% if data.date %>
+      –
+      <time datetime="<%= time_for(data.date).xmlschema %>"><%= time_for(data.date).strftime("%-d %B %Y") %></time>
+    <% end %>
+  </p>
+  <% end %>
+
+  <%= render "book_links" %>
+</article>

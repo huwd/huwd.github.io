@@ -2,6 +2,7 @@
 layout: default
 ---
 
-<h1><%= data.title %></h1>
-
-<%= yield %>
+<section class="post">
+  <h1><%= data.display_title || data.title %></h1>
+  <%= yield %>
+</section>
