@@ -42,9 +42,9 @@ The compelling case here is that money laundering drives much of the demand that
 
 Next, he turns to the assurance and compliance industry that was built to stop money laundering.
 
-Quoting Stafford Beer's line that "A system is what it does", he points to a range of evidence that the industry doesn't appear to do much to stop the global laundering of money.
+Quoting Stafford Beer's line that "the purpose of a system is what it does", he points to a range of evidence that the industry doesn't appear to do much to stop the global laundering of money.
 Instead it seems to do a reasonable job of ensuring that no bank can be hit with the high fines states will impose.
-As a result banking has indeed become a much harder place to launder money, but at the cost of catching a wide range of bystanders when it debanks people "beyond its risk appetite".
+As a result banking has indeed become a much harder place to launder money, but at the cost of catching a wide range of bystanders when it debanks people who "fall outside of its risk appetite".
 This seems to often amount to "suspicious sounding names" or sending money to "the wrong part of the world".
 Further, the book points out that money laundering also has myriad other places to go.
 As he says, the collective cost of these compliance teams at banks is larger than the UN estimates of the cost to end global hunger.
