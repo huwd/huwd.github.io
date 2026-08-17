@@ -10,7 +10,7 @@ rating: 2
 date: 2026-07-19
 date_finished: "2026-07-10T21:51:48Z"
 categories: book
-version: 1.0.1
+version: 1.0.2
 format:
   asin: B0DKY8LZT6
   narrators:
@@ -21,7 +21,7 @@ format:
 
 This book didn't convince me the answer was yes - but I'm also on the fence how much it actually wanted to.
 
-I've enjoyed MacFarlane's other books, _Old Ways_ and _Underland_ had a compelling core of mysterious routes both near and far.
+I've enjoyed MacFarlane's other books, _The Old Ways_ and _Underland_ had a compelling core of mysterious routes both near and far.
 
 The journey was similar too, luxurious and lyrical prose, often truly beautiful.
 In past summers I walked through hills with this playing in my ears and drank it in.
