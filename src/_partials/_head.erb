@@ -1,12 +1,15 @@
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<% resource_title = strip_html(strip_newlines(title)) %>
-<title><% if resource_title != "Index" %><%= resource_title %> | <%= metadata.title %><% else %><%= metadata.title %>: <%= metadata.tagline %><% end %></title>
+<head>
+  <meta charset="UTF-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <meta http-equiv="x-clacks-overhead" content="GNU Terry Pratchett" />
 
-<meta name="description" content="<%= metadata.description %>" />
+  <%= seo title: false %>
 
-<%= seo title: false %>
+  <title><% if tag || title %><%= tag || title %> <% end %><%= metadata.title %><% unless tag || title %> - <%= metadata.description %><% end %></title>
 
-<link rel="stylesheet" href="<%= asset_path :css %>" />
-<script src="<%= asset_path :js %>" defer></script>
-<%= live_reload_dev_js %>
+  <link rel="sitemap" type="application/xml" title="sitemap" href="<%= relative_url "/sitemap.xml" %>" />
+
+  <link rel="stylesheet" href="<%= asset_path :css %>" />
+  <script src="<%= asset_path :js %>" defer></script>
+  <%= live_reload_dev_js %>
+</head>
