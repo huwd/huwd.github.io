@@ -1,11 +1,37 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.metadata.title }}, {{ site.metadata.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.metadata.myvariable }}.
+# Site settings, ported from the Jekyll site's _config.yml.
+# Accessed in templates via site.metadata.title, site.metadata.email, etc.
 
-title: Your awesome title
-tagline: This site is totally awesome
-email: your-email@example.com
+title: Homepage - Huw Diprose
+tagline: Huw's Homepage - My home on the web
 description: >-
-  Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  Home page of Huw Diprose, UK based web engineer and data nerd
+email: mail@huwdiprose.co.uk
+
+# Note: NOT called "locale" - that key is reserved by Bridgetown's
+# Site::Localizable and gets fed straight into I18n.locale=, which
+# rejects en_GB since it isn't in available_locales. This is only for
+# SEO og:locale once bridgetown-seo-tag is wired up.
+og_locale: en_GB
+
+author:
+  name: Huw Diprose
+  url: https://huwdiprose.co.uk
+
+social:
+  name: Huw Diprose
+  links:
+    - https://bsky.app/profile/huwdiprose.bsky.social
+    - https://x.com/huwdiprose
+    - https://github.com/huwd
+    - https://keybase.io/huwdiprose
+
+seo:
+  name: "Huw Diprose"
+  twitter:
+    username: "huwdiprose"
+  github:
+    username: "huwd"
+
+# Customisation
+name: Huw Diprose
+signature: Huw

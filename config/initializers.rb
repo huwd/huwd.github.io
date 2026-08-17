@@ -16,17 +16,20 @@
 
 Bridgetown.configure do |config|
   # The base hostname & protocol for your site, e.g. https://example.com
-  url ""
+  url "https://huwdiprose.co.uk"
 
   # Available options are `erb` (default), `serbea`, or `liquid`
   template_engine "erb"
 
-  # Other options you might want to investigate:
-
   # See list of timezone values here:
   # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-  #
-  # timezone "America/Los_Angeles"
+  timezone "UTC"
+
+  # default_locale is already "en" out of the box (matches the Jekyll
+  # site's hardcoded <html lang="en">) - left unset deliberately, since
+  # setting it explicitly here switches Bridgetown into locale-prefixed
+  # output paths (output/en/... instead of output/...), which this
+  # single-language site doesn't want.
 
   # Add collection pagination features to your site. Documentation here:
   # https://www.bridgetownrb.com/docs/content/pagination
