@@ -2,21 +2,20 @@
 layout: book
 title: Service Model (Unabridged)
 authors:
-- Adrian Tchaikovsky
+  - Adrian Tchaikovsky
 work_iri: https://www.wikidata.org/wiki/Q
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0
-date_started: '2026-07-23T22:49:30Z'
+date_started: "2026-07-23T22:49:30Z"
 rating: 3
-date_finished: '2026-07-27T23:16:27Z'
+date_finished: "2026-07-27T23:16:27Z"
 format:
   asin: B0CMXTZZN2
   narrators:
-  - Adrian Tchaikovsky
+    - Adrian Tchaikovsky
   runtime: 12 hours and 20 minutes
   publisher:
     name: Tor
   type: Audiobook
 ---
-
