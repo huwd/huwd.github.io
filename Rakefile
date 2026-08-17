@@ -8,6 +8,19 @@ ADMIN_LAYOUT = '_layouts/admin.html'
 NPM_REGISTRY = 'https://registry.npmjs.org/decap-cms/latest'
 UNPKG_BASE   = 'https://unpkg.com/decap-cms'
 
+desc 'Run feature smoke tests against a built site (defaults to _site)'
+task :smoke_test, [:build_dir] do |_, args|
+  ruby "scripts/smoke_test.rb #{args[:build_dir]}".strip
+end
+
+desc 'Check that generated redirects resolve correctly (defaults to localhost:4000)'
+task :check_redirects, [:base_url] do |_, args|
+  ruby "scripts/check_redirects.rb #{args[:base_url]}".strip
+end
+
+desc 'Run smoke tests and redirect checks together'
+task verify: [:smoke_test, :check_redirects]
+
 desc 'Upgrade Decap CMS: fetches latest from npm, cross-verifies against unpkg, updates SRI hash'
 task :upgrade_decap do
   # Fetch latest version metadata from npm registry (canonical source)
