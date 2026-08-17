@@ -29,5 +29,7 @@ redirects = COLLECTION_DIRS.flat_map do |dir|
   end
 end
 
-File.write("_redirects", redirects.join("\n") + "\n")
-puts "Wrote #{redirects.size} redirects to _redirects"
+OUTPUT_PATH = File.exist?("src") ? "src/_redirects" : "_redirects"
+
+File.write(OUTPUT_PATH, redirects.join("\n") + "\n")
+puts "Wrote #{redirects.size} redirects to #{OUTPUT_PATH}"
