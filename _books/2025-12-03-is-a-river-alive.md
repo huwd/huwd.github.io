@@ -19,8 +19,6 @@ format:
   type: Audiobook
 ---
 
-Is a river alive?
-
 This book didn't convince me the answer was yes - but I'm also on the fence how much it acutually wanted to.
 
 I've enjoyed MacFarlane's other books, _Old Ways_ and _Underland_ had a compelling core of mysterious routes both near and far.
@@ -33,9 +31,9 @@ Poetically overstimulated, slathered with saccharine prose and on some literary 
 
 I want to blame this book for not really being about rivers. But then I'm not sure his other books are really about their title subject either.
 Like those, these are about his friends, journeys, engagement with the natural world.
-Once again here we have a broad cast
+Once again here we have a broad cast.
 
-Yet again, this time it fell flat. It's MacFarlane has some truely great friendships here, and it showers them in loving words. But, he's just more into his own friends than I am.
+This time, however, it fell flat. MacFarlane has some truely great friendships here, and showers them in loving words. But, he's just more into his own friends than I am.
 
 Less gripped by the core conceat it felt more like we were going through his holiday slides in some detail.
 
@@ -47,7 +45,7 @@ But ultimately I wasn't convinced a river is alive.
 Yes, we live in a disenchanted world.
 One that would be alien to our ancestors and misses a great deal in it poverty of attention.
 
-But I'm not convinced the answer lies in going back to enchantment.
+But I'm not convinced the answer lies in a spiritual attempt at re-enchantment.
 I suspect there are better ways through our present to understand the full scope of a river and the life it supports.
 One that would also see a retreat from mere-resource.
-A mask of Spirit, God, Ancestor or family might hide as much as it reveals.
+I fear a mask of Spirit, God, Ancestor or family might hide as much as it reveals.
