@@ -4,7 +4,7 @@ require 'openssl'
 require 'base64'
 require 'tmpdir'
 
-ADMIN_LAYOUT = '_layouts/admin.html'
+ADMIN_LAYOUT = 'src/_layouts/admin.erb'
 NPM_REGISTRY = 'https://registry.npmjs.org/decap-cms/latest'
 UNPKG_BASE   = 'https://unpkg.com/decap-cms'
 
@@ -21,16 +21,10 @@ end
 desc 'Run smoke tests and redirect checks together'
 task verify: [:smoke_test, :check_redirects]
 
-# Bridgetown uses its own Gemfile.bridgetown/Gemfile.bridgetown.lock, kept
-# separate from the Jekyll Gemfile because bridgetown-core requires
-# liquid >= 5.0 while jekyll requires liquid ~> 4.0 - those ranges don't
-# overlap, so the two can't share a lockfile. These tasks shell out with
-# BUNDLE_GEMFILE set rather than `require "bridgetown"` in-process, so this
-# Rakefile still works when run under the default (Jekyll) bundle.
 namespace :bridgetown do
   desc 'Build the Bridgetown site into output/'
   task :build do
-    sh({ 'BUNDLE_GEMFILE' => 'Gemfile.bridgetown' }, 'bundle exec bin/bridgetown build')
+    sh 'bundle exec bin/bridgetown build'
   end
 
   desc 'Build frontend assets (esbuild/postcss) for the Bridgetown site'
@@ -40,15 +34,14 @@ namespace :bridgetown do
 end
 
 # `bin/bridgetown dev`/`start` looks for a Rake task named exactly
-# "frontend:watcher" (bridgetown-core's own bridgetown_tasks.rake defines
-# one, via `Bridgetown.load_tasks` - which we don't call here, for the
-# same Gemfile-split reason as above) and silently does nothing if it
-# can't find one - no error, just a dev server serving
-# MISSING_ESBUILD_ASSET forever. This is that task, shelling out rather
-# than requiring bridgetown-core, so it works from this shared Rakefile
-# either way. Matches bridgetown-core's own signature/sidecar behaviour:
-# non-blocking (spawn + return) when invoked as a sidecar by the dev
-# server, blocking otherwise (e.g. a bare `rake frontend:watcher`).
+# "frontend:watcher" to auto-start the esbuild watcher - normally
+# provided by bridgetown-core's own bridgetown_tasks.rake via
+# `Bridgetown.load_tasks`, which this Rakefile doesn't call (it predates
+# the Jekyll removal and there's no reason to add an in-process
+# `require "bridgetown"` dependency to a Rakefile that also needs to run
+# standalone rake tasks quickly). Silently does nothing without a
+# matching task - no error, just a dev server serving
+# MISSING_ESBUILD_ASSET forever.
 namespace :frontend do
   task :watcher, [:sidecar] do |_, args|
     if args[:sidecar] == true
