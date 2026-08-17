@@ -1,0 +1,29 @@
+.project-box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+  margin-top: 30px;
+}
+.project-box a.project {
+  color: var(--link);
+  text-decoration: none;
+}
+.project-box a.project:hover {
+  text-decoration: underline;
+}
+.project-box a.project img {
+  display: block;
+  margin-bottom: 10px;
+  height: auto;
+  width: 100%;
+}
+@media screen and (max-width: 480px) {
+  .project-box {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media screen and (max-width: 640px) {
+  .project-box {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
