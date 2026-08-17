@@ -13,7 +13,7 @@ layout: default
       <time datetime="<%= time_for(data.date_started).xmlschema %>"><%= time_for(data.date_started).strftime("%-d %B %Y") %></time>
     <% end %>
     <% if data.date_finished %>
-      –
+      &ndash;
       <time datetime="<%= time_for(data.date_finished).xmlschema %>"><%= time_for(data.date_finished).strftime("%-d %B %Y") %></time>
     <% end %>
     <br>
@@ -28,7 +28,7 @@ layout: default
       <time datetime="<%= time_for(data.date_started).xmlschema %>"><%= time_for(data.date_started).strftime("%-d %B %Y") %></time>
     <% end %>
     <% if data.date %>
-      –
+      &ndash;
       <time datetime="<%= time_for(data.date).xmlschema %>"><%= time_for(data.date).strftime("%-d %B %Y") %></time>
     <% end %>
   </p>

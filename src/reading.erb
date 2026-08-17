@@ -25,7 +25,7 @@ title: Reading
       <%= time_for(book.data.date_finished).strftime("%Y-%m-%d") %>
     </time>
     <div class="rating">
-      <%= "★" * book.data.rating.to_i if book.data.rating %>
+      <%= "\u2605" * book.data.rating.to_i if book.data.rating %>
     </div>
   </li>
   <% end %>

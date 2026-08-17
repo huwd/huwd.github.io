@@ -9,7 +9,7 @@ permalink: /blog/
 <ul>
   <% blog_posts = (site.collections["blogs"]&.resources || []).sort_by { |post| time_for(post.data.date) }.reverse %>
   <% if blog_posts.empty? %>
-    <li>Nothing here yet — watch this space.</li>
+    <li>Nothing here yet &mdash; watch this space.</li>
   <% else %>
     <% blog_posts.each do |post| %>
     <li>
