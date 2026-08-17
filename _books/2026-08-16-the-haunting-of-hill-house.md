@@ -3,7 +3,7 @@ layout: book
 title: The Haunting of Hill House
 authors:
   - Shirley Jackson
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q3819311
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0

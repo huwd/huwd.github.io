@@ -3,7 +3,7 @@ layout: book
 title: The Age of Empire
 authors:
   - Eric Hobsbawm
-work_iri: https://www.wikidata.org/wiki/Q
+work_iri: https://www.wikidata.org/wiki/Q141108709
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0
