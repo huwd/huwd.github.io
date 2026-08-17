@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Crisis Engineering (Unabridged)
+title: Crisis Engineering
 authors:
   - Marina Nitze
   - Matthew Weaver

@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Service Model (Unabridged)
+title: Service Model
 authors:
   - Adrian Tchaikovsky
 work_iri: https://www.wikidata.org/wiki/Q130553422

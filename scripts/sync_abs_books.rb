@@ -154,7 +154,7 @@ class AbsBookSync
       label    = "finished #{item.finished_at.strftime('%Y-%m-%d')}"
     end
 
-    slug     = slugify(r.title)
+    slug     = slugify(clean_title(r.title))
     filename = "#{date_str}-#{slug}.md"
     path     = File.join(BOOKS_DIR, filename)
 
@@ -179,7 +179,7 @@ class AbsBookSync
 
     fm = {
       "layout"      => "book",
-      "title"       => normalize_apostrophes(record.title),
+      "title"       => clean_title(record.title),
       "authors"     => record.authors,
       "work_iri"    => "https://www.wikidata.org/wiki/Q",
       "edition_iri" => "https://www.wikidata.org/wiki/Q",
@@ -244,6 +244,12 @@ class AbsBookSync
      .unicode_normalize(:nfc)
      .gsub(/[''‚‛’]/, "'")
      .gsub(/[""„‟“”]/, '"')
+  end
+
+  # Strip the audiobook-format suffix ABS titles carry (e.g. "(Unabridged)")
+  # so it doesn't leak into the displayed title or the filename slug.
+  def clean_title(t)
+    normalize_apostrophes(t).sub(/\s*\((?:Unabridged|Abridged)\)\s*\z/i, "").strip
   end
 
   def format_duration(seconds)
