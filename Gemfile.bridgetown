@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+ruby File.read(".ruby-version").strip
+
+# Kept in a separate Gemfile from the Jekyll one during the migration:
+# bridgetown-core requires liquid >= 5.0, jekyll requires liquid ~> 4.0,
+# and those ranges don't overlap, so the two can't share a lockfile.
+# Remove Gemfile/Gemfile.lock (the Jekyll side) once the port is complete
+# and fold these gems back into a single Gemfile.
+gem "bridgetown", "~> 2.2.2"
+gem "falcon"
