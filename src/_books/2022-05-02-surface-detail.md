@@ -1,0 +1,10 @@
+---
+date_finished: "2022-05-10T00:00:00Z"
+title: Surface Detail
+authors:
+  - Iain M. Banks
+date_started: "2022-05-02T00:00:00Z"
+rating: 4
+work_iri: https://www.wikidata.org/wiki/Q302026
+edition_iri: https://www.wikidata.org/wiki/Q140237138
+---

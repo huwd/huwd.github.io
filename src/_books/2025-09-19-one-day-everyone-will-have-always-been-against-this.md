@@ -1,0 +1,10 @@
+---
+date_finished: 2025-09-19T23:57:00.000Z
+title: One Day, Everyone Will Have Always Been Against This
+authors:
+  - Omar El Akkad
+work_iri: https://www.wikidata.org/wiki/Q132923554
+edition_iri: https://www.wikidata.org/wiki/Q140237243
+date_started: 2025-09-15T23:36:00.000Z
+rating: 4
+---

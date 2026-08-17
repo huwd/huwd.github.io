@@ -1,0 +1,11 @@
+---
+date_finished: "2025-04-23T19:41:00.000Z"
+title: An Elegant Puzzle
+subtitle: Systems of Engineering Management
+authors:
+  - Will Larson
+work_iri: https://www.wikidata.org/wiki/Q136799843
+edition_iri: https://www.wikidata.org/wiki/Q140237202
+date_started: "2025-02-12T09:30:00.000Z"
+rating: 5
+---

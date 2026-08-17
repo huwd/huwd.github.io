@@ -1,0 +1,10 @@
+---
+date_finished: "2024-11-03T00:00:00Z"
+title: Yellowface
+authors:
+  - R. F. Kuang
+work_iri: https://www.wikidata.org/wiki/Q119803356
+edition_iri: https://www.wikidata.org/wiki/Q140237177
+date_started: "2024-07-27T00:00:00Z"
+rating: 3
+---
