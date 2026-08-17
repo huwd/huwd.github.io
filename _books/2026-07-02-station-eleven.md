@@ -6,7 +6,7 @@ authors:
 work_iri: https://www.wikidata.org/wiki/Q20645702
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
-version: 1.0.0
+version: 1.0.1
 date_started: "2026-07-02T22:04:44Z"
 rating: 5
 date: 2026-07-19
@@ -22,26 +22,26 @@ format:
 ---
 
 I like science and speculative fiction as a cloudy mirror.
-To regonise our present world in its themes, but only after peering through the distortion.
-The familliar made unrecognisable, then appears as something new.
+To recognise our present world in its themes, but only after peering through the distortion.
+The familiar made unrecognisable, then appears as something new.
 
 In these, I've read a lot about the end-of-the-world.
 Here is another entry.
 Yet this stands out as something faintly hopeful.
 
-The collapse here is catestrophic, more than most, an almost irrecoverabele loss of humanity.
+The collapse here is catastrophic, more than most, an almost irrecoverable loss of humanity.
 
 Characters here old enough to remember talk about how they knew there was no untouched corner of the world left, because there were never any planes in the sky.
-Not long after reading this I looked up into the evening sky and saw the ever present scribe of contrails, before starry satilites began their shift.
+Not long after reading this I looked up into the evening sky and saw the ever present scribe of contrails, before starry satellites began their shift.
 
 You'd know it wasn't just your part of the world if all that went away one day and never came back.
 
 The book covers transition between these worlds well.
 You think of the present, see yourself in our smaller crises.
-A familliar feel of _I was worried about so many daily things, then suddenly many of them felt both irrelevant and small, compared to this_.
+A familiar feel of _I was worried about so many daily things, then suddenly many of them felt both irrelevant and small, compared to this_.
 
 In this newly emptied world, the book skips the lame philosophy that states if we're stripped of our society life is nasty, brutish and short.
-It doesn't shy from the difficulties, but does a good job of makind you feel it's a continuation of human relations rather than a revelation of some long repressed deamons.
+It doesn't shy from the difficulties, but does a good job of making you feel it's a continuation of human relations rather than a revelation of some long repressed demons.
 
 We follow characters who travel through this world as part of a symphony, making music and performing Shakespeare.
 Entirely plausibly!
