@@ -44,6 +44,42 @@ Bridgetown.configure do |config|
   #
   # permalink "simple"
 
+  # Custom collections, ported from Jekyll's _config.yml. :books and
+  # :reviews intentionally share a permalink - book reviews and
+  # multi-book reviews both publish under /review/book/.
+  collections do
+    books do
+      output true
+      permalink "/review/book/:year/:month/:day/:title/"
+    end
+
+    reviews do
+      output true
+      permalink "/review/book/:year/:month/:day/:title/"
+    end
+
+    blogs do
+      output true
+      permalink "/blog/:year/:month/:day/:title/"
+    end
+
+    # :path (not :name) strips any leading YYYY-MM-DD- from the filename
+    # unconditionally (Bridgetown::Resource::Base::DATE_FILENAME_MATCHER,
+    # no per-collection opt-out) - that would silently change every
+    # existing /weeknotes/YYYY-MM-DD-slug/ URL. :name doesn't strip it.
+    weeknotes do
+      output true
+      permalink "/weeknotes/:name/"
+    end
+  end
+
+  # Every book defaults to the `book` layout, same as Jekyll's
+  # `defaults:` block.
+  config.defaults << {
+    scope: { collection: :books },
+    values: { layout: :book },
+  }
+
   # Optionally host your site off a path, e.g. /blog. If you set this option,
   # ensure you use the `relative_url` helper for all links and assets in your HTML.
   # If you're using esbuild for frontend assets, edit `esbuild.config.js` to
