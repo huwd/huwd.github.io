@@ -7,12 +7,6 @@ description: >-
   Home page of Huw Diprose, UK based web engineer and data nerd
 email: mail@huwdiprose.co.uk
 
-# Note: NOT called "locale" - that key is reserved by Bridgetown's
-# Site::Localizable and gets fed straight into I18n.locale=, which
-# rejects en_GB since it isn't in available_locales. This is only for
-# SEO og:locale once bridgetown-seo-tag is wired up.
-og_locale: en_GB
-
 author:
   name: Huw Diprose
   url: https://huwdiprose.co.uk

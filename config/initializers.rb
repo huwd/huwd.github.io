@@ -25,11 +25,22 @@ Bridgetown.configure do |config|
   # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
   timezone "UTC"
 
+  # Ports of jekyll-seo-tag and jekyll-sitemap. Site-wide metadata for
+  # the SEO tag lives in src/_data/site_metadata.yml, not here.
+  init :"bridgetown-seo-tag"
+  init :"bridgetown-sitemap"
+
   # default_locale is already "en" out of the box (matches the Jekyll
   # site's hardcoded <html lang="en">) - left unset deliberately, since
   # setting it explicitly here switches Bridgetown into locale-prefixed
   # output paths (output/en/... instead of output/...), which this
   # single-language site doesn't want.
+
+  # bridgetown-seo-tag's og:locale comes from site["lang"], which (via
+  # Drops::SiteDrop's fallback_data delegation) resolves to
+  # site.config["lang"] - a build config value, not site_metadata.yml
+  # data, despite reading like site metadata.
+  lang "en_GB"
 
   # Add collection pagination features to your site. Documentation here:
   # https://www.bridgetownrb.com/docs/content/pagination
