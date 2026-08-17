@@ -58,20 +58,26 @@ Bridgetown.configure do |config|
   # Custom collections, ported from Jekyll's _config.yml. :books and
   # :reviews intentionally share a permalink - book reviews and
   # multi-book reviews both publish under /review/book/.
+  #
+  # Uses :slug, not :title: :title slugifies data.title (the front-matter
+  # field), but Jekyll's :title/:path placeholders are filename-based -
+  # see plugins/builders/filename_derived_defaults.rb, which sets
+  # data.slug from the filename so :slug resolves the same way Jekyll's
+  # URLs did.
   collections do
     books do
       output true
-      permalink "/review/book/:year/:month/:day/:title/"
+      permalink "/review/book/:year/:month/:day/:slug/"
     end
 
     reviews do
       output true
-      permalink "/review/book/:year/:month/:day/:title/"
+      permalink "/review/book/:year/:month/:day/:slug/"
     end
 
     blogs do
       output true
-      permalink "/blog/:year/:month/:day/:title/"
+      permalink "/blog/:year/:month/:day/:slug/"
     end
 
     # :path (not :name) strips any leading YYYY-MM-DD- from the filename
