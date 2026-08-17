@@ -21,6 +21,24 @@ end
 desc 'Run smoke tests and redirect checks together'
 task verify: [:smoke_test, :check_redirects]
 
+# Bridgetown uses its own Gemfile.bridgetown/Gemfile.bridgetown.lock, kept
+# separate from the Jekyll Gemfile because bridgetown-core requires
+# liquid >= 5.0 while jekyll requires liquid ~> 4.0 - those ranges don't
+# overlap, so the two can't share a lockfile. These tasks shell out with
+# BUNDLE_GEMFILE set rather than `require "bridgetown"` in-process, so this
+# Rakefile still works when run under the default (Jekyll) bundle.
+namespace :bridgetown do
+  desc 'Build the Bridgetown site into output/'
+  task :build do
+    sh({ 'BUNDLE_GEMFILE' => 'Gemfile.bridgetown' }, 'bundle exec bin/bridgetown build')
+  end
+
+  desc 'Build frontend assets (esbuild/postcss) for the Bridgetown site'
+  task :frontend do
+    sh 'npm run esbuild'
+  end
+end
+
 desc 'Upgrade Decap CMS: fetches latest from npm, cross-verifies against unpkg, updates SRI hash'
 task :upgrade_decap do
   # Fetch latest version metadata from npm registry (canonical source)

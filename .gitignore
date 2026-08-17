@@ -3,6 +3,15 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Bridgetown
+output
+.bridgetown-cache
+.bridgetown-metadata
+.routes.json
+node_modules
+/tmp
+/.bundle
 _data/draft/
 _data/proposed_edition_changes/
 _data/narrator_qids.json

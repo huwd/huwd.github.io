@@ -32,6 +32,28 @@ markdown: kramdown
 include:
   - .well-known
 
+# Bridgetown scaffold lives alongside Jekyll during the migration; keep
+# Jekyll from processing or copying it into _site.
+exclude:
+  - src
+  - frontend
+  - plugins
+  - config
+  - server
+  - bin
+  - node_modules
+  - output
+  - tmp
+  - .bridgetown-cache
+  - .bridgetown-metadata
+  - .routes.json
+  - esbuild.config.js
+  - postcss.config.js
+  - jsconfig.json
+  - config.ru
+  - package.json
+  - package-lock.json
+
 # Customisation
 name: Huw Diprose
 signature: Huw

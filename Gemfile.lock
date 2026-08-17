@@ -117,7 +117,7 @@ DEPENDENCIES
   wikidata_adaptor
 
 RUBY VERSION
-   ruby 3.4.4p34
+   ruby 4.0.6p0
 
 BUNDLED WITH
    2.3.6
