@@ -165,6 +165,7 @@ class WikidataMatcher
        .gsub(/\b(the|a|an|of|in|for|and|by|from|with)\b/, '')
        .gsub(/[^a-z0-9]/, ' ')
        .split
+       .reject { |w| w =~ /\A\d{4}\z/ } # drop bare years (e.g. subtitle date ranges)
     }
 
     q_words = norm.(query)

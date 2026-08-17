@@ -1,9 +1,9 @@
 ---
 layout: book
-title: The Age of Empire
+title: "The Age of Empire: 1875–1914"
 authors:
   - Eric Hobsbawm
-work_iri: https://www.wikidata.org/wiki/Q141108709
+work_iri: https://www.wikidata.org/wiki/Q7712845
 edition_iri: https://www.wikidata.org/wiki/Q
 categories: book
 version: 1.0.0

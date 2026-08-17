@@ -1,6 +1,6 @@
 ---
 layout: book
-title: The Age of Capital
+title: "The Age of Capital: 1848–1875"
 authors:
   - Eric Hobsbawm
 work_iri: https://www.wikidata.org/wiki/Q10273497
