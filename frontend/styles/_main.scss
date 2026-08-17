@@ -1,0 +1,271 @@
+:root {
+	--sans-font: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto,
+		noto, "segoe ui", arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-accent: #76cbff;
+		--color-background-1: #171a23;
+		--color-background-2: #f9f9f9;
+		--color-typography: #ffffff;
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--color-accent: #176da5;
+		--color-background-1: #f9f9f9;
+		--color-background-2: #171a23;
+		--color-typography: #000000;
+	}
+}
+
+// Colour variables to elements
+
+a {
+	color: var(--color-accent);
+}
+
+body {
+	background: var(--color-background-1);
+	color: var(--color-typography);
+}
+
+nav a,
+ul a {
+	color: var(--color-typography);
+}
+
+body {
+	color: var(--color-typography);
+}
+
+nav a {
+	color: var(--color-typography);
+}
+
+pre {
+	background: var(--color-background-1);
+}
+
+hr {
+	background: var(--color-typography);
+}
+
+header {
+	border-color: var(--color-typography);
+}
+
+@media screen and (min-width: 64rem) {
+	nav ul {
+		border-color: var(--color-background-2);
+	}
+}
+
+*,
+:after,
+:before {
+	box-sizing: border-box;
+	background-color: inherit;
+	color: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: var(--sans-font);
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	line-height: 1.5;
+	font-size: 1rem;
+}
+
+a {
+	text-decoration-skip-ink: auto;
+	text-decoration: underline;
+}
+
+.meta {
+	margin: 1rem 0;
+}
+
+.meta,
+em {
+	font-style: italic;
+}
+
+code,
+code {
+	padding: 0.1rem;
+}
+
+pre code {
+	border: none;
+}
+
+pre {
+	margin: 0.5rem 0;
+	padding: 1rem;
+	overflow-x: auto;
+}
+
+img {
+	max-width: 100%;
+}
+
+hr {
+	height: 1px;
+	border: 0;
+}
+
+header {
+	border-bottom: 1px solid;
+}
+
+header,
+section {
+	width: 100%;
+}
+
+header a {
+	text-decoration: none;
+}
+
+header ul,
+.listing,
+.post {
+	max-width: 43rem;
+	display: flex;
+	flex-direction: column;
+}
+
+.post ol,
+.post ul {
+	margin-left: 1rem;
+	list-style-position: inside;
+	> li {
+		margin-bottom: 0.75rem;
+	}
+}
+
+.post ol {
+	list-style: symbols;
+}
+.post ul {
+	list-style: disc;
+}
+
+.listing a:hover {
+	text-decoration: underline;
+}
+
+header ul {
+	margin: 0 auto;
+	list-style: none;
+	padding: 0 2rem 2rem 2rem;
+}
+
+header li {
+	display: inline;
+	margin-right: 0 1rem 0.2rem 0;
+}
+
+header li:first-child {
+	font-weight: bold;
+	margin-bottom: 0.4rem;
+}
+
+header a.active {
+	text-decoration: underline;
+}
+
+blockquote {
+	font-style: italic;
+	border-left: 5px solid #ececec;
+	padding-left: 1rem;
+}
+
+figcaption {
+	font-size: smaller;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	line-height: 1;
+	margin: 1rem 0;
+	font-weight: 600;
+}
+
+h1 {
+	margin-top: 0;
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.75rem;
+}
+
+h3 {
+	font-size: 1.5rem;
+}
+
+strong,
+b {
+	font-weight: bold;
+}
+
+main {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 2rem 0;
+}
+
+section,
+article {
+	width: 100%;
+	padding: 2rem 2rem 0 2rem;
+	margin: 0 auto;
+}
+
+section,
+article h1:first-child {
+	margin-top: 0;
+}
+
+p {
+	margin: 0.5rem 0;
+}
+
+@media screen and (min-width: 64rem) {
+	main {
+		flex-direction: row;
+	}
+
+	header {
+		position: absolute;
+		top: 40px;
+		right: 50%;
+		margin-right: 340px !important;
+		letter-spacing: -0.009em;
+		border-bottom: none;
+		width: unset;
+	}
+
+	header ul {
+		padding: 1.3rem 2rem 2rem 2rem;
+	}
+
+	section,
+	article {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	nav.site-nav ul {
+		border-right: 1px solid;
+	}
+}
