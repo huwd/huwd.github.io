@@ -1,7 +1,7 @@
 require 'json'
 
-BUILD_DIR = ARGV[0] || '_site'
-NAVIGATION = JSON.parse(File.read('_data/navigation.json'))
+BUILD_DIR = ARGV[0] || 'output'
+NAVIGATION = JSON.parse(File.read('src/_data/navigation.json'))
 CURRENT_YEAR = NAVIGATION['book_years'].first
 
 def read(relative_path)

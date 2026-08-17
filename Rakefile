@@ -8,7 +8,7 @@ ADMIN_LAYOUT = 'src/_layouts/admin.erb'
 NPM_REGISTRY = 'https://registry.npmjs.org/decap-cms/latest'
 UNPKG_BASE   = 'https://unpkg.com/decap-cms'
 
-desc 'Run feature smoke tests against a built site (defaults to _site)'
+desc 'Run feature smoke tests against a built site (defaults to output)'
 task :smoke_test, [:build_dir] do |_, args|
   ruby "scripts/smoke_test.rb #{args[:build_dir]}".strip
 end
