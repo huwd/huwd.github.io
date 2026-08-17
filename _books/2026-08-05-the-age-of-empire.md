@@ -18,3 +18,10 @@ format:
   runtime: 16 hours and 2 minutes
   type: Audiobook
 ---
+
+_notes_
+
+- introduction, the shifting twilight of history, a deeply evocative line for me. Made me think about where mine was.
+- Chapters 7 & 8, a bourgoise victory, but then a complicating senese of who is bourgoise? Reminded me of "reading the english", feels very close to the present. The whitecollar person, not of independent means seems to begin here.
+- The precursor to "the mass", in this era a minority even if it does begin to stalk europe. Given how we know the 20th century went, curious how brief this period of "mass" movement and politics was.
+- Should cover in more detail "why empire", seems to oddly skirt it?
