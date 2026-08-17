@@ -2,7 +2,6 @@
 layout: page
 display_title: Hello
 title: About me
-permalink: /
 ---
 I'm a UK based web developer/engineer.
 
