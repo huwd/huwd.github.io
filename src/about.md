@@ -1,10 +1,15 @@
 ---
 layout: page
-title: About
+display_title: Hello
+title: About me
+permalink: /
 ---
+I'm a UK based web developer/engineer.
 
-This is the basic Bridgetown site template. You can find out more info about customizing your Bridgetown site, as well as basic Bridgetown usage documentation at [bridgetownrb.com](https://bridgetownrb.com/)
+I work for the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service), as a [Lead Developer](https://ddat-capability-framework.service.gov.uk/software-developer.html#lead-developer-management) for [GOV.UK One Login](https://www.sign-in.service.gov.uk/)
 
-You can find the source code for Bridgetown at GitHub:
-[bridgetownrb](https://github.com/bridgetownrb) /
-[bridgetown](https://github.com/bridgetownrb/bridgetown)
+I work in the open on [Github](https://github.com/huwd/).
+
+I'm sometimes on [Bluesky](https://bsky.app/profile/huwdiprose.bsky.social), [Twitter](https://twitter.com/huwdiprose).
+
+I occasionally read my email at [mail@huwdiprose.co.uk](mailto:mail@huwdiprose.co.uk)

@@ -1,0 +1,35 @@
+---
+layout: listing
+title: Reading
+---
+
+<% finished_books.reverse.group_by { |book| time_for(book.data.date_finished).year }.each do |year, books| %>
+<h2 id="<%= year %>"><%= year %></h2>
+<ul>
+  <% books.each do |book| %>
+  <% link = review_link_for(book) %>
+  <li>
+    <% if link %>
+    <a class="title" href="<%= link %>">
+      <%= book.data.title %>
+    </a>
+    <% else %>
+    <div class="title">
+      <%= book.data.title %>
+    </div>
+    <% end %>
+    <div class="authors">
+      <%= Array(book.data.authors).join(", ") %>
+    </div>
+    <time datetime="<%= time_for(book.data.date_finished).xmlschema %>">
+      <%= time_for(book.data.date_finished).strftime("%Y-%m-%d") %>
+    </time>
+    <div class="rating">
+      <%= "★" * book.data.rating.to_i if book.data.rating %>
+    </div>
+  </li>
+  <% end %>
+</ul>
+<% end %>
+
+<span>(<%= finished_books.size %> books total since Jan 2020)</span>

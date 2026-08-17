@@ -1,0 +1,18 @@
+---
+layout: listing
+title: What I did in 2020, by week
+---
+
+<ul>
+  <% weeknotes = site.collections["weeknotes"].resources.select { |w| Array(w.data.categories).first != "review" } %>
+  <% weeknotes.each do |weeknote| %>
+  <li>
+    <a class="title" href="<%= weeknote.relative_url %>">
+      <%= weeknote.data.title %>
+    </a>
+    <time datetime="<%= time_for(weeknote.data.date).xmlschema %>">
+      <%= time_for(weeknote.data.date).strftime("%Y-%m-%d") %>
+    </time>
+  </li>
+  <% end %>
+</ul>
