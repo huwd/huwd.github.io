@@ -9,3 +9,6 @@ ruby File.read(".ruby-version").strip
 # and fold these gems back into a single Gemfile.
 gem "bridgetown", "~> 2.2.2"
 gem "falcon"
+
+gem "bridgetown-seo-tag", "~> 7.0"
+gem "bridgetown-sitemap", "~> 3.0"
