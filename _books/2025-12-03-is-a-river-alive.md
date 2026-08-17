@@ -7,6 +7,7 @@ work_iri: https://www.wikidata.org/wiki/Q140601077
 edition_iri: https://www.wikidata.org/wiki/Q
 date_started: "2025-12-03T18:32:01Z"
 rating: 2
+date: 2026-07-19
 date_finished: "2026-07-10T21:51:48Z"
 categories: book
 version: 1.0.0
