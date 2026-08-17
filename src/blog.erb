@@ -1,0 +1,21 @@
+---
+layout: listing
+title: Blog
+permalink: /blog/
+---
+
+<h1>Blog</h1>
+
+<ul>
+  <% blog_posts = (site.collections["blogs"]&.resources || []).sort_by { |post| time_for(post.data.date) }.reverse %>
+  <% if blog_posts.empty? %>
+    <li>Nothing here yet — watch this space.</li>
+  <% else %>
+    <% blog_posts.each do |post| %>
+    <li>
+      <a class="title" href="<%= post.relative_url %>"><%= post.data.title %></a>
+      <time datetime="<%= time_for(post.data.date).xmlschema %>"><%= time_for(post.data.date).strftime("%Y-%m-%d") %></time>
+    </li>
+    <% end %>
+  <% end %>
+</ul>
