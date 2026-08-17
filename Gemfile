@@ -2,19 +2,15 @@ source "https://rubygems.org"
 
 ruby File.read(".ruby-version").strip
 
-gem "jekyll"
+gem "bridgetown", "~> 2.2.2"
+gem "falcon"
 
-# TODO: Remove when this gets fixed in Jekyll
-gem "csv"
+gem "bridgetown-seo-tag", "~> 7.0"
+gem "bridgetown-sitemap", "~> 3.0"
+
 gem "base64"
 
 group :development do
   gem "wikidata_adaptor"
   gem "dotenv"
-end
-
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
-  gem "jekyll-redirect-from"
 end
