@@ -9,6 +9,9 @@
 
   <link rel="sitemap" type="application/xml" title="sitemap" href="<%= relative_url "/sitemap.xml" %>" />
 
+  <link rel="icon" href="<%= relative_url "/favicon.ico" %>" sizes="any" />
+  <link rel="icon" type="image/png" href="<%= relative_url "/favicon.png" %>" />
+
   <link rel="stylesheet" href="<%= asset_path :css %>" />
   <script src="<%= asset_path :js %>" defer></script>
   <%= live_reload_dev_js %>
