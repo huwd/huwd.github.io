@@ -1,6 +1,4 @@
 .frame-content {
-  padding: 2rem 2rem 0 2rem;
-  max-width: 43rem;
   background: var(--color-background-1);
   color: var(--color-typography);
 }
