@@ -3,10 +3,13 @@ require 'json'
 require 'openssl'
 require 'base64'
 require 'tmpdir'
+require 'socket'
+require 'tempfile'
 
 ADMIN_LAYOUT = 'src/_layouts/admin.erb'
 NPM_REGISTRY = 'https://registry.npmjs.org/decap-cms/latest'
 UNPKG_BASE   = 'https://unpkg.com/decap-cms'
+WRANGLER     = File.join('node_modules', '.bin', 'wrangler')
 
 desc 'Run feature smoke tests against a built site (defaults to output)'
 task :smoke_test, [:build_dir] do |_, args|
@@ -18,8 +21,82 @@ task :check_redirects, [:base_url] do |_, args|
   ruby "scripts/check_redirects.rb #{args[:base_url]}".strip
 end
 
-desc 'Run smoke tests and redirect checks together'
-task verify: [:smoke_test, :check_redirects]
+desc 'Build the site if missing, serve it locally (honouring _redirects), and run smoke + redirect checks'
+task :verify do
+  # Deliberately shells out to the same commands `smoke_test`/`check_redirects`/
+  # `bridgetown:*` run, rather than `Rake::Task[...].invoke`-ing them: under
+  # `bin/bridgetown verify`, Bridgetown's rake passthrough (`locate_rake_task`
+  # in bridgetown-core) resolves and invokes the top-level task via a Rake
+  # application instance captured in a closure, but by the time that task body
+  # actually runs, `Rake.with_application`'s `ensure` has already reset the
+  # *global* `Rake.application` back to a fresh, empty instance - so any
+  # `Rake::Task['other_task']` lookup from inside the task body raises "Don't
+  # know how to build task", even though the same Rakefile works fine under
+  # plain `bundle exec rake verify`.
+  unless File.exist?('output/index.html')
+    sh 'npm run esbuild'
+    sh 'bundle exec bin/bridgetown build'
+  end
+
+  port = free_port
+  base_url = "http://127.0.0.1:#{port}"
+  log = Tempfile.new('wrangler-pages-dev')
+
+  pid = Process.spawn(
+    WRANGLER, 'pages', 'dev', 'output', '--port', port.to_s,
+    out: log.path, err: log.path, pgroup: true
+  )
+
+  begin
+    wait_for_server(base_url, pid)
+    sh 'ruby scripts/smoke_test.rb'
+    sh "ruby scripts/check_redirects.rb #{base_url}"
+  rescue StandardError
+    warn "\n--- wrangler pages dev output ---\n#{File.read(log.path)}"
+    raise
+  ensure
+    stop_server(pid)
+    log.close!
+  end
+end
+
+def free_port
+  server = TCPServer.new('127.0.0.1', 0)
+  server.addr[1]
+ensure
+  server&.close
+end
+
+def wait_for_server(base_url, pid, timeout: 30)
+  uri = URI(base_url)
+  deadline = Time.now + timeout
+
+  loop do
+    raise "wrangler pages dev (pid #{pid}) exited before it started serving" unless process_alive?(pid)
+
+    begin
+      TCPSocket.new(uri.host, uri.port).close
+      return
+    rescue Errno::ECONNREFUSED
+      raise "wrangler pages dev didn't come up on #{base_url} within #{timeout}s" if Time.now > deadline
+
+      sleep 0.5
+    end
+  end
+end
+
+def process_alive?(pid)
+  Process.waitpid(pid, Process::WNOHANG).nil?
+rescue Errno::ECHILD
+  false
+end
+
+def stop_server(pid)
+  Process.kill('-TERM', pid)
+  Process.wait(pid)
+rescue Errno::ESRCH, Errno::ECHILD
+  # already gone
+end
 
 namespace :bridgetown do
   desc 'Build the Bridgetown site into output/'
