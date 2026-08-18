@@ -46,6 +46,18 @@ def seo_checks(canonical_path)
   ]
 end
 
+# Parses the (first) JSON-LD block's content. Returns nil - rather than
+# raising - on missing/invalid JSON, so a check can fail cleanly instead of
+# crashing the whole test run.
+def json_ld(html)
+  match = html.match(%r{<script type="application/ld\+json">\s*(.*?)\s*</script>}m)
+  return nil unless match
+
+  JSON.parse(match[1])
+rescue JSON::ParserError
+  nil
+end
+
 # Shared feature checks any "post-like" page (book, review, weeknote) should
 # pass. canonical_path derives from the page's own known output file, so it
 # can't drift out of sync with what's actually being tested.
@@ -119,6 +131,17 @@ PAGES = [
       ['shows the book title', ->(html) { has?(html, 'Whale') }],
       ['shows read/reviewed meta', ->(html) { has?(html, 'Read:') && has?(html, 'Reviewed:') }],
       ['renders book-to-book navigation', ->(html) { has?(html, 'book-nav-group') }],
+      ['JSON-LD Review structured data is valid JSON', ->(html) { !json_ld(html).nil? }],
+      # Deliberately bypasses has?/unescape, which would decode &quot; back to "
+      # and make this check pass either way - checking the raw HTML directly
+      # is the point.
+      ['JSON-LD is not HTML-escaped (raw quotes, not &quot;)', ->(html) { html.include?('"@type":"Review"') }],
+      ['JSON-LD itemReviewed matches the book title',
+       ->(html) { json_ld(html)&.dig('itemReviewed', 'name') == 'Whale' }],
+      ['JSON-LD reviewRating.ratingValue matches the page\'s rating',
+       ->(html) { json_ld(html)&.dig('reviewRating', 'ratingValue') == 4 }],
+      ['JSON-LD author is Huw Diprose, not the book\'s author',
+       ->(html) { json_ld(html)&.dig('author', 'name') == 'Huw Diprose' }],
     ],
   },
   {
