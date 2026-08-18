@@ -35,6 +35,31 @@ module Builders
         end
         review&.relative_url
       end
+
+      # Same "reviewed book or multi-book review, newest first" query
+      # reviews.erb builds inline - pulled out here so the reviews feed
+      # (issue #187) can list exactly what the reviews page lists, without
+      # the two drifting apart.
+      helper "all_reviews" do
+        book_reviews = site.collections["books"].resources.select { |book| book.data.has_review }
+        multi_reviews = site.collections["reviews"]&.resources || []
+        (book_reviews + multi_reviews).sort_by { |post| Time.parse(post.data.date.to_s) }.reverse
+      end
+
+      # Same weeknotes query as weeknotes.erb (excluding weeknotes that are
+      # themselves a book review), but newest first - the feed should read
+      # newest first regardless of what order the listing page happens to
+      # display them in.
+      helper "all_weeknotes" do
+        (site.collections["weeknotes"]&.resources || [])
+          .select { |weeknote| Array(weeknote.data.categories).first != "review" }
+          .sort_by { |post| Time.parse(post.data.date.to_s) }.reverse
+      end
+
+      helper "all_blog_posts" do
+        (site.collections["blogs"]&.resources || [])
+          .sort_by { |post| Time.parse(post.data.date.to_s) }.reverse
+      end
     end
   end
 end

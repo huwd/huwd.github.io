@@ -3,11 +3,6 @@ layout: listing
 title: Things I've reviewed
 ---
 
-<%
-book_reviews = site.collections["books"].resources.select { |b| b.data.has_review }
-multi_reviews = (site.collections["reviews"]&.resources || [])
-all_reviews = (book_reviews + multi_reviews).sort_by { |post| time_for(post.data.date) }.reverse
-%>
 <ul>
   <% all_reviews.each do |post| %>
   <li>
