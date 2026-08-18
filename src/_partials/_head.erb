@@ -5,7 +5,7 @@
 
   <%= seo title: false %>
 
-  <title><% if tag || title %><%= tag || title %> - <%= metadata.name %><% else %><%= metadata.title %> - <%= metadata.description %><% end %></title>
+  <title><% if tag || title %><%= tag || title %> | <%= metadata.name %><% else %><%= metadata.title %> - <%= metadata.description %><% end %></title>
 
   <link rel="sitemap" type="application/xml" title="sitemap" href="<%= relative_url "/sitemap.xml" %>" />
 
