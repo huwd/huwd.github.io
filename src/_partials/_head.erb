@@ -9,6 +9,20 @@
 
   <link rel="sitemap" type="application/xml" title="sitemap" href="<%= relative_url "/sitemap.xml" %>" />
 
+  <link rel="alternate" type="application/atom+xml" title="<%= metadata.title %>" href="<%= relative_url "/feed.xml" %>" />
+  <%
+    section_feed = if resource.relative_url.to_s.start_with?("/review")
+      "/reviews/feed.xml"
+    elsif resource.relative_url.to_s.start_with?("/weeknotes")
+      "/weeknotes/feed.xml"
+    elsif resource.relative_url.to_s.start_with?("/blog")
+      "/blog/feed.xml"
+    end
+  %>
+  <% if section_feed %>
+  <link rel="alternate" type="application/atom+xml" title="<%= tag || title %>" href="<%= relative_url section_feed %>" />
+  <% end %>
+
   <link rel="icon" href="<%= relative_url "/favicon.ico" %>" sizes="any" />
   <link rel="icon" type="image/png" href="<%= relative_url "/favicon.png" %>" />
 
