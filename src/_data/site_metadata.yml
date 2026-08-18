@@ -1,7 +1,7 @@
 # Site settings, ported from the Jekyll site's _config.yml.
 # Accessed in templates via site.metadata.title, site.metadata.email, etc.
 
-title: Homepage - Huw Diprose
+title: Huw Diprose
 tagline: Huw's Homepage - My home on the web
 description: >-
   Home page of Huw Diprose, UK based web engineer and data nerd
