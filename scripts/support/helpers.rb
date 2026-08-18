@@ -10,7 +10,7 @@ module Helpers
   end
 
   def load_stored_books
-    Dir.glob("_books/*.md").each_with_object({}) do |file, acc|
+    Dir.glob("src/_books/*.md").each_with_object({}) do |file, acc|
       frontmatter = File.read(file)[/\A---\s*\n(.*?)\n---/m, 1]
       acc[file] = YAML.safe_load(frontmatter || "", permitted_classes: [Time, Date], aliases: true) || {}
     end
