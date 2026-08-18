@@ -16,6 +16,60 @@
   <script>
     CMS.registerPreviewStyle("<%= asset_path :css %>");
     CMS.registerPreviewStyle("/admin/preview.css");
+
+    // Without a custom template, Decap's default preview just stacks every
+    // configured field as raw label:value text (including a bare
+    // toString()'d Date for datetime widgets) - nothing like the real page.
+    // These mirror src/_layouts/book.erb and review.erb closely enough to
+    // give editors a realistic preview: title, body, and the same "Read/
+    // Reviewed" meta line the live page shows. Rating/IRIs/version are left
+    // out deliberately - the real page doesn't show them either.
+    function formatDate(value, locale, opts) {
+      if (!value) return null;
+      var d = new Date(value);
+      if (isNaN(d.getTime())) return null;
+      return d.toLocaleDateString(locale, Object.assign({ timeZone: "UTC" }, opts));
+    }
+
+    var DAY_MONTH_YEAR = { day: "numeric", month: "long", year: "numeric" };
+
+    var BookPreview = createClass({
+      render: function () {
+        var entry = this.props.entry;
+        var started = formatDate(entry.getIn(["data", "date_started"]), "en-GB", DAY_MONTH_YEAR);
+        var finished = formatDate(entry.getIn(["data", "date_finished"]), "en-GB", DAY_MONTH_YEAR);
+        var reviewed = formatDate(entry.getIn(["data", "date"]), "en-GB", DAY_MONTH_YEAR);
+
+        var meta = finished
+          ? h("span", { className: "meta" },
+              "Read: ", started, " – ", finished, h("br", {}),
+              "Reviewed: ", reviewed, " | Huw"
+            )
+          : h("p", { className: "meta" }, "Read: ", started || "not started yet");
+
+        return h("article", { className: "post" },
+          h("h1", {}, entry.getIn(["data", "title"])),
+          this.props.widgetFor("body"),
+          meta
+        );
+      },
+    });
+
+    var ReviewPreview = createClass({
+      render: function () {
+        var entry = this.props.entry;
+        var reviewed = formatDate(entry.getIn(["data", "date"]), "en-US", { month: "long", day: "numeric", year: "numeric" });
+
+        return h("article", { className: "post" },
+          h("h1", {}, entry.getIn(["data", "title"])),
+          this.props.widgetFor("body"),
+          h("span", { className: "meta" }, reviewed, " | Huw")
+        );
+      },
+    });
+
+    CMS.registerPreviewTemplate("books", BookPreview);
+    CMS.registerPreviewTemplate("reviews", ReviewPreview);
   </script>
 </body>
 
