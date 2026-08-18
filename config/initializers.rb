@@ -73,4 +73,17 @@ Bridgetown.configure do |config|
     scope: { collection: :books },
     values: { layout: :book },
   }
+
+  # bridgetown-seo-tag resolves <meta name="author">/twitter:creator from
+  # page["author"] || page["authors"].first || site author - books/reviews
+  # set `authors:` for the book's own author (bibliographic data), which
+  # otherwise wins that lookup and produces things like
+  # <meta name="author" content="Helen Macdonald"> and a malformed
+  # twitter:creator (no real handle known for most book authors). Explicit
+  # page["author"] takes priority over page["authors"], so this default
+  # makes every book/review page correctly attribute its SEO author meta
+  # to the actual page author (Huw), without touching individual files.
+  seo_author_default = { author: { name: "Huw Diprose", twitter: "huwdiprose" } }
+  config.defaults << { scope: { collection: :books }, values: seo_author_default }
+  config.defaults << { scope: { collection: :reviews }, values: seo_author_default }
 end
