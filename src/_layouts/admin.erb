@@ -14,6 +14,7 @@
   <%= yield %>
   <script src="https://unpkg.com/decap-cms@3.15.1/dist/decap-cms.js" integrity="sha384-in6eHztHveqQ7uMZ1fDaKlDmacQLFuLH2wWrFTiymyuS8zQ5bixwL8U3AeRi8h/L" crossorigin="anonymous"></script>
   <script>
+    CMS.registerPreviewStyle("<%= asset_path :css %>");
     CMS.registerPreviewStyle("/admin/preview.css");
   </script>
 </body>
