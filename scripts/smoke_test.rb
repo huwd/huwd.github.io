@@ -1,4 +1,5 @@
 require 'json'
+require 'time'
 
 BUILD_DIR = ARGV[0] || 'output'
 NAVIGATION = JSON.parse(File.read('src/_data/navigation.json'))
@@ -25,8 +26,16 @@ end
 # generic description would fail 'no leftover "Homepage" text', an author
 # attribution regression would fail 'author meta is Huw Diprose', a missing
 # og:image default would fail 'twitter card is summary_large_image', etc.
+def feed_autodiscovery_check(feed_path)
+  ["autodiscovers #{feed_path} via <link rel=\"alternate\">",
+   ->(html) {
+     has?(html, %r{<link rel="alternate" type="application/atom\+xml" title="[^"]*" href="#{Regexp.escape(feed_path)}" />})
+   }]
+end
+
 def seo_checks(canonical_path)
   [
+    feed_autodiscovery_check('/feed.xml'),
     ['title ends " | Huw Diprose"', ->(html) { has?(html, /<title>[^<]+ \| Huw Diprose<\/title>/) }],
     ['title has no leftover "Homepage" text', ->(html) { !has?(html, /<title>[^<]*Homepage/) }],
     ['canonical link matches this page\'s own URL',
@@ -78,6 +87,24 @@ def listing_checks(title_text, canonical_path)
   ] + seo_checks(canonical_path)
 end
 
+# Checks for the Atom feeds added in #187 - self_path is this feed's own
+# URL (for its <link rel="self"> and root-relative sanity checks).
+def atom_feed_checks(title_text, self_path)
+  [
+    ['is an Atom feed', ->(xml) { has?(xml, '<feed xmlns="http://www.w3.org/2005/Atom">') }],
+    ["title includes \"#{title_text}\"", ->(xml) { has?(xml, %r{<title>[^<]*#{Regexp.escape(title_text)}}) }],
+    ['self link matches its own URL',
+     ->(xml) { has?(xml, %(<link rel="self" type="application/atom+xml" href="https://huwdiprose.co.uk#{self_path}" />)) }],
+    ['has a top-level <id>', ->(xml) { has?(xml, %r{<id>https://huwdiprose\.co\.uk[^<]*</id>}) }],
+    ['has a top-level <updated>', ->(xml) { has?(xml, %r{<updated>[^<]+</updated>}) }],
+    ['entries (if any) are ordered newest first',
+     ->(xml) {
+       dates = xml.scan(%r{<published>([^<]+)</published>}).flatten.map { |d| Time.parse(d) }
+       dates == dates.sort.reverse
+     }],
+  ]
+end
+
 PAGES = [
   {
     name: 'homepage / about',
@@ -115,13 +142,14 @@ PAGES = [
   {
     name: 'blog listing',
     file: 'blog/index.html',
-    checks: listing_checks('Blog', '/blog/'),
+    checks: listing_checks('Blog', '/blog/') + [feed_autodiscovery_check('/blog/feed.xml')],
   },
   {
     name: 'reviews listing',
     file: 'reviews/index.html',
     checks: listing_checks("Things I've reviewed", '/reviews/') + [
       ['lists at least one entry', ->(html) { has?(html, /<time datetime="[^"]+">/) }],
+      feed_autodiscovery_check('/reviews/feed.xml'),
     ],
   },
   {
@@ -142,6 +170,7 @@ PAGES = [
        ->(html) { json_ld(html)&.dig('reviewRating', 'ratingValue') == 4 }],
       ['JSON-LD author is Huw Diprose, not the book\'s author',
        ->(html) { json_ld(html)&.dig('author', 'name') == 'Huw Diprose' }],
+      feed_autodiscovery_check('/reviews/feed.xml'),
     ],
   },
   {
@@ -150,12 +179,15 @@ PAGES = [
     checks: post_checks('/review/book/2025/11/25/the-karla-trilogy/') + [
       ['shows the review title', ->(html) { has?(html, 'Karla Trilogy') }],
       ['renders book-to-book navigation for each reviewed book', ->(html) { has?(html, 'book-nav-group') }],
+      feed_autodiscovery_check('/reviews/feed.xml'),
     ],
   },
   {
     name: 'weeknote',
     file: 'weeknotes/2021-04-12-weeknotes-to-recently/index.html',
-    checks: post_checks('/weeknotes/2021-04-12-weeknotes-to-recently/'),
+    checks: post_checks('/weeknotes/2021-04-12-weeknotes-to-recently/') + [
+      feed_autodiscovery_check('/weeknotes/feed.xml'),
+    ],
   },
   {
     name: '404',
@@ -171,6 +203,32 @@ PAGES = [
       ['is a urlset document', ->(html) { has?(html, '<urlset') }],
       ['lists a healthy number of urls', ->(html) { html.scan('<url>').size > 50 }],
     ],
+  },
+  {
+    name: 'site-wide feed.xml',
+    file: 'feed.xml',
+    checks: atom_feed_checks('Huw Diprose', '/feed.xml') + [
+      ['combines reviews, weeknotes, and blog entries', ->(xml) { xml.scan('<entry>').size > 90 }],
+    ],
+  },
+  {
+    name: 'reviews feed.xml',
+    file: 'reviews/feed.xml',
+    checks: atom_feed_checks('Reviews', '/reviews/feed.xml') + [
+      ['lists at least one entry', ->(xml) { xml.include?('<entry>') }],
+    ],
+  },
+  {
+    name: 'weeknotes feed.xml',
+    file: 'weeknotes/feed.xml',
+    checks: atom_feed_checks('Weeknotes', '/weeknotes/feed.xml') + [
+      ['lists at least one entry', ->(xml) { xml.include?('<entry>') }],
+    ],
+  },
+  {
+    name: 'blog feed.xml',
+    file: 'blog/feed.xml',
+    checks: atom_feed_checks('Blog', '/blog/feed.xml'),
   },
 ].freeze
 
