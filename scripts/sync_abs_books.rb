@@ -5,12 +5,12 @@ require 'fileutils'
 require_relative 'support/helpers'
 require_relative 'support/abs_client'
 
-# Syncs Audiobookshelf → _books/ stub files.
+# Syncs Audiobookshelf → src/_books/ stub files.
 #
 # Modes (may be combined):
-#   (default)                  — in-progress items not yet in _books/
+#   (default)                  — in-progress items not yet in src/_books/
 #   --finished                 — also finished items since auto cutoff
-#                                (defaults to date of most recent date_finished in _books/)
+#                                (defaults to date of most recent date_finished in src/_books/)
 #   --finished-since YYYY-MM-DD — same but with an explicit cutoff date
 #   --write                    — write files (default is dry-run)
 #
@@ -27,7 +27,7 @@ IGNORE_FINISH_DATES = %w[
   2025-04-05
 ].freeze
 
-# ABS item IDs to skip even if marked finished and absent from _books/.
+# ABS item IDs to skip even if marked finished and absent from src/_books/.
 # Use IDs rather than titles so this list doesn't expose reading history in source.
 # To find an ID: bundle exec ruby scripts/sync_abs_books.rb --finished --write
 # and check the ABS web UI, or use the search endpoint.
@@ -56,7 +56,7 @@ IGNORE_IDS = %w[
 class AbsBookSync
   include Helpers
 
-  BOOKS_DIR = "_books"
+  BOOKS_DIR = "src/_books"
 
   def initialize(write:, include_finished:, cutoff:)
     @write            = write
@@ -80,7 +80,7 @@ class AbsBookSync
     patches    = @include_finished ? gather_patches(existing, finished_items) : []
 
     if candidates.empty? && patches.empty?
-      puts "Nothing to do — all ABS books are already in _books/."
+      puts "Nothing to do — all ABS books are already in src/_books/."
       return
     end
 
@@ -284,8 +284,8 @@ cutoff = if since_arg
            include_finished = true
            Time.parse(since_arg)
          elsif include_finished
-           # Default: most recent date_finished in _books/
-           dates = Dir.glob("_books/*.md").filter_map do |f|
+           # Default: most recent date_finished in src/_books/
+           dates = Dir.glob("src/_books/*.md").filter_map do |f|
              fm = File.read(f)[/\A---\s*\n(.*?)\n---/m, 1]
              next unless fm
              data = YAML.safe_load(fm, permitted_classes: [Time, Date], aliases: true) || {}
@@ -296,10 +296,10 @@ cutoff = if since_arg
              nil
            end.compact.max
            if dates
-             puts "Auto cutoff: #{dates.strftime('%Y-%m-%d')} (most recent date_finished in _books/)\n\n"
+             puts "Auto cutoff: #{dates.strftime('%Y-%m-%d')} (most recent date_finished in src/_books/)\n\n"
              dates
            else
-             puts "No date_finished found in _books/ — defaulting to 30 days ago\n\n"
+             puts "No date_finished found in src/_books/ — defaulting to 30 days ago\n\n"
              Time.now - 30 * 24 * 3600
            end
          end
