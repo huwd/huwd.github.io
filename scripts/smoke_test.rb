@@ -18,21 +18,52 @@ def has?(html, needle)
   needle.is_a?(Regexp) ? html.match?(needle) : unescape(html).include?(needle)
 end
 
-# Shared feature checks any "post-like" page (book, review, weeknote) should pass.
-def post_checks
+# Checks applying to every page that renders through _head.erb - i.e.
+# everything except 404.html and sitemap.xml, which don't use that partial.
+# Also serves as a regression net for the site-wide SEO fixes: a broken
+# <title>/og:site_name would fail 'title ends " | Huw Diprose"', a stale
+# generic description would fail 'no leftover "Homepage" text', an author
+# attribution regression would fail 'author meta is Huw Diprose', a missing
+# og:image default would fail 'twitter card is summary_large_image', etc.
+def seo_checks(canonical_path)
+  [
+    ['title ends " | Huw Diprose"', ->(html) { has?(html, /<title>[^<]+ \| Huw Diprose<\/title>/) }],
+    ['title has no leftover "Homepage" text', ->(html) { !has?(html, /<title>[^<]*Homepage/) }],
+    ['canonical link matches this page\'s own URL',
+     ->(html) { has?(html, %(<link rel="canonical" href="https://huwdiprose.co.uk#{canonical_path}" />)) }],
+    ['og:site_name is "Huw Diprose"', ->(html) { has?(html, '<meta property="og:site_name" content="Huw Diprose" />') }],
+    ['author meta is Huw Diprose, not a book\'s own author',
+     ->(html) { has?(html, '<meta name="author" content="Huw Diprose" />') }],
+    ['twitter:site is wired up', ->(html) { has?(html, '<meta name="twitter:site" content="@huwdiprose" />') }],
+    ['twitter:creator is Huw Diprose, not a book\'s own author',
+     ->(html) { has?(html, '<meta name="twitter:creator" content="@huwdiprose" />') }],
+    ['og:image points at the sitewide default image',
+     ->(html) { has?(html, '<meta property="og:image" content="https://huwdiprose.co.uk/images/social-card.png" />') }],
+    ['twitter card is summary_large_image (has an image)',
+     ->(html) { has?(html, '<meta name="twitter:card" content="summary_large_image" />') }],
+    ['meta description is present and non-empty',
+     ->(html) { has?(html, /<meta name="description" content="[^"]+"/) }],
+  ]
+end
+
+# Shared feature checks any "post-like" page (book, review, weeknote) should
+# pass. canonical_path derives from the page's own known output file, so it
+# can't drift out of sync with what's actually being tested.
+def post_checks(canonical_path)
   [
     ['renders an <article class="post">', ->(html) { has?(html, '<article class="post">') }],
     ['renders a title in <h1>', ->(html) { has?(html, /<h1>[^<]+<\/h1>/) }],
     ['renders a dated <time> element', ->(html) { has?(html, /<time datetime="[^"]+">/) }],
-    ['includes SEO canonical link', ->(html) { has?(html, /<link rel="canonical" href="[^"]+"\s*\/>/) }],
-  ]
+    ['meta description is page-specific, not the sitewide fallback',
+     ->(html) { !has?(html, /<meta name="description" content="Homepage of Huw Diprose/) }],
+  ] + seo_checks(canonical_path)
 end
 
-def listing_checks(title_text)
+def listing_checks(title_text, canonical_path)
   [
     ["title includes \"#{title_text}\"", ->(html) { has?(html, "<title>") && has?(html, title_text) }],
     ['renders inside <section class="listing">', ->(html) { has?(html, '<section class="listing">') }],
-  ]
+  ] + seo_checks(canonical_path)
 end
 
 PAGES = [
@@ -44,12 +75,12 @@ PAGES = [
       ['renders inside <section class="post">', ->(html) { has?(html, '<section class="post">') }],
       ['includes bio content', ->(html) { has?(html, 'Government Digital Service') }],
       ['nav links to About at "/"', ->(html) { has?(html, /<a href="\/"[^>]*>About<\/a>/) }],
-    ],
+    ] + seo_checks('/'),
   },
   {
     name: 'reading index',
     file: 'reading/index.html',
-    checks: listing_checks('Reading') + [
+    checks: listing_checks('Reading', '/reading/') + [
       ['shows a running book total', ->(html) { has?(html, /\(\d+ books total/) }],
       ['renders star ratings', ->(html) { has?(html, '★') }],
     ],
@@ -57,14 +88,14 @@ PAGES = [
   {
     name: "reading/#{CURRENT_YEAR} (current year, from navigation.json)",
     file: "reading/#{CURRENT_YEAR}/index.html",
-    checks: listing_checks("What I read in #{CURRENT_YEAR}") + [
+    checks: listing_checks("What I read in #{CURRENT_YEAR}", "/reading/#{CURRENT_YEAR}/") + [
       ['book-nav marks the current year active', ->(html) { has?(html, /class="active" href="\/reading\/#{CURRENT_YEAR}"/) }],
     ],
   },
   {
     name: 'projects',
     file: 'projects/index.html',
-    checks: listing_checks("Things I've made") + [
+    checks: listing_checks("Things I've made", '/projects/') + [
       ['renders the project box', ->(html) { has?(html, 'class="project-box"') }],
       ['links out to at least one project', ->(html) { has?(html, /class="project"/) }],
     ],
@@ -72,19 +103,19 @@ PAGES = [
   {
     name: 'blog listing',
     file: 'blog/index.html',
-    checks: listing_checks('Blog'),
+    checks: listing_checks('Blog', '/blog/'),
   },
   {
     name: 'reviews listing',
     file: 'reviews/index.html',
-    checks: listing_checks("Things I've reviewed") + [
+    checks: listing_checks("Things I've reviewed", '/reviews/') + [
       ['lists at least one entry', ->(html) { has?(html, /<time datetime="[^"]+">/) }],
     ],
   },
   {
     name: 'book page (Whale)',
     file: 'review/book/2026/08/17/whale/index.html',
-    checks: post_checks + [
+    checks: post_checks('/review/book/2026/08/17/whale/') + [
       ['shows the book title', ->(html) { has?(html, 'Whale') }],
       ['shows read/reviewed meta', ->(html) { has?(html, 'Read:') && has?(html, 'Reviewed:') }],
       ['renders book-to-book navigation', ->(html) { has?(html, 'book-nav-group') }],
@@ -93,7 +124,7 @@ PAGES = [
   {
     name: 'multi-book review (The Karla Trilogy)',
     file: 'review/book/2025/11/25/the-karla-trilogy/index.html',
-    checks: post_checks + [
+    checks: post_checks('/review/book/2025/11/25/the-karla-trilogy/') + [
       ['shows the review title', ->(html) { has?(html, 'Karla Trilogy') }],
       ['renders book-to-book navigation for each reviewed book', ->(html) { has?(html, 'book-nav-group') }],
     ],
@@ -101,7 +132,7 @@ PAGES = [
   {
     name: 'weeknote',
     file: 'weeknotes/2021-04-12-weeknotes-to-recently/index.html',
-    checks: post_checks,
+    checks: post_checks('/weeknotes/2021-04-12-weeknotes-to-recently/'),
   },
   {
     name: '404',
