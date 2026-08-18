@@ -86,4 +86,14 @@ Bridgetown.configure do |config|
   seo_author_default = { author: { name: "Huw Diprose", twitter: "huwdiprose" } }
   config.defaults << { scope: { collection: :books }, values: seo_author_default }
   config.defaults << { scope: { collection: :reviews }, values: seo_author_default }
+
+  # Sitewide default og:image/twitter:image for bridgetown-seo-tag - without
+  # this, seo_tag.image is never set, so og:image is absent from every page
+  # and the Twitter card silently degrades from summary_large_image to a
+  # bare summary. Per-page `image:` front matter (none currently set) would
+  # still take priority over this.
+  config.defaults << {
+    scope: { path: "" },
+    values: { image: "/images/social-card.png" },
+  }
 end
