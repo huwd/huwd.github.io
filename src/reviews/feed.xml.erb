@@ -1,0 +1,29 @@
+---
+layout: none
+permalink: /reviews/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><%= xml_escape "#{site.metadata.title} - Reviews" %></title>
+  <link rel="self" type="application/atom+xml" href="<%= absolute_url "/reviews/feed.xml" %>" />
+  <link rel="alternate" type="text/html" href="<%= absolute_url "/reviews/" %>" />
+  <id><%= absolute_url "/reviews/" %></id>
+  <updated><%= (all_reviews.first ? time_for(all_reviews.first.data.date) : site.time).xmlschema %></updated>
+  <author>
+    <name><%= xml_escape site.metadata.author.name %></name>
+    <email><%= site.metadata.email %></email>
+  </author>
+
+  <% all_reviews.each do |item| %>
+  <entry>
+    <title><%= xml_escape item.data.title %></title>
+    <link rel="alternate" type="text/html" href="<%= item.absolute_url %>" />
+    <id><%= item.absolute_url %></id>
+    <published><%= time_for(item.data.date).xmlschema %></published>
+    <updated><%= time_for(item.data.date).xmlschema %></updated>
+    <% if item.data.description %>
+    <summary type="text"><%= xml_escape item.data.description %></summary>
+    <% end %>
+  </entry>
+  <% end %>
+</feed>
