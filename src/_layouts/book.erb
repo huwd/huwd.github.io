@@ -5,6 +5,28 @@ layout: default
 <article class="post">
   <h1><%= data.title %></h1>
 
+  <% if data.rating %>
+  <script type="application/ld+json">
+    <%= {
+      "@context" => "https://schema.org/",
+      "@type" => "Review",
+      "itemReviewed" => {
+        "@type" => "Book",
+        "name" => data.title,
+        "author" => Array(data.authors).map { |name| { "@type" => "Person", "name" => name } },
+      },
+      "reviewRating" => {
+        "@type" => "Rating",
+        "ratingValue" => data.rating,
+        "bestRating" => 5,
+        "worstRating" => 1,
+      },
+      "author" => { "@type" => "Person", "name" => "Huw Diprose" },
+      "datePublished" => time_for(data.date).xmlschema,
+    }.to_json.gsub("</", '<\/').html_safe %>
+  </script>
+  <% end %>
+
   <% if data.date_finished %>
   <%= yield %>
   <span class="meta">
