@@ -10,6 +10,7 @@ email: mail@huwdiprose.co.uk
 author:
   name: Huw Diprose
   url: https://huwdiprose.co.uk
+  twitter: huwdiprose
 
 social:
   name: Huw Diprose
@@ -19,12 +20,10 @@ social:
     - https://github.com/huwd
     - https://keybase.io/huwdiprose
 
-seo:
-  name: "Huw Diprose"
-  twitter:
-    username: "huwdiprose"
-  github:
-    username: "huwd"
+# Read by bridgetown-seo-tag (site.metadata.twitter) for the twitter:site
+# tag - NOT the old `seo:` block, which the plugin never actually read.
+twitter:
+  username: huwdiprose
 
 # Customisation
 name: Huw Diprose
