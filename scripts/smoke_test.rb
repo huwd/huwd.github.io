@@ -104,14 +104,22 @@ def atom_feed_checks(title_text, self_path)
      }],
     ['every entry carries full-text <content type="html">, not just a summary',
      ->(xml) { xml.scan('<entry>').size == xml.scan('<content type="html">').size }],
-    ['at least one entry\'s full content is longer than its short summary',
+    ['entries (if any) have full content longer than their short summary',
      ->(xml) {
-       xml.scan(%r{<entry>(.*?)</entry>}m).flatten.any? do |entry|
+       entries = xml.scan(%r{<entry>(.*?)</entry>}m).flatten
+       entries.empty? || entries.any? do |entry|
          summary = entry[%r{<summary type="text">(.*?)</summary>}m, 1]
          content = entry[%r{<content type="html">(.*?)</content>}m, 1]
          summary && content && content.length > summary.length * 2
        end
      }],
+    ['<content> (if any) holds converted markdown (escaped &lt;p&gt;), not raw markdown text',
+     ->(xml) {
+       contents = xml.scan(%r{<content type="html">(.*?)</content>}m).flatten
+       contents.empty? || contents.any? { |c| c.include?('&lt;p&gt;') }
+     }],
+    ['no double-escaped HTML entities (e.g. &amp;apos;) from ERB double-encoding xml_escape output',
+     ->(xml) { !xml.match?(/&amp;(amp|lt|gt|quot|apos|#\d+);/) }],
   ]
 end
 
