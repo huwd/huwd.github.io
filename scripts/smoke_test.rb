@@ -102,6 +102,16 @@ def atom_feed_checks(title_text, self_path)
        dates = xml.scan(%r{<published>([^<]+)</published>}).flatten.map { |d| Time.parse(d) }
        dates == dates.sort.reverse
      }],
+    ['every entry carries full-text <content type="html">, not just a summary',
+     ->(xml) { xml.scan('<entry>').size == xml.scan('<content type="html">').size }],
+    ['at least one entry\'s full content is longer than its short summary',
+     ->(xml) {
+       xml.scan(%r{<entry>(.*?)</entry>}m).flatten.any? do |entry|
+         summary = entry[%r{<summary type="text">(.*?)</summary>}m, 1]
+         content = entry[%r{<content type="html">(.*?)</content>}m, 1]
+         summary && content && content.length > summary.length * 2
+       end
+     }],
   ]
 end
 
