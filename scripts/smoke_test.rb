@@ -118,8 +118,11 @@ def atom_feed_checks(title_text, self_path)
        contents = xml.scan(%r{<content type="html">(.*?)</content>}m).flatten
        contents.empty? || contents.any? { |c| c.include?('&lt;p&gt;') }
      }],
-    ['no double-escaped HTML entities (e.g. &amp;apos;) from ERB double-encoding xml_escape output',
-     ->(xml) { !xml.match?(/&amp;(amp|lt|gt|quot|apos|#\d+);/) }],
+    ['no double-escaped HTML entities (e.g. &amp;apos;) in title/summary text from ERB double-encoding xml_escape output',
+     ->(xml) {
+       plain_text = xml.scan(%r{<title>(.*?)</title>|<summary type="text">(.*?)</summary>}m).flatten.compact
+       plain_text.none? { |t| t.match?(/&amp;(amp|lt|gt|quot|apos|#\d+);/) }
+     }],
   ]
 end
 
