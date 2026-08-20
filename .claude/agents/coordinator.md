@@ -64,7 +64,7 @@ Run the following agents in order against the chosen file. Between each step, re
 Invoke the **copy-editor** agent on the file. It will write findings to `.tmp/{slug}/{version}/copy-editor.md`.
 
 ### Step 2 — Amender
-If the copy-editor found any ERRORS, invoke the **amender** agent. It will apply corrections and bump the patch version.
+If the copy-editor found any ERRORS, invoke the **amender** agent. It will apply corrections. It does not touch the `version` field — that only changes once, at the end of the whole pass (see "Bumping the version" below).
 
 After the amender runs, commit the source file immediately:
 
@@ -82,7 +82,7 @@ git commit -F /tmp/commit-msg.txt
 ```
 
 Subject line must be ≤ 50 characters, imperative mood, no trailing period.
-Re-read the frontmatter to get the updated version number — use this new version for all subsequent tmp paths.
+The frontmatter `version` stays unchanged for the rest of the pipeline — keep using the version recorded at the start of this pass for all `.tmp/{slug}/{version}/` paths.
 
 If the copy-editor found no errors, skip this step (no commit needed).
 
@@ -112,6 +112,26 @@ git commit -F /tmp/commit-msg.txt
 ```
 
 If the fact-checker found no corrections, no commit is needed at this step.
+
+### Step 6 — Bump the version
+
+If, and only if, step 2 or step 5 changed the source file, bump the `version` field exactly once for this whole pass — not once per step. Read the frontmatter fresh to get the version this pass started with (before any of this pass's edits), and increment the patch number from there (e.g. `1.0.0` → `1.0.1`), following semver. If the file had no `version` field at the start of the pass, add one: `version: 1.0.1`.
+
+This single bump is what "publishing a revision" means for this pipeline — it must reflect the whole review pass, not each individual commit made while the PR is still open. Never bump more than once per pass, even if both the amender and the fact-checker step changed the file.
+
+Commit this on its own:
+
+```bash
+cat > /tmp/commit-msg.txt << 'MSGEOF'
+chore({slug}): bump version to {new version}
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+MSGEOF
+git add {file path}
+git commit -F /tmp/commit-msg.txt
+```
+
+If neither step 2 nor step 5 changed the file, skip this step — no version bump, no commit.
 
 ## Reviewing the output
 
@@ -181,7 +201,7 @@ Ask the user: "Would you like to continue to the next file?" If yes, repeat the 
 ## Important
 
 - Never commit directly to main. Always work on a branch.
-- If the file has no `version` field in its frontmatter, the amender will add one. Re-read the frontmatter after the amender runs.
+- Only the coordinator touches the `version` field, and only once per pass (Step 6). If the file has no `version` field, that step adds one.
 - Do not open a PR if no changes were made to the source file (i.e. no errors were found and no quotes were corrected). In that case, update the state registry and move on.
 - If any agent fails or produces unexpected output, stop and report the issue to the user rather than proceeding silently.
 - The `.tmp/` directory is gitignored — state and findings are local only.
