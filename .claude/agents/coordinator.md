@@ -60,6 +60,8 @@ git checkout -b fix/{slug}-editorial-review
 
 Run the following agents in order against the chosen file. Between each step, read the output and confirm it looks reasonable before proceeding to the next. Commit source file changes after each stage that modifies the file, following the commit standards below.
 
+Every commit message below includes a `Co-Authored-By` trailer. Use your own actual model name at the time of committing (e.g. `Claude Opus 5`, `Claude Sonnet 5`) — never copy a name from an example verbatim, since it will go stale as newer models ship.
+
 ### Step 1 — Copy-editor
 Invoke the **copy-editor** agent on the file. It will write findings to `.tmp/{slug}/{version}/copy-editor.md`.
 
@@ -75,7 +77,7 @@ fix({slug}): apply copy-editor corrections
 
 {one line per correction, wrapped at 72 chars}
 
-Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+Co-Authored-By: {your model name} <noreply@anthropic.com>
 MSGEOF
 git add {file path}
 git commit -F /tmp/commit-msg.txt
@@ -105,7 +107,7 @@ fix({slug}): apply fact-checker corrections
 
 {one line per correction, wrapped at 72 chars}
 
-Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+Co-Authored-By: {your model name} <noreply@anthropic.com>
 MSGEOF
 git add {file path}
 git commit -F /tmp/commit-msg.txt
@@ -125,7 +127,7 @@ Commit this on its own:
 cat > /tmp/commit-msg.txt << 'MSGEOF'
 chore({slug}): bump version to {new version}
 
-Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+Co-Authored-By: {your model name} <noreply@anthropic.com>
 MSGEOF
 git add {file path}
 git commit -F /tmp/commit-msg.txt
