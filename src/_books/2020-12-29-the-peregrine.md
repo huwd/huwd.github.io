@@ -21,7 +21,7 @@ date_started: "2020-12-29T00:00:00Z"
 rating: 5
 work_iri: https://www.wikidata.org/wiki/Q117480103
 edition_iri: https://www.wikidata.org/wiki/Q140236460
-version: 1.0.2
+version: 1.0.0
 ---
 
 The last book I read in 2020 was also the best.
