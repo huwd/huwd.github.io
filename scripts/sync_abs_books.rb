@@ -51,6 +51,7 @@ IGNORE_IDS = %w[
   00370f03-8e03-4ab5-bdda-4384ecb01f69
   783db8b8-f5b1-442d-9454-be3c0db3f743
   a11fdebd-bf0f-4117-a49a-68ee968f5ef9
+  31532b7f-487a-46aa-9eae-a71624e4a3af
 ].freeze
 
 class AbsBookSync
