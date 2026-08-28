@@ -16,7 +16,7 @@ format:
     - Rebecca Calder
   runtime: 8 hours and 49 minutes
   publisher:
-    name: Penguin
+    name: Penguin Audio
   type: Audiobook
 ---
 
@@ -44,7 +44,7 @@ Moral failure as emerging from the replacement of my thoughts like Trigger's Bro
 
 I'm more convinced by the alternative tradition she discusses in the lecture:
 
-> if however you take a different view of things, say a more psychoanalytic view on which mechanisms of defense and disavowal but often get between people's beliefs and their actions, then the philosopher's quest to change the world by morally enlightening it will seem foolhardy. [28:25](https://youtu.be/INk9ZuI3j04?is=Wb5O9a8bQ7m0j8IF)
+> if however you take a different view of things, say a more psychoanalytic view on which mechanisms of defense and disavowal often get between people's beliefs and their actions, then the philosopher's quest to change the world by morally enlightening it will seem foolhardy. [28:25](https://youtu.be/INk9ZuI3j04?is=Wb5O9a8bQ7m0j8IF)
 
 It opens up an entirely new domain to be troubled by here.
 What we might do is not just limited by what we know.
