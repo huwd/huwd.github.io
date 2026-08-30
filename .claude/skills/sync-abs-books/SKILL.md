@@ -118,8 +118,8 @@ Split into logical commits per the repo's commit standards:
 1. If Step 4 required a script fix, commit that separately first
    (`fix(pipeline): ...`), before the content commit.
 2. Commit the `_books/` additions/patches as one commit
-   (`feat(books): sync N audiobooks from Audiobookshelf` or similar),
-   summarizing what was added/patched in the body.
+   (`feat(books): add N book stub(s)` or similar), summarizing what was
+   added/patched in the body.
 
 Stage files explicitly by name — never `git add -A`/`git add .`.
 
@@ -131,7 +131,7 @@ If yes:
 
 ```bash
 git push -u origin <branch>
-gh pr create --base main --title "feat: sync N audiobooks from Audiobookshelf" --body "$(cat <<'EOF'
+gh pr create --base main --title "feat: add N book stubs" --body "$(cat <<'EOF'
 ## Summary
 - N new stub(s): <titles>
 - N patch(es): <titles> (date_finished backfilled)
